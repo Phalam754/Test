@@ -1,0 +1,48 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="OutSpread_Start">
+      <DisplayName>Trọng Kiến Đại Lý Thế Lực</DisplayName>
+      <Desc>Nơi này bách tính trước kia đều tại cung phụng Thái Nhất Môn, hiện tại không người có thể cung phụng, không ít người đã mất đi nghề nghiệp.</Desc>
+      <Selections.0.Display>Hỏi một chút đến tột cùng</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Accelerate">
+      <DisplayName>Lao Tác Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Giám sát lao động trở về.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_TreasureHunt">
+      <DisplayName>Tầm Trân Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Tìm trân trở về.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="Outs1">
+      <DisplayName>Tại Lộ Thượng</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp cướp bóc.</Desc>
+      <Selections.0.Display>Đưa chút linh thạch</Selections.0.Display>
+      <Selections.1.Display>Thuyết phục</Selections.1.Display>
+    </Text>
+    <Text Name="Outs2">
+      <DisplayName>Tại Lộ Thượng</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp được một đám lưu dân. Bọn hắn không nhà để về, mười phần đáng thương.</Desc>
+      <Selections.0.Display>Đưa chút linh thạch</Selections.0.Display>
+      <Selections.1.Display>Thuyết phục</Selections.1.Display>
+    </Text>
+    <Text Name="Outs3">
+      <DisplayName>Tại Lộ Thượng</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp được mấy cái tán tu đang khi dễ mấy cái nông dân.</Desc>
+      <Selections.0.Display>Đưa chút linh thạch</Selections.0.Display>
+      <Selections.1.Display>Thuyết phục</Selections.1.Display>
+      <Selections.2.Display>Giả bộ như không nhìn thấy</Selections.2.Display>
+    </Text>
+    <Text Name="CollectFaith">
+      <DisplayName>Thu Tập Tín Ngưỡng</DisplayName>
+      <Desc>Ở chỗ này có chúng ta tín đồ, nhưng thu thập tín ngưỡng.</Desc>
+      <Selections.0.Display>Thu Tập</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_GoodMood">
+      <DisplayName>Lục Lâu Phường</DisplayName>
+      <Desc>Lục lâu phường có thể cung cấp tu tiên đệ tử giải trí.</Desc>
+      <Selections.0.Display>Ngu Nhạc</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>
