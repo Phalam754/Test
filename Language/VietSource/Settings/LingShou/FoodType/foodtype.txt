@@ -1,0 +1,6 @@
+Type	Desc	DisplayName
+JiaGuo	Có xúc tiến linh trí trưởng thành hiệu quả	Giai Quả
+ShuShi	Có xúc tiến hộ thể trưởng thành hiệu quả	Thục Thực
+XiangXun	Có xúc tiến linh khí trưởng thành hiệu quả	Hương Khuẩn
+DiXian	Có xúc tiến thuật pháp trưởng thành hiệu quả	Địa Tiên
+ShengRou	Có xúc tiến ngự đan thành dáng dấp hiệu quả	Nhục Loại
