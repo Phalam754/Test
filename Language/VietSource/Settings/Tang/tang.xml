@@ -1,0 +1,24 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Tang_Dan">
+      <DisplayName>Luyện Đan</DisplayName>
+      <Desc>Chuyên tại luyện đan, căn cứ đường chủ năng lực cao thấp lấy đề cao đường hạ đệ tử luyện đan tương quan năng lực.</Desc>
+    </Text>
+    <Text Name="Tang_Qi">
+      <DisplayName>Luyện Khí</DisplayName>
+      <Desc>Chuyên tại luyện khí, căn cứ đường chủ năng lực cao thấp lấy đề cao đường hạ đệ tử luyện khí tương quan năng lực.</Desc>
+    </Text>
+    <Text Name="Tang_Zhan">
+      <DisplayName>Chiến Đấu</DisplayName>
+      <Desc>Chuyên tại chiến đấu, căn cứ đường chủ năng lực cao thấp lấy đề cao đường hạ đệ tử chiến đấu tương quan năng lực.</Desc>
+    </Text>
+    <Text Name="Tang_XiuLian">
+      <DisplayName>Tu Luyện</DisplayName>
+      <Desc>Chuyên tại tu luyện, căn cứ đường chủ năng lực cao thấp lấy đề cao đường hạ đệ tử tu luyện tương quan năng lực.</Desc>
+    </Text>
+    <Text Name="Tang_WaiShi">
+      <DisplayName>Ngoại Sự</DisplayName>
+      <Desc>Chuyên tại ngoại sự, căn cứ đường chủ năng lực cao thấp lấy đề cao đường hạ đệ tử công việc, lịch luyện chờ tương quan năng lực.</Desc>
+    </Text>
+  </List>
+</Texts>
