@@ -1,0 +1,9 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="Sup">
+      <DisplayName>Thu Biên</DisplayName>
+      <Desc>Thu Biên</Desc>
+      <Selections.0.Display>Vô sự phát sinh</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>
