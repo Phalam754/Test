@@ -1,0 +1,30 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_3_Jin">
+      <DisplayName>Thất Sát Kiếm Quyết</DisplayName>
+      <Desc>Tương truyền là từ Ma Giới chảy ra chuyên tu kiếm thuật chi tu hành bí pháp. Có bảy tầng cảnh giới, nhập môn gian nan, tiến giai cũng rất khó. Tu này bí pháp sức chiến đấu cực kỳ kinh người, nhưng lại bởi vì sát ý quá nặng, có tam trọng lôi kiếp khảo nghiệm, hung hiểm vạn phần. Chính là chính cống sát phạt chi thuật.</Desc>
+      <SelectDesc>Công pháp này am hiểu ngự khí chi thuật, sức chiến đấu kinh người, nhưng mà bởi vì sát kiếp quá nặng, cần trải qua tầng tầng thiên kiếp. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Kiếm Tâm</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Kiếm Tâm</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>Lấy tâm chứng kiếm, tìm kiếm thuộc về mình kiếm chi đạo. Một khi thất bại, thì cần làm lại từ đầu.[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.\n Đột phá thất bại có thể sẽ thụ thương.[/color]</Stages.0.Necks.0.Desc>
+      <Stages.1.DisplayName>Kiếm Khí</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Kiếm Khí</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>Ngưng tụ một thân tinh huyết, thiêu đốt tuổi thọ, hóa thành kiếm khí, lấy đại quyết tâm chém ra cửa trước.[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.\n Đột phá thất bại có thể sẽ thụ thương.[/color]</Stages.1.Necks.0.Desc>
+      <Stages.2.DisplayName>Kiếm Hoàn</Stages.2.DisplayName>
+      <Stages.2.Desc>Thần khí ngưng kết thành một hạt Kiếm Hoàn, như Đạo gia Kim Đan, Hỗn Nguyên như một.</Stages.2.Desc>
+      <Stages.2.Necks.0.DisplayName>Kiếm Hoàn</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>Kiếm Ý</Stages.3.DisplayName>
+      <Stages.3.Desc>Kiếm Hoàn sơ thành, trên trời rơi xuống thần lôi, mượn chi ngưng tụ kiếm chi ý chí.</Stages.3.Desc>
+      <Stages.3.Necks.0.DisplayName>Kiếm Ý</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>Kiếm Thai</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Kiếm Thai</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>Thiên kiếp rèn luyện, phản phác quy chân, từ Kiếm Hoàn bên trong thai nghén Kiếm Thai.</Stages.4.Necks.0.Desc>
+      <Stages.5.DisplayName>Kiếm Hồn</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>Kiếm Hồn</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>Lấy kiếm ý đánh cắp trong lôi kiếp hủy diệt chi thiên đạo, đến kiếm Thần cảnh giới, một khi thành công, thiên ý tức giận, sẽ trực diện cuối cùng thiên kiếp.</Stages.5.Necks.0.Desc>
+      <Stages.6.DisplayName>Kiếm Thần</Stages.6.DisplayName>
+      <Stages.6.Necks.0.DisplayName>Kiếm Thần</Stages.6.Necks.0.DisplayName>
+      <Stages.6.Necks.0.Desc>Lấy Thiên Lôi rèn luyện Kiếm Hồn, lấy chứng Thuần Dương, phi thăng trời cù.</Stages.6.Necks.0.Desc>
+    </Text>
+  </List>
+</Texts>
