@@ -1,0 +1,60 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="BPQuenchingMethods_test1">
+      <DisplayName>Trắc Thí Lục</DisplayName>
+      <Desc>Luyện Thể giả cơ sở nhất tôi thể chi pháp. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần tiêu chuẩn rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_test2">
+      <DisplayName>Trắc Thí Tử</DisplayName>
+      <Desc>Luyện Thể giả cơ sở nhất tôi thể chi pháp. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần tiêu chuẩn rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_test3">
+      <DisplayName>Trắc Thí Chanh</DisplayName>
+      <Desc>Luyện Thể giả cơ sở nhất tôi thể chi pháp. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần tiêu chuẩn rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_1">
+      <DisplayName>Vô Cực Luyện Thể</DisplayName>
+      <Desc>Luyện Thể giả cơ sở nhất tôi thể chi pháp. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần tiêu chuẩn rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_1_1">
+      <DisplayName>Bát Cực Luyện Thể</DisplayName>
+      <Desc>Luyện Thể giả cơ sở nhất tôi thể chi pháp, tương đương với liên tục sử dụng vô cực luyện thể rèn luyện 8 Lần. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 8 Lần tiêu chuẩn rèn luyện, lại một lần cuối cùng rèn luyện tất nhiên sẽ xuất hiện hi hữu tiến hóa phương hướng.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_2">
+      <DisplayName>Man Cực Thối Thân Pháp</DisplayName>
+      <Desc>Man Hoang yêu tộc rèn luyện thân thể phương pháp, tiêu hao càng nhiều tinh hoa kích thích nhục thân, lấy thúc đẩy nhục thể sinh ra càng nhiều tiến hóa phương hướng. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần sinh ra càng nhiều tiến hóa phương hướng rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_3">
+      <DisplayName>Lục Hợp Luyện Thể Thuật</DisplayName>
+      <Desc>Lấy lục hợp chi thế vận chuyển tinh hoa, mặc dù yếu hóa tinh hoa đặc tính, nhưng thắng ở hiệu suất tương đối cao. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 6 Lần cơ sở tính rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_4">
+      <DisplayName>Ngũ Đế Huyền Thối Pháp</DisplayName>
+      <Desc>Thượng cổ Ngũ Đế chung sáng tạo luyện thể chi thuật, tiêu hao đại lượng tinh hoa phát huy đầy đủ tinh hoa hiệu quả, lấy kích thích nhục thể hướng càng hiếm hoi hơn phương hướng tiến hóa. Mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 1 Lần lại càng dễ sinh ra cao cấp tiến hóa rèn luyện.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_5">
+      <DisplayName>Cửu Âm Luyện Thể Thuật</DisplayName>
+      <Desc>Lấy Đại Diễn chi thuật đối thân thể tiến hành rèn luyện, mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 9 Lần tiêu chuẩn rèn luyện, lại một lần cuối cùng rèn luyện tất nhiên sẽ xuất hiện hiếm thấy tiến hóa phương hướng.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_6">
+      <DisplayName>Tử Vi Thối Thể Thuật</DisplayName>
+      <Desc>Làm theo Tử Vi Đấu Sổ chi huyền diệu đối thân thể tiến hành rèn luyện, mỗi lần vận chuyển phương pháp này sẽ đối mục tiêu bộ vị tiến hành 14 Lần tiêu chuẩn rèn luyện, lại một lần cuối cùng rèn luyện tất nhiên sẽ xuất hiện siêu phàm tiến hóa phương hướng.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_Sp1">
+      <DisplayName>Cửu Liệt Thối Thể Pháp</DisplayName>
+      <Desc>Lấy chín liệt thần máu thôi động tinh hoa tôi thể, mặc dù mỗi lần rèn luyện phát sinh tiến hóa khả năng số lượng sẽ rất ít, nhưng là có cao hơn tỉ lệ rèn luyện ra cao cấp hơn tiến hóa kết quả. Nếu là lấy này rèn luyện cột sống, có khá thấp xác suất làm cột sống phát sinh dị biến, tiến một bước khai phát ra toàn thân xương cốt tiến hóa tiềm lực.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_Sp2">
+      <DisplayName>Thái Hư Yêu Thức</DisplayName>
+      <Desc>Aether hư yêu biết thôi động tinh hoa tôi thể, mặc dù mỗi lần rèn luyện phát sinh tiến hóa khả năng số lượng sẽ rất ít, nhưng là có cao hơn tỉ lệ rèn luyện ra cao cấp hơn tiến hóa kết quả. Nếu là lấy này rèn luyện đại não, có khá thấp xác suất làm đại não phát sinh dị biến, tiến một bước khai phát ra toàn thân khí quan tiến hóa tiềm lực.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_Sp3">
+      <DisplayName>Xích Dị Thối Thể Pháp</DisplayName>
+      <Desc>Lấy siêu việt chi tâm thôi động khiển trách dị chi lực thôi động tinh hoa tôi thể, mặc dù mỗi lần rèn luyện phát sinh tiến hóa khả năng số lượng sẽ rất ít, nhưng là có cao hơn tỉ lệ rèn luyện ra cao cấp hơn tiến hóa kết quả. Nếu là lấy này rèn luyện trái tim, có khá thấp xác suất làm trái tim phát sinh dị biến, tiến một bước khai phát ra toàn thân huyết nhục tiến hóa tiềm lực.</Desc>
+    </Text>
+    <Text Name="BPQuenchingMethods_ReQuenching">
+      <DisplayName>Hủy Luyện Chi Pháp</DisplayName>
+      <Desc>Mượn nhờ linh khí sản phẩm cùng Luyện Thể giả thân thể chỏi nhau đặc tính, lấy tiên đạo tinh hoa đem cái nào đó bộ vị luyện thể chi công hóa tán, làm cho trở về đến phàm thai chi thể trạng thái.</Desc>
+    </Text>
+  </List>
+</Texts>
