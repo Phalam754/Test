@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LcSchoolPanda">
+      <DisplayName>Sứ Giả Tiên Giới</DisplayName>
+      <Desc>Phái nó đến một môn phái, cải thiện quan hệ của đối phương với môn phái của chúng ta.</Desc>
+      <sParam2>Mạch</sParam2>
+    </Text>
+    <Text Name="PandaLingXi">
+      <DisplayName>Bạn Của Tự Nhiên</DisplayName>
+      <Desc>Thuần hóa một con dã thú.</Desc>
+      <TargetDesc>Vui lòng chọn một động vật không phải phe ta</TargetDesc>
+    </Text>
+    <Text Name="Magic_YG_RealYinYang">
+      <DisplayName>Nguyên Thân Chân Lực (Hỗn)</DisplayName>
+      <Desc>Đốt cháy nhanh chóng bản nguyên sinh mệnh, thúc đẩy lực lượng nguyên thân yêu tộc, làm tăng mạnh uy lực ngự khí, uy lực bí thể, khiên linh khí và bí thể kiên cường (tốc độ mất tuổi thọ +1000, giá trị cường độ khiên cơ bản +0.25, bí thể kiên cường toàn cục +0.25, uy lực pháp bảo cơ bản +0.25, uy lực bí thể toàn cục +0.25). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+  </List>
+</Texts>
