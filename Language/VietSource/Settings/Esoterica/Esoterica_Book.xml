@@ -1,0 +1,169 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="DanFang_1">
+			<DisplayName>Chân Đan Yếu Lược</DisplayName>
+			<Desc>Ghi lại các phương pháp luyện chế các loại đan dược phổ biến trong giới tu hành.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nTrúc Cơ Đan\nHoàng Đình Đan\nHoàng Nha Đan\nLý Khí Đan\nNgũ Phương Hóa Thương Đan\nQuy Nguyên Tán\nHuyết Kiệt Tán\nVạn Linh Tán[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_2">
+			<DisplayName>Tục Thế Tiên Phương</DisplayName>
+			<Desc>Một đan phương lưu truyền rộng rãi, ghi lại vài loại đan dược có cách luyện chế đơn giản và dược hiệu hữu dụng.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nCực Lạc Đan\nTị Cốc Đan\nẨm Khí Đan\nThanh Tâm Đan\nTố Thân Đan\nTráng Thể Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_3">
+			<DisplayName>Ngũ Đế Dược Điển</DisplayName>
+			<Desc>Đan phương ra đời từ nghiên cứu về dược tính của ngũ thánh dược của một tiên nhân thượng cổ.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nCanh Kim Vạn Hóa Đan\nBích Xuân Đan\nThiên Nhất Thừa Khí Tán\nHỏa Chân Đan\nĐịnh Khôn Đan\nNgũ Cực Linh Đan\nBích Huyết Đan Thanh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_4">
+			<DisplayName>Thái Thượng Đan Kinh (Tàn Thiên)</DisplayName>
+			<Desc>Đan kinh truyền thừa từ Thái Thượng, ghi lại vài phương pháp luyện chế đan dược quý giá.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nTử Dương Đan\nHoàng Đình Đan\nHoàng Nha Đan\nHuyết Kiệt Tán[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_5">
+			<DisplayName>Tạo Hóa Linh Cảm Phương</DisplayName>
+			<Desc>Tuyệt bút của một Y Tiên, tương truyền ông ta đã bị thiên khiển mà chết ngay sau khi hoàn thành phương này.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nTạo Hóa Thần Đan\nTái Tạo Kim Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_6">
+			<DisplayName>Kim Cổ Mệnh Tập Chú</DisplayName>
+			<Desc>Một bí lục tổng hợp năm phương đan dược giúp kéo dài tuổi thọ.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nTrường Sinh Đan\nHuyền Tẫn Tục Mệnh Tán\nNgũ Cực Linh Đan\nTái Tạo Kim Đan\nVị Lai Tinh Túc Hóa Kiếp Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_7">
+			<DisplayName>Tị Kiếp Tiên Phương</DisplayName>
+			<Desc>Đan phương do một tán tiên vô danh để lại trong động phủ trên núi Nguyệt Luân. Trên trang bìa có ghi lại chuyện ông ta đã vất vả ngàn lần để tìm ra đan phương, nhưng lại không luyện thành, cuối cùng vì tuổi thọ đã cạn nên đành miễn cưỡng vượt kiếp và thất bại.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nTrường Sinh Đan\nCàn Nguyên Tị Kiếp Đan\nChân Cương Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_8">
+			<DisplayName>Đoạt Thiên Thư</DisplayName>
+			<Desc>Một kỳ thư đã thất truyền từ lâu, trong đó ghi lại vài loại kỳ dược dùng tính mạng để đoạt thiên cơ.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nThông Thiên Hoàn\nNạp Địa Hoàn\nDật Tiên Hoàn\nMinh Thông Hoàn\nThần Hựu Hoàn\nNgũ Độc Ngũ Uẩn Ngũ Khí Thần Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="DanFang_9">
+			<DisplayName>Thông U Bí Truyền</DisplayName>
+			<Desc>Bí truyền ghi lại cách lấy Linh Phách, U Phách, Ninh Phách làm dược dẫn để luyện chế đan dược.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nThần Khấp Đan\nThông Huyền Đan\nNgưng Phách Đan\nNhiên Hồn Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_1_2">
+			<DisplayName>Thần Châu Chí: Trung Nguyên Thiên</DisplayName>
+			<Desc>Địa chí lưu truyền trong phàm gian. Cuốn này ghi lại thông tin về vùng đất Trung Nguyên.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nTrung Nguyên - Ngũ Hoa Thôn\nTrung Nguyên - Lô Hư Thôn\nTrung Nguyên - Bình Đính Sơn\nTrung Nguyên - Luyện Đan Phong\nTrung Nguyên - Vân Đài Sơn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_1_3">
+			<DisplayName>Thần Châu Chí: Giang Ngạn Thiên</DisplayName>
+			<Desc>Địa chí lưu truyền trong phàm gian. Cuốn này ghi lại thông tin về vùng đất Đại Giang Ổ Dã.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nGiang Ngạn Ổ Dã - Lô Sơn\nGiang Ngạn Ổ Dã - Quế Sơn\nGiang Ngạn Ổ Dã - Hàn Sơn Trấn\nGiang Ngạn Ổ Dã - Đạo Hương Thôn\nGiang Ngạn Ổ Dã - Lạc Hà Trấn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_1">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Một</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển một ghi lại hành trình ở vùng Trung Nguyên.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nTrung Nguyên - Vân Đài Sơn\nTrung Nguyên - Bình Đính Sơn\nTrung Nguyên - Luyện Đan Phong\nLong Hổ Sơn - Phi Lưu Bộc\nLong Hổ Sơn - Thần Mộc Lâm\nNgũ Liên Sơn - Thiên Trì[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_2">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Hai</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển hai ghi lại hành trình ở vùng tây bắc Thần Châu.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nĐại Mạc - Huyễn Sa Nguyên\nThiên Cực Phong - Phi Vân Giản\nThiên Cực Phong - Tuyệt Thiên Quan\nHắc Sơn - Thiên Cức Lâm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_3">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Ba</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển ba ghi lại hành trình ở vùng Tây Cực Quần Sơn.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nCôn Lôn Sơn - Long Mạch Động Quật\nCôn Lôn Sơn - Đăng Tiên Đài\nHãm Không Sơn - Vô Đáy Động\nBách Man Sơn - Vạn Xà Hố\nBách Man Sơn - Thiên Thi Động[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_4">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Bốn</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển bốn ghi lại hành trình ở Thục Sơn.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nThục Sơn - Ngưng Bích Nhai\nThục Sơn - Phi Lôi Động\nThục Sơn - Ngọc Tuyền Động\nThục Sơn - Kiếm Trủng\nThục Sơn - Xan Hà Động[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_5">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Năm</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển năm ghi lại hành trình ở Cửu Hoa Sơn.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nCửu Hoa Sơn - Cửu Hoa Thôn\nCửu Hoa Sơn - Tiềm Long Uyên\nCửu Hoa Sơn - Phượng Tê Nhai[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_6">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Sáu</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển sáu ghi lại hành trình ở Nam Hoang Tùng Lâm.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nNam Hoang Tùng Lâm - Trùng Cốc\nNam Hoang Tùng Lâm - Vạn Cổ Đào Hoa Chướng[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_2_7">
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển Bảy</DisplayName>
+			<Desc>Tán tiên Ngự Phong Tử thích du ngoạn danh sơn đại xuyên, đây là du ký do chính tay ông ta viết. Quyển bảy ghi lại hành trình ở hải ngoại.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nHợp Hoan Đảo - Ly Hận Hải\nHợp Hoan Đảo - Độc Long Đàm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_3">
+			<DisplayName>Sơn Đồ Hải Chí</DisplayName>
+			<Desc>Tập văn chí quái nổi tiếng, tổng hợp nhiều câu chuyện phàm nhân gặp tiên nhân, rất phổ biến trong phàm gian.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nCôn Lôn Sơn - Đăng Tiên Đài\nNgũ Liên Sơn - Mộc Bạch Vũ Lâm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_4_1">
+			<DisplayName>Thập Di Lục: Thượng Sách</DisplayName>
+			<Desc>Tương truyền do một vị tiền bối tiên nhân trong giới tu hành biên soạn, ghi lại vài bí văn và nơi chốn ít người biết đến.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nĐan Hà Sơn - Đan Hà Tuyệt Bích\nĐan Hà Sơn - Ngũ Long Trì\nNgũ Liên Sơn - Thiên Trì\nNhận được bí văn: Thiên Trì Tàng Bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_4_2">
+			<DisplayName>Thập Di Lục: Trung Sách</DisplayName>
+			<Desc>Tương truyền do một vị tiền bối tiên nhân trong giới tu hành biên soạn, ghi lại vài bí văn và nơi chốn ít người biết đến.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nThục Sơn - Phi Lôi Động\nThục Sơn - Xan Hà Động\nThục Sơn - Ngọc Tuyền Động[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_4_3">
+			<DisplayName>Thập Di Lục: Hạ Sách</DisplayName>
+			<Desc>Tương truyền do một vị tiền bối tiên nhân trong giới tu hành biên soạn, ghi lại vài bí văn và nơi chốn ít người biết đến.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nCửu Hoa Sơn - Phượng Tê Nhai\nCửu Hoa Sơn - Tiềm Long Uyên\nHợp Hoan Đảo - Độc Long Đàm\nNhận được bí văn: Độc Long Bí Bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_5">
+			<DisplayName>Du Tiên Lục</DisplayName>
+			<Desc>Sách đồ bí ẩn lưu truyền từ thượng cổ, ghi lại vài bí văn thượng cổ mà ngay cả tiên nhân cũng chỉ có thể gọi là truyền thuyết, không thể kiểm chứng được thật giả.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nBí Cảnh - Long Đài\nBí Cảnh - Dị Giới Liệt Phùng\nBí Cảnh - Thánh Điện Di Tích[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_6_1">
+			<DisplayName>Vân Cấp Bí Lục: Biên Hoang Thiên</DisplayName>
+			<Desc>Một cuốn sách do một vị tiền bối tiên nhân của Đạo môn tìm kiếm và ghi chép lại những kỳ văn dị sự từ các điển tịch. Cuốn này ghi lại vài truyền thuyết về Tà Đế Lăng, nguồn Đại Giang, v.v...</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nNam Hoang Tùng Lâm - Tà Đế Lăng\nBí Cảnh - Đại Giang Chi Nguyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_6_3">
+			<DisplayName>Vân Cấp Bí Lục: Tuyết Nguyên Thiên</DisplayName>
+			<Desc>Một cuốn sách do một vị tiền bối tiên nhân của Đạo môn tìm kiếm và ghi chép lại những kỳ văn dị sự từ các điển tịch. Cuốn này ghi lại truyền thuyết về vùng Đại Tuyết Nguyên ở Cực Bắc.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nĐại Tuyết Nguyên - Thiên Loa Dục\nĐại Tuyết Nguyên - Tuyết Phong Nguyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YouJi_6_4">
+			<DisplayName>Vân Cấp Bí Lục: Đại Mạc Thiên</DisplayName>
+			<Desc>Một cuốn sách do một vị tiền bối tiên nhân của Đạo môn tìm kiếm và ghi chép lại những kỳ văn dị sự từ các điển tịch. Cuốn này ghi lại những bí mật sâu trong Đại Mạc.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nĐại Mạc - Vạn Yêu Điện\nĐại Mạc - Hỏa Huyệt\nNhận được bí văn: Hỏa Huyệt Thám Bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="YaoGuai_Bible">
+			<DisplayName>Vạn Thú Thông Tâm Quyết</DisplayName>
+			<Desc>Bí pháp thuần dưỡng hung thú của Bách Man Sơn, trên đó ghi lại vài loại đan dược độc môn dùng để khai mở linh trí cho dã thú.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nKhải Trí Đan\nXuân Linh Đan\nHạ Linh Đan\nThu Linh Đan\nĐông Linh Đan\nThổ Linh Đan\nThần thông: Tạo Hóa Khí Tức[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Emotion_Bible">
+			<DisplayName>Vạn Tượng Thông Tâm Quyết</DisplayName>
+			<Desc>Một vị tiên nhân đã ghi lại các tình cảnh cảm xúc khác nhau trên đường tu hành của mình, có thể khiến các loài động vật khác nhau có được trải nghiệm như thật.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Thần thông:\nThông Tâm: Phẫn Hận\nThông Tâm: Hỉ Lạc\nThông Tâm: Tư Niệm\nThông Tâm: Cụ Phố\nThông Tâm: Ưu Lự[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="NanGongYiCe">
+			<DisplayName>Quần Tiên Lục: Quyển Một</DisplayName>
+			<Desc>Sách ghi lại sự tích của các vị tiên nhân thời tiền cổ, đã thất lạc nghìn năm. Cuốn này ghi lại truyền kỳ của hai vị cổ tiên Nam Cung Hồng và Viên Nhược Tuyết.\nTruyền thuyết nói rằng Nam Cung Hồng là kẻ được khí vận ưu ái. Truyền thừa của ông ta nghìn năm qua đã thu hút vô số người tu hành không ngừng lao tới, tranh đoạt.\nCổ tiên Viên Nhược Tuyết lại là vị tiên nhân truyền kỳ đã nghịch thiên cải mệnh với tư chất hạ phẩm, cuối cùng kết thành đan một phẩm và phi thăng thành tiên.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nBí Cảnh - Quỳnh Lâu Nam Cung Biệt Phủ\nBí Cảnh - Huyền Không Động Lâm Lang Tiên Phủ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="QunXianLu_2">
+			<DisplayName>Quần Tiên Lục: Quyển Hai</DisplayName>
+			<Desc>Sách ghi lại sự tích của các vị tiên nhân thời tiền cổ, đã thất lạc nghìn năm. Cuốn này ghi lại sự tích khi Tiên nhân Thanh Liên còn trẻ du ngoạn.\nTruyền rằng Tiên nhân Thanh Liên là Thái Bạch Tinh trên trời chuyển sinh, bẩm sinh mang thể Canh Kim. Trước khi thành đạo từng ẩn cư ở Nam Hải vài năm, sau đó quay về Thục Sơn, thăng tiên ở Phi Lôi Động. Nơi ẩn cư cuối cùng của ông ta đã không ai tìm thấy trong suốt mấy nghìn năm qua.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nBí Cảnh - Nam Hải Thanh Liên Sơn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="QunXianLu_3">
+			<DisplayName>Quần Tiên Lục: Quyển Ba</DisplayName>
+			<Desc>Sách ghi lại sự tích của các vị tiên nhân thời tiền cổ. Cuốn này ghi lại những chuyện thú vị khi Thiên Cực lão tổ du ngoạn nhân gian sau khi lập ra Cực Thiên Cung.\nTruyền rằng Thiên Cực lão tổ đã tạo ra cảnh tiên Cực Thiên Cung vạn dặm ở Bắc Cương, sau khi để lại đạo thống Cực Thiên Cung thì hóa hình du ngoạn nhân gian, âm thầm bảo hộ các đệ tử du hành của Cực Thiên Cung, để lại nhiều truyền thuyết. Sau đó, Thiên Cực lão tổ biến mất, không còn thấy tiên tích nữa.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được bí văn:\nCổ Thiên Cực Phù[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="ShangGuYiWen_1">
+			<DisplayName>Thượng Cổ Bí Văn: Quyển Một</DisplayName>
+			<Desc>Bí lục ghi lại truyền văn thượng cổ, cuốn này ghi lại bí văn về Long Đài, cấm địa của Long tộc thượng cổ.\nTruyền rằng ngày xưa Long tộc đã cất giấu hàng vạn bảo vật ở Long Đài, và thi triển vô số cấm chế để phong ấn. Nay thời gian trôi đi, cộng thêm sự tác động của linh triều nghìn năm, phần lớn những cấm chế này đã mất hiệu lực, không ít người mạo hiểm vào Long Đài để tìm kiếm cơ duyên.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nBí Cảnh - Long Đài[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="ShangGuYiWen_2">
+			<DisplayName>Thượng Cổ Bí Văn: Quyển Hai</DisplayName>
+			<Desc>Bí lục ghi lại truyền văn thượng cổ, cuốn này ghi lại bí văn về chiến trường tiên ma thượng cổ.\nVào cuối thời thượng cổ, trong giới tu hành dần hình thành sự phân chia chính-tà. Khi tranh chấp ngày càng gay gắt, các cổ tu sĩ đã bùng nổ một trận quyết chiến ở vùng đất Nam Hoang. Trận chiến này kéo dài hơn một tháng, đánh đến trời long đất lở, sinh linh lầm than. Đạo âm dương trong trời đất đã sụp đổ tại đây, thậm chí hiển hóa ra chân hình của Chúc Long ở nhân gian. Chúc Long nổi giận, đất chìm biển dâng, Cửu Châu tan vỡ, kết thúc trận đại chiến tiên ma lần thứ nhất. Đây cũng là nguồn gốc của vùng đất Nam Hoang ngày nay.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Nhận được thông tin địa điểm:\nBí Cảnh - Tiên Ma Chiến Trường[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
