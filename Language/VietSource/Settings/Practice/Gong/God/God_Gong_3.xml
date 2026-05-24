@@ -1,0 +1,21 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="God_Gong_3">
+      <DisplayName>U Minh Thập Phương Thái Ất Cứu Khổ Kinh</DisplayName>
+      <Desc>Thời kỳ Thượng Cổ liền đã đoạn tuyệt thần đạo tu hành chi thuật, chính là tụ tập chúng sinh tín ngưỡng thành tựu thần tính pháp môn. Thần tu chi pháp đều cơ bản giống nhau, khác biệt truyền thừa chỉ ở thần tính linh dẫn khác biệt, có thể dẫn động các loại thiên đạo chi linh bảo hộ.《 U Minh thập phương Thái Ất cứu khổ trải qua 》 Chính là u tổ truyền nhận, tu tập phương pháp này có thể mượn Cửu U linh dẫn, triệu U Minh thập phương chúng linh bảo hộ, thiên về tại hộ ngự chi đạo.</Desc>
+      <SelectDesc>Tín ngưỡng tu hành chi đạo không giống với truyền thống Kim Đan pháp tu hành, phương pháp này tu hành hoàn toàn ỷ lại tại chúng sinh tín ngưỡng. Tín ngưỡng tu hành mặc dù nhìn trời tư không có yêu cầu, nhưng nếu muốn đăng phong tạo cực, cần cực cao ngộ tính mới có thể, phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Khổ Hành</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Kiền Tâm</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Truyện Đạo</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Khai Tịch</Stages.1.Necks.0.DisplayName>
+      <Stages.2.DisplayName>Thần Quốc</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Sắc Lệnh: Quỷ Soa</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.1.DisplayName>Sắc Lệnh: Quỷ Tương</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>Sắc Lệnh: Vô Thường</Stages.2.Necks.2.DisplayName>
+      <Stages.2.Necks.3.DisplayName>Sắc Lệnh: Phán Quan</Stages.2.Necks.3.DisplayName>
+      <Stages.2.Necks.4.DisplayName>Thuế Phàm</Stages.2.Necks.4.DisplayName>
+      <Stages.3.DisplayName>Viên Mãn</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Vô Thượng</Stages.3.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>
