@@ -1,0 +1,17 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsCalmHeart">
+      <DisplayName>Tĩnh Tâm Nạp Khí</DisplayName>
+      <Desc>Giải phóng lên một nhân vật phe ta, làm cho họ trong ba ngày không cần ăn uống, cũng sẽ không mệt mỏi, nhưng di chuyển trở nên chậm chạp (hệ số tiêu thụ thức ăn -1, hệ số tiêu thụ nước -1, hệ số tiêu thụ tinh lực -1, hệ số tốc độ di chuyển -0.5).</Desc>
+    </Text>
+    <Text Name="LsShapeshift">
+      <DisplayName>Che Thiên Đạo Ý</DisplayName>
+      <Desc>Làm chậm thiên kiếp hóa hình của một nhân vật phe ta, nhưng cần tiêu hao tuổi thọ của họ.</Desc>
+    </Text>
+    <Text Name="LsLingWater">
+      <DisplayName>Tiên Thiên Linh Thổ</DisplayName>
+      <Desc>Đánh đổi bằng sự trưởng thành và dinh dưỡng của bản thân, biến một khu vực xung quanh thành linh thổ, nhưng sẽ làm cho khu vực xung quanh đều biến thành vùng nước bình thường.</Desc>
+      <TargetDesc>Hãy chọn một khoảng đất trống</TargetDesc>
+    </Text>
+  </List>
+</Texts>
