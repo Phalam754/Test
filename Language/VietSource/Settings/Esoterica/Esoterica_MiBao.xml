@@ -1,0 +1,59 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_MiBao_1">
+			<DisplayName>Tru Tiên Kiếm Điển: Tàn Quyển Một</DisplayName>
+			<Desc>Bí tịch kiếm đạo truyền lại từ thời thượng cổ, trên đó có ghi chép lại những tìm tòi của các tiên nhân cổ đại để mô phỏng Tứ Tiên Kiếm gồm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nTru Tiên Kiếm: Gây sát thương gấp 1.5 lần khi chiến đấu với pháp bảo của đối thủ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_2">
+			<DisplayName>Tru Tiên Kiếm Điển: Tàn Quyển Hai</DisplayName>
+			<Desc>Bí tịch kiếm đạo truyền lại từ thời thượng cổ, trên đó có ghi chép lại những tìm tòi của các tiên nhân cổ đại để mô phỏng Tứ Tiên Kiếm gồm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nLục Tiên Kiếm: Khi gây sát thương, có 10% cơ hội gây sát thương gấp 5 lần.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_3">
+			<DisplayName>Tru Tiên Kiếm Điển: Tàn Quyển Ba</DisplayName>
+			<Desc>Bí tịch kiếm đạo truyền lại từ thời thượng cổ, trên đó có ghi chép lại những tìm tòi của các tiên nhân cổ đại để mô phỏng Tứ Tiên Kiếm gồm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nHãm Tiên Kiếm: Khi tấn công vào bản thể đối phương, gây sát thương gấp 1.5 lần.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_4">
+			<DisplayName>Tru Tiên Kiếm Điển: Tàn Quyển Bốn</DisplayName>
+			<Desc>Bí tịch kiếm đạo truyền lại từ thời thượng cổ, trên đó có ghi chép lại những tìm tòi của các tiên nhân cổ đại để mô phỏng Tứ Tiên Kiếm gồm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nTuyệt Tiên Kiếm: Khi tấn công vào bản thể đối phương, có 1% cơ hội gây thêm sát thương bằng 30% linh khí hiện tại của mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_5">
+			<DisplayName>Bách Độc Chân Kinh Tàn Quyển</DisplayName>
+			<Desc>Được bảo tồn từ giáo phái ma giáo phương Nam thời thượng cổ, nhưng tiếc là phần lớn nội dung đã bị thất lạc, chỉ còn lại tàn quyển lưu truyền. Cuốn sách này ghi lại phương pháp luyện chế ba món ma môn chí bảo.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nNgũ Độc Tru Tiên Kiếm: Cứ sau 15 lần tấn công vào bản thể người tu hành, sẽ xuyên qua lá chắn gây thêm sát thương.\nĐại Thân Châu: Với cái giá phải vỡ, có thể chống lại một lần tử vong và phục hồi tất cả sát thương.\nThập Nhị Sát Thần Ma Linh Sa: Cứ sau 12 lần tấn công cùng một pháp bảo, có thể khiến nó mất hiệu lực. Thời gian duy trì liên quan đến phẩm giai của nó.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_6">
+			<DisplayName>Quảng Thành Thiên Thư Tàn Quyển</DisplayName>
+			<Desc>Tương truyền là đạo thống y bát mà Quảng Thành Tử để lại khi đắc đạo, tiếc là phần lớn nội dung đã bị thất lạc, chỉ còn lại tàn quyển lưu truyền. Cuốn sách này ghi lại phương pháp luyện chế hai món bí bảo của Quảng Thành Tử.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nCửu Thiên Nguyên Dương Xích: Cứ sau 9 lần tấn công, sẽ kích hoạt một pháp thuật lên kẻ địch mục tiêu.\nNgũ Khí Lôi Phù: Kỹ năng thuật pháp tăng 10.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_7">
+			<DisplayName>Lưỡng Giới Thập Phương Đại Tạng Bảo Lục Tàn Quyển</DisplayName>
+			<Desc>Vốn là kinh điển vô thượng của Phật môn, nay chỉ còn lại tàn quyển lưu truyền, trong đó chỉ có vài phương pháp luyện chế bí bảo còn nguyên vẹn.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nNguyên Thần Tâm Kiếm: Kỹ năng ngự khí tăng 10.\nKim Liên Thần Tọa: Vây quanh thân thể không chủ động tấn công, tập trung phòng ngự.\nThanh Liên Bảo Sắc Kỳ: Tăng 100% sát thương lên mục tiêu thuộc tính Thổ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_8">
+			<DisplayName>Tu La Huyết Hà Bảo Lục Tàn Quyển</DisplayName>
+			<Desc>Bí tịch truyền từ Tu La giới, trong đó ghi lại nhiều phương pháp luyện chế bí bảo của ma đạo.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nThiên Lang Văn Tu Đinh: Cứ sau 3 lần tấn công, sẽ sinh ra 9 phân hình Văn Tu, duy trì 3 giây.\nThiên Ma Hóa Huyết Thần Đao: Cứ mỗi 1% máu giảm, uy lực pháp bảo tăng 5%.\nẨm Hồn Châu: Cứ mỗi lần tiêu diệt một sinh linh, uy lực tăng 10%, tối đa 36 tầng. Nếu không uống máu trong 1 ngày, hiệu quả sẽ bị xóa sạch.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_9">
+			<DisplayName>Tinh Hà Di Lục</DisplayName>
+			<Desc>Sách từ dị giới, tác giả không thể khảo chứng. Trong đó ghi lại nhiều bí bảo chưa từng thấy trong giới tu hành truyền thống.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nHấp Tinh Thần Toa: 10% sát thương gây ra sẽ bổ sung vào linh khí của pháp bảo.\nThôn Linh Thần Tiễn: Cứ mỗi 10000 điểm linh khí tiêu hao, sát thương tăng 10%, tối đa 1000%. Khi pháp bảo bổ sung linh khí, hiệu quả sẽ bị reset.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_10">
+			<DisplayName>Dao Trì Ngọc Thư</DisplayName>
+			<Desc>Tương truyền là do Tây Vương Mẫu truyền lại, trong đó có ghi lại phương pháp luyện chế một trong Ngũ Phương Kỳ của thiên địa.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nTố Sắc Vân Giới Kỳ: Tăng 100% sát thương lên mục tiêu thuộc tính Mộc.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_11">
+			<DisplayName>Chân Võ Đãng Ma Bí Bảo Lục</DisplayName>
+			<Desc>Tương truyền là do Chân Võ Đại Đế của Thiên Đình truyền lại, trong đó có ghi lại phương pháp luyện chế một trong Ngũ Phương Kỳ của thiên địa.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Bí bảo:\nChân Võ Táo Điêu Kỳ: Tăng 100% sát thương lên mục tiêu thuộc tính Hỏa.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
