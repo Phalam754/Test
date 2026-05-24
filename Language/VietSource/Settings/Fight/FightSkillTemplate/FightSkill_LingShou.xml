@@ -1,0 +1,47 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Ls_SheildSkill">
+      <DisplayName>Hậu Thổ Chi Thuẫn</DisplayName>
+    </Text>
+    <Text Name="Ls_TransferQi">
+      <DisplayName>Xá Thân Quyết</DisplayName>
+    </Text>
+    <Text Name="Ls_FabaoSkill">
+      <DisplayName>Thần Kiếm</DisplayName>
+    </Text>
+    <Text Name="Ls_FoxSkillAmp">
+      <DisplayName>Phần Nhật</DisplayName>
+    </Text>
+    <Text Name="Ls_SkillWater">
+      <DisplayName>Thủy Lôi Thuật</DisplayName>
+    </Text>
+    <Text Name="Ls_SkillWater5">
+      <DisplayName>Thủy Lôi Đại Pháp</DisplayName>
+    </Text>
+    <Text Name="Ls_Fanshi">
+      <DisplayName>Phản Phệ</DisplayName>
+      <Desc>Làm một địch quân nhận cùng nó pháp bảo lớn nhất linh khí có quan hệ tổn thương, đồng thời trong một khoảng thời gian không cách nào sử dụng pháp bảo.</Desc>
+    </Text>
+    <Text Name="Ls_Penhuo">
+      <DisplayName>Phún Hỏa</DisplayName>
+    </Text>
+    <Text Name="Ls_Ci">
+      <DisplayName>Nguyên Từ Thần Quang</DisplayName>
+    </Text>
+    <Text Name="Ls_JinThunder">
+      <DisplayName>Canh Kim Lôi</DisplayName>
+    </Text>
+    <Text Name="Ls_AddModifier">
+      <DisplayName>Tí Thể</DisplayName>
+      <Desc>Trên diện rộng đề cao một phe bạn Linh Khí Hộ Thuẫn cùng bí thể cứng cỏi cường độ.</Desc>
+    </Text>
+    <Text Name="Ls_Confuse">
+      <DisplayName>Mê Hoặc</DisplayName>
+      <Desc>Mê hoặc một địch nhân khiến cho sẽ không công kích hoặc di động, nhưng là bị công kích liền sẽ thức tỉnh.</Desc>
+    </Text>
+    <Text Name="Ls_Rongduan">
+      <DisplayName>Dung Đoạn</DisplayName>
+      <Desc>Sử dụng chân viêm chi lực đối một địch nhân tạo thành nhưng gánh vác tổn thương, cùng làm một trong đoạn thời gian không cách nào sử dụng thuật pháp.</Desc>
+    </Text>
+  </List>
+</Texts>
