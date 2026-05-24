@@ -1,0 +1,42 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_9_Mu">
+      <DisplayName>Trường Sinh Lục Đạo Luân Hồi Kinh</DisplayName>
+      <Desc>Thái Nhất Môn trấn phái Ngũ Hành chân quyết một trong, phương pháp này tu hành mỗi cái cảnh giới bắt đầu tức là đỉnh phong, theo tu vi làm sâu sắc người tu hành nhưng từng bước lui chuyển, cuối cùng như là phàm nhân. Thẳng đến đột phá luân hồi, lần nữa tân sinh, mới có thể thoát thai hoán cốt tiến thêm một bước. Bởi vậy đặc chất, công pháp này mặc dù rộng vì lưu hành, nhưng lại ít có người đại thành.</Desc>
+      <SelectDesc>Công pháp này sức chiến đấu rất mạnh, không am hiểu luyện đan luyện khí. Chỉ là trong quá trình tu luyện cần trải qua luân hồi, thực lực sẽ dần dần hạ xuống, thẳng đến tiến vào kế tiếp đỉnh phong. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Nhân Đạo</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Tân Sinh</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>Trầm Luân</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.2.DisplayName>Luân Hồi</Stages.0.Necks.2.DisplayName>
+      <Stages.0.Necks.2.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.2.Desc>
+      <Stages.1.DisplayName>Bàng Sinh Đạo</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Tân Sinh</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>Trầm Luân</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.2.DisplayName>Luân Hồi</Stages.1.Necks.2.DisplayName>
+      <Stages.2.DisplayName>Ác Quỷ Đạo</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Tân Sinh</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>Trầm Luân</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>Luân Hồi</Stages.2.Necks.2.DisplayName>
+      <Stages.2.Necks.2.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.2.Necks.2.Desc>
+      <Stages.3.DisplayName>Địa Ngục Đạo</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Tân Sinh</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>Trầm Luân</Stages.3.Necks.1.DisplayName>
+      <Stages.3.Necks.2.DisplayName>Luân Hồi</Stages.3.Necks.2.DisplayName>
+      <Stages.4.DisplayName>Tu La Đạo</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Tân Sinh</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.4.Necks.0.Desc>
+      <Stages.4.Necks.1.DisplayName>Trầm Luân</Stages.4.Necks.1.DisplayName>
+      <Stages.4.Necks.2.DisplayName>Luân Hồi</Stages.4.Necks.2.DisplayName>
+      <Stages.5.DisplayName>Thiên Đạo</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>Tân Sinh</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.5.Necks.0.Desc>
+      <Stages.5.Necks.1.DisplayName>Trầm Luân</Stages.5.Necks.1.DisplayName>
+      <Stages.5.Necks.2.DisplayName>Luân Hồi</Stages.5.Necks.2.DisplayName>
+      <Stages.5.Necks.2.Desc>Lần này đi luân hồi tức thoát ly lục đạo bên ngoài, trường sinh cửu thị.</Stages.5.Necks.2.Desc>
+    </Text>
+  </List>
+</Texts>
