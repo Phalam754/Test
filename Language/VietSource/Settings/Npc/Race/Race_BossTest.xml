@@ -1,0 +1,24 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Long_Test">
+      <DisplayName>Giao Long</DisplayName>
+      <FightParts.0.DisplayName>Thân Thể</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>Long Vĩ</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>Long Giác</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>Long Tả Tiền Trảo</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>Long Hữu Tiền Trảo</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>Long Tả Hậu Trảo</FightParts.5.DisplayName>
+      <FightParts.6.DisplayName>Long Hữu Hậu Trảo</FightParts.6.DisplayName>
+      <FightParts.7.DisplayName>Nghịch Lân</FightParts.7.DisplayName>
+    </Text>
+    <Text Name="Boss_Feng_Test">
+      <DisplayName>Hung Phượng</DisplayName>
+      <FightParts.0.DisplayName>Thân Thể</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>Đầu Vũ</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>Tả Sí</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>Hữu Sí</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>Vĩ Vũ</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>Thái Dương Chi Nhãn</FightParts.5.DisplayName>
+    </Text>
+  </List>
+</Texts>
