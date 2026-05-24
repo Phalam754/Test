@@ -1,0 +1,34 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_BodyPractice_Boss_BaseValue">
+      <DisplayName>Thuộc tính cơ bản đảm bảo của Đại Năng Thể Tu</DisplayName>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+      <DisplayName>Thuộc tính chiến đấu cơ bản đảm bảo của Đại Năng Thể Tu</DisplayName>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_Atk">
+      <DisplayName>Uy</DisplayName>
+      <Desc>Bí Thể của người này có thể san núi lấp biển, uy lực vô song (Bội số chung uy lực Bí Thể +10, Giá trị gia tăng chung uy lực Bí Thể +50000).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_Def">
+      <DisplayName>Nhẫn</DisplayName>
+      <Desc>Bí Thể của người này vô vật bất phá, vô cùng dẻo dai (Bội số chung độ bền Bí Thể +10, Giá trị gia tăng chung độ bền Bí Thể +50000).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_Dodge">
+      <DisplayName>Tị</DisplayName>
+      <Desc>Người này hành động nhanh nhẹn, linh động vô ảnh (Né tránh chiến đấu +0.1).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+      <DisplayName>Đoạt</DisplayName>
+      <Desc>Thủ pháp người này tinh diệu, rất giỏi trấn áp Pháp Bảo (Giá trị gia tăng chung tỷ lệ trấn áp Pháp Bảo Bí Thể +0.15, Tỷ lệ tiêu hao Chân Khí trấn áp Pháp Bảo -1).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+      <DisplayName>Xuyên</DisplayName>
+      <Desc>Người này vận kình xảo diệu, rất giỏi xuyên thấu Linh Khí Hộ Thuẫn gây sát thương (Giá trị gia tăng chung xuyên thấu Linh Khí Hộ Thuẫn Bí Thể +0.15).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Boss_Strong">
+      <DisplayName>Tráng</DisplayName>
+      <Desc>Thân thể người này vô cùng cường tráng, tinh lực cũng phi thường mạnh mẽ, không sợ đau đớn (Giới hạn đau đớn +3, Hệ số cường đại cơ thể +3).</Desc>
+    </Text>
+  </List>
+</Texts>
