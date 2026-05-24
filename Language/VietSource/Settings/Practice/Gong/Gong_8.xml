@@ -1,0 +1,30 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_8_Jin">
+      <DisplayName>Bắc Đấu Động Tâm Kiếp Pháp</DisplayName>
+      <Desc>Thái Nhất Môn trấn phái Ngũ Hành chân quyết một trong, mượn nhờ quan tưởng Bắc Đấu ngôi sao chi hình tu luyện công pháp, Bắc Đẩu chú chết, công pháp này cũng sắc bén vô song, cực thiện tranh đấu.</Desc>
+      <SelectDesc>Công pháp này am hiểu kiếm thuật tranh đấu, chỉ là tu luyện chậm chạp. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Thiên Xu Cảnh</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Thiên Xu Cảnh</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.0.Desc>
+      <Stages.1.DisplayName>Thiên Tuyền Cảnh</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Thiên Tuyền Cảnh</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.0.Desc>
+      <Stages.2.DisplayName>Thiên Cơ Cảnh</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Thiên Cơ Cảnh</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ căn cốt càng thấp, càng khó đột phá.[/color]</Stages.2.Necks.0.Desc>
+      <Stages.3.DisplayName>Thiên Quyền Cảnh</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Thiên Quyền Cảnh</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>Ngọc Hành Cảnh</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Ngọc Hành Cảnh</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ căn cốt càng thấp, càng khó đột phá.[/color]</Stages.4.Necks.0.Desc>
+      <Stages.5.DisplayName>Khai Dương Cảnh</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>Phụ Cảnh</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.1.DisplayName>Khai Dương Cảnh</Stages.5.Necks.1.DisplayName>
+      <Stages.5.Necks.1.Desc>Lấy Nguyên Thần đến thiên đạo chi diệu, một khi qua cái này liên quan, đem trực diện thiên kiếp. Bình này cái cổ rất khó đột phá.</Stages.5.Necks.1.Desc>
+      <Stages.6.DisplayName>Dao Quang Cảnh</Stages.6.DisplayName>
+      <Stages.6.Necks.0.DisplayName>Dao Quang Cảnh</Stages.6.Necks.0.DisplayName>
+      <Stages.6.Necks.0.Desc>Rút đi phàm thai, phi thăng thành tiên.</Stages.6.Necks.0.Desc>
+    </Text>
+  </List>
+</Texts>
