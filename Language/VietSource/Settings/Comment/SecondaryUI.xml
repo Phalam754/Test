@@ -1,0 +1,203 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SystemMessage">
+      <Notes>Liên quan tới hệ thống tin tức bình luận bảng</Notes>
+      <Title>Hệ thống tin tức</Title>
+      <Desc>Hệ thống tin tức</Desc>
+    </Text>
+    <Text Name="Architecture">
+      <Notes>Liên quan tới kiến trúc bình luận bảng</Notes>
+      <Title>Kiến trúc giao diện</Title>
+      <Desc>Kiến trúc giao diện</Desc>
+    </Text>
+    <Text Name="NpcProperty">
+      <Notes>Liên quan tới nhân vật thuộc tính bình luận bảng</Notes>
+      <Title>Nhân vật thuộc tính</Title>
+      <Desc>Nhân vật thuộc tính</Desc>
+    </Text>
+    <Text Name="NpcSociality">
+      <Notes>Liên quan tới nhân vật xã giao bình luận bảng</Notes>
+      <Title>Nhân vật xã giao</Title>
+      <Desc>Nhân vật xã giao</Desc>
+    </Text>
+    <Text Name="NpcHealth">
+      <Notes>Liên quan tới nhân vật khỏe mạnh bình luận bảng</Notes>
+      <Title>Khỏe mạnh bảng</Title>
+      <Desc>Khỏe mạnh bảng</Desc>
+    </Text>
+    <Text Name="NpcPractice">
+      <Notes>Liên quan tới nhân vật tu luyện bình luận bảng</Notes>
+      <Title>Tu luyện bảng</Title>
+      <Desc>Tu luyện bảng</Desc>
+    </Text>
+    <Text Name="NpcZhuJi">
+      <Notes>Liên quan tới nhân vật trúc cơ bình luận bảng</Notes>
+      <Title>Trúc cơ bảng</Title>
+      <Desc>Trúc cơ bảng</Desc>
+    </Text>
+    <Text Name="NpcGnosis">
+      <Notes>Liên quan tới nhân vật linh trí bình luận bảng</Notes>
+      <Title>Linh trí bảng</Title>
+      <Desc>Linh trí bảng</Desc>
+    </Text>
+    <Text Name="NpcEquipment">
+      <Notes>Liên quan tới nhân vật trang bị bình luận bảng</Notes>
+      <Title>Trang bị giao diện</Title>
+      <Desc>Trang bị giao diện</Desc>
+    </Text>
+    <Text Name="NpcEquipmentOfBodyPractice">
+      <Notes>Liên quan tới trang bị cùng bí thể phối trí bình luận bảng</Notes>
+      <Title>Trang bị cùng bí thể phối trí bảng</Title>
+      <Desc>Trang bị cùng bí thể phối trí bảng</Desc>
+    </Text>
+    <Text Name="NpcCombatStyle">
+      <Notes>Liên quan tới nhân vật phong cách chiến đấu bình luận bảng</Notes>
+      <Title>Phong cách chiến đấu bảng</Title>
+      <Desc>Phong cách chiến đấu bảng</Desc>
+    </Text>
+    <Text Name="NpcDetailProperty">
+      <Notes>Liên quan tới nhân vật kỹ càng thuộc tính bình luận bảng</Notes>
+      <Title>Kỹ càng giao diện thuộc tính</Title>
+      <Desc>Kỹ càng giao diện thuộc tính</Desc>
+    </Text>
+    <Text Name="NpcDrugResistance">
+      <Notes>Liên quan tới nhân vật tính kháng dược bình luận bảng</Notes>
+      <Title>Tính kháng dược bảng</Title>
+      <Desc>Tính kháng dược bảng</Desc>
+    </Text>
+    <Text Name="Secret">
+      <Notes>Liên quan tới bí ẩn bình luận bảng</Notes>
+      <Title>Bí ẩn bảng</Title>
+      <Desc>Bí ẩn bảng</Desc>
+    </Text>
+    <Text Name="Character">
+      <Notes>Liên quan tới nhân vật bình luận bảng</Notes>
+      <Title>Nhân vật bảng</Title>
+      <Desc>Nhân vật bảng</Desc>
+    </Text>
+    <Text Name="Clue">
+      <Notes>Liên quan tới manh mối bình luận bảng</Notes>
+      <Title>Manh mối bảng</Title>
+      <Desc>Manh mối bảng</Desc>
+    </Text>
+    <Text Name="ZhenGraph">
+      <Notes>Liên quan tới trận đồ bình luận bảng</Notes>
+      <Title>Trận đồ bảng</Title>
+      <Desc>Trận đồ bảng</Desc>
+    </Text>
+    <Text Name="ZhenEdit">
+      <Notes>Liên quan tới trận pháp biên tập bình luận bảng</Notes>
+      <Title>Trận pháp biên tập bảng</Title>
+      <Desc>Trận pháp biên tập bảng</Desc>
+    </Text>
+    <Text Name="ZhenEyesOverview">
+      <Notes>Liên quan tới trận nhãn quan sát bình luận bảng</Notes>
+      <Title>Trận nhãn quan sát bảng</Title>
+      <Desc>Trận nhãn quan sát bảng</Desc>
+    </Text>
+    <Text Name="WorkSchedule">
+      <Notes>Liên quan tới an bài công việc bình luận bảng</Notes>
+      <Title>An bài công việc bảng</Title>
+      <Desc>An bài công việc bảng</Desc>
+    </Text>
+    <Text Name="SectOverview">
+      <Notes>Liên quan tới môn phái quan sát bình luận bảng</Notes>
+      <Title>Môn phái bảng</Title>
+      <Desc>Môn phái bảng</Desc>
+    </Text>
+    <Text Name="SectStructure">
+      <Notes>Liên quan tới môn phái kết cấu bình luận bảng</Notes>
+      <Title>Môn phái kết cấu bảng</Title>
+      <Desc>Môn phái kết cấu bảng</Desc>
+    </Text>
+    <Text Name="SectFollower">
+      <Notes>Liên quan tới môn phái đệ tử bình luận bảng</Notes>
+      <Title>Môn phái đệ tử bảng</Title>
+      <Desc>Môn phái đệ tử bảng</Desc>
+    </Text>
+    <Text Name="SectRelationship">
+      <Notes>Liên quan tới môn phái quan hệ bình luận bảng</Notes>
+      <Title>Môn phái quan hệ bảng</Title>
+      <Desc>Môn phái quan hệ bảng</Desc>
+    </Text>
+    <Text Name="PowerManagement">
+      <Notes>Liên quan tới thế lực quản lý bình luận bảng</Notes>
+      <Title>Thế lực quản lý</Title>
+    </Text>
+    <Text Name="SectGift">
+      <Notes>Liên quan tới môn phái tặng lễ bình luận bảng</Notes>
+      <Title>Tặng lễ</Title>
+      <Desc>Môn phái tặng lễ</Desc>
+    </Text>
+    <Text Name="SectTransaction">
+      <Notes>Liên quan tới môn phái giao dịch bình luận bảng</Notes>
+      <Title>Môn phái giao dịch</Title>
+      <Desc>Môn phái giao dịch</Desc>
+    </Text>
+    <Text Name="SectMessageManagement">
+      <Notes>Liên quan tới môn phái tin tức quản lý bình luận bảng</Notes>
+      <Title>Môn phái tin tức quản lý</Title>
+      <Desc>Môn phái tin tức quản lý</Desc>
+    </Text>
+    <Text Name="SectLaws">
+      <Notes>Liên quan tới môn quy bình luận bảng</Notes>
+      <Title>Môn quy</Title>
+      <Desc>Môn quy</Desc>
+    </Text>
+    <Text Name="PedlarTransaction">
+      <Notes>Liên quan tới hành thương giao dịch bình luận bảng</Notes>
+      <Title>Hành Thương Giao Dịch</Title>
+      <Desc>Hành Thương Giao Dịch</Desc>
+    </Text>
+    <Text Name="KeyholeReport">
+      <Notes>Liên quan tới bí văn bình luận bảng</Notes>
+      <Title>Bí văn</Title>
+      <Desc>Bí văn</Desc>
+    </Text>
+    <Text Name="RefineBody">
+      <Notes>Liên quan tới tôi thể bình luận bảng</Notes>
+      <Title>Tôi thể bảng</Title>
+      <Desc>Tôi thể bảng</Desc>
+    </Text>
+    <Text Name="DomesticateSpiritBeast">
+      <Notes>Liên quan tới linh sủng dưỡng thành bình luận bảng</Notes>
+      <Title>Linh sủng dưỡng thành</Title>
+      <Desc>Linh sủng dưỡng thành</Desc>
+    </Text>
+    <Text Name="TrainSpiritBeast">
+      <Notes>Liên quan tới linh sủng huấn luyện bình luận bảng</Notes>
+      <Title>Linh sủng huấn luyện</Title>
+      <Desc>Linh sủng huấn luyện</Desc>
+    </Text>
+    <Text Name="FeedSpiritBeast">
+      <Notes>Liên quan tới linh sủng đồ ăn dinh dưỡng bình luận bảng</Notes>
+      <Title>Linh sủng đồ ăn dinh dưỡng</Title>
+      <Desc>Linh sủng đồ ăn dinh dưỡng</Desc>
+    </Text>
+    <Text Name="BehaviorRecordSpiritBeast">
+      <Notes>Liên quan tới linh sủng hành vi ghi chép bình luận bảng</Notes>
+      <Title>Linh sủng hành vi</Title>
+      <Desc>Linh sủng hành vi</Desc>
+    </Text>
+    <Text Name="EmotionAndThinkingOfAnimal">
+      <Notes>Liên quan tới suy nghĩ cùng suy nghĩ bình luận bảng</Notes>
+      <Title>Suy nghĩ cùng suy nghĩ</Title>
+      <Desc>Suy nghĩ cùng suy nghĩ</Desc>
+    </Text>
+    <Text Name="EmotionATarget">
+      <Notes>Liên quan tới suy nghĩ: Nhận biết bình luận bảng</Notes>
+      <Title>Suy nghĩ: Nhận biết</Title>
+      <Desc>Ba cái giống nhau nhận biết suy nghĩ đoạn ngắn nhưng hợp thành một cái nhận biết suy nghĩ.</Desc>
+    </Text>
+    <Text Name="EmotionAScene">
+      <Notes>Liên quan tới suy nghĩ: Lý trí bình luận bảng</Notes>
+      <Title>Suy nghĩ: Lý trí</Title>
+      <Desc>Ba cái giống nhau lý trí suy nghĩ đoạn ngắn nhưng hợp thành một cái lý trí suy nghĩ.</Desc>
+    </Text>
+    <Text Name="EmotionAEmotion">
+      <Notes>Liên quan tới suy nghĩ: Cảm giác bình luận bảng</Notes>
+      <Title>Suy nghĩ: Cảm giác</Title>
+      <Desc>Ba cái giống nhau cảm giác suy nghĩ đoạn ngắn nhưng hợp thành một cái cảm giác suy nghĩ.</Desc>
+    </Text>
+  </List>
+</Texts>
