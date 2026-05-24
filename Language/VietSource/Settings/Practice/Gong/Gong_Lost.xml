@@ -1,0 +1,12 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_LOST">
+      <DisplayName>Thác Ngộ Đích Công Pháp</DisplayName>
+      <Desc>Thất lạc chi vật, không có người nhận biết cái này.\n( Mô tổ mất đi )</Desc>
+      <Stages.0.DisplayName>Thác Ngộ</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Thác Ngộ</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Thác Ngộ</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Thác Ngộ</Stages.1.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>
