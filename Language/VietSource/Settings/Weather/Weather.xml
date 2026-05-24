@@ -1,0 +1,148 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SunnyDay">
+      <DisplayName>Thiên Quang Vạn Lý</DisplayName>
+      <StoryDesc>Trời quang mây tạnh, vạn dặm không một áng mây, khí trời trong lành. Cảm xúc +15, nhiệt độ +3℃, xu thế hỏa +1, hệ số quang chiếu +0.2, gia tăng đột phá bình cảnh thuộc tính vô, kim, hỏa, thổ +0.02.</StoryDesc>
+    </Text>
+    <Text Name="Overcast">
+      <DisplayName>Âm U Bao Phủ</DisplayName>
+      <StoryDesc>Mây đen giăng kín trời, hắc vân cuộn trào, mây mù giăng lối. Cảm xúc -4, nhiệt độ -3℃, xu thế hỏa +1.5, hệ số quang chiếu -0.35, gia tăng đột phá bình cảnh thuộc tính vô, mộc, thủy, thổ +0.02.</StoryDesc>
+    </Text>
+    <Text Name="LightRain">
+      <DisplayName>Tiểu Vũ Rả Rích</DisplayName>
+      <StoryDesc>Mưa bay lất phất, mưa nhỏ nhẹ nhàng, mưa nhỏ như tơ. Cảm xúc +4, nhiệt độ -3℃, xu thế hỏa -1.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.3, thuộc tính thủy của địa khối +2, gia tăng đột phá bình cảnh thuộc tính hỏa -0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.02, gia tăng đột phá bình cảnh thuộc tính mộc +0.04.</StoryDesc>
+    </Text>
+    <Text Name="HeavyRain">
+      <DisplayName>Đại Vũ Trút Nước</DisplayName>
+      <StoryDesc>Mưa to xối xả, mưa lớn như trút, mưa như thác đổ. Cảm xúc -8, nhiệt độ -5℃, xu thế hỏa -0.8, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.5, thuộc tính thủy của địa khối +5, gia tăng đột phá bình cảnh thuộc tính hỏa -0.06, gia tăng đột phá bình cảnh thuộc tính thủy +0.03, gia tăng đột phá bình cảnh thuộc tính mộc +0.06, hệ số tỷ lệ mắc bệnh của môi trường +10.</StoryDesc>
+    </Text>
+    <Text Name="LightSnow">
+      <DisplayName>Tiểu Tuyết Phiêu Phất</DisplayName>
+      <StoryDesc>Tuyết nhỏ rơi bay, sợi bạc giăng trời, tuyết mỏng bay lượn. Cảm xúc +4, nhiệt độ -3℃, xu thế hỏa -1.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.3, thuộc tính thủy của địa khối +2, gia tăng đột phá bình cảnh thuộc tính hỏa -0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.02, gia tăng đột phá bình cảnh thuộc tính mộc +0.04.</StoryDesc>
+    </Text>
+    <Text Name="HeavySnow">
+      <DisplayName>Đại Tuyết Phủ Thiên</DisplayName>
+      <StoryDesc>Giữa cơn tuyết bạc bay cuộn, trong trời băng giá, giữa gió tuyết phủ vùi. Cảm xúc +8, nhiệt độ -5℃, xu thế hỏa -0.8, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.5, thuộc tính thủy của địa khối +5, gia tăng đột phá bình cảnh thuộc tính hỏa -0.06, gia tăng đột phá bình cảnh thuộc tính thủy +0.03, gia tăng đột phá bình cảnh thuộc tính mộc +0.06.</StoryDesc>
+    </Text>
+    <Text Name="DenseFog">
+      <DisplayName>Đại Vụ Mê Thiên</DisplayName>
+      <StoryDesc>Trong mây cuộn sương giăng, giữa sương mù bao la, sương mù giăng kín trời. Xu thế hỏa +1, hệ số quang chiếu -0.2, cảm xúc -4.</StoryDesc>
+    </Text>
+    <Text Name="Melancholy">
+      <DisplayName>U Sầu Bao Phủ</DisplayName>
+      <StoryDesc>Trong nỗi u sầu bao phủ. Cảm xúc -4.</StoryDesc>
+    </Text>
+    <Text Name="SpringAir">
+      <DisplayName>Khí Xuân Lan Tỏa</DisplayName>
+      <StoryDesc>Trong hơi thở của mùa xuân. Cảm xúc +15, tỷ lệ yêu đương +0.70.05, tỷ lệ sinh sản của động vật +0.09.</StoryDesc>
+    </Text>
+    <Text Name="HarvestAir">
+      <DisplayName>Khí Thu Hoạch Hạnh Phúc</DisplayName>
+      <StoryDesc>Trong hơi thở của sự thu hoạch. Cảm xúc +25, hệ số độ màu mỡ đất +0.8.</StoryDesc>
+    </Text>
+    <Text Name="Ambiguous">
+      <DisplayName>Không Khí Ái Muội</DisplayName>
+      <StoryDesc>Trong không khí ái muội. Tỷ lệ yêu đương +0.01.</StoryDesc>
+    </Text>
+    <Text Name="Impetuous">
+      <DisplayName>Phù Táo Chi Phong</DisplayName>
+      <StoryDesc>Trong không khí nóng nảy. Cảm xúc -8.</StoryDesc>
+    </Text>
+    <Text Name="MouldRains">
+      <DisplayName>Mưa Mận Kéo Dài</DisplayName>
+      <StoryDesc>Trong mưa mận kéo dài, trong mưa dầm dề. Cảm xúc -10, nhiệt độ -3℃, xu thế hỏa -1, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.3, thuộc tính thủy của địa khối +2, gia tăng đột phá bình cảnh thuộc tính hỏa -0.02, gia tăng đột phá bình cảnh thuộc tính thủy +0.01, gia tăng đột phá bình cảnh thuộc tính mộc +0.02.</StoryDesc>
+    </Text>
+    <Text Name="Drought">
+      <DisplayName>Hạn Hán Khắc Nghiệt</DisplayName>
+      <StoryDesc>Trong cái nắng thiêu đốt. Cảm xúc -8, nhiệt độ +4℃, xu thế hỏa +0.75, hệ số quang chiếu +0.3, hệ số độ màu mỡ đất -0.5, gia tăng đột phá bình cảnh thuộc tính kim -0.04, gia tăng đột phá bình cảnh thuộc tính hỏa +0.02, gia tăng đột phá bình cảnh thuộc tính mộc +0.04.</StoryDesc>
+    </Text>
+    <Text Name="Rainstorm">
+      <DisplayName>Bạo Vũ Như Thác</DisplayName>
+      <StoryDesc>Trong cơn mưa bão như thác. Có thể xảy ra vào mùa hè và mùa đông. Cảm xúc -8, nhiệt độ -4℃, xu thế hỏa -0.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất -0.5, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Fohn">
+      <DisplayName>Phần Phong Dữ Dội</DisplayName>
+      <StoryDesc>Trong cơn gió cháy dữ dội. Có thể xảy ra vào mùa hè và mùa thu. Cảm xúc -8, nhiệt độ +8℃, xu thế hỏa +0.5, hệ số độ màu mỡ đất -0.3, thuộc tính hỏa của địa khối +6, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08.</StoryDesc>
+    </Text>
+    <Text Name="DustStorm">
+      <DisplayName>Trần Bạo Cuồng Nộ</DisplayName>
+      <StoryDesc>Trong cát vàng bay kín trời. Có thể xảy ra vào mùa xuân và mùa đông. Cảm xúc -8, nhiệt độ +6℃, xu thế hỏa +1, hệ số quang chiếu -0.5, hệ số độ màu mỡ đất -0.3, thuộc tính thổ của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thủy -0.08, gia tăng đột phá bình cảnh thuộc tính thổ +0.04, gia tăng đột phá bình cảnh thuộc tính kim +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LingRarefiedWave">
+      <DisplayName>Linh Khí Khô Kiệt</DisplayName>
+      <StoryDesc>Trong thủy triều linh khí khô cạn. Cảm xúc -4, xu thế hỏa +1, linh khí của địa khối -300.</StoryDesc>
+    </Text>
+    <Text Name="LingUpWave">
+      <DisplayName>Linh Khí Bùng Nổ</DisplayName>
+      <StoryDesc>Trong linh khí bùng nổ. Cảm xúc +16, xu thế hỏa +1, linh khí của địa khối +300.</StoryDesc>
+    </Text>
+    <Text Name="LingUpWave_Little">
+      <DisplayName>Linh Khí Lan Tỏa</DisplayName>
+      <StoryDesc>Trong linh khí lan tỏa. Linh khí của địa khối +150.</StoryDesc>
+    </Text>
+    <Text Name="HeatWave">
+      <DisplayName>Khốc Thử Bức Người</DisplayName>
+      <StoryDesc>Trong nhiệt độ cao như kim loại nóng chảy, dưới ánh mặt trời thiêu đốt. Cảm xúc -15, nhiệt độ +12℃, xu thế hỏa +0.8, gia tăng đột phá bình cảnh thuộc tính mộc, hỏa +0.04.</StoryDesc>
+    </Text>
+    <Text Name="ColdWave">
+      <DisplayName>Lãnh Đông Thấu Xương</DisplayName>
+      <StoryDesc>Trong gió lạnh cắt da, trong trời đất băng giá. Cảm xúc -15, nhiệt độ -18℃, xu thế hỏa -1, gia tăng đột phá bình cảnh thuộc tính kim, thủy +0.04.</StoryDesc>
+    </Text>
+    <Text Name="HeatWaveInWinter">
+      <DisplayName>Ngoan Lưu Ấm Áp</DisplayName>
+      <StoryDesc>Trong luồng khí ấm áp làm ấm lòng người, dưới ánh mặt trời mùa đông. Cảm xúc +15, nhiệt độ +8℃, gia tăng đột phá bình cảnh thuộc tính mộc, hỏa +0.04.</StoryDesc>
+    </Text>
+    <Text Name="ColdWaveInSummer">
+      <DisplayName>Lương Phong Thoáng Qua</DisplayName>
+      <StoryDesc>Trong cơn gió mát mùa hè, trong cơn gió mát lành làm say lòng người. Cảm xúc +15, nhiệt độ -10℃, gia tăng đột phá bình cảnh thuộc tính kim, thủy +0.04.</StoryDesc>
+    </Text>
+    <Text Name="PermanentNight">
+      <DisplayName>Vĩnh Dạ Bất Tận</DisplayName>
+      <StoryDesc>Dưới vĩnh dạ. Cảm xúc -15, nhiệt độ -12℃, xu thế hỏa +1, hệ số quang chiếu -0.6, hệ số độ màu mỡ đất -1, gia tăng đột phá bình cảnh thuộc tính kim, thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Miasma">
+      <DisplayName>Chướng Khí Mịt Mờ</DisplayName>
+      <StoryDesc>Trong chướng khí lan tỏa. Có thể xảy ra vào mùa xuân và mùa hè. Cảm xúc -15, xu thế hỏa +1, hệ số quang chiếu -0.2, thuộc tính mộc của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thổ -0.08, gia tăng đột phá bình cảnh thuộc tính mộc +0.04, gia tăng đột phá bình cảnh thuộc tính hỏa +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LightningStorm">
+      <DisplayName>Lôi Bạo Gầm Rống</DisplayName>
+      <StoryDesc>Trong cơn bão sấm gầm rống, trong rắn điện cuồng vũ. Có thể xảy ra vào mùa hè và mùa thu. Cảm xúc -8, xu thế hỏa +1, thuộc tính kim của địa khối +6, gia tăng đột phá bình cảnh thuộc tính mộc -0.08, gia tăng đột phá bình cảnh thuộc tính kim +0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LightningStormNoLong">
+      <DisplayName>Lôi Bạo Gầm Rống</DisplayName>
+      <StoryDesc>Trong cơn bão sấm gầm rống, trong rắn điện cuồng vũ. Có thể xảy ra vào mùa hè và mùa thu. Cảm xúc -8, xu thế hỏa +1, thuộc tính kim của địa khối +6, gia tăng đột phá bình cảnh thuộc tính mộc -0.08, gia tăng đột phá bình cảnh thuộc tính kim +0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="FohnNoFeng">
+      <DisplayName>Phần Phong Dữ Dội</DisplayName>
+      <StoryDesc>Trong cơn gió cháy dữ dội. Có thể xảy ra vào mùa hè và mùa thu. Cảm xúc -8, nhiệt độ +8℃, xu thế hỏa +0.5, hệ số độ màu mỡ đất -0.3, thuộc tính hỏa của địa khối +6, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Rainstorm_Long">
+      <DisplayName>Bạo Vũ Kéo Dài</DisplayName>
+      <StoryDesc>Trong cơn mưa bão như thác. Cảm xúc -8, nhiệt độ -4℃, xu thế hỏa -0.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất -0.5, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LuShu_SunnyDay">
+      <DisplayName>Thiên Quang Vạn Lý (Lộc Thử)</DisplayName>
+      <StoryDesc>Trời quang mây tạnh, vạn dặm không một áng mây, khí trời trong lành. Cảm xúc +15, nhiệt độ +3℃, xu thế hỏa +1, hệ số quang chiếu +0.2, gia tăng đột phá bình cảnh thuộc tính vô, kim, hỏa, thổ +0.02.</StoryDesc>
+    </Text>
+    <Text Name="Fei_HeavyRain">
+      <DisplayName>Đại Vũ Trút Nước (Phỉ)</DisplayName>
+      <StoryDesc>Mưa to xối xả, mưa lớn như trút, mưa như thác đổ. Cảm xúc -8, nhiệt độ -5℃, xu thế hỏa -0.8, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.5, thuộc tính thủy của địa khối +5, gia tăng đột phá bình cảnh thuộc tính hỏa -0.06, gia tăng đột phá bình cảnh thuộc tính thủy +0.03, gia tăng đột phá bình cảnh thuộc tính mộc +0.06, hệ số tỷ lệ mắc bệnh của môi trường +10.</StoryDesc>
+    </Text>
+    <Text Name="Fei_Overcast">
+      <DisplayName>Âm U Bao Phủ (Phỉ)</DisplayName>
+      <StoryDesc>Mây đen giăng kín trời, hắc vân cuộn trào, mây mù giăng lối. Cảm xúc -4, nhiệt độ -3℃, xu thế hỏa +1.5, hệ số quang chiếu -0.35, gia tăng đột phá bình cảnh thuộc tính vô, mộc, thủy, thổ +0.02.</StoryDesc>
+    </Text>
+    <Text Name="MuYu_LightRain">
+      <DisplayName>Tiểu Vũ Rả Rích (Mộc Vũ Kiếm)</DisplayName>
+      <StoryDesc>Mưa bay lất phất, mưa nhỏ nhẹ nhàng, mưa nhỏ như tơ. Cảm xúc +4, nhiệt độ -3℃, xu thế hỏa -1.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.3, thuộc tính thủy của địa khối +2, gia tăng đột phá bình cảnh thuộc tính hỏa -0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.02, gia tăng đột phá bình cảnh thuộc tính mộc +0.04.</StoryDesc>
+    </Text>
+    <Text Name="SpringFestival">
+      <DisplayName>Xuân Tiết</DisplayName>
+      <StoryDesc>Trong không khí Xuân Tiết, niềm vui Tân Xuân. Cảm xúc +25, linh khí của địa khối +150 (tương đương nửa lần linh khí bùng nổ).</StoryDesc>
+    </Text>
+    <Text Name="ZuShiBiHu">
+      <DisplayName>Tiên Giới Khí Tức</DisplayName>
+      <StoryDesc>Hơi thở của Tiên giới.</StoryDesc>
+    </Text>
+  </List>
+</Texts>
