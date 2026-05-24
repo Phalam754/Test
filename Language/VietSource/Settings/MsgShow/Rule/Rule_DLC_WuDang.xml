@@ -1,0 +1,14 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="School_13">
+      <DisplayName>Môn Phái Ngoại Giao - Vũ Đương Phái</DisplayName>
+      <Desc>Tại cùng phái Võ Đang liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+  </List>
+</Texts>
