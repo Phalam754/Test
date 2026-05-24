@@ -1,0 +1,22 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="BuildCurb1">
+      <DisplayName>Trở Ngại</DisplayName>
+      <Desc>Kiến thiết kỳ quan quá trình bên trong, đột nhiên có mấy người ra nháo sự, bọn hắn nói cái gì nơi này phong thuỷ không đối.</Desc>
+      <Selections.0.Display>Cầm cây gậy đánh chết bọn hắn</Selections.0.Display>
+      <Selections.1.Display>Cùng bọn hắn tranh luận phong thuỷ</Selections.1.Display>
+    </Text>
+    <Text Name="BuildCurb2">
+      <DisplayName>Trở Ngại</DisplayName>
+      <Desc>Kiến thiết kỳ quan quá trình bên trong, đột nhiên có ít người tới hỏi thăm đang làm gì.</Desc>
+      <Selections.0.Display>Không rảnh để ý</Selections.0.Display>
+      <Selections.1.Display>Giảng giải</Selections.1.Display>
+    </Text>
+    <Text Name="BuildCurb3">
+      <DisplayName>Trở Ngại</DisplayName>
+      <Desc>Kiến thiết kỳ quan quá trình bên trong, có một đám người muốn cho chúng ta phát thưởng lệ.</Desc>
+      <Selections.0.Display>Để bọn hắn ngày mai lại đến</Selections.0.Display>
+      <Selections.1.Display>Nhận lấy ban thưởng</Selections.1.Display>
+    </Text>
+  </List>
+</Texts>
