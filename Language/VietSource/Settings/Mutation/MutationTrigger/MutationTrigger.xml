@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_TaiShi">
+			<DisplayName>Thái Sơ</DisplayName>
+			<Desc>Bắt đầu trò chơi mới với 3 sự kiện Hỗn Độn Thiên Đạo Vĩnh Hằng.</Desc>
+			<Trigger.StartGame.Extent.Desc>Một câu chuyện mới mở ra, Thái Sơ Thiên Đạo khuấy động...</Trigger.StartGame.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhong">
+			<DisplayName>Thái Trọng</DisplayName>
+			<Desc>Cứ mỗi 10/50/100 ngày, kích hoạt 1 Hỗn Độn Thiên Đạo Biến Động/Âm Dương/Vĩnh Hằng.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>Thời gian trôi qua, thế giới đã xảy ra một số thay đổi..</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>Thời gian trôi qua, thế giới này đã trải qua những thay đổi..</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>Thời gian trôi qua, thế giới này trải qua những thay đổi lớn...</Trigger.Time.Days.2.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhen">
+			<DisplayName>Thái Trăn</DisplayName>
+			<Desc>Mỗi lần danh tiếng Tông môn tăng 1 cấp độ kích hoạt 1 Hỗn Độn Thiên Đạo Âm Dương; mỗi 6 lần kích hoạt sẽ dẫn đến 1 Hỗn Độn Thiên Đạo Vĩnh Hằng.</Desc>
+			<TriggerInfo.Desc>Cấp độ Tông môn tăng lên, kích hoạt Thái Trăn Thiên Đạo</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>Danh tiếng của [SCHOOL] đã tăng lên, kích hoạt Thái Trăn Thiên Đạo...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>Danh tiếng của [SCHOOL] tăng vọt, trở nên nổi tiếng khắp thế gian, bất ngờ kích hoạt Thái Trăn, một trong những Thiên Đạo.</Trigger.School.Score.1.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXu">
+			<DisplayName>Thái Hư</DisplayName>
+			<Desc>Mỗi lần đệ tử Tông môn đột phá có cơ hội kích hoạt Hỗn Độn Thiên Đạo một lần</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] vừa bước lên con đường tu tiên, kích hoạt Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>Tu vi của [NPC] đã tiến bộ, kích hoạt Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] đã thoáng thấy đại đạo, gây ra một sự biến động bất thường trong Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] đạt được sự khai sáng và phi thăng, kích hoạt một sự hỗn loạn trong Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXuan">
+			<DisplayName>Thái Huyền</DisplayName>
+			<Desc>Không thể tự chọn hiệu ứng của Hỗn Độn Thiên Đạo Biến Động hoặc Âm Dương</Desc>
+		</Text>
+		<Text Name="Mutation_TaiYi">
+			<DisplayName>Thái Nhất</DisplayName>
+			<Desc>Sau khi Hỗn Độn Thiên Đạo Biến Động có hiệu lực, có cơ hội đặt lại một hiệu ứng</Desc>
+		</Text>
+		<Text Name="Mutation_TaiJi">
+			<DisplayName>Thái Cực</DisplayName>
+			<Desc>Khi nhận được Hỗn Độn Thiên Đạo Biến Động hoặc Âm Dương, mở rộng phạm vi ngẫu nhiên của các hiệu ứng hỗn độn.</Desc>
+		</Text>
+	</List>
+</Texts>
