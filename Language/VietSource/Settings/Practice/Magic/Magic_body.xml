@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Body_ModifierTest">
+      <Desc>Thần thông thử nghiệm thêm Modifier, giải phóng lại sẽ xóa</Desc>
+    </Text>
+    <Text Name="Magic_Body_JingXi">
+      <DisplayName>Kình Tức Thổ Nạp Pháp</DisplayName>
+      <Desc>Kích hoạt thổ nạp kịch liệt tại địa điểm mục tiêu, hiệu suất gấp trăm lần bình thường (thổ nạp 18 giây, hiệu quả tương đương với thổ nạp bình thường 1800 giây). Sau khi thi triển pháp này, phổi phải chịu gánh nặng quá lớn, trong mười ngày hiệu suất thổ nạp giảm mạnh (hiệu ứng thổ nạp bổ sung -100).</Desc>
+      <TargetDesc>Chọn một địa điểm để thổ nạp</TargetDesc>
+    </Text>
+    <Text Name="Magic_Body_TuJin">
+      <DisplayName>Nuốt Hết Chi Khẩu</DisplayName>
+      <Desc>Khai mở Nuốt Hết Chi Khẩu, khai mở bí thể này sẽ đẩy nhanh quá trình vận hành cơ thể, và cưỡng chế hấp thu dưỡng chất trong trời đất để bồi bổ bản thân (tốc độ mất tuổi thọ +500, hiệu suất hấp thụ khí +2). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_Body_ChiYi1">
+      <DisplayName>Đời Này Thoáng Chốc</DisplayName>
+      <Desc>Dùng chân khí do Thể bài xích dị sản sinh ra để vận hành khắp cơ thể, làm tăng mạnh tốc độ tiêu hao sinh mệnh, làm tăng mạnh tốc độ tôi thể (tốc độ mất tuổi thọ +500, tốc độ tôi thể +5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_Body_ChiYi2">
+      <DisplayName>Đời Này Hư Vọng</DisplayName>
+      <Desc>Dùng chân khí do Thể bài xích dị sản sinh ra để vận hành khắp cơ thể, làm tăng mạnh tốc độ tiêu hao sinh mệnh, làm tăng mạnh hiệu suất tôi luyện (hiệu ứng tôi luyện tỷ lệ xuất hiện hướng tiến hóa hiếm +0.5, hiệu ứng tôi luyện tỷ lệ xuất hiện hướng tiến hóa lạ +2, hiệu ứng tôi luyện tỷ lệ xuất hiện hướng tiến hóa siêu phàm +3, hiệu ứng tôi luyện tỷ lệ xuất hiện hướng tiến hóa sử thi +5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_Body_Banyunqixue">
+      <DisplayName>Vận Chuyển Khí Huyết</DisplayName>
+      <Desc>Tiêu hao 50 tinh hoa sinh cơ, vận chuyển khí huyết khắp cơ thể, hồi phục thương thế bản thân (tỷ lệ tự hồi phục thể chất của người luyện thể +0.01), kéo dài 100 giây.</Desc>
+    </Text>
+  </List>
+</Texts>
