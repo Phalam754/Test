@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Card_Debug">
+			<DisplayName>Thất Lạc Chi Đạo</DisplayName>
+			<Desc>Do nguyên nhân không rõ, luồng hỗn độn này chỉ còn lại một tia khí tức tàn dư, không thể thi triển bất kỳ hiệu quả nào.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
+			<DisplayName>Dã Thú Yêu Biến</DisplayName>
+			<Desc>Dã thú sau khi tử vong có khả năng sẽ biến dị thành yêu thú.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ElixirGas">
+			<DisplayName>Đan Khí Doanh Mãn</DisplayName>
+			<Desc>Luyện đan thành công sẽ thúc đẩy Ngũ Hành Đan Khí trong khu vực thăng hoa, tùy theo tỉ lệ mà mang lại các loại hiệu ứng khác nhau.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LifeLost">
+			<DisplayName>Sát Na Thiên Mệnh</DisplayName>
+			<Desc>Phục dụng linh dược sẽ giảm bớt kháng dược tính, nhưng thọ nguyên của nhân vật sẽ tiêu hao với tốc độ gấp 100 lần.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
+			<DisplayName>Thâm Nham Chi Chú</DisplayName>
+			<Desc>Tăng mạnh tỉ lệ đào được Thái Cổ Bảo Hạp, nhưng đệ tử khai khoáng sẽ phải trả giá bằng tính mạng.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LinQiSurge">
+			<DisplayName>Thiên Tượng Uy Nghi</DisplayName>
+			<Desc>Mỗi khi thiên tượng biến hóa sẽ kèm theo Linh Khí triều tịch, nhưng cưỡng ép thay đổi thiên tượng sẽ tiêu hao một mạng người.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
+			<DisplayName>Trục Lợi Nhân Tâm</DisplayName>
+			<Desc>Thương nhân bán ra giảm nửa giá, mua vào tăng gấp đôi, nhưng trong một chu kỳ giao dịch, hàng hóa càng mua càng đắt, nguyên liệu càng bán càng rẻ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
+			<DisplayName>Ngũ Hành Nghịch Chuyển</DisplayName>
+			<Desc>Quan hệ tương sinh tương khắc của Ngũ Hành bị đảo ngược một lần.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
+			<DisplayName>Phù Đạo Băng Huyệt</DisplayName>
+			<Desc>Không thể thủ công vẽ phù, khi vẽ phù sẽ xuất hiện kết quả ngẫu nhiên. Nhân vật có thể kích hoạt nhiều đạo phù hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
+			<DisplayName>Thần Công Thiên Thành</DisplayName>
+			<Desc>Luyện khí chắc chắn thành công, nhưng sẽ tiêu hao cực nhiều tài nguyên.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
+			<DisplayName>Thế Giới Hòa Hợp</DisplayName>
+			<Desc>Độ hảo cảm của tu sĩ ngoại giới tăng mạnh, có thể trực tiếp đánh tan tâm phòng, nhưng tu sĩ khác cũng sẽ tự động tránh né nguy hiểm.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RealTime">
+			<DisplayName>Thời Không Trục Biến</DisplayName>
+			<Desc>Thời gian kích hoạt của tất cả bí văn rút ngắn còn 1/3, thời gian đệ tử đóng giữ bên ngoài sẽ chuyển thành thời gian thực.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_SupplyBox">
+			<DisplayName>Mạt Thế Di Trạch</DisplayName>
+			<Desc>Sương mù trên bản đồ tự động tiêu tan. Toàn thế giới không thể thu hoạch từ đồ tể, thu hoạch, khai khoáng hay chặt cây, nhưng mỗi ngày trong tông môn sẽ có linh kiện tiếp tế từ trên trời rơi xuống.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
+			<DisplayName>Cửu Châu Thông Lạc</DisplayName>
+			<Desc>Khi đạt được danh vọng, điểm số sẽ ngẫu nhiên là chính hoặc tà, hệ số nhân danh vọng dao động ngẫu nhiên từ 0.1 đến 10 lần.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_UnlockGong">
+			<DisplayName>Đạo Quả Lung Lay</DisplayName>
+			<Desc>Trúc Cơ giá trị và Tu Vi giá trị yêu cầu tăng gấp 5 lần. Toàn bộ công pháp hiện tại đều mở ra cho tất cả tu sĩ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yang">
+			<DisplayName>Cực Dương Chi Địa</DisplayName>
+			<Desc>Phong thủy tông môn vĩnh viễn đạt mức cao nhất, hiệu quả tụ linh cơ bản tăng 100 điểm, toàn bộ linh điền phụ gia thuộc tính Hỏa và Mộc, nhưng nhiệt độ cơ bản tăng thêm 20°C.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yin">
+			<DisplayName>Cực Âm Chi Địa</DisplayName>
+			<Desc>Phong thủy tông môn vĩnh viễn đạt mức cao nhất, hiệu quả tụ linh cơ bản tăng 100 điểm, toàn bộ linh điền phụ gia thuộc tính Kim và Thủy, nhưng nhiệt độ cơ bản giảm xuống 20°C.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_1">
+			<DisplayName>Liệp Sát Giả: Linh Thỏ</DisplayName>
+			<Desc>Trảm sát 7 con thỏ để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_2">
+			<DisplayName>Liệp Sát Giả: Lang Yêu</DisplayName>
+			<Desc>Trảm sát 5 con sói để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_3">
+			<DisplayName>Liệp Sát Giả: Bạo Hùng</DisplayName>
+			<Desc>Trảm sát 3 con gấu để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_4">
+			<DisplayName>Liệp Sát Giả: Linh Quy</DisplayName>
+			<Desc>Trảm sát 7 con rùa để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_5">
+			<DisplayName>Liệp Sát Giả: Mãnh Hổ</DisplayName>
+			<Desc>Trảm sát 5 con hổ để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_6">
+			<DisplayName>Liệp Sát Giả: Linh Ngưu</DisplayName>
+			<Desc>Trảm sát 5 con bò để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_7">
+			<DisplayName>Liệp Sát Giả: Linh Kê</DisplayName>
+			<Desc>Trảm sát 7 con gà để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_8">
+			<DisplayName>Liệp Sát Giả: Linh Xà</DisplayName>
+			<Desc>Trảm sát 5 con rắn để nhận kỳ vật. Lần tới yêu cầu sẽ tăng gấp bội.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_1">
+			<DisplayName>Hoài Bích Kỳ Tội</DisplayName>
+			<Desc>Đạt được vài món hiếm thế trân bảo, nhưng hảo cảm của tất cả tông môn đối với ta sẽ giảm mạnh.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
+			<DisplayName>Tiên Căn Thiên Phú</DisplayName>
+			<Desc>Ngoại môn đệ tử đạt được khả năng phi hành, nhưng yêu cầu về phòng ốc sẽ tăng lên.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_2">
+			<DisplayName>Thiên Giáng Hồng Phúc</DisplayName>
+			<Desc>Mỗi khi cấp bậc danh vọng của tông môn tăng lên sẽ nhận được một kiện kỳ vật.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Sacrific">
+			<DisplayName>Tế Ma Đại Điển</DisplayName>
+			<Desc>Mở khóa nghi thức Huyết Tế Yêu Thú, nhưng mỗi lần hiến tế sẽ chọc giận Ma Điện (thực hiện tại Tổ Linh Đài).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FengShuiChange">
+			<DisplayName>Nghịch Thiên Tông Môn</DisplayName>
+			<Desc>Toàn bộ đệ tử tư chất bất phàm, tất cả năng lực +2 (tăng giới hạn), nhưng tông môn bị trời ganh ghét, khiến tất cả cổ tích vĩnh viễn đại hung.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
+			<DisplayName>Thâm Sơn Ẩn Sĩ</DisplayName>
+			<Desc>Đệ tử tông môn ẩn cư tu hành, chuyên tâm luyện khí nhưng dần lơ là kỹ năng lịch luyện; năng lực liên quan đến lịch luyện giảm mạnh, kỹ năng Luyện Khí +5 (tăng giới hạn), kỹ năng Luyện Đan +5 (tăng giới hạn), khả năng học tập được cải thiện.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
+			<DisplayName>Xảo Ngôn Thiện Giao</DisplayName>
+			<Desc>Đệ tử tông môn hoạt bát thiện giao, nhưng tâm tính phù táo khó có thể tập trung tu hành; tâm cảnh giảm xuống, Thủ Nghệ +5 (tăng giới hạn), Xã Giao +5 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
+			<DisplayName>Tị Khinh Tự Trọng</DisplayName>
+			<Desc>Đệ tử tông môn không ngại gian khổ, giỏi về việc nặng nhưng đâm ra bài xích các công việc tinh tế; năng lực thủ công giảm mạnh, kỹ năng Xây Dựng +10, kỹ năng Khai Khoáng +10.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
+			<DisplayName>Dĩ Quyền Chứng Đạo</DisplayName>
+			<Desc>Đệ tử tông môn tinh thông võ đạo nhưng vụng về trong ngôn từ; Xã Giao -5, Chiến Đấu +5 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
+			<DisplayName>Thôn Phệ Linh Khí</DisplayName>
+			<Desc>Đệ tử tông môn hòa hợp thiên địa, Linh Cảm cực giai, nhưng cũng vì thế mà dễ đói khát và mệt mỏi (Linh Cảm +10).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
+			<DisplayName>Diên Niên Ích Thọ</DisplayName>
+			<Desc>Đệ tử tông môn chú trọng dưỡng sinh, nhạy cảm với phong hàn nhưng thọ nguyên sẽ dài lâu hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
+			<DisplayName>Thần Ngộ Thiên Đạo</DisplayName>
+			<Desc>Toàn bộ đệ tử dễ dàng cảm ngộ đại đạo, tăng mạnh giới hạn Linh Khí, nhưng Thiên Kiếp cũng sẽ đến sớm hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
+			<DisplayName>Dĩ Thủ Vi Công</DisplayName>
+			<Desc>Đệ tử tông môn say mê phòng ngự, bài xích sát chiêu, tinh thông lấy thủ thay công. Chiến Đấu -5, Hộ Thân +5 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
+			<DisplayName>Si Mê Thuật Pháp</DisplayName>
+			<Desc>Đệ tử tông môn đắm chìm trong thuật pháp, kỹ nghệ tinh tiến nhưng lơ là tu vi; tốc độ tu luyện giảm mạnh, Pháp Thuật +10 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
+			<DisplayName>Nhất Nhân Đắc Đạo</DisplayName>
+			<Desc>Một người phi thăng, toàn bộ đệ tử tông môn sẽ được gia trì tốc độ Trúc Cơ và tu luyện cực mạnh trong đoản kỳ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
+			<DisplayName>Sát Lục Chứng Đạo</DisplayName>
+			<Desc>Dưới thiên đạo hỗn loạn, tốc độ Trúc Cơ và tu luyện giảm mạnh. Tuy nhiên, nội môn đệ tử có thể thông qua việc trảm sát tu sĩ Kim Đan kỳ trở lên để đoạt lấy tu vi.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
+			<DisplayName>Si Mê Ngự Khí</DisplayName>
+			<Desc>Đệ tử tông môn đắm chìm trong ngự khí chi thuật, kỹ nghệ tinh tiến nhưng lơ là học vấn; tốc độ học tập giảm mạnh, Ngự Khí +5 (tăng giới hạn).</Desc>
+		</Text>
+	</List>
+</Texts>
