@@ -1,0 +1,53 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="TreePoplar" sParam="Plant">
+      <ThingName>Cây bạch dương</ThingName>
+      <Desc>Một loài cây phát triển nhanh, thân gỗ mịn và bền, là nguồn gỗ chất lượng cao. Sản xuất 4 gỗ thô. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="TreePine" sParam="Plant">
+      <ThingName>Cây thông</ThingName>
+      <Desc>Một loài cây phát triển chậm, thân hình thẳng đứng, gỗ cứng và không héo úa. Sản xuất 6 gỗ thô. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="TreePine_Big" sParam="Plant">
+      <ThingName>Cây thông khổng lồ</ThingName>
+      <Desc>Cây thông có tuổi đời rất cao. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="TreePear" sParam="Plant">
+      <ThingName>Cây lê</ThingName>
+      <Desc>Một loại cây ăn quả phổ biến, gỗ mịn nhưng không chịu được sự ăn mòn, sản lượng gỗ rất thấp. Sản xuất 1 gỗ thô. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="TreeGinkgo" sParam="Plant">
+      <ThingName>Cây bạch quả</ThingName>
+      <Desc>Một loại cây thân gỗ phát triển chậm, có linh tính, quả của nó có thể ăn để lấp đầy cơn đói và có giá trị y học không nhỏ. Sản xuất 4 gỗ thô. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+, Linh khí: 3+.</Desc>
+    </Text>
+    <Text Name="TreeGinkgo_Big" sParam="Plant">
+      <ThingName>Cây bạch quả khổng lồ</ThingName>
+      <Desc>Cây bạch quả cổ thụ có tuổi đời cao, khổng lồ và tràn ngập linh khí. Nhiệt độ: 0℃~50℃, Độ màu mỡ: 0.6+, Linh khí: 3+.</Desc>
+    </Text>
+    <Text Name="TreeGinkgo_Dead" sParam="Plant">
+      <ThingName>Ngô đồng khô héo</ThingName>
+      <Desc>Cây ngô đồng đã khô héo, nhưng vẫn cao lớn bất thường.</Desc>
+    </Text>
+    <Text Name="PintuBase" sParam="Plant">
+      <ThingName>Dành riêng cho ghép hình</ThingName>
+    </Text>
+    <Text Name="TreePeach" sParam="Plant">
+      <ThingName>Cây đào</ThingName>
+      <Desc>Cây hoa đào.</Desc>
+      <StoryBnts.0.Name>Thu thập mẫu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng thu thập mẫu của cảnh vật này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="TreeJade" sParam="Plant">
+      <ThingName>Cây ngọc</ThingName>
+      <Desc>Cây ngọc.</Desc>
+      <StoryBnts.0.Name>Thu thập mẫu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng thu thập mẫu của cảnh vật này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="TreeBone" sParam="Plant">
+      <ThingName>Sát thần mộc</ThingName>
+      <Desc>Sát thần mộc.</Desc>
+      <StoryBnts.0.Name>Thu thập mẫu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng thu thập mẫu của cảnh vật này</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>
