@@ -1,0 +1,1543 @@
+<SpecialNames><List>
+<SpecialItem Name="Item_HomeFood">
+<Item_BambooShoot>
+<li Name="Rau trộn măng" Desc=""/>
+<li Name="Xào măng" Desc=""/>
+<li Name="Kho nước non măng" Desc=""/>
+<li Name="Măng xào thịt" Desc=""/>
+<li Name="Hương cay giòn măng" Desc=""/>
+<li Name="Dầu muộn măng" Desc=""/>
+<li Name="Măng xào thịt khô" Desc=""/>
+</Item_BambooShoot>
+<Fish_StoneCrab>
+<li Name="Cua hấp" Desc=""/>
+<li Name="Con cua canh" Desc=""/>
+<li Name="Việc nhà xào con cua" Desc=""/>
+<li Name="Thịt cua cháo" Desc=""/>
+<li Name="Đậu hũ hầm cua" Desc=""/>
+<li Name="Cay kho cua" Desc=""/>
+<li Name="Hương kho cua" Desc=""/>
+<li Name="Thịt cua cơm chiên" Desc=""/>
+</Fish_StoneCrab>
+<Fish_ChillyCrab>
+<li Name="Cua hấp" Desc=""/>
+<li Name="Con cua canh" Desc=""/>
+<li Name="Việc nhà xào con cua" Desc=""/>
+<li Name="Thịt cua cháo" Desc=""/>
+<li Name="Đậu hũ hầm cua" Desc=""/>
+<li Name="Cay kho cua" Desc=""/>
+<li Name="Hương kho cua" Desc=""/>
+<li Name="Thịt cua cơm chiên" Desc=""/>
+</Fish_ChillyCrab>
+<Fish_JadeCrab>
+<li Name="Cua hấp" Desc=""/>
+<li Name="Con cua canh" Desc=""/>
+<li Name="Việc nhà xào con cua" Desc=""/>
+<li Name="Thịt cua cháo" Desc=""/>
+<li Name="Đậu hũ hầm cua" Desc=""/>
+<li Name="Cay kho cua" Desc=""/>
+<li Name="Hương kho cua" Desc=""/>
+<li Name="Thịt cua cơm chiên" Desc=""/>
+</Fish_JadeCrab>
+<Fish_FireCrab>
+<li Name="Cua hấp" Desc=""/>
+<li Name="Con cua canh" Desc=""/>
+<li Name="Việc nhà xào con cua" Desc=""/>
+<li Name="Thịt cua cháo" Desc=""/>
+<li Name="Đậu hũ hầm cua" Desc=""/>
+<li Name="Cay kho cua" Desc=""/>
+<li Name="Hương kho cua" Desc=""/>
+<li Name="Thịt cua cơm chiên" Desc=""/>
+</Fish_FireCrab>
+
+<Fish_r2>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r2>
+<Fish_r3>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r3>
+<Fish_r4>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r4>
+<Fish_r5>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r5>
+<Fish_r6>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r6>
+<Fish_r7>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r7>
+<Fish_r8>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r8>
+<Fish_r9>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r9>
+<Fish_r10>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r10>
+<Fish_r11>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r11>
+<Fish_r12>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r12>
+<Fish_r13>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_r13>
+
+<Fish_BaiHuang>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_BaiHuang>
+<Fish_Black>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_Black>
+<Fish_BlueFish>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_BlueFish>
+<Fish_FenLi>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_FenLi>
+<Fish_HongGui>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_HongGui>
+<Fish_HongHuang>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_HongHuang>
+<Fish_Huang>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_Huang>
+<Fish_Ji>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_Ji>
+<Fish_QingHei>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_QingHei>
+<Fish_RedFish>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_RedFish>
+<Fish_s1>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s1>
+<Fish_s10>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s10>
+<Fish_s11>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s11>
+<Fish_s12>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s12>
+<Fish_s2>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s2>
+<Fish_s3>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s3>
+<Fish_s4>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s4>
+<Fish_s5>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s5>
+<Fish_s6>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s6>
+<Fish_s7>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s7>
+<Fish_s8>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s8>
+<Fish_s9>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_s9>
+<Fish_t1>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t1>
+<Fish_t10>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t10>
+<Fish_t11>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t11>
+<Fish_t12>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t12>
+<Fish_t2>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t2>
+<Fish_t3>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t3>
+<Fish_t4>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t4>
+<Fish_t5>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t5>
+<Fish_t6>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t6>
+<Fish_t7>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t7>
+<Fish_t8>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t8>
+<Fish_t9>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_t9>
+<Fish_XieLi>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_XieLi>
+<Shrimp1>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp1>
+<Shrimp2>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp2>
+<Shrimp3>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp3>
+<Shrimp4>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp4>
+<Shrimp5>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp5>
+<Shrimp6>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp6>
+<Shrimp7>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp7>
+<Shrimp8>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp8>
+<Shrimp9>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp9>
+<Shrimp10>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp10>
+<Shrimp11>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp11>
+<Shrimp12>
+<li Name="Hấp tôm" Desc=""/>
+<li Name="Xào tôm bóc vỏ" Desc=""/>
+</Shrimp12>
+</SpecialItem>
+<SpecialItem Name="Item_DeliciousFood">
+<Item_BambooShoot>
+<li Name="Măng xương sườn" Desc=""/>
+<li Name="Nướng măng" Desc=""/>
+<li Name="Thanh duẩn xào mộc nhĩ" Desc=""/>
+<li Name="Tam sắc măng sợi" Desc=""/>
+<li Name="Đậu rang măng" Desc=""/>
+<li Name="Măng chua bún" Desc=""/>
+<li Name="Trứng xào măng" Desc=""/>
+</Item_BambooShoot>
+
+<Fish_StoneCrab>
+<li Name="Thịt cua nấu" Desc=""/>
+<li Name="Hương cay cua" Desc=""/>
+<li Name="Hấp chân cua" Desc=""/>
+<li Name="Gạch cua fan hâm mộ nấu" Desc=""/>
+<li Name="Say cua" Desc=""/>
+<li Name="Thịt cua đậu hũ" Desc=""/>
+<li Name="Tương bạo thu cua" Desc=""/>
+</Fish_StoneCrab>
+<Fish_ChillyCrab>
+<li Name="Thịt cua nấu" Desc=""/>
+<li Name="Hương cay cua" Desc=""/>
+<li Name="Hấp chân cua" Desc=""/>
+<li Name="Gạch cua fan hâm mộ nấu" Desc=""/>
+<li Name="Say cua" Desc=""/>
+<li Name="Thịt cua đậu hũ" Desc=""/>
+<li Name="Tương bạo thu cua" Desc=""/>
+</Fish_ChillyCrab>
+<Fish_JadeCrab>
+<li Name="Thịt cua nấu" Desc=""/>
+<li Name="Hương cay cua" Desc=""/>
+<li Name="Hấp chân cua" Desc=""/>
+<li Name="Gạch cua fan hâm mộ nấu" Desc=""/>
+<li Name="Say cua" Desc=""/>
+<li Name="Thịt cua đậu hũ" Desc=""/>
+<li Name="Tương bạo thu cua" Desc=""/>
+</Fish_JadeCrab>
+<Fish_FireCrab>
+<li Name="Thịt cua nấu" Desc=""/>
+<li Name="Hương cay cua" Desc=""/>
+<li Name="Hấp chân cua" Desc=""/>
+<li Name="Gạch cua fan hâm mộ nấu" Desc=""/>
+<li Name="Say cua" Desc=""/>
+<li Name="Thịt cua đậu hũ" Desc=""/>
+<li Name="Tương bạo thu cua" Desc=""/>
+</Fish_FireCrab>
+
+<Fish_r2>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r2>
+<Fish_r3>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r3>
+<Fish_r4>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r4>
+<Fish_r5>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r5>
+<Fish_r6>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r6>
+<Fish_r7>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r7>
+<Fish_r8>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r8>
+<Fish_r9>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r9>
+<Fish_r10>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r10>
+<Fish_r11>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r11>
+<Fish_r12>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r12>
+<Fish_r13>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_r13>
+
+<Fish_BaiHuang>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_BaiHuang>
+<Fish_Black>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_Black>
+<Fish_BlueFish>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_BlueFish>
+<Fish_FenLi>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_FenLi>
+<Fish_HongGui>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_HongGui>
+<Fish_HongHuang>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_HongHuang>
+<Fish_Huang>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_Huang>
+<Fish_Ji>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_Ji>
+<Fish_QingHei>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_QingHei>
+<Fish_RedFish>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_RedFish>
+<Fish_s1>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s1>
+<Fish_s10>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s10>
+<Fish_s11>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s11>
+<Fish_s12>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s12>
+<Fish_s2>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s2>
+<Fish_s3>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s3>
+<Fish_s4>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s4>
+<Fish_s5>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s5>
+<Fish_s6>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s6>
+<Fish_s7>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s7>
+<Fish_s8>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s8>
+<Fish_s9>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_s9>
+<Fish_t1>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t1>
+<Fish_t10>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t10>
+<Fish_t11>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t11>
+<Fish_t12>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t12>
+<Fish_t2>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t2>
+<Fish_t3>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t3>
+<Fish_t4>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t4>
+<Fish_t5>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t5>
+<Fish_t6>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t6>
+<Fish_t7>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t7>
+<Fish_t8>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t8>
+<Fish_t9>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_t9>
+<Fish_XieLi>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_XieLi>
+<Shrimp1>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp1>
+<Shrimp2>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp2>
+<Shrimp3>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp3>
+<Shrimp4>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp4>
+<Shrimp5>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp5>
+<Shrimp6>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp6>
+<Shrimp7>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp7>
+<Shrimp8>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp8>
+<Shrimp9>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp9>
+<Shrimp10>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp10>
+<Shrimp11>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp11>
+<Shrimp12>
+<li Name="Hoàng kim tôm bóc vỏ cơm chiên" Desc=""/>
+<li Name="Sủi cảo tôm hoàng" Desc=""/>
+</Shrimp12>
+</SpecialItem>
+<SpecialItem Name="Item_DelicacyFood">
+<Item_BambooShoot>
+<li Name="Mai thịt măng mùa xuân" Desc="Đem thịt ba chỉ cùng mới mẻ măng cùng nhau để vào trong nồi, cũng thêm nhập thiệu rượu muộn nấu. Mở đóng trong nháy mắt, mùi thơm nức mũi, khiến người thèm nhỏ dãi."/>
+<li Name="Ngọc bản hoành nhánh" Desc="Áp dụng mùa xuân tươi non măng, cắt thành mảnh nhỏ về sau tiến hành đao công hoa văn trang sức, bày ra ngọc thụ dáng vẻ, sắc vị đều tốt."/>
+</Item_BambooShoot>
+
+<Fish_StoneCrab>
+<li Name="Long bào thang bao" Desc="Đem mới mẻ gạch cua cùng thịt hỗn hợp, lại dùng hơi mỏng da mặt bao khỏa làm thành bánh bao hấp dáng vẻ, chưng nấu sau toàn bộ bánh bao bên trong đều bị kim hoàng cua dầu lấp đầy, có truyền ngôn Hoàng đế liền long bào có không muốn cũng muốn hút vào một ngụm."/>
+<li Name="Hoàng tửu chưng cua" Desc="Sử dụng thượng hạng hoàng tửu chưng nấu Vãn Thu con cua, hoàng tửu có thể đi trừ thịt cua bên trong âm hàn, bổ sung dương khí. Thịt cua thơm ngon cảm giác cùng hoàng tửu cam thuần hoàn mỹ dung hợp, chính là nhân gian tuyệt phối."/>
+</Fish_StoneCrab>
+<Fish_ChillyCrab>
+<li Name="Long bào thang bao" Desc="Đem mới mẻ gạch cua cùng thịt hỗn hợp, lại dùng hơi mỏng da mặt bao khỏa làm thành bánh bao hấp dáng vẻ, chưng nấu sau toàn bộ bánh bao bên trong đều bị kim hoàng cua dầu lấp đầy, có truyền ngôn Hoàng đế liền long bào có không muốn cũng muốn hút vào một ngụm."/>
+<li Name="Hoàng tửu chưng cua" Desc="Sử dụng thượng hạng hoàng tửu chưng nấu Vãn Thu con cua, hoàng tửu có thể đi trừ thịt cua bên trong âm hàn, bổ sung dương khí. Thịt cua thơm ngon cảm giác cùng hoàng tửu cam thuần hoàn mỹ dung hợp, chính là nhân gian tuyệt phối."/>
+</Fish_ChillyCrab>
+<Fish_JadeCrab>
+<li Name="Long bào thang bao" Desc="Đem mới mẻ gạch cua cùng thịt hỗn hợp, lại dùng hơi mỏng da mặt bao khỏa làm thành bánh bao hấp dáng vẻ, chưng nấu sau toàn bộ bánh bao bên trong đều bị kim hoàng cua dầu lấp đầy, có truyền ngôn Hoàng đế liền long bào có không muốn cũng muốn hút vào một ngụm."/>
+<li Name="Hoàng tửu chưng cua" Desc="Sử dụng thượng hạng hoàng tửu chưng nấu Vãn Thu con cua, hoàng tửu có thể đi trừ thịt cua bên trong âm hàn, bổ sung dương khí. Thịt cua thơm ngon cảm giác cùng hoàng tửu cam thuần hoàn mỹ dung hợp, chính là nhân gian tuyệt phối."/>
+</Fish_JadeCrab>
+<Fish_FireCrab>
+<li Name="Long bào thang bao" Desc="Đem mới mẻ gạch cua cùng thịt hỗn hợp, lại dùng hơi mỏng da mặt bao khỏa làm thành bánh bao hấp dáng vẻ, chưng nấu sau toàn bộ bánh bao bên trong đều bị kim hoàng cua dầu lấp đầy, có truyền ngôn Hoàng đế liền long bào có không muốn cũng muốn hút vào một ngụm."/>
+<li Name="Hoàng tửu chưng cua" Desc="Sử dụng thượng hạng hoàng tửu chưng nấu Vãn Thu con cua, hoàng tửu có thể đi trừ thịt cua bên trong âm hàn, bổ sung dương khí. Thịt cua thơm ngon cảm giác cùng hoàng tửu cam thuần hoàn mỹ dung hợp, chính là nhân gian tuyệt phối."/>
+</Fish_FireCrab>
+
+<Fish_r2>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r2>
+<Fish_r3>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r3>
+<Fish_r4>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r4>
+<Fish_r5>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r5>
+<Fish_r6>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r6>
+<Fish_r7>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r7>
+<Fish_r8>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r8>
+<Fish_r9>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r9>
+<Fish_r10>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r10>
+<Fish_r11>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r11>
+<Fish_r12>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r12>
+<Fish_r13>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_r13>
+
+<Fish_BaiHuang>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_BaiHuang>
+<Fish_Black>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_Black>
+<Fish_BlueFish>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_BlueFish>
+<Fish_FenLi>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_FenLi>
+<Fish_HongGui>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_HongGui>
+<Fish_HongHuang>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_HongHuang>
+<Fish_Huang>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_Huang>
+<Fish_Ji>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_Ji>
+<Fish_QingHei>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_QingHei>
+<Fish_RedFish>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_RedFish>
+<Fish_s1>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s1>
+<Fish_s10>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s10>
+<Fish_s11>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s11>
+<Fish_s12>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s12>
+<Fish_s2>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s2>
+<Fish_s3>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s3>
+<Fish_s4>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s4>
+<Fish_s5>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s5>
+<Fish_s6>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s6>
+<Fish_s7>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s7>
+<Fish_s8>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s8>
+<Fish_s9>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_s9>
+<Fish_t1>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t1>
+<Fish_t10>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t10>
+<Fish_t11>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t11>
+<Fish_t12>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t12>
+<Fish_t2>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t2>
+<Fish_t3>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t3>
+<Fish_t4>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t4>
+<Fish_t5>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t5>
+<Fish_t6>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t6>
+<Fish_t7>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t7>
+<Fish_t8>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t8>
+<Fish_t9>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_t9>
+<Fish_XieLi>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_XieLi>
+
+<Shrimp1>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp1>
+<Shrimp2>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp2>
+<Shrimp3>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp3>
+<Shrimp4>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp4>
+<Shrimp5>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp5>
+<Shrimp6>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp6>
+<Shrimp7>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp7>
+<Shrimp8>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp8>
+<Shrimp9>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp9>
+<Shrimp10>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp10>
+<Shrimp11>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp11>
+<Shrimp12>
+<li Name="Say tôm" Desc="Sử dụng độ cao rượu ngâm tôm, mềm mại ngọt ngào."/>
+<li Name="Đuôi phượng tôm" Desc="Dùng bột mì bao lấy tôm đuôi, nổ ra xốp xốp giòn, kinh ngạc cảm giác."/>
+</Shrimp12>
+</SpecialItem>
+</List></SpecialNames>
