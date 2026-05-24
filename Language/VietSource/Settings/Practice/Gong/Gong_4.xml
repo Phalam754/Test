@@ -1,0 +1,37 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_4_None">
+      <DisplayName>Ngọc Thanh Tiên Pháp</DisplayName>
+      <Desc>Nguyên Thủy Thiên Tôn lưu tại nhân gian đạo thống, Côn Luân cung bí mật bất truyền, danh xưng Huyền Môn chính tông, vạn pháp nguồn gốc. Này thuật cùng chia sáu cảnh mười hai môn, tu tập người pháp lực cực kỳ hùng hậu, lại uy lực pháp thuật kinh người. Nhưng phá quan cực kì gian nan, nếu không phải ngộ tính siêu tuyệt, còn có đại cơ duyên mang theo, muôn vàn khó khăn tu hành thành công.</Desc>
+      <SelectDesc>Công pháp này am hiểu các loại thuật pháp lại căn cơ thâm hậu, chỉ là tiến giai cần các loại chí bảo, đột phá mười phần gian nan. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Luyện Khí Cảnh</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Ý Môn</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ cơ duyên càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>Tinh Môn</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.1.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ cơ duyên càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.1.Desc>
+      <Stages.1.DisplayName>Hợp Khí Cảnh</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Khí Môn</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>Huyền Môn</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.1.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ cơ duyên càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.1.Desc>
+      <Stages.2.DisplayName>Kết Đan Cảnh</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Xích Môn</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>Đan Môn</Stages.2.Necks.1.DisplayName>
+      <Stages.3.DisplayName>Quy Nhất Cảnh</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Kim Môn</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.1.DisplayName>Thủy Môn</Stages.3.Necks.1.DisplayName>
+      <Stages.3.Necks.2.DisplayName>Mộc Môn</Stages.3.Necks.2.DisplayName>
+      <Stages.3.Necks.3.DisplayName>Hỏa Môn</Stages.3.Necks.3.DisplayName>
+      <Stages.3.Necks.4.DisplayName>Thổ Môn</Stages.3.Necks.4.DisplayName>
+      <Stages.3.Necks.5.DisplayName>Tẫn Môn</Stages.3.Necks.5.DisplayName>
+      <Stages.4.DisplayName>Hóa Thần Cảnh</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Phân Môn</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.1.DisplayName>Hóa Môn</Stages.4.Necks.1.DisplayName>
+      <Stages.5.DisplayName>Độ Kiếp Cảnh</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>Tử Môn</Stages.5.Necks.0.DisplayName>
+      <Stages.5.Necks.0.Desc>Lấy Nguyên Thần đến thiên đạo chi diệu, một khi qua cái này liên quan, đem trực diện thiên kiếp.[color=#D06508]\n Bình này cái cổ rất khó đột phá, lại không kinh nghiệm tăng thêm.[/color]</Stages.5.Necks.0.Desc>
+      <Stages.5.Necks.1.DisplayName>Sinh Môn</Stages.5.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>
