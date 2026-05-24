@@ -1,0 +1,48 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="BodyPractice_Attitude_Atk">
+      <DisplayName>Tư thế Tấn công</DisplayName>
+      <Desc>Dốc toàn tâm toàn ý tấn công bản thể địch, trong tư thế này, hiệu suất tấn công của Bí Thể tăng 25%, hiệu suất phòng thủ giảm 50% (Giá trị gia tăng chung uy lực Bí Thể +0.25, Giá trị gia tăng chung độ bền Bí Thể -0.5, Giá trị gia tăng chung độ chính xác tấn công Bí Thể +0.25, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể -0.5).</Desc>
+    </Text>
+    <Text Name="BodyPractice_Attitude_Normal">
+      <DisplayName>Tư thế Thường</DisplayName>
+      <Desc>Chiến đấu theo phương thức chiến đấu tiêu chuẩn của Luyện Thể Giả, các mặt đều được phát huy cân bằng.</Desc>
+    </Text>
+    <Text Name="BodyPractice_Attitude_ManJi">
+      <DisplayName>Mãnh Cực Chiến Ý</DisplayName>
+      <Desc>Dùng ý thức chiến đấu mạnh mẽ chi phối toàn bộ hành động cơ thể, trực tiếp đột kích bản thể kẻ địch, tăng mạnh lực tấn công, và duy trì khả năng phòng thủ theo bản năng. Hiệu suất tấn công của Bí Thể tăng 30%, hiệu suất phòng thủ giảm 25% (Giá trị gia tăng chung uy lực Bí Thể +0.30, Giá trị gia tăng chung độ bền Bí Thể -0.25, Giá trị gia tăng chung độ chính xác tấn công Bí Thể +0.30, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể -0.25).</Desc>
+    </Text>
+    <Text Name="BodyPractice_Attitude_WangZhe">
+      <DisplayName>Vương Giả Chiến Ý</DisplayName>
+      <Desc>Đối diện chiến đấu bằng tâm Vương Đạo, điềm tĩnh không vội vàng. Hiệu suất tấn công của Bí Thể tăng 15%, hiệu suất phòng thủ tăng 15%, tiêu hao Bí Thể giảm 20% (Giá trị gia tăng chung uy lực Bí Thể +0.15, Giá trị gia tăng chung độ bền Bí Thể +0.15, Giá trị gia tăng chung độ chính xác tấn công Bí Thể +0.15, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể +0.15, Giá trị gia tăng tốc độ tiêu hao Chân Khí Bí Thể -0.2).</Desc>
+    </Text>
+    <Text Name="BodyPractice_DefenseDebuff">
+      <DisplayName>Suy yếu</DisplayName>
+      <Desc>Chân Khí cạn kiệt, Luyện Thể Giả rơi vào trạng thái suy yếu, toàn bộ thuộc tính giảm 90% (Giá trị gia tăng chung uy lực Bí Thể -0.95, Giá trị gia tăng chung độ bền Bí Thể -0.95, Giá trị gia tăng chung độ chính xác tấn công Bí Thể -0.95, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể -0.95).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_AngerFire">
+      <DisplayName>Kích Cuồng Chi Nộ</DisplayName>
+      <Desc>Hồi tưởng lại những ký ức đau khổ bị phong ấn, kích hoạt toàn diện chức năng cơ thể trong một khoảng thời gian nhất định. Mỗi tầng khiến Giá trị gia tăng chung uy lực Bí Thể +0.0025, Giá trị gia tăng chung độ bền Bí Thể +0.0025. Tối đa 999 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Magic_JingXi">
+      <DisplayName>Tim phổi quá tải</DisplayName>
+      <Desc>Sau khi thi triển Kình Tức Thổ Nạp Pháp, tim phổi bị quá tải, hiệu suất Thổ Nạp giảm mạnh (Giá trị gia tăng hiệu quả Thổ Nạp bổ sung -100).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Magic_TunJin">
+      <DisplayName>Miệng Nuốt Trọn</DisplayName>
+      <Desc>Tăng tốc tiêu hao sinh mệnh, và hấp thụ Nguyên Khí từ hư không, bổ sung độ đói (Tốc độ trôi qua tuổi thọ +500, Hiệu suất ẩm khí +2).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Magic_XiuFu">
+      <DisplayName>Vận chuyển Khí Huyết</DisplayName>
+      <Desc>Vận chuyển Khí Huyết toàn thân, tăng tốc hồi phục vết thương (Tỷ lệ tự lành vết thương thể xác của Luyện Thể Giả +0.01).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Magic_ChiYi1">
+      <DisplayName>Đời Này Vụt Chốc</DisplayName>
+      <Desc>Dùng Chân Khí do Thể Bài Trừ Dị Tướng sản sinh lưu chuyển toàn thân, tăng mạnh tốc độ tiêu hao sinh mệnh, tăng mạnh tốc độ tôi luyện thể (Tốc độ trôi qua tuổi thọ +500, Tốc độ tôi luyện thể +5).</Desc>
+    </Text>
+    <Text Name="Modifier_BodyPractice_Magic_ChiYi2">
+      <DisplayName>Đời Này Hư Vọng</DisplayName>
+      <Desc>Dùng Chân Khí do Thể Bài Trừ Dị Tướng sản sinh lưu chuyển toàn thân, tăng mạnh tốc độ tiêu hao sinh mệnh, tăng mạnh khả năng xuất hiện phương án tiến hóa cao cấp khi tôi luyện thể (Giá trị gia tăng tốc độ trôi qua tuổi thọ +500, Giá trị gia tăng tỷ lệ xuất hiện hướng tiến hóa hiếm khi tôi luyện +0.5, Giá trị gia tăng tỷ lệ xuất hiện hướng tiến hóa hãn hữu khi tôi luyện +2, Giá trị gia tăng tỷ lệ xuất hiện hướng tiến hóa siêu phàm khi tôi luyện +3, Giá trị gia tăng tỷ lệ xuất hiện hướng tiến hóa sử thi khi tôi luyện +5).</Desc>
+    </Text>
+  </List>
+</Texts>
