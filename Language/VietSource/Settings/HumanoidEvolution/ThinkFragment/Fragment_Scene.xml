@@ -1,0 +1,152 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SeeTheSky">
+      <DisplayName>Khán Thiên Không</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, ảo tưởng mình cũng có thể bay đi lên</SingleFormat.0>
+      <SingleFormat.1>Tại {0} Thời điểm, nghĩ đến mông lung chuyện cũ</SingleFormat.1>
+    </Text>
+    <Text Name="HearEarthQuake">
+      <DisplayName>Cảm Đáo Liễu Địa Chấn</DisplayName>
+      <SingleFormat.0>Đột nhiên {0}, nhưng sau đó cái gì cũng không có phát sinh</SingleFormat.0>
+      <SingleFormat.1>Nghe thấy thanh âm kỳ quái, đồng thời cũng {0}</SingleFormat.1>
+    </Text>
+    <Text Name="HearFarThunder">
+      <DisplayName>Thính Kiến Liễu Viễn Lôi</DisplayName>
+      <SingleFormat.0>Trông thấy nơi xa giống như đang đổ mưa, cũng {0}</SingleFormat.0>
+      <SingleFormat.1>Bầu trời cũng không dị dạng, nhưng vẫn là {0}</SingleFormat.1>
+    </Text>
+    <Text Name="SmellRain">
+      <DisplayName>Văn Đáo Liễu Triều Khí</DisplayName>
+      <SingleFormat.0>Trông thấy nơi xa giống như đang đổ mưa, cũng {0}</SingleFormat.0>
+      <SingleFormat.1>{0}, giống như nhanh trời mưa</SingleFormat.1>
+    </Text>
+    <Text Name="SmellDecay">
+      <DisplayName>Văn Đáo Liễu Hủ Xú</DisplayName>
+      <SingleFormat.0>Nơi xa bay tới một cỗ mùi lạ, ở trong đó {0}</SingleFormat.0>
+      <SingleFormat.1>{0}, khả năng trong đất bùn có thi thể</SingleFormat.1>
+    </Text>
+    <Text Name="HearLoud">
+      <DisplayName>Thính Kiến Cự Hưởng</DisplayName>
+      <SingleFormat.0>{0}, không tự chủ được giật nảy mình</SingleFormat.0>
+    </Text>
+    <Text Name="ClimbHigh">
+      <DisplayName>Đăng Cao</DisplayName>
+      <SingleFormat.0>Hồi ức mình {0} Thời điểm, cảm giác phí sức mà an tâm.</SingleFormat.0>
+    </Text>
+    <Text Name="SeeStone">
+      <DisplayName>Khán Cự Thạch</DisplayName>
+      <SingleFormat.0>Nhớ tới mình {0} Thời điểm, cảm thấy phi thường kiên cố.</SingleFormat.0>
+    </Text>
+    <Text Name="Memory">
+      <DisplayName>Hồi Ức</DisplayName>
+      <SingleFormat.0>Tại trong trí nhớ tìm tòi, {0} Lên khi còn bé</SingleFormat.0>
+      <SingleFormat.1>Trong đầu đột nhiên hỗn độn, {0} Lên chuyện cũ</SingleFormat.1>
+    </Text>
+    <Text Name="SeeDisciples">
+      <DisplayName>Khán Đệ Tử Hóa Trang</DisplayName>
+    </Text>
+    <Text Name="SeeSwords">
+      <DisplayName>Khán Đệ Tử Phi Hành</DisplayName>
+    </Text>
+    <Text Name="SeeTrain">
+      <DisplayName>Khán Đệ Tử Đả Tọa</DisplayName>
+    </Text>
+    <Text Name="SeePlay">
+      <DisplayName>Khán Đệ Tử Hạ Kỳ</DisplayName>
+    </Text>
+    <Text Name="SeeAround">
+      <DisplayName>Khán Đăng Quang</DisplayName>
+    </Text>
+    <Text Name="SeeScene">
+      <DisplayName>Khán Phong Cảnh</DisplayName>
+    </Text>
+    <Text Name="HearAround">
+      <DisplayName>Linh Thính Cầm Thanh</DisplayName>
+    </Text>
+    <Text Name="HearWind">
+      <DisplayName>Thính Phong Thanh</DisplayName>
+    </Text>
+    <Text Name="HearChat">
+      <DisplayName>Thính Đệ Tử Cật Phạn</DisplayName>
+    </Text>
+    <Text Name="HearHeartBeat">
+      <DisplayName>Văn Dược Vị</DisplayName>
+    </Text>
+    <Text Name="HearTrain">
+      <DisplayName>Thính Đệ Tử Công Tác</DisplayName>
+    </Text>
+    <Text Name="HearStep">
+      <DisplayName>Thính Đệ Tử Luyện Công</DisplayName>
+    </Text>
+    <Text Name="HearWormBeep">
+      <DisplayName>Thính Trùng Tử Khiếu</DisplayName>
+    </Text>
+    <Text Name="SmellAround">
+      <DisplayName>Văn Thiêu Hương</DisplayName>
+    </Text>
+    <Text Name="SmellDirt">
+      <DisplayName>Văn Nê Thổ Đích Vị Đạo</DisplayName>
+    </Text>
+    <Text Name="SmellSelf">
+      <DisplayName>Văn Mao Bì Đích Vị Đạo</DisplayName>
+    </Text>
+    <Text Name="SmellMeal">
+      <DisplayName>Văn Đáo Thực Vật</DisplayName>
+      <SingleFormat.0>Ngẫu nhiên {0}, lưu lại nước bọt</SingleFormat.0>
+    </Text>
+    <Text Name="SmellFire">
+      <DisplayName>Văn Thiêu Hỏa Khí Vị</DisplayName>
+    </Text>
+    <Text Name="LickSelf">
+      <DisplayName>Thính Linh Thanh</DisplayName>
+    </Text>
+    <Text Name="Sneeze">
+      <DisplayName>Đả Phún Đế</DisplayName>
+    </Text>
+    <Text Name="Dream">
+      <DisplayName>Tố Mộng</DisplayName>
+    </Text>
+    <Text Name="PlaySelf">
+      <DisplayName>Tự Ngu Tự Nhạc</DisplayName>
+    </Text>
+    <Text Name="DayDream">
+      <DisplayName>Phát Ngốc</DisplayName>
+    </Text>
+    <Text Name="Sweat">
+      <DisplayName>Xuất Hãn</DisplayName>
+    </Text>
+    <Text Name="Poo">
+      <DisplayName>Bài Tiết</DisplayName>
+    </Text>
+    <Text Name="Wander">
+      <DisplayName>Văn Hương Vị</DisplayName>
+    </Text>
+    <Text Name="Betouch">
+      <DisplayName>Bị Bộ Liệp</DisplayName>
+      <SingleFormat.0>Nhớ tới mình tại {0} Thời điểm, chạy nhanh chóng</SingleFormat.0>
+    </Text>
+    <Text Name="Sleep">
+      <DisplayName>Thụy Giác</DisplayName>
+    </Text>
+    <Text Name="SeeEast">
+      <DisplayName>Diện Triêu Đông Phương</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, cảm nhận được một tia huyền diệu khí tức</SingleFormat.0>
+    </Text>
+    <Text Name="SeeSouth">
+      <DisplayName>Diện Triêu Nam Phương</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, cảm nhận được một tia huyền diệu khí tức</SingleFormat.0>
+    </Text>
+    <Text Name="SeeWest">
+      <DisplayName>Diện Triêu Tây Phương</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, cảm nhận được một tia huyền diệu khí tức</SingleFormat.0>
+    </Text>
+    <Text Name="SeeNorth">
+      <DisplayName>Diện Triêu Bắc Phương</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, cảm nhận được một tia huyền diệu khí tức</SingleFormat.0>
+    </Text>
+    <Text Name="SeeDirt">
+      <DisplayName>Khán Địa Diện</DisplayName>
+      <SingleFormat.0>Tại {0} Thời điểm, cảm nhận được một tia huyền diệu</SingleFormat.0>
+    </Text>
+  </List>
+</Texts>
