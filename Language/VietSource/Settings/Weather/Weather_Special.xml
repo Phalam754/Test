@@ -1,0 +1,112 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LingUpWave_Sp">
+      <DisplayName>Linh Khí Cuồng Triều</DisplayName>
+      <StoryDesc>Trong linh khí bùng nổ. Cảm xúc +16, xu thế hỏa +1, linh khí của địa khối +300.</StoryDesc>
+    </Text>
+    <Text Name="FireRain">
+      <DisplayName>Trung Vũ</DisplayName>
+	  <StoryDesc>Mưa vừa, không quá to cũng không quá nhỏ. Nhiệt độ -5℃, xu thế hỏa -2, hệ số quang chiếu -0.4, thuộc tính thủy của địa khối +3.</StoryDesc>
+    </Text>
+    <Text Name="Rainstorm_Teach">
+      <DisplayName>Bạo Vũ</DisplayName>
+      <StoryDesc>Trong cơn bão như thác. Cảm xúc -8, nhiệt độ -4℃, xu thế hỏa -0.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất -0.5, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Rainstorm_Teach2">
+      <DisplayName>Bạo Vũ</DisplayName>
+      <StoryDesc>Trong cơn bão như thác. Cảm xúc -8, nhiệt độ -4℃, xu thế hỏa -0.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất -0.5, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LightningStorm_Hack">
+      <DisplayName>Thiên Phạt Lôi Bạo</DisplayName>
+      <StoryDesc>Đảo ngược nhân quả, nghịch Thiên hòa. Cảm xúc -8, xu thế hỏa +1, thuộc tính kim của địa khối +6, gia tăng đột phá bình cảnh thuộc tính mộc -0.08, gia tăng đột phá bình cảnh thuộc tính kim +0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Rainstorm_AllSeason">
+      <DisplayName>Bạo Vũ</DisplayName>
+      <StoryDesc>Trong cơn bão như thác. Cảm xúc -8, nhiệt độ -4℃, xu thế hỏa -0.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất -0.5, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Fohn_AllSeason">
+      <DisplayName>Phần Phong</DisplayName>
+      <StoryDesc>Trong cơn gió cháy dữ dội. Cảm xúc -8, nhiệt độ +8℃, xu thế hỏa +0.5, hệ số độ màu mỡ đất -0.3, thuộc tính hỏa của địa khối +6, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08.</StoryDesc>
+    </Text>
+    <Text Name="DustStorm_AllSeason">
+      <DisplayName>Trần Bạo</DisplayName>
+      <StoryDesc>Trong cát vàng bay kín trời. Cảm xúc -8, nhiệt độ +6℃, xu thế hỏa +1, hệ số quang chiếu -0.5, hệ số độ màu mỡ đất -0.3, thuộc tính thổ của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thủy -0.08, gia tăng đột phá bình cảnh thuộc tính thổ +0.04, gia tăng đột phá bình cảnh thuộc tính kim +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Miasma_AllSeason">
+      <DisplayName>Chướng Khí</DisplayName>
+      <StoryDesc>Trong chướng khí lan tỏa. Cảm xúc -15, xu thế hỏa +1, hệ số quang chiếu -0.2, thuộc tính mộc của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thổ -0.08, gia tăng đột phá bình cảnh thuộc tính mộc +0.04, gia tăng đột phá bình cảnh thuộc tính hỏa +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LightningStorm_AllSeason">
+      <DisplayName>Lôi Bạo</DisplayName>
+      <StoryDesc>Trong cơn bão sấm gầm rống, trong rắn điện cuồng vũ. Cảm xúc -8, xu thế hỏa +1, thuộc tính kim của địa khối +6, gia tăng đột phá bình cảnh thuộc tính mộc -0.08, gia tăng đột phá bình cảnh thuộc tính kim +0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="JinLingMiMan">
+      <DisplayName>Kim Linh Mịt Mờ</DisplayName>
+      <StoryDesc>Trong linh khí thuộc tính kim lan tỏa. Thuộc tính kim của địa khối +6, gia tăng đột phá bình cảnh thuộc tính mộc -0.08, gia tăng đột phá bình cảnh thuộc tính kim +0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.08.</StoryDesc>
+    </Text>
+    <Text Name="MuLingMiMan">
+      <DisplayName>Mộc Linh Mịt Mờ</DisplayName>
+      <StoryDesc>Trong linh khí thuộc tính mộc lan tỏa. Thuộc tính mộc của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thổ -0.08, gia tăng đột phá bình cảnh thuộc tính mộc +0.04, gia tăng đột phá bình cảnh thuộc tính hỏa +0.08.</StoryDesc>
+    </Text>
+    <Text Name="ShuiLingMiMan">
+      <DisplayName>Thủy Linh Mịt Mờ</DisplayName>
+      <StoryDesc>Trong linh khí thuộc tính thủy lan tỏa. Thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08.</StoryDesc>
+    </Text>
+    <Text Name="HuoLingMiMan">
+      <DisplayName>Hỏa Linh Mịt Mờ</DisplayName>
+      <StoryDesc>Trong linh khí thuộc tính hỏa lan tỏa. Thuộc tính hỏa của địa khối +6, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08.</StoryDesc>
+    </Text>
+    <Text Name="TuLingMiMan">
+      <DisplayName>Thổ Linh Mịt Mờ</DisplayName>
+      <StoryDesc>Trong linh khí thuộc tính thổ lan tỏa. Thuộc tính thổ của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thủy -0.08, gia tăng đột phá bình cảnh thuộc tính thổ +0.04, gia tăng đột phá bình cảnh thuộc tính kim +0.08.</StoryDesc>
+    </Text>
+    <Text Name="LingUpWave_Big">
+      <DisplayName>Linh Khí Bàng Bạc</DisplayName>
+      <StoryDesc>Trong linh khí cuồn cuộn. Cảm xúc +16, linh khí của địa khối +400.</StoryDesc>
+    </Text>
+    <Text Name="LingRarefiedWave_Big">
+      <DisplayName>Linh Khí Khô Kiệt</DisplayName>
+      <StoryDesc>Trong linh khí khô cạn. Cảm xúc -4, linh khí của địa khối -800.</StoryDesc>
+    </Text>
+    <Text Name="Weather_Boss_Drought">
+      <DisplayName>Nhiệt Độ Bất Thường</DisplayName>
+      <StoryDesc>Trong nhiệt độ cao bất thường. Cảm xúc -8, nhiệt độ +15℃, thuộc tính hỏa của địa khối +4, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08.</StoryDesc>
+    </Text>
+    <Text Name="Weather_Boss_HighTemp">
+      <DisplayName>Hạn Hán Trầm Trọng</DisplayName>
+      <StoryDesc>Trong cơn hạn hán dường như ngày càng nghiêm trọng. Mỗi ngày tích lũy thêm 5℃ nhiệt độ phụ, xu thế hỏa +0.75, hệ số quang chiếu +0.3, hệ số độ màu mỡ đất -1, thuộc tính hỏa của địa khối +5, gia tăng đột phá bình cảnh thuộc tính kim -0.1, gia tăng đột phá bình cảnh thuộc tính hỏa +0.05, gia tăng đột phá bình cảnh thuộc tính thổ +0.1.</StoryDesc>
+    </Text>
+    <Text Name="DimCave">
+      <DisplayName>Động Quật Tối Tăm</DisplayName>
+      <StoryDesc>Động quật tối tăm. Xu thế hỏa +1, hệ số quang chiếu -0.6.</StoryDesc>
+    </Text>
+    <Text Name="ForestRain">
+      <DisplayName>Mưa Rừng</DisplayName>
+      <StoryDesc>Trong rừng mưa đang có mưa. Xu thế hỏa +1, hệ số quang chiếu -0.4.</StoryDesc>
+    </Text>
+    <Text Name="SunSet">
+      <DisplayName>Ráng Chiều</DisplayName>
+      <StoryDesc>Ráng chiều. Xu thế hỏa +1, hệ số quang chiếu -0.4.</StoryDesc>
+    </Text>
+    <Text Name="DustPlace">
+      <DisplayName>Trần Bạo</DisplayName>
+      <StoryDesc>Trong cát vàng bay kín trời. Cảm xúc -8, nhiệt độ +6℃, xu thế hỏa +1, hệ số quang chiếu -0.5, hệ số độ màu mỡ đất -0.3, thuộc tính thổ của địa khối +6, gia tăng đột phá bình cảnh thuộc tính thủy -0.08, gia tăng đột phá bình cảnh thuộc tính thổ +0.04, gia tăng đột phá bình cảnh thuộc tính kim +0.08.</StoryDesc>
+    </Text>
+    <Text Name="EverSnow">
+      <DisplayName>Tiểu Tuyết</DisplayName>
+      <StoryDesc>Tuyết nhỏ rơi bay, sợi bạc giăng trời, tuyết mỏng bay lượn. Cảm xúc +4, nhiệt độ -3℃, xu thế hỏa -1.5, hệ số quang chiếu -0.3, hệ số độ màu mỡ đất +0.3, thuộc tính thủy của địa khối +2, gia tăng đột phá bình cảnh thuộc tính hỏa -0.04, gia tăng đột phá bình cảnh thuộc tính thủy +0.02, gia tăng đột phá bình cảnh thuộc tính mộc +0.04.</StoryDesc>
+    </Text>
+    <Text Name="Weather_Magic_ZhenShuiJieJie">
+      <DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+      <StoryDesc>Trong Cửu Âm Chân Thủy Giới. Nhiệt độ -100℃, thuộc tính thủy của địa khối +6, gia tăng đột phá bình cảnh thuộc tính hỏa -0.08, gia tăng đột phá bình cảnh thuộc tính thủy +0.04, gia tăng đột phá bình cảnh thuộc tính mộc +0.08, hệ số tốc độ hấp thu linh khí +15, hệ số lực phục hồi tự nhiên +3.</StoryDesc>
+    </Text>
+    <Text Name="Weather_Magic_BeiDouJianJie">
+      <DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+      <StoryDesc>Trong Bắc Đẩu Kiếm Giới. Hệ số uy lực pháp bảo +15.</StoryDesc>
+    </Text>
+    <Text Name="Weather_Magic_ZhenHuoJieJie">
+      <DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+      <StoryDesc>Trong Cửu Dương Thần Hỏa Giới. Nhiệt độ +100℃, thuộc tính hỏa của địa khối +6, gia tăng đột phá bình cảnh thuộc tính kim -0.08, gia tăng đột phá bình cảnh thuộc tính hỏa +0.04, gia tăng đột phá bình cảnh thuộc tính thổ +0.08, hệ số cơ bản uy lực thuật pháp +0.3.</StoryDesc>
+    </Text>
+  </List>
+</Texts>
