@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_5_Tu">
+      <DisplayName>Thâu Thiên Quyết</DisplayName>
+      <Desc>Ngàn năm trước tuyệt địa trời thông, Nhân giới linh khí gần như khô kiệt, thành tiên vô vọng. Trong tuyệt cảnh, một thiên tư tuyệt diễm người tu hành mở ra lối riêng, sáng chế phương pháp này. Phương pháp này không dựa vào hoàn cảnh, lấy tiềm lực sinh mệnh làm đại giá đột phá cảnh giới, bởi vậy nhất định phải trời sinh thể trạng cường kiện người mới có thể tu hành, mà lại cần đủ loại thiên tài địa bảo duyên thọ mới có một tuyến thành tiên chi hi vọng.</Desc>
+      <SelectDesc>Công pháp này am hiểu hộ ngự chi thuật, tại Kim Đan phẩm cấp thỏa mãn điều kiện tình huống dưới, đột phá tất nhiên thành công, chỉ là trong quá trình tu luyện cần tiêu hao đại lượng tuổi thọ. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Hóa Huyết Kỳ</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Hóa Huyết</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.1.DisplayName>Ngưng Khí</Stages.0.Necks.1.DisplayName>
+      <Stages.1.DisplayName>Xá Thân Kỳ</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Xá Thân</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.1.DisplayName>Bách Luyện</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.2.DisplayName>Ngưng Đan</Stages.1.Necks.2.DisplayName>
+      <Stages.2.DisplayName>Hoán Cốt Kỳ</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Hoán Cốt</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.1.DisplayName>Bất Đọa</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>Anh Nhi</Stages.2.Necks.2.DisplayName>
+      <Stages.3.DisplayName>Nhiên Hồn Kỳ</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Nhiên Hồn</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.1.DisplayName>Phần Niệm</Stages.3.Necks.1.DisplayName>
+      <Stages.4.DisplayName>Phá Phủ Kỳ</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Phá Phủ</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.1.DisplayName>Phi Thăng</Stages.4.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>
