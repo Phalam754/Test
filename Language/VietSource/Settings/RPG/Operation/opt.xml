@@ -1,0 +1,34 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Mine">
+      <DisplayName>Oạt Khoáng</DisplayName>
+    </Text>
+    <Text Name="Pickup">
+      <DisplayName>Thập Thủ</DisplayName>
+    </Text>
+    <Text Name="Cutoff">
+      <DisplayName>Khảm Thụ</DisplayName>
+    </Text>
+    <Text Name="Eat">
+      <DisplayName>Thực Dụng</DisplayName>
+    </Text>
+    <Text Name="Dialog">
+      <DisplayName>Đối Thoại</DisplayName>
+    </Text>
+    <Text Name="Interact">
+      <DisplayName>Giao Hỗ</DisplayName>
+    </Text>
+    <Text Name="Equip">
+      <DisplayName>Trang Bị</DisplayName>
+    </Text>
+    <Text Name="Attack">
+      <DisplayName>Công Kích</DisplayName>
+    </Text>
+    <Text Name="Slaughter">
+      <DisplayName>Đồ Tể</DisplayName>
+    </Text>
+    <Text Name="SlaughterBoss">
+      <DisplayName>Thải Quật</DisplayName>
+    </Text>
+  </List>
+</Texts>
