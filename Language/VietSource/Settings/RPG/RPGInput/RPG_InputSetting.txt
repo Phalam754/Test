@@ -1,0 +1,39 @@
+ID	Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+功能ID	功能名称	功能描述	快捷键组1	快捷键组2	忽略组合键冲突	锁定，玩家不可修改	类型
+Up	Bên trên		W	UpArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Ngoạn Gia
+down	Hạ		S	DownArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Ngoạn Gia
+left	Trái		A	LeftArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Ngoạn Gia
+right	Phải		D	RightArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Ngoạn Gia
+GamePauseOrPlay	Vật phẩm lẫn nhau		E				Ngoạn Gia
+SwitchPlayer	Hoán đổi đội trưởng		LeftControl				Ngoạn Gia
+SwichNpc	Hoán đổi đối tượng		Tab				Ngoạn Gia
+MinMap	Nhỏ địa đồ		Comma				Giới Diện
+Interact1	Lẫn nhau tuyển hạng 1		F1				Giao Hỗ
+Interact2	Lẫn nhau tuyển hạng 2		F2				Giao Hỗ
+Interact3	Lẫn nhau tuyển hạng 3		F3				Giao Hỗ
+Interact4	Lẫn nhau tuyển hạng 4		F4				Giao Hỗ
+Interact5	Lẫn nhau tuyển hạng 5		F5				Giao Hỗ
+Interact6	Lẫn nhau tuyển hạng 6		F6				Giao Hỗ
+Interact7	Lẫn nhau tuyển hạng 7		F7				Giao Hỗ
+Interact8	Lẫn nhau tuyển hạng 8		F8				Giao Hỗ
+Interact9	Lẫn nhau tuyển hạng 9		F9				Giao Hỗ
+Interact10	Lẫn nhau tuyển hạng 10		F10				Giao Hỗ
+Interact11	Lẫn nhau tuyển hạng 11		F11				Giao Hỗ
+Interact12	Lẫn nhau tuyển hạng 12		F12				Giao Hỗ
+Miracle1	Kỹ năng 1		Alpha1				Kỹ Năng
+Miracle2	Kỹ năng 2		Alpha2				Kỹ Năng
+Miracle3	Kỹ năng 3		Alpha3				Kỹ Năng
+Miracle4	Kỹ năng 4		Alpha4				Kỹ Năng
+Miracle5	Kỹ năng 5		Alpha5				Kỹ Năng
+Miracle6	Kỹ năng 6		Alpha6				Kỹ Năng
+Miracle7	Kỹ năng 7		Alpha7				Kỹ Năng
+Miracle8	Kỹ năng 8		Alpha8				Kỹ Năng
+Miracle9	Kỹ năng 9		Alpha9				Kỹ Năng
+Miracle10	Kỹ năng 10		Alpha0				Kỹ Năng
+MiraclePrevPage	Kỹ năng bảng trang trước		Minus				Kỹ Năng
+MiracleNextPage	Kỹ năng bảng trang kế tiếp		Equals				Kỹ Năng
+Flying	Hoán đổi phi hành trạng thái		Space		LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Ngoạn Gia
+Attack	Lựa chọn đối tượng công kích		BackQuote				Ngoạn Gia
+Sprint	Bắn vọt		LeftShift				Ngoạn Gia
+ShowOrHide	Ẩn tàng / Biểu hiện UI		F11				Hệ Thống
+StopJob	Đánh gãy hành vi	 Đánh gãy khi tiến lên vì, bộ phận hành vi không cách nào đánh gãy.	LeftAlt+S				Ngoạn Gia
