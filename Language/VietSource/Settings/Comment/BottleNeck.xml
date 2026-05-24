@@ -1,0 +1,40 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="BottleNeckChance">
+      <Title>Phổ thông bình cảnh</Title>
+      <Desc>Phổ thông bình cảnh có thể trực tiếp chọn đất đột phá, có nhất định tỉ lệ đột phá thành công.</Desc>
+    </Text>
+    <Text Name="BottleNeckExplore">
+      <Title>Lịch luyện bình cảnh</Title>
+      <Desc>Lịch luyện bình cảnh cần điều động đệ tử đi ra ngoài lịch luyện mới có thể dần dần tích lũy cảm ngộ mà đột phá.</Desc>
+    </Text>
+    <Text Name="BottleNeckWork">
+      <Title>Chân không bình cảnh</Title>
+      <Desc>Chân không bình cảnh bên trong đệ tử sẽ mất đi tất cả pháp lực thần thông biến thành phàm nhân, tại phàm nhân trong sinh hoạt tích lũy cảm ngộ mà đột phá.</Desc>
+    </Text>
+    <Text Name="BottleNeckGold">
+      <Title>Kim Đan bình cảnh</Title>
+      <Desc>Kim Đan bình cảnh là một cái trọng yếu đường ranh giới, người tu hành đem toàn thân linh khí rèn đúc vì một viên Kim Đan, Kim Đan phẩm giai quyết định về sau tu hành độ cao.</Desc>
+    </Text>
+    <Text Name="BottleNeckThunder">
+      <Title>Lôi kiếp bình cảnh</Title>
+      <Desc>Lôi kiếp bình cảnh là trên con đường tu hành khảo nghiệm, như độ kiếp thất bại, nhẹ thì đạo cơ hủy hết, nặng thì hôi phi yên diệt.</Desc>
+    </Text>
+    <Text Name="BottleNeckGod">
+      <Title>Phi thăng bình cảnh</Title>
+      <Desc>Phi thăng bình cảnh là người tu hành phi thăng thành tiên cuối cùng một cửa ải khó, vượt qua kiện nạn này, liền có thể phi thăng thành tiên.</Desc>
+    </Text>
+    <Text Name="BottleNeckGodCity">
+      <Title>Thần quốc bình cảnh</Title>
+      <Desc>Ký kết thần quốc là thần đạo người tu hành trọng yếu nhất quan ải, thần quốc cảnh giới quyết định ngày sau độ cao.</Desc>
+    </Text>
+    <Text Name="BottleNeckFuPractice">
+      <Title>Bản mệnh chân phù</Title>
+      <Desc>Cái này bình cảnh là Phù tu đặc thù bình cảnh, muốn đột phá loại này bình cảnh cần tiêu hao linh khí vẽ một trương bản mệnh phù chú mới được.</Desc>
+    </Text>
+    <Text Name="BottleNeckDie">
+      <Title>Tuyệt lộ bình cảnh</Title>
+      <Desc>Bình cảnh này đại biểu cho tu hành đã không đường có thể đi.</Desc>
+    </Text>
+  </List>
+</Texts>
