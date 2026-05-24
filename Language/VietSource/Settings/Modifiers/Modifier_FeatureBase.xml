@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FeatureModifierBase">
+      <Desc>Đặc tính tạo ra modifier, hệ thống sử dụng, không muốn sửa chữa</Desc>
+    </Text>
+    <Text Name="ExperienceModifierBase">
+      <Desc>Kinh lịch tạo ra modifier, hệ thống sử dụng, không muốn sửa chữa</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang1">
+      <DisplayName>Đổng Sự Trường Đích Kích Lệ</DisplayName>
+      <Desc>Tại chủ tịch nhìn chăm chú, làm việc càng có lực hơn mà!</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang2">
+      <DisplayName>Đổng Sự Trường Đích Kích Lệ</DisplayName>
+      <Desc>Tại chủ tịch nhìn chăm chú, làm việc càng có lực hơn mà!</Desc>
+    </Text>
+  </List>
+</Texts>
