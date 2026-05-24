@@ -1,0 +1,14 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FishTimes">
+      <DisplayName>Thùy Điếu Số Lượng</DisplayName>
+      <DisplayValue>{0} Đầu</DisplayValue>
+      <Desc>Người tu hành câu lên cá số lượng.</Desc>
+    </Text>
+    <Text Name="HeaviestFish">
+      <DisplayName>Tối Trọng Ngư Trọng Lượng</DisplayName>
+      <DisplayValue>{0:f1} Cân</DisplayValue>
+      <Desc>Người tu hành chỗ câu cá nặng nhất trọng lượng.</Desc>
+    </Text>
+  </List>
+</Texts>
