@@ -1,0 +1,62 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_SpNpc_BasePropertie">
+      <DisplayName>Thuộc tính cơ bản đảm bảo</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_BaseFightPropertie">
+      <DisplayName>Thuộc tính chiến đấu cơ bản</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_Ling">
+      <DisplayName>Linh</DisplayName>
+      <Desc>Căn cơ của người này sâu dày, Linh Khí sâu không lường được (Linh Khí tối đa +1500000, Bội số Linh Khí tối đa +150).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Shield">
+      <DisplayName>Hộ</DisplayName>
+      <Desc>Người này thân đồng cốt sắt, cực kỳ giỏi thuật hộ thể (Giá trị gia tăng cường độ Lá Chắn +0.25).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoAtk">
+      <DisplayName>Nhuệ</DisplayName>
+      <Desc>Người này Ngự Khí như sấm sét, uy lực kinh thiên động địa (Bội số uy lực Pháp Bảo +200).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoLing">
+      <DisplayName>Trọng</DisplayName>
+      <Desc>Người này Ngự Khí như núi, khí thế vô cùng hùng hậu (Bội số Linh Khí tối đa Pháp Bảo +100, Bội số tốc độ hồi phục Linh Khí Pháp Bảo +100).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoSpeed">
+      <DisplayName>Tốc</DisplayName>
+      <Desc>Người này Ngự Khí như điện, tốc độ nhanh như sấm sét (Bội số tốc độ bay Pháp Bảo +1, Bội số tốc độ quay Pháp Bảo +1).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoDisp">
+      <DisplayName>Tú</DisplayName>
+      <Desc>Pháp Ngự Khí của người này hoa lệ vô song (Bội số số lượng Pháp Bảo +0.5, Bội số độ dài vệt Pháp Bảo +2).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoNum">
+      <DisplayName>Phân</DisplayName>
+      <Desc>Kiếm quang người này phân hóa, có thể Ngự Lục Hợp Chi Khí (Bội số số lượng Pháp Bảo +1.5, Bội số tỷ lệ hồi Linh Pháp Bảo +2).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillAtk">
+      <DisplayName>Pháp</DisplayName>
+      <Desc>Uy lực thuật pháp của người này thiên hạ vô song (Bội số uy lực Thuật Pháp +100).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillCD">
+      <DisplayName>Tấn</DisplayName>
+      <Desc>Thời gian điều tức thuật pháp của người này cực nhanh (Giá trị gia tăng thời gian hồi chiêu Thuật Pháp -0.2).</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Comeback">
+      <DisplayName>Kỳ Phùng Địch Thủ</DisplayName>
+      <Desc>Kỳ Phùng Địch Thủ gặp mặt, sức mạnh dưới lòng thù hận còn hơn cả trước (Linh Khí tối đa +1500000, Bội số Linh Khí tối đa +150, Bội số uy lực Pháp Bảo +240, Bội số Linh Khí tối đa Pháp Bảo +120, Bội số tốc độ hồi phục Linh Khí Pháp Bảo +120, Bội số uy lực Thuật Pháp +150).</Desc>
+    </Text>
+    <Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+      <DisplayName>Đảm bảo cơ bản Luyện Khí Kỳ</DisplayName>
+    </Text>
+    <Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+      <DisplayName>Đảm bảo cơ bản Kết Đan Kỳ</DisplayName>
+    </Text>
+    <Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+      <DisplayName>Đảm bảo cơ bản Kim Đan Kỳ</DisplayName>
+    </Text>
+    <Text Name="Modifier_NomalNpc_BasePropertie_God">
+      <DisplayName>Đảm bảo cơ bản Nguyên Thần Kỳ</DisplayName>
+    </Text>
+  </List>
+</Texts>
