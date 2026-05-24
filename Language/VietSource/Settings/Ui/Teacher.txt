@@ -1,0 +1,27 @@
+﻿ID	Unlock	TXT
+10000及以上不参与随机 必须连续	该内容在几级解锁	内容
+1	1	Như muốn mau sớm đứng vững theo hầu, vẫn là cần sớm ngày quy hoạch ruộng đồng, trồng thu hoạch đồng ruộng cho thỏa đáng.
+2	4	Không biết tập kích Thái Nhất Môn người đến cùng từ đâu mà đến, xem ra tu hành giới nếu không thái bình......
+3	3	[color=#D06508] Thịt khô [/color], [color=#D06508] Bánh mì [/color] So mới mẻ đồ ăn càng nhịn chứa đựng.
+4	3	Như muốn mau sớm trúc cơ, có thể phục dụng [color=#D06508] Trúc Cơ Đan [/color].
+5	4	Tu hành chi đạo nhớ lấy phân tâm, đã vì nội môn đệ tử, liền không nên lại để ý tới việc vặt vãnh, chậm trễ tu hành.
+6	4	Tu hành lúc tiêu hao [color=#D06508] Tinh nguyên [/color], đều sẽ chuyển hóa thành [color=#D06508] Linh khí hạn mức cao nhất [/color], này chi vị luyện tinh hóa khí. Huyền Môn chính tông tu vi hùng hậu chính là dùng cái này nguyên cớ.
+7	1	Như khuyết thiếu đồ ăn, nhưng [color=#D06508] Thu thập [/color] Chung quanh thực vật hoặc [color=#D06508] Đi săn [/color] Chung quanh động vật. Khi tất yếu, ta cũng sẽ xuất thủ tương trợ.
+8	1	Ngoại môn lao động buồn tẻ, khi tất yếu ứng kiến tạo một chút [color=#D06508] Giải trí [/color] Công trình lấy bản thân điều tiết.
+9	1	[color=#D06508] Thăm dò [/color] Sẽ đại lượng tiêu hao [color=#D06508] Tinh lực [/color], giai đoạn trước thăm dò chung quanh muốn vừa phải.
+10	3	[color=#D06508] Thái Nhất thiên thư (F1)[/color] Bên trong có rất nhiều trọng yếu tin tức. Nếu có hoang mang, chi bằng tìm đọc một phen.
+11	1	Nên nhanh chóng kiến tạo [color=#D06508] Giếng nước [/color], lấy thu hoạch được nước sạch nguyên.
+12	1	Không muốn một lần tuyên bố quá nhiều mệnh lệnh, này lại để các đệ tử bận không qua nổi.
+13	4	Thái Nhất Môn ngũ đại công pháp, chẳng lẽ như vậy độc lưu một mạch sao......
+14	4	Nhanh nhanh......
+15	4	Ta gặp qua rất nhiều tiểu hữu, bọn hắn có chút thủ đoạn thật sự là...
+16	4	Ánh mắt của các ngươi tựa hồ không quá thân mật.
+17	4	Tu hành giới cũng không thái bình, phía sau đâm đao sự tình ta cũng đã gặp rất nhiều, tiểu hữu nhóm cũng phải cẩn thận.
+18	4	Các ngươi đi vào quỹ đạo sau ta mới có thể an tâm rời đi.
+10000	-1	Nơi này hẳn tạm thời an toàn, các ngươi có thể đi [color=#D06508] Chặt cây [/color] Một ít cây cối, đem [color=#D06508] Đống lửa [/color] Phát lên.
+10001	-1	Ân...... Các ngươi nhanh đi kiến tạo một chỗ [color=#D06508] Vật liệu gia công điểm [/color], đem [color=#D06508] Gỗ thô [/color] Gia công vì [color=#D06508] Vật liệu gỗ [/color] Mà đối đãi sử dụng sau này.
+10002	-1	Xuân hàn se lạnh, các ngươi có thể thông qua kiến tạo [color=#D06508] Tường [/color], đem làm thành [color=#D06508] Phòng ốc [/color]. Dạng này cũng coi như có che gió che mưa chỗ, tốt dàn xếp lại.
+10003	-1	Ta cùng quý chưởng môn chính là bạn cũ, Thái Nhất gặp nạn, ta nghe hỏi mà đến, làm sao thì đã trễ. Chỉ thán thương thiên có linh, không dứt Thái Nhất. Cuối cùng là để cho ta tìm được các ngươi!\n Các ngươi lại an tâm, ta sẽ ở đây bế quan một đoạn thời gian thủ hộ các ngươi. Trên con đường tu tiên có chuyện gì không hiểu được, chớ có nhăn nhó, cứ hỏi đến.
+10004	-1	Là thời điểm rời đi, trời phù hộ Thái Nhất...... Hi vọng các ngươi có thể tu hành thuận lợi.
+10005	-1	Nhìn các ngươi dần dần đi đến quỹ đạo, tâm ta rất an ủi. Ta sẽ còn thủ hộ các ngươi một thời gian, có vấn đề gì chi bằng mở miệng hỏi thăm.
+10006	-1	Ai......
