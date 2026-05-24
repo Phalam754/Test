@@ -1,0 +1,99 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="RockBase" sParam="Item">
+      <Item.FabaoSuffix>đá, ấn, bia, giác, khuê, khuyết, trấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BrownRock" sParam="Item">
+      <ThingName>Đá nâu</ThingName>
+      <Desc>Một loại đá màu nâu, rất phổ biến.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 1</Desc>
+      <Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRock" sParam="Item">
+      <ThingName>Đá xám</ThingName>
+      <Desc>Một loại đá màu xám, rất phổ biến.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 1</Desc>
+      <Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Marble" sParam="Item">
+      <ThingName>Đá cẩm thạch</ThingName>
+      <Desc>Đá cẩm thạch, một loại đá thông thường, có vân đẹp mắt.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 1</Desc>
+      <Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Jade" sParam="Item">
+      <ThingName>Ngọc</ThingName>
+      <Desc>Một loại đá mịn và cứng, có độ bóng và hơi trong suốt, rất đẹp và giàu linh tính.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1.2
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số tiêu thụ vật liệu: 2
+Hệ số thuộc tính ngũ hành của vật liệu: 3</Desc>
+      <Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeEssence" sParam="Item">
+      <ThingName>Ngọc tủy</ThingName>
+      <Desc>Tinh hoa của ngọc, nhẹ và trơn, rất đẹp, thường được dùng làm đồ trang trí cao cấp, cũng có thể dùng làm thuốc.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 2
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số tiêu thụ vật liệu: 2
+Hệ số thuộc tính ngũ hành của vật liệu: 5</Desc>
+      <Item.BeMaterial.NamePrefix>Ngọc tủy</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StoneEssence" sParam="Item">
+      <ThingName>Thạch tủy</ThingName>
+      <Desc>Tinh hoa của đá, nhẹ và cứng, có thể dùng làm thuốc.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1.5
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 3</Desc>
+      <Item.BeMaterial.NamePrefix>Thạch tủy</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStone" sParam="Item">
+      <ThingName>Thiên Trụ Thạch</ThingName>
+      <Desc>Một loại đá hiếm, được cho là đá khai thác từ Thiên Trụ, chứa linh khí thuộc tính thổ dồi dào.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1.8
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 11</Desc>
+      <Item.BeMaterial.NamePrefix>Thiên Trụ Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ExtremeJade" sParam="Item">
+      <ThingName>Thiên Lăng Thần Ngọc</ThingName>
+      <Desc>Một bảo vật quý hiếm mà giới tu hành khao khát, có dạng tinh thể lăng trụ tự nhiên, có khả năng thích ứng linh khí siêu phàm.
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 3
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 12</Desc>
+      <Item.BeMaterial.NamePrefix>Thiên Lăng Ngọc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStone" sParam="Item">
+      <ThingName>Linh thạch</ThingName>
+      <Desc>Một thể rắn được ngưng tụ từ linh khí ở nồng độ cao, có thể dùng để phục hồi 500 điểm linh khí và tăng cường sự hấp dẫn với linh khí trong một khoảng thời gian (cơ bản tốc độ tu luyện +0.1, tốc độ hấp thụ linh khí +5).
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1.4
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 0</Desc>
+      <Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystal" sParam="Item">
+      <ThingName>Linh tinh</ThingName>
+      <Desc>Một thể rắn được ngưng tụ từ linh khí ở nồng độ cao, nếu người dùng có tu vi quá thấp, có thể dẫn đến nổ bể khí hải mà chết. Uống vào có thể phục hồi 20000 điểm linh khí và tăng cường mạnh mẽ sự hấp dẫn với linh khí trong một khoảng thời gian (cơ bản tốc độ tu luyện +0.2, tốc độ hấp thụ linh khí +15).
+Tính dễ cháy: 10%
+Hệ số tốc độ làm việc của công cụ: 1.8
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Hệ số thuộc tính ngũ hành của vật liệu: 0</Desc>
+      <Item.BeMaterial.NamePrefix>Linh tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
