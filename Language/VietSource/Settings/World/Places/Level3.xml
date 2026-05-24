@@ -1,0 +1,39 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_Level3Base">
+      <Desc>Mẫu địa điểm cấp 3</Desc>
+    </Text>
+    <Text Name="Place_QingLianShan">
+      <DisplayName>Thanh Liên Sơn</DisplayName>
+      <Desc>Nơi đây là nơi Thanh Liên Tiên Nhân ẩn cư trước khi phi thăng, được giấu trong một giọt Nhâm Quý Chân Thủy ở Nam Hải. Nếu không có bí pháp chỉ dẫn, không thể tìm thấy ngọn tiên sơn này.
+[color=#007700]Đến đây luyện công, lần đầu tiên quan sát đỉnh núi có thể nhận được Thiên Kiếp Chi Tức ×4; vào mùa xuân, hạ, thu, đông, lần lượt phái nhân vật tu luyện công pháp thuộc tính Thủy, Mộc, Thổ, Kim đến Trúc Lư ở lưng chừng núi, sẽ nhận được Tứ Tượng Triệt Thiên Đồ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_ChiLianYuan">
+      <DisplayName>Quỳnh Lâu</DisplayName>
+      <Desc>Nơi đây là biệt phủ do Nam Cung Hồng, tiên nhân đầu tiên phi thăng trong thế giới này, để lại. Được giấu trong một Tiên Gia Động Thiên giữa biển trời. Nếu không có bí pháp truyền thừa, không thể tìm thấy nơi này.
+[color=#007700]Sự kiện "Quỳnh Lâu Thám Bí": Nhân vật có đặc tính "Thiên Mệnh Chi Tử" đến đây luyện công, nhận được Pháp Bảo - Khôn Nguyên Càn Khôn Đao; nhân vật có kỹ năng Luyện Khí cấp độ cao hơn 15 đến đây luyện công, nhận được bí tịch "Khôn Ly Luyện Bảo Pháp"; nhân vật ở Nguyên Thần kỳ đến đây luyện công, nhận được bí tịch "Bí Truyền Nam Cung Độ Ách Bảo Lục".[/color]</Desc>
+    </Text>
+    <Text Name="Place_LongTai">
+      <DisplayName>Long Đài</DisplayName>
+      <Desc>Truyền thuyết kể rằng ngày xưa Long Tộc đã giấu hàng ngàn bảo vật tại Long Đài, và đặt vô số cấm chế phong ấn. Hiện nay, thời gian trôi qua, cùng với sự xung kích của Linh Triều ngàn năm, hầu hết các cấm chế này đã mất hiệu lực, không ít người mạo hiểm vào Long Đài để tìm kiếm cơ duyên.
+[color=#007700]Sự kiện "Tìm Kiếm Cơ Duyên": Đến đây luyện công có thể kích hoạt lặp lại. Cơ duyên càng cao càng dễ thành công. Nếu môn phái chưa từng triệu hồi Hung Phượng, và trong môn phái không có Phượng Văn Cổ Ngọc, sau khi thành công sẽ nhận được Phượng Văn Cổ Ngọc, thất bại thì bị trọng thương; nếu môn phái đã triệu hồi Hung Phượng, hoặc trong môn phái đã có Phượng Văn Cổ Ngọc, thì tỷ lệ thành công giảm mạnh, sau khi thành công sẽ nhận được bảo vật, thất bại thì bị trọng thương.[/color]</Desc>
+    </Text>
+    <Text Name="Place_XuanKongDong">
+      <DisplayName>Huyền Không Động</DisplayName>
+      <Desc>Nơi ẩn dật của Cổ Tiên Viên Nhược Tuyết. Truyền thuyết kể rằng Viên Nhược Tuyết đã để lại tất cả những bảo vật quý giá nhất trong biệt phủ này cho người hữu duyên đời sau. Thường có các tu hành giả Chính Đạo mới ra giang hồ đến đây để thử vận may.
+[color=#007700]Sự kiện "Lâm Lang Tiên Phủ": Nhân vật có giá trị Thiên Khiển nhỏ hơn 1 đến đây luyện công, nhận được Thiên Thông Động Thần Phù và bí tịch "Thiên Cơ Hóa Vận Pháp".[/color]</Desc>
+    </Text>
+    <Text Name="Place_GuZhanChang">
+      <DisplayName>Tiên Ma Chiến Trường</DisplayName>
+      <Desc>Di tích chiến trường của cuộc Tiên Ma Đại Chiến lần thứ nhất vào cuối thời thượng cổ. Trong đó cất giữ vô số bảo vật, nhưng cũng dày đặc những mảnh vỡ không gian-thời gian, cực kỳ nguy hiểm. Khi đó, giới tu hành dần dần hình thành sự phân chia Chính Tà, tranh chấp giữa các Cổ Tu Sĩ ngày càng gay gắt, cuối cùng bùng nổ một trận quyết chiến ở Nam Lục. Trận chiến này kéo dài hơn một tháng, sinh linh lầm than. Đạo Âm Dương giữa trời đất ở đây bị nứt vỡ, thậm chí hiện hình Chân Hình của Chúc Long ở trần gian. Chúc Long nổi giận, đất chìm biển dâng, Nam Lục tan vỡ, kết thúc cuộc Tiên Ma Đại Chiến lần thứ nhất. Đây cũng là nguồn gốc của Nam Hoang ngày nay.
+[color=#007700]Sự kiện "Tìm Kiếm Cơ Duyên": Đến đây luyện công có thể kích hoạt lặp lại. Cơ duyên càng cao càng dễ thành công. Nếu môn phái chưa từng triệu hồi Chúc Long, và trong môn phái không có cổ ngọc màu đen trắng, sau khi thành công sẽ nhận được cổ ngọc màu đen trắng, thất bại thì bị trọng thương; nếu môn phái đã triệu hồi Chúc Long, hoặc trong môn phái đã có cổ ngọc màu đen trắng, thì tỷ lệ thành công giảm mạnh, sau khi thành công sẽ nhận được bảo vật, thất bại thì bị trọng thương.[/color]</Desc>
+    </Text>
+    <Text Name="Place_YiJieLieFeng">
+      <DisplayName>Dị Giới Liệt Phùng</DisplayName>
+      <Desc>Truyền thuyết kể rằng không gian vỡ nát này có thể thông đến các không gian-thời gian bất thường khác, là sản phẩm của cuộc Tiên Ma Đại Chiến lần thứ hai thời thượng cổ. Hàng ngàn năm qua đã biến mất không dấu vết, không ngờ giờ lại tái hiện trên thế gian. Nhưng nơi đây cực kỳ nguy hiểm, nếu không có cơ duyên đặc biệt, ngay cả Đại La Kim Tiên cũng sẽ bị sa lầy trong đó.
+[color=#007700]Nếu thời gian trên thiết bị là Tết Nguyên Đán đến đây luyện công, nhận được bí tịch "Nghênh Xuân Đồ Sách"; nếu thời gian trên thiết bị là Quốc Khánh đến đây luyện công, nhận được bí tịch "Viêm Hoàng Thông Sử".
+Bí văn "Dị Giới Lai Khách": Sau khi bí văn xuất hiện vào ngày thứ 120, đến đây luyện công, mở khóa kiến trúc Ứng Thiên Đài.
+Bí văn "Dị Giới Kỳ Văn": Sau khi bí văn xuất hiện vào ngày thứ 375, nhân vật có đạo hạnh cao hơn 500 đến đây luyện công, có thể vào Huyễn Cảnh, thử thách và chiến đấu với kẻ địch ngày càng mạnh hơn, sẽ không bị thương trong thế giới thực, nhưng cũng không có phần thưởng.[/color]</Desc>
+    </Text>
+  </List>
+</Texts>
