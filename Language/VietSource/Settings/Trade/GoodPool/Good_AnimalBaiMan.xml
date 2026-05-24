@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="BaiManA">
+      <IVNUMBER.0.Animal.DisplayName>Thỏ Lung</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, môn phái định hướng bồi dưỡng khiến cho có được tốc độ học tập ký ức.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="BaiManAL">
+      <IVNUMBER.0.Animal.DisplayName>Giản Lậu Đích Thỏ Lung</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, có được liên quan tới sợ hãi linh trí.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Giản Lậu Đích Thỏ Lung</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, có được liên quan tới tưởng niệm linh trí.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Giản Lậu Đích Thỏ Lung</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, có được liên quan tới cao hứng linh trí.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Giản Lậu Đích Thỏ Lung</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, có được liên quan tới phẫn nộ linh trí.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Giản Lậu Đích Thỏ Lung</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Bên trong chứa một con khai trí kỳ con thỏ, có được liên quan tới lo lắng linh trí.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>
