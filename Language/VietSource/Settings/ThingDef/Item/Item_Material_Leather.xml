@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LeatherBase" sParam="Item">
+      <Item.FabaoSuffix>Cách,Tráo,Chướng</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BoarLeather" sParam="Item">
+      <ThingName>Dã Trư Bì</ThingName>
+      <Desc>Lợn rừng da, tính chất thô ráp, nhưng là tương đối rắn chắc.</Desc>
+      <Item.BeMaterial.NamePrefix>Dã Trư Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RabbitLeather" sParam="Item">
+      <ThingName>Thỏ Bì</ThingName>
+      <Desc>Con thỏ da lông, chất lông mềm mại, mười phần ấm áp.</Desc>
+      <Item.BeMaterial.NamePrefix>Thỏ Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BearLeather" sParam="Item">
+      <ThingName>Hùng Bì</ThingName>
+      <Desc>Gấu da lông, chất lông mềm mại, mười phần ấm áp.</Desc>
+      <Item.BeMaterial.NamePrefix>Hùng Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WolfLeather" sParam="Item">
+      <ThingName>Lang Bì</ThingName>
+      <Desc>Một khối da sói, rắn chắc dùng bền.</Desc>
+      <Item.BeMaterial.NamePrefix>Lang Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_FeiLeather" sParam="Item">
+      <ThingName>Phỉ Chi Bì</ThingName>
+      <Desc>Yêu thú phỉ da lông, chứa thần kỳ lực lượng, đông ấm hè mát, thậm chí có thể ngăn cách linh khí tạo thành tổn thương.</Desc>
+      <Item.BeMaterial.NamePrefix>Phỉ Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LuShuLeather" sParam="Item">
+      <ThingName>Lộc Thục Chi Bì</ThingName>
+      <Desc>Linh thú Lộc Thục da lông, chứa thần kỳ lực lượng, đông ấm hè mát, thậm chí có thể ngăn cách linh khí tạo thành tổn thương.</Desc>
+      <Item.BeMaterial.NamePrefix>Lộc Thục Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CattleLeather" sParam="Item">
+      <ThingName>Ngưu Bì</ThingName>
+      <Desc>Một khối da trâu, rắn chắc dùng bền.</Desc>
+      <Item.BeMaterial.NamePrefix>Ngưu Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_TigerLeather" sParam="Item">
+      <ThingName>Hổ Bì</ThingName>
+      <Desc>Một khối da hổ, rắn chắc dùng bền.</Desc>
+      <Item.BeMaterial.NamePrefix>Hổ Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather" sParam="Item">
+      <ThingName>Yêu Hóa Đích Thú Bì</ThingName>
+      <Desc>Yêu thú da lông, ẩn chứa yêu lực, đông ấm hè mát, thậm chí có thể ngăn cách linh khí tạo thành tổn thương.</Desc>
+      <Item.BeMaterial.NamePrefix>Yêu Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather1" sParam="Item">
+      <ThingName>Yêu Thú Đích Nhận Bì</ThingName>
+      <Desc>Đại yêu cứng cỏi da, ẩn chứa khổng lồ yêu lực, đông ấm hè mát, thậm chí có thể hữu hiệu ngăn cách linh khí tạo thành tổn thương.</Desc>
+      <Item.BeMaterial.NamePrefix>Yêu Nhận Bì</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
