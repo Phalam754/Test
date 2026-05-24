@@ -1,0 +1,22 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Bear_1">
+      <Prefix>Hồn Thiên Khí</Prefix>
+      <Suffix>Phủ</Suffix>
+      <Desc>Bí thể được lưu truyền trong huyết mạch của thượng cổ Hùng Yêu, dùng sức mạnh của thiên kiếp để tôi luyện tim và phổi. Một khi luyện thành có thể sản sinh Chân Khí liên tục không ngừng nghỉ.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tốc độ hồi phục Chân Khí của bí thể +30</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tốc độ hồi phục Chân Khí của bí thể +60</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tốc độ hồi phục Chân Khí của bí thể +120</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Bear_2">
+      <Prefix>Kình Thiên Toái Diệt</Prefix>
+      <Suffix>Trảo</Suffix>
+      <Desc>Bí thể được lưu truyền trong huyết mạch của thượng cổ Hùng Yêu, dùng sức mạnh hủy diệt trong thiên kiếp để tôi luyện hai móng vuốt, có sức mạnh nghiền nát vạn vật.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +2500</Levels.0.Desc>
+    </Text>
+  </List>
+</Texts>
