@@ -1,0 +1,43 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数	文本参数
+S_Carry_Discuss	0	Ta nói cho ngươi, [TNAME] Mang theo trong người một cái [TXT].	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_Carry_Ask	0	Ngươi có biết hay không [TNAME] Trên người có thứ gì	Ta làm sao biết?	Biết a, [TIT] Mang theo [TXT] Chạy khắp nơi.	Ta cũng không muốn nói cho ngươi.		
+							
+S_Esoterica_Discuss	0	Ngươi biết không?[TNAME] Đặc biệt am hiểu [TXT]!	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_Esoterica_Ask	0	Ngươi có biết hay không [TNAME] Am hiểu cái gì	Ta làm sao biết?	Biết a, [TIT] Am hiểu [TXT].	Ta cũng không muốn nói cho ngươi.		
+							
+S_Feature_Discuss	0	Ta nói cho ngươi, [TNAME] Là cái [TXT] Người.	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_Feature_Ask	0	Ngươi có biết hay không [TNAME] Là cái dạng gì người?	Ta làm sao biết?	Biết a, [TITS] Làm người ta biết, [TIT] Là cái [TXT] Người	Ta cũng không muốn nói cho ngươi.		
+							
+S_HateItem_Discuss	0	Ta nói cho ngươi, [TNAME] Không thích [TXT].	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_HateItem_Ask	0	Ngươi có biết hay không [TNAME] Có cái gì không thích đồ vật?	Ta làm sao biết?	Biết, [TIT] Ghét nhất [TXT]. Coi như nhìn thấy đều sẽ nổi giận.	Ta cũng không muốn nói cho ngươi.		
+							
+S_Hobby_Discuss	0	Ta nói cho ngươi, [TNAME] Có một kiện [TXT]. Như thế như vậy......	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_Hobby_Ask	0	Ngươi có biết hay không cùng [TNAME] Ở chung cần thiết phải chú ý thứ gì chỗ đặc biệt?	Ta làm sao biết?	[TIT] Có một cái [TXT], như thế như vậy. Cùng hắn ở chung nhất định phải chú ý cái này.	Ta cũng không muốn nói cho ngươi.		
+							
+S_LikeItem_Discuss	0	Ta nói cho ngươi, [TNAME] Đặc biệt thích [TXT].	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_LikeItem_Ask	0	Ngươi có biết hay không [TNAME] Có gì thích đồ vật?	Ta làm sao biết?	Biết, [TIT] Đặc biệt thích [TXT], thường xuyên vì [TXT] Cơm nước không vào.	Ta cũng không muốn nói cho ngươi.		
+							
+S_Secret_Discuss	0	Ta nói cho ngươi, [TNAME] Biết [TXT].	Ta đối cái này không hứng thú.	Đúng dịp, ta cũng biết!	A, thật sao? Ngươi đây đều biết?		
+S_Secret_Ask	0	Ngươi nói [TNAME] Biết một chút cái gì.	Ta làm sao biết?	Liên quan tới [TXT], [TIT] Hẳn phải biết chút gì	Ta cũng không muốn nói cho ngươi.		
+							
+T_Carry_Discuss	0	Trên người ngươi vậy mà mang theo một cái [TXT], tại một ít thời điểm then chốt thật là quá trọng yếu, ngươi thật sự là mưu tính sâu xa a!	Không phải đã nói qua?	Đúng vậy a, ngươi cũng cảm thấy [TXT] Rất trọng yếu? Xem ra ngươi cũng là có tư tưởng người!	A? Ngươi có ý tứ gì?( Che lại miệng túi của mình )		
+T_Carry_Ask	0	Không biết ngươi ngày thường hành tẩu giang hồ trên người có thứ gì?	Không phải đã nói qua?	Hành tẩu giang hồ, [TXT] Ta phòng mang theo, tại một ít thời điểm then chốt thế nhưng là có tác dụng lớn.	A? Ngươi có ý tứ gì?( Che lại miệng túi của mình )		
+							
+T_Esoterica_Discuss	0	Nghe nói ngươi tinh thông [TXT], thật đúng là quá thần kỳ, ta nếu có thể có ngươi trình độ vậy coi như hài lòng.	Không phải đã nói qua?	Chúng ta quan hệ, muốn học ta dạy cho ngươi a! Lấy tư chất của ngươi nắm giữ cái này nhất định không có vấn đề.	A? Ngươi muốn làm gì?		
+T_Esoterica_Ask	0	Không biết đạo hữu am hiểu thứ gì.	Không phải đã nói qua?	Ta tương đối am hiểu [TXT]	Ta tại sao phải nói cho ngươi?		
+							
+T_Feature_Discuss	0	Kỳ thật ta cũng là cái [TXT] Người, có đôi khi thật là vì thế buồn rầu, nhưng lại có biện pháp nào đâu?	Không phải đã nói qua?	Ừ, ngươi cũng là dạng này a? Ai, xem ra chúng ta là đồng loại a......	Ngươi có ý tứ gì? Chẳng lẽ nghĩ chế nhạo ta?		
+T_Feature_Ask	0	( Loại chủ đề này không thích hợp trực tiếp ở trước mặt hỏi thăm đi, vẫn là từ người khác nơi đó thu hoạch được tin tức, mới tốt thuận mở ra chủ đề.)	......	......	......		
+							
+T_HateItem_Discuss	0	Muốn nói trên thế giới tại sao có thể có [TXT] Như thế làm cho người ta chán ghét đồ vật? Ngươi nói đúng không......	Không phải đã nói qua?	A a! Ngươi cũng chán ghét cái đồ chơi này a! Ta cũng có đồng cảm a, quả thực muốn đem trên thế giới [TXT] Bị hủy diệt hoàn toàn.	Làm sao? Ngươi ý là xem thường ta?		
+T_HateItem_Ask	0	Ngươi có cái gì không thích đồ vật a?	Không phải đã nói qua?	Có a, ta mười phần chán ghét [TXT], quả thực muốn đem trên thế giới [TXT] Bị hủy diệt hoàn toàn.	Ta tại sao phải nói cho ngươi?		
+							
+T_Hobby_Discuss	0	Kỳ thật ta cũng có một kiện [TXT], cùng ngươi kinh lịch rất giống...... Ai, một lời khó nói hết a.	Không phải đã nói qua?	Ngươi cũng từng có loại kinh nghiệm này? Xác thực a, cảm thụ như vậy ngoại nhân rất khó lý giải...	( Biến sắc ) Ngươi nói đây là có ý tứ gì?		
+T_Hobby_Ask	0	( Loại chủ đề này không thích hợp trực tiếp ở trước mặt hỏi thăm đi, vẫn là từ người khác nơi đó thu hoạch được tin tức, mới tốt thuận mở ra chủ đề.)	......	......	......		
+							
+T_LikeItem_Discuss	0	Ta đặc biệt thích [TXT], có [TXT], ta mới cảm nhận được mình rõ ràng còn sống!	Không phải đã nói qua?	Ngươi cũng có cảm giác như vậy? Ta thật không dám tưởng tượng không có [TXT] Sinh hoạt là dạng gì!	A? Đột nhiên trò chuyện cái này làm gì?		
+T_LikeItem_Ask	0	Ngươi có gì thích đồ vật?	Không phải đã nói qua?	Nói lên cái này, ta coi như không vây lại a! Ta rất thích [TXT], thật là vật trời ban.	Ta tại sao phải nói cho ngươi?		
+							
+T_Secret_Discuss	0	Kỳ thật rất hiếu kỳ liên quan tới [TXT] Một số việc, thật là khiến người cảm thấy hứng thú!	Không phải đã nói qua?	Liên quan tới [TXT] Ta vẫn là biết một chút cái gì, như thế như vậy như thế như vậy......	A? Làm sao đột nhiên trò chuyện cái này?		
+T_Secret_Ask	0	( Cái gì cũng không biết tình huống dưới, thực sự không biết như thế nào mở miệng. Vẫn là chí ít trước từ người khác nơi đó thăm dò được một chút mánh khóe, mới tốt nói bóng nói gió hỏi thăm...)	......	......	......		
