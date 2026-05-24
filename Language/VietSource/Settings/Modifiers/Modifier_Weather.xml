@@ -1,0 +1,106 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Weather_SunnyDay">
+      <DisplayName>Trời nắng</DisplayName>
+    </Text>
+    <Text Name="Weather_Overcast">
+      <DisplayName>Trời âm u</DisplayName>
+    </Text>
+    <Text Name="Weather_LightRain">
+      <DisplayName>Mưa nhỏ</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavyRain">
+      <DisplayName>Mưa lớn</DisplayName>
+    </Text>
+    <Text Name="Weather_LightSnow">
+      <DisplayName>Tuyết nhẹ</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavySnow">
+      <DisplayName>Tuyết lớn</DisplayName>
+    </Text>
+    <Text Name="Weather_DenseFog">
+      <DisplayName>Sương mù dày đặc</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringAir">
+      <DisplayName>Hơi thở mùa xuân</DisplayName>
+    </Text>
+    <Text Name="Weather_Melancholy">
+      <DisplayName>Sầu muộn lan tràn</DisplayName>
+    </Text>
+    <Text Name="Weather_HarvestAir">
+      <DisplayName>Hơi thở mùa gặt</DisplayName>
+    </Text>
+    <Text Name="Weather_Impetuous">
+      <DisplayName>Gió nóng nảy</DisplayName>
+    </Text>
+    <Text Name="Weather_Hail">
+      <DisplayName>Mưa đá</DisplayName>
+    </Text>
+    <Text Name="Weather_MouldRains">
+      <DisplayName>Mưa dầm</DisplayName>
+    </Text>
+    <Text Name="Weather_Drought">
+      <DisplayName>Hạn hán</DisplayName>
+    </Text>
+    <Text Name="Weather_Rainstorm">
+      <DisplayName>Mưa bão</DisplayName>
+    </Text>
+    <Text Name="Weather_Fohn">
+      <DisplayName>Gió phơn</DisplayName>
+    </Text>
+    <Text Name="Weather_DustStorm">
+      <DisplayName>Bão bụi</DisplayName>
+    </Text>
+    <Text Name="Weather_LingRarefiedWave">
+      <DisplayName>Linh Khí Khô Cạn</DisplayName>
+    </Text>
+    <Text Name="Weather_LingUpWave">
+      <DisplayName>Linh Khí Bộc Phát</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWave">
+      <DisplayName>Sóng nhiệt</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWave">
+      <DisplayName>Làn sóng lạnh</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWaveInWinter">
+      <DisplayName>Sóng nhiệt</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWaveInSummer">
+      <DisplayName>Làn sóng lạnh</DisplayName>
+    </Text>
+    <Text Name="Weather_PermanentNight">
+      <DisplayName>Vĩnh Dạ</DisplayName>
+    </Text>
+    <Text Name="Weather_Miasma">
+      <DisplayName>Chướng khí</DisplayName>
+    </Text>
+    <Text Name="Weather_LightningStorm">
+      <DisplayName>Bão sét</DisplayName>
+    </Text>
+    <Text Name="Weather_LuShu_SunnyDay">
+      <DisplayName>Trời nắng</DisplayName>
+    </Text>
+    <Text Name="Weather_Fei_HeavyRain">
+      <DisplayName>Mưa lớn</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringFestival">
+      <DisplayName>Tết Nguyên Đán</DisplayName>
+    </Text>
+    <Text Name="Weather_ZuShiBiHu">
+      <DisplayName>Tổ Sư Phù Hộ</DisplayName>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+      <DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+      <Desc>Trong Cửu Âm Chân Thủy Giới, lực hồi phục tự nhiên, tốc độ hồi phục Linh Khí tăng mạnh (Bội số tốc độ hấp thu Linh Khí +15, Bội số lực hồi phục tự nhiên +3).</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+      <DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+      <Desc>Trong Bắc Đẩu Kiếm Giới, uy lực Pháp Bảo tăng mạnh (Bội số uy lực Pháp Bảo +15).</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+      <DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+      <Desc>Trong Cửu Dương Thần Hỏa Giới, uy lực Thuật Pháp tăng mạnh (Bội số cơ bản uy lực Thuật Pháp +0.3).</Desc>
+    </Text>
+  </List>
+</Texts>
