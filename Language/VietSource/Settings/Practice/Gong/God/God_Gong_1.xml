@@ -1,0 +1,22 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="God_Gong_1">
+      <DisplayName>Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Ngọc Thư</DisplayName>
+      <Desc>Thời kỳ Thượng Cổ liền đã đoạn tuyệt thần đạo tu hành chi thuật, chính là tụ tập chúng sinh tín ngưỡng thành tựu thần tính pháp môn. Thần tu chi pháp đều cơ bản giống nhau, khác biệt truyền thừa chỉ ở thần tính linh dẫn khác biệt, lấy dẫn động khác biệt thiên đạo chi linh bảo hộ.《 Cửu thiên ứng nguyên phổ hóa Ngọc Xu bảo trải qua 》 Chính là Lôi Tổ truyền thừa, tu tập phương pháp này có thể mượn Lôi Tổ linh dẫn, triệu cửu thiên lôi bộ hạ linh bảo hộ, thiên về tại ngự khí công phạt.</Desc>
+      <SelectDesc>Tín ngưỡng tu hành chi đạo không giống với truyền thống Kim Đan pháp tu hành, phương pháp này tu hành hoàn toàn ỷ lại tại chúng sinh tín ngưỡng mà tu hành. Tín ngưỡng tu hành mặc dù nhìn trời tư không có yêu cầu, nhưng nếu muốn đăng phong tạo cực, cần cực cao ngộ tính mới có thể, phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Khổ Hành</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Kiền Tâm</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Truyện Đạo</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Khai Tịch</Stages.1.Necks.0.DisplayName>
+      <Stages.2.DisplayName>Ngũ Ngự</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Sắc Lệnh: Ngũ Ngự</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>Lôi Đình</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Sắc Lệnh: Lôi Đình</Stages.3.Necks.0.DisplayName>
+      <Stages.4.DisplayName>Âm Dương</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Sắc Lệnh: Âm Dương</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.1.DisplayName>Thuế Phàm</Stages.4.Necks.1.DisplayName>
+      <Stages.5.DisplayName>Viên Mãn</Stages.5.DisplayName>
+      <Stages.5.Necks.0.DisplayName>Vô Thượng</Stages.5.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>
