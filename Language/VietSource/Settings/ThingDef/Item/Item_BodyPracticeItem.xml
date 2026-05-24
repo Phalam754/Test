@@ -1,0 +1,207 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_BodyPracticeBase" sParam="Item">
+      <ThingName>Cơ Sở Base</ThingName>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+      <ThingName>Thái Hư Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu sáng thế chi lực diễn hóa lưu lại, hậu thế đã rất khó thu tập được loại này kì lạ tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+      <ThingName>Huyền Thiên Tử Khí</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu sáng thế chi lực diễn hóa lưu lại, hậu thế đã rất khó thu tập được loại này kì lạ tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JieMie" sParam="Item">
+      <ThingName>Kiếp Diệt Tinh Hoa</ThingName>
+      <Desc>Ẩn chứa lực lượng hủy diệt tinh hoa, chỉ có ở trong thiên kiếp mới có thu thập khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+      <ThingName>Cửu Dương Chân Hoa</ThingName>
+      <Desc>Liệt nhật bên trong nhất cô đọng năng lượng, mười phần khó thu tập.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+      <ThingName>Huyền Nguyệt Chân Tinh</ThingName>
+      <Desc>Lẫm nguyệt chi bên trong nhất cô đọng năng lượng, mười phần khó thu tập.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+      <ThingName>Thái Dương Tinh Hoa</ThingName>
+      <Desc>Nhật chi tinh hoa, chỉ có tại vào lúc giữa trưa mới có thể thu thập.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+      <ThingName>Thái Âm Tinh Hoa</ThingName>
+      <Desc>Nguyệt chi tinh hoa, chỉ có tại nửa đêm mới có thể thu thập.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXJin" sParam="Item">
+      <ThingName>Tiên Thiên Kim Tinh</ThingName>
+      <Desc>Tiên thiên Ngũ Hành tinh hoa, chỉ có tại Kim thuộc tính dị thường nồng đậm hoàn cảnh hoặc vật phẩm bên trong mới có thu tập được khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXMu" sParam="Item">
+      <ThingName>Tiên Thiên Mộc Tinh</ThingName>
+      <Desc>Tiên thiên Ngũ Hành tinh hoa, chỉ có tại Mộc thuộc tính dị thường nồng đậm hoàn cảnh hoặc vật phẩm bên trong mới có thu tập được khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXShui" sParam="Item">
+      <ThingName>Tiên Thiên Thủy Tinh</ThingName>
+      <Desc>Tiên thiên Ngũ Hành tinh hoa, chỉ có tại Thủy thuộc tính dị thường nồng đậm hoàn cảnh hoặc vật phẩm bên trong mới có thu tập được khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+      <ThingName>Tiên Thiên Hỏa Tinh</ThingName>
+      <Desc>Tiên thiên Ngũ Hành tinh hoa, chỉ có tại Hỏa thuộc tính dị thường nồng đậm hoàn cảnh hoặc vật phẩm bên trong mới có thu tập được khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXTu" sParam="Item">
+      <ThingName>Tiên Thiên Thổ Tinh</ThingName>
+      <Desc>Tiên thiên Ngũ Hành tinh hoa, chỉ có tại Thổ thuộc tính dị thường nồng đậm hoàn cảnh hoặc vật phẩm bên trong mới có thu tập được khả năng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Jin" sParam="Item">
+      <ThingName>Kim Tinh</ThingName>
+      <Desc>Hậu thiên Ngũ Hành tinh hoa, trải rộng ở thế giới các nơi, chỉ cần hữu tâm liền có thể thu tập được.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Mu" sParam="Item">
+      <ThingName>Mộc Tinh</ThingName>
+      <Desc>Hậu thiên Ngũ Hành tinh hoa, trải rộng ở thế giới các nơi, chỉ cần hữu tâm liền có thể thu tập được.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Shui" sParam="Item">
+      <ThingName>Thủy Tinh</ThingName>
+      <Desc>Hậu thiên Ngũ Hành tinh hoa, trải rộng ở thế giới các nơi, chỉ cần hữu tâm liền có thể thu tập được.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Huo" sParam="Item">
+      <ThingName>Hỏa Tinh</ThingName>
+      <Desc>Hậu thiên Ngũ Hành tinh hoa, trải rộng ở thế giới các nơi, chỉ cần hữu tâm liền có thể thu tập được.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Tu" sParam="Item">
+      <ThingName>Thổ Tinh</ThingName>
+      <Desc>Hậu thiên Ngũ Hành tinh hoa, trải rộng ở thế giới các nơi, chỉ cần hữu tâm liền có thể thu tập được.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+      <ThingName>Phong Thủy Linh Cơ</ThingName>
+      <Desc>Chỉ có tại phong thuỷ cực giai địa phương mới có thể chậm chạp ngưng tụ ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+      <ThingName>Phong Thủy Sát Lực</ThingName>
+      <Desc>Chỉ có tại phong thuỷ cực kém địa phương mới có thể chậm chạp ngưng tụ ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Chun" sParam="Item">
+      <ThingName>Manh Phát Chi Tinh Hoa</ThingName>
+      <Desc>Bốn mùa lưu chuyển lúc, giữa thiên địa tự nhiên mà sinh tinh hoa, đối ứng ngày xuân vạn vật nảy mầm chi lực.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Xia" sParam="Item">
+      <ThingName>Thịnh Phóng Chi Tinh Hoa</ThingName>
+      <Desc>Bốn mùa lưu chuyển lúc, giữa thiên địa tự nhiên mà sinh tinh hoa, đối ứng ngày mùa hè vạn vật thịnh phóng chi lực.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Qiu" sParam="Item">
+      <ThingName>Suy Vong Chi Tinh Hoa</ThingName>
+      <Desc>Bốn mùa lưu chuyển lúc, giữa thiên địa tự nhiên mà sinh tinh hoa, đối ứng ngày mùa thu vạn vật suy vong chi lực.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Dong" sParam="Item">
+      <ThingName>Quy Tàng Chi Tinh Hoa</ThingName>
+      <Desc>Bốn mùa lưu chuyển lúc, giữa thiên địa tự nhiên mà sinh tinh hoa, đối ứng vào đông vạn vật yên lặng chi lực.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_YongYe" sParam="Item">
+      <ThingName>Vĩnh Tịch Chi Tinh Tủy</ThingName>
+      <Desc>Vĩnh Dạ bên trong tràn ngập ở trong thiên địa kì lạ tinh hoa, lai lịch thành mê, tựa hồ cùng bản phương thế giới không hợp nhau.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+      <ThingName>Giao Long Nguyên Tinh</ThingName>
+      <Desc>Ẩn chứa giao long sinh mệnh huyền bí tinh hoa, đối thể tu người có cực giai tham khảo tác dụng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+      <ThingName>Hung Phượng Nguyên Tinh</ThingName>
+      <Desc>Ẩn chứa hung phượng sinh mệnh huyền bí tinh hoa, đối thể tu người có cực giai tham khảo tác dụng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+      <ThingName>Chúc Long Nguyên Tinh</ThingName>
+      <Desc>Ẩn chứa Chúc Long sinh mệnh huyền bí tinh hoa, đối thể tu người có cực giai tham khảo tác dụng.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+      <ThingName>Cổ Thú Tinh Huyết</ThingName>
+      <Desc>Thượng cổ chi thú một giọt tinh huyết, ẩn chứa thượng cổ chi thú thân thể cường đại huyền bí.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+      <ThingName>Cổ Thú Cốt Phấn</ThingName>
+      <Desc>Thượng cổ chi thú một chút cốt chất bột phấn, ẩn chứa thượng cổ chi thú thân thể cường đại huyền bí.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+      <ThingName>Đại Yêu Nguyên Tinh</ThingName>
+      <Desc>Tu vi cao thâm yêu thú thể nội tinh hoa, có lẽ bao hàm có yêu tộc thân thể trời sinh cường kiện bí mật.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+      <ThingName>Sinh Cơ Tinh Hoa</ThingName>
+      <Desc>Thuần túy sinh cơ tinh hoa, có thể nhất bổ ích thể phách.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+      <ThingName>Sinh Mệnh Bản Nguyên</ThingName>
+      <Desc>Hậu thiên sinh mệnh ban sơ một tia bản nguyên tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+      <ThingName>Tạo Hóa Mệnh Nguyên</ThingName>
+      <Desc>Giữa thiên địa tự nhiên uẩn sinh sinh mệnh chi tức. Cũng là tiên thiên khởi nguồn của sự sống.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_SiWang" sParam="Item">
+      <ThingName>Tử Linh Chi Tức</ThingName>
+      <Desc>Sinh linh tiêu vong sau, một bộ phận sinh mệnh bản nguyên về tán thiên địa, một bộ phận khác liền sẽ dị biến vì thế vật.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WuHui" sParam="Item">
+      <ThingName>Ô Uế Chi Tinh Hoa</ThingName>
+      <Desc>Vật này dù xuất xứ tối nghĩa, nhưng cũng vì chúng sinh âm trọc ngưng tụ, ẩn hàm luân hồi đọa biến huyền diệu.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WuXing" sParam="Item">
+      <ThingName>Vô Hình Chi Tinh</ThingName>
+      <Desc>Một loại kì lạ tinh hoa, vô hình không thể, nhưng lại chân thực tồn tại, có thể từ vô hình chi vật bên trong chắt lọc.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+      <ThingName>Tiên Đạo Tinh Hoa</ThingName>
+      <Desc>Kim Đan pháp người tu hành lấy linh khí gia công giữa thiên địa các loại tinh hoa sở sinh sản phẩm gọi chung là, bởi vì nhận linh khí chỗ nhiễm, những tinh hoa này đối thể tu mà nói không cách nào có hiệu lực. Nếu như cưỡng ép dùng cái này vật rèn luyện thân thể, thì sẽ bởi vì linh khí bài xích hiệu ứng hóa tán nên bộ vị luyện thể chi công, làm cho trở lại là nhất sơ trạng thái.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XianSui" sParam="Item">
+      <ThingName>Tiên Tủy</ThingName>
+      <Desc>Kim Đan pháp người tu hành chỗ ngưng tụ Tiên thể tinh hoa. Vật này cực kỳ mãnh liệt hiệu quả sẽ đối Luyện Thể giả sinh ra mãnh liệt kích thích, dùng cái này vật rèn luyện không biết sẽ phát sinh chuyện gì.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+      <ThingName>Thần Tủy</ThingName>
+      <Desc>Thần đạo người tu hành chỗ ngưng tụ thần thể tinh hoa. Vật này cực kỳ mãnh liệt hiệu quả sẽ đối Luyện Thể giả sinh ra mãnh liệt kích thích, dùng cái này vật rèn luyện không biết sẽ phát sinh chuyện gì..</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_BaBao" sParam="Item">
+      <ThingName>Vũ Trụ Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là vũ trụ chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WanDao" sParam="Item">
+      <ThingName>Thiên Địa Khai Tịch Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là Thiên Địa Khai Tịch chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_QiQing" sParam="Item">
+      <ThingName>Âm Dương Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là đạo âm dương diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+      <ThingName>Thì Không Diễn Sinh Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là thời không diễn sinh chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+      <ThingName>Thủy Chung Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là từ đầu đến cuối chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Jian" sParam="Item">
+      <ThingName>Sinh Diệt Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là sinh diệt chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_LingYu" sParam="Item">
+      <ThingName>Vạn Linh Sinh Phát Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là vạn linh sinh sôi chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WanGu" sParam="Item">
+      <ThingName>Thì Không Tận Suy Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là thời không tận suy chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+      <ThingName>Thiên Địa Quy Tịch Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là thiên địa quy tịch chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_QiSha" sParam="Item">
+      <ThingName>Vạn Vật Vẫn Diệt Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là vạn vật vẫn diệt chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+      <ThingName>Tạo Hóa Chi Tinh Hoa</ThingName>
+      <Desc>Thiên Địa Khai Tịch mới bắt đầu, vạn đạo diễn hóa. Đây là tạo hóa chi đạo diễn hóa mà cụ hiện ra tinh hoa.</Desc>
+    </Text>
+  </List>
+</Texts>
