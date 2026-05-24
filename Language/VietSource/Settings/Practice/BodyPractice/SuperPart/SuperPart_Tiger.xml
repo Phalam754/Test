@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Tiger_1">
+      <Prefix>Vương Giả Chiến</Prefix>
+      <Suffix>ý</Suffix>
+      <Desc>Bí thể thiên phú của tộc Hổ Yêu, luyện thành thuật này, có thể dùng tâm vương đạo để đối mặt với chiến đấu, từ tốn không hoảng sợ.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Mở khóa tư thế chiến đấu: Vương Giả Chiến Ý</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Tiger_2">
+      <Prefix>Ngự Phong Chi</Prefix>
+      <Suffix>thể</Suffix>
+      <Desc>Bí thể thiên phú của tộc Hổ Yêu, luyện thành thuật này, khi đi lại có cuồng phong đi theo, ấy gọi là gió theo mãnh hổ, có thể tăng uy lực bí thể trên toàn cục.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Hiệu ứng cộng thêm toàn cục cho uy lực bí thể +10%</Levels.0.Desc>
+    </Text>
+  </List>
+</Texts>
