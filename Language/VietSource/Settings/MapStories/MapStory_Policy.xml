@@ -1,0 +1,164 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="OutSpread_Give1">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Cái này Thiên Thiên khí không tệ, người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, đem đồ ăn phân cho người qua đường.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give2">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Cái này Thiên Thiên khí không tệ, người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Gặp ven đường có rất nhiều tên ăn mày tại ăn xin.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give3">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Cái này Thiên Thiên khí không tệ, người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trông thấy một cây cầu đá đã sụp đổ, mọi người không còn đi ngang qua nơi này.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give4">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Cái này Thiên Thiên khí không tệ, người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trông thấy hai cái thôn dân ngay tại vì một con chó mà tranh chấp không ngớt.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give5">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trông thấy hai vị công tử ca lại vì tranh đoạt một nữ nhân mà tranh chấp không ngớt.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give6">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trông thấy hai tên đại hán ngay tại ra tay đánh nhau, hỏi người bên ngoài nói là một phương trồng cây, quả rơi xuống đến một người khác trong nhà, một phương khác không muốn trả về.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give7">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đang chuẩn bị đi bố thí, đột nhiên có một thân mang hoa lệ nữ tử khóc đi tới [NAME] Nơi ở, nói nàng hài tử ném đi.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give8">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đang chuẩn bị đi bố thí, đột nhiên có một nam tử vọt tới trong điện, cầu [NAME] Mau cứu nàng sắp chết bệnh thê tử.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give9">
+      <DisplayName>Đặc Thù Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đi tới hơi vắng vẻ địa phương. Lúc này có một đám đạo tặc đi ngang qua.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give10">
+      <DisplayName>Đặc Thù Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đi ngang qua [SCHOOL0] Thế lực, phát hiện bọn hắn đang tiến hành bố thí.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give11">
+      <DisplayName>Đặc Thù Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đi ngang qua [SCHOOL0] Thế lực, phát hiện bọn hắn đang tiến hành truyền đạo.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give12">
+      <DisplayName>Đặc Thù Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Đi ngang qua [SCHOOL0] Thế lực, phát hiện bọn hắn đang tiến hành ăn giới.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give13">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Đi ngang qua một tòa tổn hại mộc phòng ở, chủ nhân thân có tàn tật, không cách nào tu bổ.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give14">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trông thấy một thân mang dị tộc phục sức người tại giả thần giả quỷ.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give15">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Đi ngang qua hai nhà cửa đối diện tửu quán, hai gia hỏa kế ngay tại bởi vì sinh ý mà tranh chấp.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give16">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Gặp một đám chạy nạn đến đây nạn dân.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give17">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Tại ven đường nhìn thấy một vị thân hoạn bệnh nặng người sắp chết, hắn khao khát [NAME] Để hắn giải thoát.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Give18">
+      <DisplayName>Bố Thi Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Dẫn đầu chúng đệ tử đi ra đầu phố, bắt đầu bố thí. Trong đám người không cẩn thận đụng phải một vị lão đại gia, hắn thế mà tại chỗ liền tê liệt ngã xuống trên mặt đất, hô to: Ôi! Chân của ta đoạn mất! Chính là người này!.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Sermon1">
+      <DisplayName>Truyện Đạo Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Đứng tại cổng trên đường cái, chuẩn bị tiến hành một lần truyền đạo.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Sermon2">
+      <DisplayName>Truyện Đạo Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Ngay tại giảng kinh truyền đạo. Đột nhiên có đại hán đi lên phía trước, lớn tiếng nói: Nói bậy nói bạ!</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Sermon3">
+      <DisplayName>Truyện Đạo Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Ngay tại giảng kinh truyền đạo. Đột nhiên có người thư sinh đi lên phía trước, nói [NAME] Giảng không đối, tóm lại chính là có vấn đề.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Sermon4">
+      <DisplayName>Truyện Đạo Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Ngay tại giảng kinh truyền đạo. Trong đám người có cái bác gái một mực tại vỗ tay bảo hay, khiến người phiền chán, nhưng là nàng cũng không phải là tín đồ.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Secret1">
+      <DisplayName>Mật Mưu Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Đi đến mật các, chuẩn bị tiến hành một lần mưu đồ bí mật.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Secret2">
+      <DisplayName>Mật Mưu Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Phát hiện [SCHOOL0] Đang tiến hành bố thí, quyết định tiến hành quấy nhiễu.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Secret3">
+      <DisplayName>Mật Mưu Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Phát hiện [SCHOOL0] Đang tiến hành truyền đạo, nhướng mày, nảy ra ý hay.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Secret4">
+      <DisplayName>Mật Mưu Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Phát hiện [SCHOOL0] Đang tiến hành ăn giới, quyết định đi làm nhiễu bọn hắn.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Disp1">
+      <DisplayName>Thụ Giới Sự Kiện</DisplayName>
+      <Desc>Nay Thiên Thiên khí sáng sủa, người đại diện [NAME] Tại Giới Luật viện, chuẩn bị tiến hành một lần thụ giới nghi thức.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Disp2">
+      <DisplayName>Thụ Giới Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp thế nhân hàng đêm sênh ca, làm không biết mệt, quyết định cử hành thụ giới nghi thức.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Disp3">
+      <DisplayName>Thụ Giới Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp thế gian cửa son rượu thịt thối, đường có xương chết cóng, quyết định cử hành thụ giới nghi thức.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Disp4">
+      <DisplayName>Thụ Giới Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp thế gian lục lâm hoành hành, toàn thành lệ khí, quyết định cử hành thụ giới nghi thức.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_Disp5">
+      <DisplayName>Thụ Giới Sự Kiện</DisplayName>
+      <Desc>Người đại diện [NAME] Gặp thế gian gian trộm hoành hành, ngầm sinh loạn tượng, quyết định cử hành thụ giới nghi thức.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="OutSpread_God1">
+      <DisplayName>Thần Tích Sự Kiện</DisplayName>
+      <Desc>Hôm nay người đại diện [NAME] Cho rằng thời cơ chín muồi, để thần tu đệ tử ở đây hiện ra thần tích.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>
