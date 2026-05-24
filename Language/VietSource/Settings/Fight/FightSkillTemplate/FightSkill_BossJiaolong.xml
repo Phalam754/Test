@@ -1,0 +1,16 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Jiaolong_shuilei_1">
+      <DisplayName>Thủy Lôi Đan Thể</DisplayName>
+    </Text>
+    <Text Name="Jiaolong_shuilei_2">
+      <DisplayName>Thủy Lôi Đa Cá</DisplayName>
+    </Text>
+    <Text Name="Jiaolong_shuibao">
+      <DisplayName>Thủy Bạo</DisplayName>
+    </Text>
+    <Text Name="Jiaolong_longnu_hit">
+      <DisplayName>Long Nộ</DisplayName>
+    </Text>
+  </List>
+</Texts>
