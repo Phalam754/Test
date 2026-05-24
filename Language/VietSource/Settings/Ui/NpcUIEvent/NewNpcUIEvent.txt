@@ -1,0 +1,156 @@
+﻿ID	Content	WholeContent	TipDesc	Desc
+	Tin tức miêu tả	Cùng ID Sát nhập sau miêu tả	tips Bên trên biểu hiện nói rõ chi tiết hoặc tiến một bước nhắc nhở	
+1	Đồ ăn số lượng dự trữ không đủ	Đồ ăn số lượng dự trữ không đủ		
+2	Dược vật số lượng dự trữ không đủ	Dược vật số lượng dự trữ không đủ		
+3	Tinh nguyên số lượng dự trữ không đủ	Tinh nguyên số lượng dự trữ không đủ		
+4	Mùa hạ sắp xảy ra	Mùa hạ sắp xảy ra	Mời làm tốt nghỉ mát chuẩn bị	
+5	Mùa đông sắp xảy ra	Mùa đông sắp xảy ra	Mời làm tốt chống lạnh chuẩn bị	
+6	Địch nhân xuất hiện	Địch nhân xuất hiện		
+7	{0}{1} Đang bị công kích	Môn phái đang bị công kích		
+8	Cháy rồi	Cháy rồi		
+9	Người qua đường cần trợ giúp	Người qua đường cần trợ giúp		
+10	Địch nhân {0} Ngay tại ý đồ cướp đi vật phẩm {1}	Địch nhân ngay tại ý đồ cướp đi vật phẩm		
+11	Địch nhân {0} Cướp đi vật phẩm {1}	Địch nhân cướp đi vật phẩm		
+12	Linh thú {0} Xuất hiện	Linh thú xuất hiện		
+13	Bảo vật rơi xuống	Bảo vật rơi xuống		
+14	Tiên nhân {0}_ Giáng lâm / Rời đi	Có tiên nhân giáng lâm		
+15	{0} Thích {1}	Có tình cảm lưu luyến phát sinh		
+16	{0} Không còn thích {1}	Có tình cảm lưu luyến biến mất		
+17	{0} Thổ lộ {1}_ Thành công cũng trở thành người yêu / Thất bại	Có người thổ lộ		
+18	{0} Thuyết phục {1}_ Thành công / Thất bại	Có người khuyên nói		
+19	Vứt bỏ	Vứt bỏ		
+20	{0} Cảm xúc hỏng bét	Có tình tự rất tồi tệ		
+21	{0} Cảm xúc bởi vì {1} Bắt đầu chuyển biến xấu	Có tình tự chuyển biến xấu		
+22	{0} Tâm cảnh bất ổn	Có lòng người cảnh bất ổn		
+23	{0}: _ Ngã xuống đất / Hôn mê / Sắp chết	Có người vô pháp hành động		
+24	Vứt bỏ	Vứt bỏ		
+25	{0}: Tử vong	Có người tử vong		
+26	{0}: Biếng nhác	Có người biếng nhác		
+27	{0}: Biếng nhác khôi phục	Có người từ biếng nhác bên trong khôi phục		
+28	{0} Cần đi săn vũ khí	Có người cần đi săn vũ khí		
+29	{0} Cần chặt cây công cụ	Có người cần chặt cây công cụ		
+30	{0} Cần khai thác công cụ	Có người cần khai thác công cụ		
+31	{0} Cần nông cụ	Có người cần nông cụ		
+32	{0} Kỹ năng {1} Thăng cấp	Kỹ năng thăng cấp		
+33	{0}: Nhập ma	Có người nhập ma		
+34	{0} Trúc cơ thành công	Có người trúc cơ thành công		
+35	{0} Gặp được bình cảnh	Có người gặp được bình cảnh		
+36	{0} Bình cảnh thời gian gần	Có người bình cảnh thời gian gần		
+37	{0} Bình cảnh thời gian đã đến	Có người bình cảnh thời gian đã đến		
+38	{0} Luyện chế pháp bảo {1}_ Thành công / Thất bại	Có người luyện bảo		
+39	Luyện đan _ Thành công / Thất bại	Có người luyện đan		
+40	{0} Bái {1} Vi sư	Có người bái sư		
+41	{0} Đối với môn phái có chút bất mãn	Có người đối với môn phái bất mãn		
+42	{0} Lịch luyện trở về	Có người lịch luyện trở về		
+43	{0} Đột phá bình cảnh _ Thành công / Thất bại	Có người đột phá bình cảnh		
+44	Chu thiên thần toán: {0}	Chu thiên thần toán		
+45	{0} Cần đường chủ	Có phần đường cần đường chủ		
+46	{0} Cảm thấy đói	Có người dám đến đói	Cần càng nhiều đồ ăn	
+47	{0} Cảm thấy khát nước	Có người dám đến khát nước	Cần có thể dùng nguồn nước	
+48	{0} Cảm thấy nhàm chán	Có người dám đến nhàm chán	Cần càng nhiều giải trí công trình	
+49	{0} Cảm thấy mỏi mệt	Có người dám đến mỏi mệt	Cần nghỉ ngơi giấc ngủ	
+50	{0}: Thụ thương	Có người thụ thương		
+51	{0}: Thương thế chuyển biến xấu	Có người thương thế chuyển biến xấu		
+52	{0}: Xuất hiện tàn tật	Có người xuất hiện tàn tật		
+53	Lưu trữ viết nhập hoàn thành			
+54	{0}: Sinh trưởng điều kiện khó chịu	Có linh thực sinh trưởng điều kiện xuất hiện khó chịu.		
+55	{0} Cảm thấy nguy hiểm	Cảm nhận được một cỗ nguy cơ vô hình		
+56	Có {1} Cảm nhận được thiên địa linh khí đột phá, biến thành yêu thú!			
+57	Yêu thú {0} Xuất hiện	Có yêu thú xuất hiện		
+58	Yêu thú {0} Cảm nhận được thiên địa linh khí đột phá!	Yêu thú đột phá		
+59	Thượng cổ chi thú {0} Đột kích!	Có thượng cổ chi thú xâm lấn!		
+60	{0} Kích hoạt lên pháp bảo {1}			
+61	{0} Độ kiếp _ Thành công / Thất bại	Có người độ kiếp		
+62	Xuất hiện trấn vật!	Xuất hiện trấn vật		
+63	{0} Nhận chủ {1}			
+64	Có phiên bản đổi mới		Trò chơi phiên bản đổi mới {0}	
+65	{0} Nhập kho {1}_ Thành công / Thất bại _	Nhập kho Tàng Kinh Các		
+66	{0} Tâm cảnh cấp độ đề cao vì [{1}], đồng thời thần tính được tăng lên.			
+67	{0} Chấp niệm bộc phát, tín ngưỡng thiên kiếp sắp xảy ra.	Chấp niệm bộc phát		
+68	{0} Luyện chế thánh vật {1}_ Hoàn thành / Thất bại	Luyện chế thánh vật		
+69	{0} {1} Chấp niệm hiển hiện	Chấp niệm hiển hiện		
+70	{0} Thần tính tràn đầy, sắp phi thăng.	Sắp phi thăng		
+71	{0} Chém rụng chấp niệm: [{1}]			
+72	{0} Thần danh phát sinh biến hóa	Thần danh		
+73	{0} Nghiên tập {1}_ Thành công / Thất bại _	Nghiên tập		
+74	{1} Từ sủi cảo bên trong ăn ra một viên {0}			
+75	{0} Tiến vào thông linh trạng thái	Vạn vật thông linh		
+76	{0} Có được bản thân ý thức, trở thành tinh quái	Tinh quái thức tỉnh		
+77	{0} Thông linh thất bại	Thông linh thất bại		
+78	{0} Xuất hiện	Tinh quái đi ngang qua		
+79	{0} {1} Đã hoàn thành tái tạo			
+80	Âm dương kỳ thạch khôi phục sinh khí	Âm dương kỳ thạch khôi phục sinh khí		
+81	Địa Mẫu bia đá khôi phục sinh khí	Địa Mẫu bia đá khôi phục sinh khí		
+82	Một kiện vật phẩm từ dị giới trong cái khe bay ra	Một kiện vật phẩm từ dị giới trong cái khe bay ra		
+83	{0}: Có cá mắc câu rồi!	Thả câu		
+84	{0} Tập được {1}	Tu luyện		
+10001	Thần bí hang động			Gần đây, môn phái dưới mặt đất ngày càng tấp nập chấn động bỗng nhiên ngừng lại, ngay tại lúc đó, một cái thần bí hang động xuất hiện trên mặt đất. Từ trong huyệt động truyền ra tối nghĩa mà cường đại ý niệm, không biết là lai lịch ra sao.\n Gần đây nhiều lần có thượng cổ người tu hành xuất thế, có lẽ có thể hướng bọn hắn tìm hiểu một chút tin tức.
+10002	Nhu cầu tế tự			Thần bí trong huyệt động bỗng nhiên truyền lại ra bao hàm uy hiếp ý niệm, nó muốn ngươi [TXT]
+10003	Nhu cầu tế tự			Thần bí trong huyệt động bỗng nhiên truyền lại ra bao hàm uy hiếp ý niệm, nó muốn ngươi [TXT]
+10004	Nhu cầu tế tự			Thần bí trong huyệt động bỗng nhiên truyền lại ra bao hàm uy hiếp ý niệm, nó muốn ngươi [TXT]
+10005	Hoàn thành tế tự			Ngươi tại hang động trước hoàn thành tế tự, thần bí ý niệm rất thỏa mãn.
+10006	Thiên tượng tai ương			Thần bí ý niệm mười phần tức giận, mang đến tai nạn [TXT]
+10007	Yêu thú tai ương			Thần bí ý niệm mười phần tức giận, đưa tới một chút yêu thú xâm lấn.
+10008	Phá diệt tai ương			Thần bí ý niệm mười phần tức giận, phun ra mấy đạo phẫn nộ dòng lũ, phá hủy mặt đất.
+10009	Phá đất mà lên			Phẫn nộ cự long phá đất mà lên
+10010	Rồng vẫn			Trải qua gian khổ chém giết, dốc hết toàn phái chi lực, rốt cục chém giết Yêu Long.
+10011	Dị thường nhiệt độ cao			Không biết nguyên nhân gì, giữa thiên địa nhiệt độ đột nhiên đề cao rất nhiều, loại khí trời này biến hóa vượt xa bình thường thời tiết phạm trù, tựa hồ ẩn chứa cái gì không tầm thường tình huống.
+10012	Bạo loạn dã thú			Dị thường khô hạn khí hậu làm xung quanh dã thú lâm vào điên cuồng, một đám bạo loạn dã thú xuất hiện tại môn phái phụ cận!
+10013	Trời rơi Hỏa Vũ			Một cỗ sóng nhiệt xẹt qua bầu trời, tựa hồ có đồ vật gì rơi xuống.
+10014	Tăng lên khô hạn			Tiếp tục nhiệt độ cao mang đến một trận khô hạn, không biết có phải hay không ảo giác, nhiệt độ tựa hồ càng ngày càng cao, nếu như không khai thác cái gì đối sách, tình huống có lẽ sẽ trở nên càng thêm ác liệt.
+10015	Phát cuồng yêu thú			Một chút yêu thú tựa hồ bởi vì sợ hãi mà phát cuồng, vậy mà rời đi lãnh địa của mình bắt đầu bốn phía phá hư!
+10016	Trời rơi Hỏa Vũ			Một cỗ sóng nhiệt xẹt qua bầu trời, tựa hồ có đồ vật gì rơi xuống.
+10017	Thê lương hung minh			Tại thi pháp xua tan ngày hôm đó ích tăng lên khô hạn sau, giữa thiên địa tựa hồ an tĩnh quỷ dị thời gian nửa nén hương. Ngắn ngủi yên tĩnh qua đi, nơi xa dãy núi đột nhiên hù dọa mảng lớn chim bay, một trận thê lương hung vang lên triệt cửu tiêu!
+10018	Hung phượng giáng lâm			Hung phượng giáng lâm.
+10019	Hung phượng vẫn lạc			Trải qua gian khổ chém giết, dốc hết toàn phái chi lực, rốt cục chém giết hung phượng.
+10020	Vĩnh Dạ bắt đầu			Không biết sao, giữa thiên địa âm dương chi lực đột nhiên lâm vào hỗn loạn, môn phái phụ cận trăm dặm vậy mà lâm vào đêm khuya đen nhánh.
+10021	Âm chi noãn xuất hiện			Trong đêm khuya, một chút kì lạ trứng đột nhiên xuất hiện tại phụ cận, trong đó tựa hồ dựng dục cái gì......
+10022	Cực trú bắt đầu			Không biết sao, giữa thiên địa âm dương chi lực đột nhiên lâm vào hỗn loạn, môn phái phụ cận trăm dặm đột nhiên chuyển thành vào lúc giữa trưa...... Không biết cái này âm dương hỗn loạn sẽ kéo dài bao lâu?
+10023	Dương chi noãn xuất hiện			Ban ngày bên trong, một chút kì lạ trứng đột nhiên xuất hiện tại phụ cận, trong đó tựa hồ dựng dục cái gì......
+10024	Chúc Long xuất hiện			Tiếp tục hỗn loạn âm dương chi tức rốt cục đến cực hạn, nương theo một trận kéo dài thở dài, một đầu thân ảnh khổng lồ từ giữa thiên địa hiển hiện ra!
+10025	Trứng nở			Theo kì lạ trứng nở, giữa thiên địa âm dương chi tức bắt đầu lâm vào hỗn loạn!
+10026	Trứng đánh vỡ			Theo kì lạ trứng bị phá hư, giữa thiên địa âm dương chi tức bắt đầu lâm vào hỗn loạn!
+10027	Thiên địa dị biến			Gần đây, Trung Nguyên nội địa đột nhiên phát sinh một lần linh khí bộc phát. Ban sơ cũng không người coi trọng, chỉ cho rằng đây là bình thường linh mạch dị động. Nhưng mà theo thời gian chuyển dời, mọi người mới phát hiện lần này linh khí bộc phát quy mô cùng cường độ đồng đều viễn siêu mong muốn, lấy bộc phát điểm làm tâm điểm một đường lan tràn, đã tiếp tục hơn tháng, lại là một trận tác động đến toàn bộ tu hành giới kịch biến.\n Bây giờ, linh khí bộc phát dư ba đã lan tràn đến ngươi môn phái, mọi người tại hưởng thụ đầy đủ linh khí đồng thời cũng không nhịn được nghi hoặc trận này kịch biến ý vị như thế nào......
+10028	Ngàn năm linh triều			Từ linh khí triều dâng càn quét tu hành giới đã qua mấy ngày, tu hành giới các đại môn phái cũng từ môn phái trong điển tịch dần dần xác định, lần này dị biến nên là ba ngàn năm một lần luân hồi linh khí triều tịch lại lần nữa tiến đến. Thụ này ngàn năm linh triều ảnh hưởng, một chút bởi vì các loại nguyên nhân ngủ say thượng cổ người tu hành cũng lần lượt thức tỉnh.\n Thời đại thượng cổ, tu hành giới còn tiếc rằng nay trật tự, chỉ là thừa hành nhược nhục cường thực lý niệm. Những này thừa hành thượng cổ chi đạo người tu hành lấy cường hoành tu vi, tại ngắn ngủi mấy ngày, đã ở tu hành giới nhấc lên gợn sóng......
+10029	Nam Hoang dị biến			Gần đây, Bắc Cương dãy núi bên trong phát sinh một trận thần bí thiên tai. Nghe nói lúc ấy núi dao động mấy chục giây, âm thanh chấn ngàn dặm. Chờ phụ cận người tu hành lúc chạy đến, chỉ phát hiện trăm dặm sông núi đều hóa thành trạch quốc, hiện trường chỉ cảm thấy nhận khổng lồ yêu khí tràn ngập.\n Xem ra thụ ngàn năm linh triều ảnh hưởng, một chút ngày thường ẩn tàng tại thâm sơn đại trạch khó gặp thượng cổ yêu thú tựa hồ cũng bắt đầu trở nên sinh động.
+10030	Dưới mặt đất dị thanh			Ngàn năm linh triều đã sắp trôi qua, ngắn ngủi hơn tháng thời gian, cổ đại người tu hành xuất thế, thượng cổ yêu thú một lần nữa sinh động...... Tu hành giới cách cục đã phát sinh biến đổi lớn. Bất quá theo thời gian trôi qua, tu hành giới cũng dần dần một lần nữa đạt thành mới ổn định, hết thảy tựa hồ cũng một lần nữa đi hướng quỹ đạo.\n Bất quá gần đây, môn phái dưới mặt đất tựa hồ chấn động tấp nập, không biết là nguyên nhân gì......
+10031	Thiên uy đồ long			Thiên kiếp chi lực đem chưa hoàn toàn nở giao long chi sinh cơ đều chôn vùi......
+10032	Nhu cầu tế tự			Thần bí trong huyệt động bỗng nhiên truyền lại ra bao hàm uy hiếp ý niệm, nó muốn ngươi [TXT]
+10033	Thành tựu ({0}) Thất bại	Thành tựu		Thành tựu thất bại
+20001	Giang hồ truyền văn			[TXT]
+20002	Dị giới rung chuyển			Giang hồ truyền ngôn, gần đây dị giới khe hở đột nhiên mở ra, đếm tới quang hoa từ trong cái khe bắn ra, rơi vào các nơi trên thế giới. Từ nơi sâu xa ngươi sinh ra cảm ứng, tựa hồ những vật phẩm này cùng mình rất có duyên phận, xem ra có cần phải tìm kiếm một phen.
+30001	Người đại diện {0} Đến {1}	Người đại diện đến		Thành công đến
+30002	{0} Vào ở thành công	Vào ở thành công		Vào ở thành công
+30003	{0} Kiến thiết hoàn thành	Kiến thiết hoàn thành		Kiến thiết hoàn thành
+30004	{0} Chủ điện thăng cấp hoàn thành	Chủ điện thăng cấp		Thăng cấp hoàn thành
+30005	{0}	Xuất hiện sự kiện		Phát sinh sự kiện
+30006	{0}	Xuất hiện tai nạn		Phát sinh tai nạn
+30007	Hành thương {0} Đến	Hành thương đến		Hành thương đến
+30008	Chúng ta xây xong {0}!	Kiến trúc xây thành		Kỳ quan thành lập xong được
+40000	Hành thương nghiệp đoàn phát ra khiển trách!	Hành thương nghiệp đoàn khiển trách	Bởi vì ngươi dã man hành vi, hành thương nghiệp đoàn quyết định vĩnh cửu sẽ không tiếp tục cùng ngươi giao dịch	
+30009	{0} Tín ngưỡng đã đủ	Tín ngưỡng đã đủ	{0} Tín ngưỡng thu thập đã đủ, mời điều động đệ tử tiến về thu thập	
+30010	{0} Nhà kho đã đủ	Nhà kho đã đủ	{0} Nhà kho đã đủ, mời dùng tay nhận lấy	
+30011	{0}	Lựa chọn chính sách		
+31001	Kỳ quái tiểu yêu tinh	Kỳ quái tiểu yêu tinh	Kỳ quái tiểu yêu tinh đã tới	
+31002	Dị hoá Chúc Long	Dị hoá Chúc Long	Dị hoá Chúc Long hiển hiện ra	
+32001	Một con chó nhỏ xuất hiện tại phụ cận!	Một con chó nhỏ xuất hiện tại phụ cận!	Một con chó nhỏ xuất hiện tại phụ cận!	
+32002	Một con hồ ly xuất hiện tại phụ cận!	Một con hồ ly xuất hiện tại phụ cận!	Một con hồ ly xuất hiện tại phụ cận!	
+32003	{0} Đang bị dùng để mài răng	Đang bị công kích	Đang bị công kích	
+32004	Một con Huyền Vũ xuất hiện tại phụ cận!	Một con Huyền Vũ xuất hiện tại phụ cận!	Một con Huyền Vũ xuất hiện tại phụ cận!	
+33001	{0} Chưa vượt qua Hóa Hình Thiên Kiếp	Hóa Hình Thiên Kiếp thất bại	{0} Chưa vượt qua Hóa Hình Thiên Kiếp, hôi phi yên diệt	
+33002	{0} Chưa vượt qua Hóa Hình Thiên Kiếp	Hóa Hình Thiên Kiếp thất bại	{0} Chưa vượt qua Hóa Hình Thiên Kiếp, trở thành một con yêu thú	
+34001	{0} Nhu cầu cấp bách suy nghĩ	Nhu cầu cấp bách suy nghĩ.	Đã thu hoạch được đủ lượng suy nghĩ, nhu cầu cấp bách suy nghĩ.	
+34002	{0} Tiến vào khai trí kỳ	Khai trí kỳ		
+34003	{0} Tiến vào trưởng thành kỳ	Trưởng thành kỳ		
+34004	{0} Tiến vào thành niên kỳ	Thành niên kỳ		
+34005	{0} Ngay tại do dự	Do dự		
+34006	{0} Linh trí đã đạt cực đại nhất	Rèn luyện		
+34007	{0} Linh khí đã đạt cực đại nhất	Rèn luyện		
+34008	{0} Thuật pháp đã đạt cực đại nhất	Rèn luyện		
+34009	{0} Ngự đan đã đạt cực đại nhất	Rèn luyện		
+34010	{0} Hộ thể đã đạt cực đại nhất	Rèn luyện		
+34011	Một con trời mạch xuất hiện tại phụ cận!	Một con trời mạch xuất hiện tại phụ cận!	Một con trời mạch xuất hiện tại phụ cận!	
+34101	Ứng sân thượng ngưng tụ linh thạch đã đưa đạt	Ứng sân thượng ngưng tụ linh thạch đã đưa đạt		
+34102	Ứng sân thượng có thể nhận lấy linh thạch	Ứng sân thượng có thể nhận lấy linh thạch		
+34103	Ứng sân thượng ngưng Tụ Linh Thạch hoàn thành	Ứng sân thượng ngưng Tụ Linh Thạch hoàn thành		
+34200	Giải tỏa áo choàng phối phương: {0}	Giải tỏa áo choàng phối phương	Có thể thông qua may bàn chế tác	
