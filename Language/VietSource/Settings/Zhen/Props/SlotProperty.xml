@@ -1,0 +1,116 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <Descript>Mô Tổ Đâu Thất</Descript>
+      <Tip>Mô Tổ Đâu Thất</Tip>
+    </Text>
+    <Text Name="StabilityBasev">
+      <Descript>Trận pháp ổn định độ cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="StabilityBasep">
+      <Descript>Trận pháp ổn định độ cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="StabilityAddv">
+      <Descript>Trận pháp ổn định độ {1}{0}</Descript>
+    </Text>
+    <Text Name="StabilityAddp">
+      <Descript>Trận pháp ổn định độ {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="FabaoAtkPowerBasev">
+      <Descript>Trận pháp ngự khí năng lực cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="FabaoAtkPowerBasep">
+      <Descript>Trận pháp ngự khí năng lực cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="FabaoAtkPowerAddv">
+      <Descript>Trận pháp ngự khí năng lực {1}{0}</Descript>
+    </Text>
+    <Text Name="FabaoAtkPowerAddp">
+      <Descript>Trận pháp ngự khí năng lực {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="MagicPowerBasev">
+      <Descript>Trận pháp thuật pháp năng lực cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="MagicPowerBasep">
+      <Descript>Trận pháp thuật pháp năng lực cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="MagicPowerAddv">
+      <Descript>Trận pháp thuật pháp năng lực {1}{0}</Descript>
+    </Text>
+    <Text Name="MagicPowerAddp">
+      <Descript>Trận pháp thuật pháp năng lực {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="SheildBasev">
+      <Descript>Trận pháp hộ ngự năng lực cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="SheildBasep">
+      <Descript>Trận pháp hộ ngự năng lực cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="SheildAddv">
+      <Descript>Trận pháp hộ ngự năng lực {1}{0}</Descript>
+    </Text>
+    <Text Name="SheildAddp">
+      <Descript>Trận pháp hộ ngự năng lực {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="SkillCooldownBasev">
+      <Descript>Trận pháp vận chuyển năng lực cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="SkillCooldownBasep">
+      <Descript>Trận pháp vận chuyển năng lực cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="SkillCooldownAddv">
+      <Descript>Trận pháp vận chuyển năng lực {1}{0}</Descript>
+    </Text>
+    <Text Name="SkillCooldownAddp">
+      <Descript>Trận pháp vận chuyển năng lực {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="ReduceCostBasev">
+      <Descript>Trận pháp hiệu suất cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="ReduceCostBasep">
+      <Descript>Trận pháp hiệu suất cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="ReduceCostAddv">
+      <Descript>Trận pháp hiệu suất {1}{0}</Descript>
+    </Text>
+    <Text Name="ReduceCostAddp">
+      <Descript>Trận pháp hiệu suất {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcNodeCountNumPowerupBasev">
+      <Descript>Trận pháp quy mô {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcNodeCountNumPowerupBasep">
+      <Descript>Trận pháp quy mô {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcNodeCountNumPowerupAddv">
+      <Descript>Trận pháp quy mô {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcNodeCountNumPowerupAddp">
+      <Descript>Trận pháp quy mô {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcZhenPressurePowerupBasev">
+      <Descript>Trận pháp phụ tải {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcZhenPressurePowerupBasep">
+      <Descript>Trận pháp phụ tải {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcZhenPressurePowerupAddv">
+      <Descript>Trận pháp phụ tải {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcZhenPressurePowerupAddp">
+      <Descript>Trận pháp phụ tải {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcZhenPointBasev">
+      <Descript>Trận pháp linh cơ hạn mức cao nhất cơ sở giá trị {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcZhenPointBasep">
+      <Descript>Trận pháp linh cơ hạn mức cao nhất cơ sở giá trị {1}{0:P2}</Descript>
+    </Text>
+    <Text Name="NpcZhenPointAddv">
+      <Descript>Trận pháp linh cơ hạn mức cao nhất {1}{0}</Descript>
+    </Text>
+    <Text Name="NpcZhenPointAddp">
+      <Descript>Trận pháp linh cơ hạn mức cao nhất {1}{0:P2}</Descript>
+    </Text>
+  </List>
+</Texts>
