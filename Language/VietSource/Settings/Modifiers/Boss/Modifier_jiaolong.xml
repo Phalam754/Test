@@ -1,0 +1,42 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_PartFight">
+      <DisplayName>Thuộc tính chiến đấu vị trí chung của BOSS</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong">
+      <DisplayName>Giao Long</DisplayName>
+    </Text>
+    <Text Name="Boss_JiaolongFight">
+      <DisplayName>Thuộc tính chiến đấu của Giao Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part">
+      <DisplayName>Vị trí của Giao Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part1">
+      <DisplayName>Vị trí yếu ớt của Giao Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_JiSiGongYang">
+      <DisplayName>Trưởng thành</DisplayName>
+      <Desc>Yêu Long hấp thụ sức mạnh từ vật tế, Linh Khí trở nên hùng hậu hơn. Mỗi tầng khiến Bội số Linh Khí tối đa +20. Tối đa 999 tầng.</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Shuiling">
+      <DisplayName>Lực lượng Thủy Linh</DisplayName>
+      <Desc>Ngưng tụ lực lượng Thủy Linh, đạt 100 tầng sẽ phóng ra Trạch Quốc.</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_LongNu">
+      <DisplayName>Long Nộ</DisplayName>
+      <Desc>Yêu Long tiến vào trạng thái phẫn nộ, toàn bộ thuộc tính được nâng cao (Bội số uy lực Pháp Bảo +700, Bội số tốc độ bay Pháp Bảo +1, Bội số tốc độ quay Pháp Bảo +2, Giá trị gia tăng cường độ Lá Chắn +25, Bội số uy lực Thuật Pháp +400).</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Longxi">
+      <DisplayName>Long Hấp Thuật</DisplayName>
+      <Desc>Yêu Long hít một hơi thật sâu, lượng nước trong cơ thể nhân vật đang mất đi nhanh chóng (Bội số tiêu hao nước uống +2)!</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_zhenlong">
+      <DisplayName>Chân Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_fanshi">
+      <DisplayName>Phệ - Giao Long Phản Phệ</DisplayName>
+      <Desc>Sau một khoảng thời gian sẽ phản phệ Pháp Bảo, Linh Khí Pháp Bảo bị giảm một nửa, Pháp Bảo thuộc tính Hỏa hiệu quả tăng gấp đôi, Pháp Bảo thuộc tính Thổ hiệu quả giảm một nửa.</Desc>
+    </Text>
+  </List>
+</Texts>
