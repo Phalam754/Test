@@ -1,0 +1,10 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsXuanWu">
+      <DisplayName>Huyền Vũ Miêu Miêu</DisplayName>
+      <Desc>Huyền Vũ mầm mầm chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Két rồi,</TalkBefore>
+      <TalkAfter>, két rồi!</TalkAfter>
+    </Text>
+  </List>
+</Texts>
