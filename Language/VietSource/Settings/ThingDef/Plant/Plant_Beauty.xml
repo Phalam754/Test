@@ -1,0 +1,44 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Dandelion" sParam="Plant">
+      <ThingName>Bồ công anh</ThingName>
+      <Desc>Một loài hoa nhỏ xinh đẹp. Nhiệt độ: -10℃~40℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Flower1" sParam="Plant">
+      <ThingName>Xuân Hi Thảo</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính mộc yếu. Nhiệt độ: 5℃~45℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="IceFlower1" sParam="Plant">
+      <ThingName>Băng hoa</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính mộc yếu. Nhiệt độ: -50℃~10℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Flower2" sParam="Plant">
+      <ThingName>Kim Hà Hoa</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính kim yếu. Nhiệt độ: 5℃~45℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Flower3" sParam="Plant">
+      <ThingName>Xích Nhiễm Hương</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính hỏa yếu. Nhiệt độ: 5℃~45℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Flower4" sParam="Plant">
+      <ThingName>Thủy Lam Tiên</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính thủy yếu. Nhiệt độ: 5℃~45℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Flower5" sParam="Plant">
+      <ThingName>Trầm Yên Hoa</ThingName>
+      <Desc>Một loài cây xinh đẹp, khá dễ nhìn, có thuộc tính thổ yếu. Nhiệt độ: 5℃~45℃, độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="ShiChe" sParam="Plant">
+      <ThingName>Thạch Xa Cúc</ThingName>
+      <Desc>Một loài cây xinh đẹp, mọc ở sa mạc. Nhiệt độ: 0℃~50℃, độ màu mỡ: 0.1+.</Desc>
+    </Text>
+    <Text Name="CongRong" sParam="Plant">
+      <ThingName>Thung Dung</ThingName>
+      <Desc>Một loài cây xinh đẹp, mọc ở sa mạc. Nhiệt độ: 0℃~50℃, độ màu mỡ: 0.1+.</Desc>
+    </Text>
+    <Text Name="CamelSting" sParam="Plant">
+      <ThingName>Lạc Đà Thích</ThingName>
+      <Desc>Một loài cây xinh đẹp, mọc ở sa mạc. Nhiệt độ: 0℃~50℃, độ màu mỡ: 0.1+.</Desc>
+    </Text>
+  </List>
+</Texts>
