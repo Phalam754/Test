@@ -1,0 +1,23 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LostPart">
+      <DisplayName>Vật mất tích</DisplayName>
+    </Text>
+    <Text Name="SYS_ATK">
+      <DisplayName>Tư thế tấn công</DisplayName>
+      <Desc>Luyện thể giả toàn lực tấn công vào bản thể của kẻ địch, nhưng vì thế mà làm suy yếu khả năng phòng ngự của bí thể (Hiệu ứng cộng thêm toàn cục cho uy lực bí thể +0.25, Hiệu ứng cộng thêm toàn cục cho bí thể cứng cáp -0.5, Hiệu ứng cộng thêm toàn cục cho tỷ lệ chính xác của đòn tấn công bí thể +0.25, Hiệu ứng cộng thêm toàn cục cho tỷ lệ phòng ngự thành công của bí thể -0.5).</Desc>
+    </Text>
+    <Text Name="SYS_NORMAL">
+      <DisplayName>Tư thế bình thường</DisplayName>
+      <Desc>Phương án chiến đấu bình thường của luyện thể giả, sẽ ưu tiên giải quyết phi kiếm của kẻ địch, sau đó tấn công bản thể của kẻ địch. Dưới trạng thái này công thủ kiêm bị, các mặt năng lực cũng khá cân bằng.</Desc>
+    </Text>
+    <Text Name="BPAttitudes_ManJi">
+      <DisplayName>Man Cực Chiến Ý</DisplayName>
+      <Desc>Dùng ý thức chiến đấu mãnh liệt để chi phối hành động toàn thân, trực tiếp tấn công bản thể của kẻ địch, tăng mạnh lực tấn công, đồng thời giữ lại khả năng phòng ngự bản năng (Hiệu ứng cộng thêm toàn cục cho uy lực bí thể +0.30, Hiệu ứng cộng thêm toàn cục cho bí thể cứng cáp -0.25, Hiệu ứng cộng thêm toàn cục cho tỷ lệ chính xác của đòn tấn công bí thể +0.30, Hiệu ứng cộng thêm toàn cục cho tỷ lệ phòng ngự thành công của bí thể -0.25).</Desc>
+    </Text>
+    <Text Name="BPAttitudes_WangZhe">
+      <DisplayName>Vương Giả Chiến Ý</DisplayName>
+      <Desc>Dùng tâm vương đạo để đối mặt với chiến đấu, từ tốn không hoảng sợ, giảm tiêu hao bí thể (Hiệu ứng cộng thêm toàn cục cho uy lực bí thể +0.15, Hiệu ứng cộng thêm toàn cục cho bí thể cứng cáp +0.15, Hiệu ứng cộng thêm toàn cục cho tỷ lệ chính xác của đòn tấn công bí thể +0.15, Hiệu ứng cộng thêm toàn cục cho tỷ lệ phòng ngự thành công của bí thể +0.15, Hiệu ứng cộng thêm cho tốc độ tiêu hao bí thể chân khí -0.2).</Desc>
+    </Text>
+  </List>
+</Texts>
