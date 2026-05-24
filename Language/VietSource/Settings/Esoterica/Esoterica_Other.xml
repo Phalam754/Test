@@ -1,0 +1,124 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_SYS_LOST">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+			<Desc>Vật thất lạc, không ai nhận ra nó.\n(Mô-đun bị mất)</Desc>
+			<EffectDesc>Không có</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LunHui1">
+			<DisplayName>Dã Cầu Quyền</DisplayName>
+			<Desc>Một bí tịch thần bí đến từ thời hiện đại, có tác dụng cải biến thể chất một cách kỳ diệu.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 10% thần thức\nTăng 10% ngộ tính\nTăng 10% cơ duyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LunHui2">
+			<DisplayName>Xuân Hồi Đại Địa</DisplayName>
+			<Desc>Một bí tịch thần kỳ đến từ thời hiện đại, có thể hội tụ linh khí vào đầu, giúp tư duy linh hoạt, tăng ngộ tính. Tiện thể...</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 10% thần thức\nTăng 10% ngộ tính[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LunHui3">
+			<DisplayName>Bộc Phát Chi Lực</DisplayName>
+			<Desc>Tuyệt kỹ độc quyền của Độc Cô Tinh, có thể đột nhiên bộc phát ra sức mạnh cường đại.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Bộc Phát Chi Lực\nTuyệt kỹ độc quyền của Độc Cô Tinh, có thể đột nhiên bộc phát ra sức mạnh cường đại.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LunHui4">
+			<DisplayName>Côn Luân Tiên Pháp</DisplayName>
+			<Desc>Bí pháp được truyền thụ bởi một vị tiên nhân vô danh ở Côn Luân, có thể tăng ngộ tính và căn cốt.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 10% ngộ tính\nTăng 10% căn cốt[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LunHui5">
+			<DisplayName>Thân Thân Phù</DisplayName>
+			<Desc>Phù chú giúp người ta cảm thấy bình an, vui vẻ.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Mở khóa Đồ phù:\nThân Thân Phù[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_DanXia1">
+			<DisplayName>Tùng Ảnh Thiên Hà</DisplayName>
+			<Desc>Một loại kỳ thuật được lĩnh ngộ từ cảnh sắc đan hà trên vách đá tuyệt đẹp của núi Đan Hà, có thể tăng sát thương của thuật pháp.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Hệ số uy lực thuật pháp +10[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_DanXia2">
+			<DisplayName>Tử Hà Đan Tiêu</DisplayName>
+			<Desc>Một loại tâm pháp được lĩnh ngộ từ cảnh sắc đan hà trên vách đá tuyệt đẹp của núi Đan Hà, tu luyện lâu dài có thể điều chỉnh tâm cảnh, củng cố nguyên khí.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tuổi thọ +360\nGiá trị cơ bản của tâm cảnh +5[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_DengXian1">
+			<DisplayName>Đông Hoa Bí Điển - Tử Vi Kiếm</DisplayName>
+			<Desc>Tuyệt thế kiếm pháp do Đông Hoa Đế Quân sáng tạo, dùng nguyên thần thu thập ý nghĩa hoàng cực của sao Tử Vi Đế Tinh hòa vào kiếm khí, mạnh mẽ không gì không thể phá. Sách này còn ghi lại phương pháp luyện chế bí bảo của đạo môn do Đông Hoa Đế Quân sáng tạo, Thái Ất Phân Quang Kiếm.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Hệ số uy lực pháp bảo +10\nHọc được Bí bảo:\nThái Ất Phân Quang Kiếm: Cứ sau 7 lần tấn công, sẽ sinh ra 1 phân hóa kiếm quang, duy trì 7 giây.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_JiuHua">
+			<DisplayName>Long Phượng Bảo Điển</DisplayName>
+			<Desc>Bí pháp được lĩnh ngộ từ việc phân tích đường vận hành khí mạch trong cơ thể Long Phượng của các bậc đại năng thượng cổ. Học được pháp này có thể chuyển hóa cơ thể người phàm thành Long Phượng Chi Thể, nâng cao toàn diện tố chất cơ thể.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 10% thần thức\nTăng 10% căn cốt\nTăng 10% mị lực\nTăng 10% ngộ tính\nTuổi thọ +60[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_LongHu1">
+			<DisplayName>Bôn Lưu Kiếm Ý</DisplayName>
+			<Desc>Kiếm ý được lĩnh ngộ từ cảnh thác nước chảy xiết, cầu vồng trắng xé đá ở núi Long Hổ, hòa vào kiếm pháp có thể tăng mạnh lực xung kích của pháp bảo.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Gia tăng khoảng cách đẩy lùi pháp bảo +1[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_LongHu2">
+			<DisplayName>Phi Lưu Tâm Pháp</DisplayName>
+			<Desc>Thuật hô hấp được lĩnh ngộ từ cảnh thác nước chảy dài không dứt ở núi Long Hổ, có thể tăng tốc độ hồi phục linh khí.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Hệ số tốc độ hấp thụ linh khí +6[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_ChiLianYuan">
+			<DisplayName>Khôn Ly Luyện Bảo Pháp</DisplayName>
+			<Desc>Bí truyền luyện khí thuật của cổ tiên Nam Cung Hồng, luyện bảo bằng thuật này có thể tăng đáng kể tỷ lệ thành công.\n[color=#D06508]Xin cảm ơn người chơi đầu tiên vượt qua kiếp nạn trong trò chơi này: Quỳnh Lâu[/color]</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị gia tăng tỷ lệ thành công luyện chế pháp bảo +0.6[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_ChiLianYuan1">
+			<DisplayName>Bí Truyền Nam Cung Độ Ách Bảo Lục</DisplayName>
+			<Desc>Một bộ bí pháp được cổ tiên Nam Cung Hồng tổng kết trước khi phi thăng, sau khi tu luyện có thể trộm trời đổi ngày, nâng cao căn cơ tu hành của người tu hành.\n[color=#D06508]Xin cảm ơn người chơi đầu tiên vượt qua kiếp nạn trong trò chơi này: Quỳnh Lâu[/color]</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 10% thần thức\nTăng 10% ngộ tính[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_XuanKong">
+			<DisplayName>Thiên Cơ Hóa Vận Pháp</DisplayName>
+			<Desc>Bí pháp nghịch thiên trộm trời chuyển vận được cổ tiên Viên Nhược Tuyết lĩnh ngộ trong thiên kiếp, có thể tăng cơ duyên lên rất nhiều.\n[color=#D06508]Để kỷ niệm người chơi đầu tiên nghịch thiên cải mệnh với tư chất kém nhất, kết đan nhất phẩm và cuối cùng phi thăng: Thực ra không phải tôi[/color]</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 20% cơ duyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_ShanHeJue">
+			<DisplayName>Sơn Hà Quyết</DisplayName>
+			<Desc>Bí pháp được Thiên Cực Lão Tổ lĩnh ngộ từ sự vận hành của long mạch, trong đó ghi lại đủ loại diệu pháp mượn Tạo Hóa Ngọc Tử để tái tạo sơn hà.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông:\n  Khai Hồ Thuật\n  Tạo Lục Thuật\n  Tạo Hóa Linh Thổ\n  Tạo Hóa Linh Trì\n  Tạo Hóa Ốc Thổ\nHọc được Đan phương:\n  Linh Nguyên Chủng\n  Tạo Hóa Ngọc Sa\nMở khóa kiến trúc:\n  Tạo Hóa Ngọc Trì[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_LongDan">
+			<DisplayName>Long Hồn Chân Linh Pháp</DisplayName>
+			<Desc>Bí pháp được lĩnh ngộ từ những mảnh ký ức của Giao Long.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nLong Hồn Chân Linh Đan\nHệ số cơ bản tăng thêm uy lực pháp bảo +0.25[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_FengDan">
+			<DisplayName>Phượng Hồn Chân Linh Pháp</DisplayName>
+			<Desc>Bí pháp được lĩnh ngộ từ những mảnh ký ức của Hung Phượng.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nPhượng Hồn Chân Linh Đan\nHệ số cơ bản tăng thêm uy lực thuật pháp +0.25[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_ZhuLongDan">
+			<DisplayName>Âm Dương Chân Linh Pháp</DisplayName>
+			<Desc>Bí pháp được lĩnh ngộ từ những mảnh ký ức của Chúc Long.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nÂm Dương Chân Linh Đan\nHọc được Bí bảo:\nLong Tâm Âm Dương Khuê: Kỹ năng hộ thể tăng 10.\nGiá trị tăng thêm cường độ lá chắn +0.3[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_FenShen1">
+			<DisplayName>Nhất Khí Hóa Tam Thanh</DisplayName>
+			<Desc>Bí pháp luyện thần đã thất truyền của đạo môn thượng cổ. Tu luyện thuật này có thể phân hóa nguyên thần, tạo ra ba phân thần.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng thêm ba nguyên thần phân thần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_FenShen2">
+			<DisplayName>Tam Thi Phân Thần Pháp: Thiện Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được các tu sĩ thượng cổ sáng tạo dựa trên pháp thành đạo chém Tam Thi. Tu luyện sách này có thể lấy thiện niệm của bản thân làm dẫn, tách ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng thêm một nguyên thần phân thần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_FenShen3">
+			<DisplayName>Tam Thi Phân Thần Pháp: Ác Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được các tu sĩ thượng cổ sáng tạo dựa trên pháp thành đạo chém Tam Thi. Tu luyện sách này có thể lấy ác niệm của bản thân làm dẫn, tách ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng thêm một nguyên thần phân thần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_FenShen4">
+			<DisplayName>Tam Thi Phân Thần Pháp: Bản Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được các tu sĩ thượng cổ sáng tạo dựa trên pháp thành đạo chém Tam Thi. Tu luyện sách này có thể lấy bản ngã của bản thân làm dẫn, tách ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng thêm một nguyên thần phân thần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_YanHuangTongShi">
+			<DisplayName>Viêm Hoàng Thông Sử</DisplayName>
+			<Desc>Lịch sử 5000 năm của nước Viêm Hoàng, trong đó ghi chép nội dung phức tạp và sâu sắc, nhiều tư tưởng trong đó cũng rất có ích cho việc tu hành.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Tăng 20% ngộ tính\nCảm khí +5[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
