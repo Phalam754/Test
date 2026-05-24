@@ -1,0 +1,309 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_Level2Base">
+      <Desc>Mẫu địa điểm cấp 2</Desc>
+    </Text>
+    <Text Name="Place_DanXia1">
+      <DisplayName>Thượng Thanh Động (Sinh Mộc)</DisplayName>
+      <Desc>Một hang động tự nhiên dưới Đan Hà Sơn, trong đó có những lối đi quanh co, cảnh quan kỳ ảo. Sâu trong hang động có thờ tượng Thiên Tôn Linh Bảo Thượng Thanh. Là nơi tốt để những người tu luyện công pháp thuộc tính Mộc tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Tích Cốc Đan, Thông Thiên Hoàn, Ngũ Linh Tán, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_DanXia2">
+      <DisplayName>Đan Hà Tuyệt Bích</DisplayName>
+      <Desc>Một vách đá tuyệt đẹp trên đỉnh Đan Hà Sơn. Khi hoàng hôn buông xuống, ánh nắng ráng chiều chiếu vào khiến cảnh tượng trở nên lộng lẫy và hùng vĩ, được coi là tuyệt cảnh trần gian, ẩn chứa huyền cơ của tạo hóa tự nhiên.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ninh Phách, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Đan Hà Tuyệt Bích": Nhân vật ở Kết Đan kỳ và ngộ tính lớn hơn 6, đến đây luyện công. Nếu công pháp nhân vật có thuộc tính Mộc, sẽ học được bí tịch Tùng Ảnh Thiên Hà; nếu công pháp nhân vật có thuộc tính Thủy, sẽ học được bí tịch Tử Hà Đan Tiêu.[/color]</Desc>
+    </Text>
+    <Text Name="Place_DanXia3">
+      <DisplayName>Ngũ Long Trì - ※Ngũ Sắc Kim Liên※</DisplayName>
+      <Desc>Một hồ nước linh thiêng sâu trong Đan Hà Sơn, trong hồ mọc đầy sen, đáy hồ sâu không thấy, thông thẳng đến mạch nước của vỏ trái đất. Nghe nói Ngũ Sắc Kim Liên, Thiên Địa Linh Căn của Đan Hà Động Thiên, được trồng tại đây.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ngũ Sắc Kim Liên ×1, có 1 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_KunLun1">
+      <DisplayName>Đăng Tiên Đài</DisplayName>
+      <Desc>Một đài đá ở chân núi phía Nam Côn Lôn Sơn, trên đó khắc nhiều hoa văn không rõ ý nghĩa. Nghe nói thời thượng cổ, Đông Vương Công đã phong thưởng các tiên nhân tại đây, bay lên tiên giới, và để lại cơ quan, đạo thống để chờ đợi người hữu duyên.
+[color=#D06508]Trong khung cảnh có thể nhặt được Minh Thông Hoàn, Dật Tiên Hoàn, Sâm Chi Cửu Khiếu Hoàn, Kiếm Hoàn, Ngũ Cực Linh Đan, Tích Cốc Đan, Trường Sinh Đan, Bích Xuân Đan, Tụ Linh Đan, Tử Dương Đan, Lục Đạo Luân Hồi Đan, Tố Thân Đan, Cực Lạc Đan, Lý Khí Đan, Chân Cương Đan, Trúc Cơ Đan ×1, Tiểu Hoàn Đan, Tiên Nhân Di Cốt, có 12 con yêu thú ở Kết Đan kỳ.
+Trong khung cảnh có cơ quan dịch chuyển, cần lần lượt chạm vào các bia đá để giải mã, sau khi giải mã mới có thể nhặt Tiên Nhân Di Cốt. Trong khung cảnh có cơ quan dịch chuyển, cần bước lên sàn nhà có chức năng dịch chuyển để giải mã mới có thể lấy được tất cả vật phẩm, cũng có thể dùng Pháp Bảo phá hủy tường, hoặc dụ yêu thú phá hoại núi để giải mã cơ quan một cách bạo lực.[/color]
+[color=#007700]Sự kiện "Thám Hiểm Di Tích": Cơ duyên càng cao càng dễ thành công, Thần Thức dưới 6 là không thể thành công, nếu thành công thám hiểm có thể nhận được bản vẽ bí bảo "Đông Hoa Bí Điển - Tử Vi Kiếm", Tạo Hóa Thần Đan ×1 và Pháp Bảo ngẫu nhiên.[/color]</Desc>
+    </Text>
+    <Text Name="Place_KunLun2">
+      <DisplayName>Long Mạch Động Quật - ※Giả Hoàng Tinh※ (Thiên Trụ Thạch)</DisplayName>
+      <Desc>Một hang động không đáy sâu trong Côn Lôn Sơn, có rất nhiều khe rãnh phức tạp. Một số hang động khá kỳ lạ, luyện công nhiều lần tại đây có thể có phát hiện. Truyền thuyết kể rằng hang động này thông thẳng đến Long Mạch, được Long Mạch Chi Khí nuôi dưỡng. Côn Lôn Cung đã trồng Thiên Địa Linh Căn Giả Hoàng Tinh tại đây.
+[color=#D06508]Trong khung cảnh có thể nhặt được Binh Lương Hoàn, Cực Lạc Đan, Thanh Tâm Đan, Giả Hoàng Tinh ×1, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#000077]Có địa điểm phụ là Kỳ Đặc Không Động.[/color]
+[color=#007700]Cực Thiên Cung Chi Thác: Thanh danh môn phái đạt 6000, độ hảo cảm với Cực Thiên Cung đạt 200, đến thăm Cực Thiên Cung, nhận lời ủy thác của Cực Thiên Cung, đọc "Quần Tiên Lục: Quyển Tam", luyện công nhiều lần tại Long Mạch Động Quật, độ khám phá đạt 100% mới có thể mở khóa địa điểm Kỳ Đặc Không Động, Cực Thiên Cung Chi Thác cần hoàn thành tại Kỳ Đặc Không Động.[/color]</Desc>
+    </Text>
+    <Text Name="Place_KunLun2_1">
+      <DisplayName>Kỳ Đặc Không Động</DisplayName>
+      <Desc>Đây là một hang động có thể thấy ở khắp mọi nơi trong Long Mạch Động Quật, tuy nhìn có vẻ bình thường nhưng lại có một cảm giác kỳ lạ. Nếu không phải là người rất hiểu Long Mạch Động Quật thì tuyệt đối không thể nhận ra. Lối vào hang động này có một số hoa văn có vẻ tự nhiên, nhìn rất kỳ lạ.
+[color=#D06508]Trong khung cảnh có thể nhặt được Binh Lương Hoàn, Cực Lạc Đan, Thanh Tâm Đan, Giả Hoàng Tinh, không có yêu thú.[/color]
+[color=#007700]Bí văn Cực Thiên Cung Chi Thác "Cổ Thiên Cực Phù": Thanh danh môn phái đạt 6000, độ hảo cảm với Cực Thiên Cung đạt 200, đến thăm Cực Thiên Cung, nhận lời ủy thác của Cực Thiên Cung, sau khi đọc "Quần Tiên Lục: Quyển Tam", nhân vật tu luyện "Thái Thượng Vong Tình Đạo" sẽ hoàn thành khi đến đây luyện công.
+Sau khi hoàn thành, mỗi năm một lần có thể đến đây để hái Tạo Hóa Ngọc Tử.[/color]</Desc>
+    </Text>
+    <Text Name="Place_TianJi1">
+      <DisplayName>Phi Vân Giản - ※Lang Gia Quả※ (Thanh Tâm Thảo)</DisplayName>
+      <Desc>Một khe sâu giữa vách đá vạn trượng của Thiên Cực Phong, trong đó có một cơn lốc linh khí khổng lồ xoay tròn không ngừng nghỉ suốt cả ngày, chim bay khó qua. Truyền thuyết kể rằng Cực Thiên Cung đã trồng Thiên Địa Linh Căn Lang Gia Quả trên vách đá tuyệt đẹp của Phi Vân Giản.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lý Thị Long Duyên Quả Phủ, Thanh Tâm Thảo, Lang Gia Quả ×1, có 2 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_TianJi2">
+      <DisplayName>Tuyệt Thiên Quan - Thanh Tâm Thảo</DisplayName>
+      <Desc>Một khe hẹp trên đường lên Thiên Cực Phong, hai bên khe mọc đầy Thanh Tâm Thảo. Người đến gần sẽ cảm thấy thân tâm thanh mát, thoát tục, nên được gọi là Tuyệt Thiên Quan. Sau khi đi qua là đỉnh Thiên Cực Phong, nơi có tông môn Cực Thiên Cung.
+[color=#D06508]Trong khung cảnh có thể nhặt được Thanh Tâm Đan, Thanh Tâm Thảo, có 2 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_JiuHua1">
+      <DisplayName>Cửu Hoa Thôn - Ngọc Thạch</DisplayName>
+      <Desc>Một ngôi làng dưới Cửu Hoa Sơn, nhờ được Tử Tiêu Tông che chở, dân làng đông đúc, sống an cư lạc nghiệp. Gần đó có một mỏ ngọc thạch khổng lồ, nên dân làng sống bằng nghề khai thác ngọc thạch và bán cho Tử Tiêu Tông.
+[color=#D06508]Trong khung cảnh có thể nhặt được Thức Ăn Bị Hỏng, Trứng Rắn, Trường Thương, Linh Mộc ×1, Ngọc Thạch Chuyên, Ngọc Tủy, Ngọc Thạch, Kỳ Cục ×1, Cầm Phổ ×1, không có yêu thú.[/color]</Desc>
+    </Text>
+    <Text Name="Place_JiuHua2">
+      <DisplayName>Tiềm Long Uyên</DisplayName>
+      <Desc>Danh thắng Cửu Hoa Sơn, đứng bên bờ Tiềm Long Uyên có thể thấy biển mây cuồn cuộn, cảnh sắc kỳ lạ. Truyền thuyết kể rằng thời thượng cổ, có đại năng chăn rồng tại đây, ẩn chứa huyền cơ lớn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Bạc Hạ Thường, Tu Hành Y Sam, Pháp Bảo - Thiên Long Chi Di, Pháp Bảo - Thiên Long Chi Di Nhị, Nhân Sâm, Xích Sâm, Thiên Long Sa ×9, có 2 con yêu thú ở Kết Đan kỳ.
+Pháp Bảo - Thiên Long Chi Di, Pháp Bảo - Thiên Long Chi Di Nhị, Thiên Long Sa cần ăn phân để kích hoạt bia đá hoặc dụ yêu thú phá hoại núi mới có thể nhặt được.[/color]
+[color=#007700]Sự kiện "Tiềm Long Chi Địa": Yêu cầu nhân vật có ngộ tính lớn hơn 8, có thể ghi nhớ Long Văn, kết hợp với Phượng Văn cảm ngộ được tại Phượng Tê Nhai, có thể học được bí tịch Long Phượng Bảo Điển.[/color]</Desc>
+    </Text>
+    <Text Name="Place_JiuHua3">
+      <DisplayName>Phượng Tê Nhai</DisplayName>
+      <Desc>Danh thắng Cửu Hoa Sơn, đến nay vẫn còn sót lại di hài của hai cây Ngô Đồng khổng lồ. Truyền thuyết kể rằng thời thượng cổ, nơi đây từng có một con phượng hoàng cư ngụ, ẩn chứa huyền cơ lớn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ngô Đồng Thần Mộc, Sí Nhiệt Hỏa Vũ, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Phượng Tê Chi Địa": Yêu cầu nhân vật có ngộ tính lớn hơn 8, có thể ghi nhớ Phượng Văn, kết hợp với Long Văn cảm ngộ được tại Tiềm Long Uyên, có thể học được bí tịch Long Phượng Bảo Điển.[/color]</Desc>
+    </Text>
+    <Text Name="Place_LongHu1">
+      <DisplayName>Phi Lưu Bộc</DisplayName>
+      <Desc>Một tuyệt cảnh của Long Hổ Sơn, thác nước vạn trượng từ trên mây đổ xuống, như ngọc rồng bay lượn trên trời, tiếng ầm ầm vang dội khắp trăm dặm, ẩn chứa huyền cơ của tạo hóa tự nhiên.
+[color=#D06508]Trong khung cảnh có thể nhặt được Vị Lai Tinh Túc Hóa Kiếp Đan, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Phi Lưu Bộc": Nếu nhân vật có kỹ năng Ngự Khí cấp độ lớn hơn 10, học được bí tịch Bôn Lưu Kiếm Ý; nếu nhân vật có kỹ năng Khí Cảm cấp độ lớn hơn 10, học được bí tịch Phi Lưu Tâm Pháp.[/color]</Desc>
+    </Text>
+    <Text Name="Place_LongHu2">
+      <DisplayName>Thần Mộc Lâm - ※Mộc Khô Đằng※ (Ngô Đồng Mộc)</DisplayName>
+      <Desc>Một khu rừng rậm rạp dưới chân Long Hổ Sơn, trong đó mọc rất nhiều cây cổ thụ hàng trăm năm tuổi, thậm chí có tin đồn có sự tồn tại của Ngô Đồng Thần Mộc. Vì Mộc Khí dồi dào, Long Hổ Sơn đã trồng Thiên Địa Linh Căn Mộc Khô Đằng tại đây.
+[color=#D06508]Trong khung cảnh có thể nhặt được Liên Ngẫu, Linh Mộc, Kim Ti Kiên Mộc, Mộc Khô Đằng ×1, Nấm Kỳ Lạ, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Shu1">
+      <DisplayName>Ngưng Bích Nhai - ※Chu Quả※ (Huyền Thiết Hỏa Đồng)</DisplayName>
+      <Desc>Nằm ở đỉnh phía Tây Thục Sơn, cảnh sắc tuyệt đẹp, linh thú tiên cầm xuất hiện không ngừng. Nơi đây là nơi Địa Mạch tuôn trào, trong núi có nhiều mỏ khoáng quý hiếm như Hỏa Đồng Khoáng, vì Hỏa Khí nồng đậm, Thanh Liên Tiên Nhân đã trồng Thiên Địa Linh Căn Chu Quả tại đây.
+[color=#D06508]Trong khung cảnh có thể nhặt được Hỏa Đồng Khoáng Thạch, Chu Quả ×1, có 2 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Shu2">
+      <DisplayName>Phi Lôi Động</DisplayName>
+      <Desc>Một trong Mười Hai Động của Thục Sơn, cũng là nơi Tổ Sư Khai Phái của Thanh Liên Kiếm Tông bế quan phi thăng. Truyền thuyết kể rằng Thanh Liên Tiên Nhân đã để lại một bí mật lớn trước khi phi thăng tại đây, nhưng suốt hàng ngàn năm qua không ai tìm thấy.
+[color=#D06508]Trong khung cảnh có thể nhặt được Thanh Tâm Đan, có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Phi Lôi Động Chi Mê: Sau khi đọc "Quần Tiên Lục: Quyển Nhị" sẽ mở khóa địa điểm Thanh Liên Sơn, hoàn thành sự kiện Thanh Liên Sơn, có được Tứ Tượng Triệt Thiên Đồ. Thanh danh môn phái cao hơn 6000, độ hảo cảm với Thanh Liên Kiếm Tông cao hơn 900, tham quan Phi Lôi Động sau đó đến thăm Thanh Liên Kiếm Tông để nhận nhiệm vụ Phi Lôi Động Chi Mê, mang theo Tứ Tượng Triệt Thiên Đồ, tạm thời cho Thanh Liên Kiếm Tông mượn Tứ Tượng Triệt Thiên Đồ, có thể nhận được 100 nhân tình từ Thanh Liên Kiếm Tông.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Shu3">
+      <DisplayName>Xan Hà Động (Sinh Thổ)</DisplayName>
+      <Desc>Một trong Mười Hai Động của Thục Sơn, nằm trên đỉnh phía Bắc của Thục Sơn. Trong động mọc nhiều Hỏa Đồng lộ thiên, Hỏa Khí ngưng tụ trong động suốt hàng ngàn năm không tan, như thể mây ráng bốc lên. Vì vậy được gọi là Xan Hà Động, là nơi tốt để những người tu luyện công pháp thuộc tính Thổ tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Hỏa Tinh Đĩnh, Hỏa Đồng Đĩnh, Hỏa Đồng Khoáng Thạch, có 2 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Shu4">
+      <DisplayName>Ngọc Tuyền Động - Địa Mẫu Linh Dịch</DisplayName>
+      <Desc>Một trong Mười Hai Động của Thục Sơn. Truyền thuyết còn có một mắt suối Địa Mẫu Linh Dịch ẩn sâu trong động, người không có cơ duyên không thể có được. Người tu luyện công pháp thuộc tính Hỏa dễ cảm ứng được mắt suối hơn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Cửu Chuyển Kim Đan, Ngọc Tủy, Ngọc Thạch, Địa Mẫu Linh Dịch, có 4 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Shu5">
+      <DisplayName>Kiếm Trủng</DisplayName>
+      <Desc>Một hang động sâu trong núi Thục Sơn, trong đó cất giữ những thanh kiếm của các kiếm tiên Thanh Liên Kiếm Tông qua các đời.
+[color=#D06508]Trong khung cảnh có thể nhặt được Kiếm ×11, có 4 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Kiếm Trủng Tầm Kiếm": Sau khi độ hảo cảm với Thanh Liên Kiếm Tông đạt 600, mỗi nhân vật đều có một cơ hội đến đây để tìm kiếm một thanh kiếm theo cơ duyên.
+Nhân vật có kỹ năng Ngự Khí cấp độ cao hơn 15 có thể vào khung cảnh chạm vào Trấn Kiếm Tháp, nhận được Pháp Bảo - Long Dực.[/color]</Desc>
+    </Text>
+    <Text Name="Place_WuLian1">
+      <DisplayName>Thiên Trì - Trường Sinh Tuyền</DisplayName>
+      <Desc>Thánh địa trên đỉnh Ngũ Liên Sơn, vốn là một miệng núi lửa, thường xuyên phun trào. Ngũ Liên Chân Nhân đã thi triển thần thông "Trộm Thiên Hoán Địa" để phong ấn núi lửa, và lập phái tại đây. Truyền thuyết kể rằng trong Thiên Trì có một mạch Trường Sinh Tuyền, người không có cơ duyên không thể có được. Người tu luyện công pháp thuộc tính Kim dễ cảm ứng được mắt suối hơn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Trường Sinh Tuyền, có 4 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Thiên Trì Tàng Bảo": Sau khi đọc "Thập Di Lục: Thượng Sách", nhân vật có cả cơ duyên và ngộ tính đều cao hơn 6, đến đây luyện công, nhận được Lang Gia Quả ×3, Mộc Khô Đằng ×3, Ngũ Sắc Kim Liên ×3, Chu Quả ×3, Giả Hoàng Tinh ×3.[/color]</Desc>
+    </Text>
+    <Text Name="Place_WuLian2">
+      <DisplayName>Mộc Bạch Vũ Lâm</DisplayName>
+      <Desc>Khu rừng bí ẩn phía sau Ngũ Liên Sơn. Khi mưa rơi, mây bốc lên như khói như sương, giống như tiên cảnh. Từng có một nho sĩ bị bệnh nặng vào rồi trở ra, nói trong rừng có một tiên nhân, tay trái cầm một thanh mộc kiếm có thể hô mưa gọi gió, tay phải cầm một viên bạch ngọc thạch có thể chữa bách bệnh, tự xưng là Mộc Bạch Tiên Nhân. Mộc Bạch Vũ Lâm từ đó trở thành tên của khu rừng này.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lý Khí Đan, Tái Tạo Kim Đan, Cầm Phổ ×2, Kỳ Cục ×5, có 2 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Mộc Bạch Vũ Lâm": Nếu nhân vật ở Nguyên Thần kỳ và đã học được thần thông Cầu Vũ Thuật hoặc Bạo Vũ Thuật, thì có thể cầu mưa, nhận được Bạch Ngọc Thạch và Mộc Vũ Kiếm.
+Theo gợi ý trên bia đá, sau khi ăn Nấm Kỳ Lạ sẽ vào khung cảnh của Ngũ Hành Linh Căn Sinh Trưởng Chi Địa, quan sát kỹ Linh Căn, sau đó vào khung cảnh này chạm vào bia đá, có thể nhận được trận đồ "Pháp Thiên Hiệu Địa Quy Nguyên Trận Pháp Bí Lục".[/color]</Desc>
+    </Text>
+    <Text Name="Place_BaiMan1">
+      <DisplayName>Thiên Thi Động - Huyền Tẫn Châu</DisplayName>
+      <Desc>Sau khi đệ tử Bách Man Sơn săn giết yêu thú, sẽ vận chuyển thi thể đến Thiên Thi Động để cất giữ. Thi thể yêu thú sẽ được chuyển hóa thành khôi lỗi, trấn giữ Bách Man Sơn. Nếu có thi thể vừa được vận chuyển vào và chưa kịp chuyển hóa, có thể lấy Huyền Tẫn Châu ra, tuy nhiên có gặp được hay không còn tùy thuộc vào cơ duyên. Người tu luyện công pháp thuộc tính Kim dễ cảm ứng được Huyền Tẫn Châu hơn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Yêu Hóa Chi Thú Bì, Yêu Linh Huyết, Thần Thông "Phân Thần Chi Thuật", có 8 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Vào khung cảnh chạm vào hài cốt đã mục rữa một nửa, mở khóa địa điểm Bách Thú Quật.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BaiMan2">
+      <DisplayName>Vạn Xà Khanh - Yêu Linh Huyết</DisplayName>
+      <Desc>Là nơi Bách Man Sơn nuôi dưỡng yêu rắn, một khi có yêu rắn mới lớn lên sẽ bị bắt ra để lấy Yêu Linh Huyết cung cấp cho đệ tử Bách Man Sơn tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Tà Mạch Huyết Tuyền, có 3 con yêu rắn ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BaiMan3">
+      <DisplayName>Bách Thú Quật</DisplayName>
+      <Desc>Là nơi Bách Man Sơn nuôi dưỡng yêu thú, sau này xảy ra dị biến, dần dần bị bỏ hoang, không còn ai có thể vào được.
+[color=#D06508]Có 7 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Vào khung cảnh tiêu diệt tất cả yêu thú, chạm vào bia đá, có thể nhận được trận đồ "Vạn Thú Quy Linh Trận Đồ Sách".[/color]</Desc>
+    </Text>
+    <Text Name="Place_XianKong1">
+      <DisplayName>Vô Đáy Động - Tinh Tủy</DisplayName>
+      <Desc>Một cái hố không đáy trong Hãm Không Sơn, do rò rỉ nguyên từ khí, nên thường có sao băng rơi xuống đây. Nghe nói có tu hành giả tìm được Tinh Tủy tại đây. Nhưng bảo vật có linh, đa số người cơ duyên không tốt, tay trắng ra về. Người tu luyện công pháp thuộc tính Thổ dễ cảm ứng được Tinh Tủy hơn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Tinh Tủy, Thạch Tủy, Tông Thạch, có 5 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Hei4">
+      <DisplayName>Thiên Cức Lâm (Sinh Hỏa)</DisplayName>
+      <Desc>Một khu rừng dưới chân Hắc Sơn, trong rừng mọc đầy gai, người và thú khó đi qua, từ xưa đã ít có dấu chân người. Cũng vì thế, trong rừng có thể thấy cổ thụ hàng ngàn năm tuổi ở khắp mọi nơi, linh khí thuộc tính Mộc vô cùng dồi dào, là nơi tốt để những người tu luyện công pháp thuộc tính Hỏa tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ngô Đồng Thần Mộc, Linh Thạch, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Thiên Ma Di Hài": Sau khi đọc "Ngự Phong Tử Du Ký: Quyển Nhị", nhân vật đến đây luyện công, học được tà pháp Thiên Ma Hóa Thân Thuật.[/color]</Desc>
+    </Text>
+    <Text Name="Place_HeHuan1">
+      <DisplayName>Ly Hận Hải</DisplayName>
+      <Desc>Gần Hợp Hoan Đảo có một hòn đảo lớn, trên đảo có một cái hồ, quanh năm sương mù bao phủ, được gọi là Ly Hận Hải. Nếu vào đó sẽ thấy muôn vàn ái hận diễn ra, nếu không cẩn thận sẽ chìm đắm trong đó.
+[color=#D06508]Có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Ly Hận Hải": Nhân vật ở Kim Đan kỳ và có ngộ tính, căn cốt, thần thức đều lớn hơn 6, đồng thời đã học được bí tịch Bất Muội Chân Linh hoặc có đặc tính Trí Chướng, đến đây luyện công, sẽ nhận được Pháp Bảo - Thiên Khuyết Thần Kiếm.
+Nhân vật mới mất bạn đời vào khung cảnh, chạm vào bia đá, có thể nhận được Ngũ Độc Ngũ Khí Nguyên Thần Đan.[/color]</Desc>
+    </Text>
+    <Text Name="Place_HeHuan2">
+      <DisplayName>Độc Long Đàm - Tà Mạch Huyết Tuyền</DisplayName>
+      <Desc>Một hồ nước sâu trên Hợp Hoan Đảo, truyền thuyết kể rằng sâu trong hồ này có một ổ độc long trú ngụ, thường xuyên tấn công các tu hành giả gần đó. Lại có tin đồn sâu trong hồ này có một mắt suối Địa Mẫu Linh Dịch, và Huyết Tuyền chính là do Linh Dịch chuyển hóa thành, còn truyền thuyết về độc long chỉ là màn khói do Hợp Hoan Đảo tung ra để che giấu mắt suối này. Đáng tiếc là suối này bao phủ bởi huyết vụ, có tìm được hay không còn tùy thuộc vào cơ duyên. Người tu luyện công pháp thuộc tính Mộc dễ cảm ứng được Huyết Tuyền hơn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Địa Mẫu Linh Dịch, có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Độc Long Bí Bảo": Sau khi đọc "Thập Di Lục: Hạ Sách", nhân vật có huyết mạch Rồng đến đây luyện công, thức tỉnh huyết mạch Rồng (căn cốt, thần thức tăng 2 phần, hệ số cơ bản giá trị linh khí tối đa +0.25), nhận được Pháp Bảo - Long Châu. Cả môn phái chỉ có một nhân vật có huyết mạch Rồng có một cơ hội thức tỉnh, sau khi thức tỉnh thì các nhân vật có huyết mạch Rồng khác đến đây sẽ không thể thức tỉnh nữa.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Desert1">
+      <DisplayName>Vạn Yêu Điện</DisplayName>
+      <Desc>Một đại phái tà giáo ẩn sâu trong Đại Mạc, ẩn thế ngàn năm, hành sự kín đáo, ít người biết đến. Mãi đến gần đây, Thánh Địa Yêu Tộc Long Nhai Thạch Khắc tái xuất, mới lại xuất hiện trên thế gian. Người trong Vạn Yêu Điện đều tinh thông đạo tu hành Luyện Thể. Sau khi trở thành tri kỷ hoặc chinh phục họ, có thể đến đây lấy [color=#D06508]công pháp Luyện Thể "Man Cực Kim Thân"[/color].
+Có Dị Thủ Thú Hình Lô, Hung Man Điêu Tượng, Trường Minh Thú Thần Đăng, Thiên Xà Kỳ, Vạn Yêu Phường, Cự Thú Cốt Điêu, Yêu Hình Giá, Yêu Vương Đỉnh, Tiểu Đan Lô, Bàn Long Tọa để quan sát, có Thung Dung, Thử Xa Cúc, Lạc Đà Thích, Thượng Cổ Tàn Mộc, Thượng Cổ Tàn Tích, Thượng Cổ Tàn Hài để lấy mẫu.
+[color=#007700]Sau khi vào khung cảnh, trên bệ đá gần Bàn Long Tọa ở trung tâm của kiến trúc trên cùng bên trái có công pháp Luyện Thể "Bại Diệt Tà Thể". Ăn trộm từ đây hoặc trực tiếp lấy sau khi chinh phục Vạn Yêu Điện là cách duy nhất để có được công pháp này.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Desert2">
+      <DisplayName>Huyễn Sa Nguyên (Sinh Kim)</DisplayName>
+      <Desc>Một tuyệt địa không có sinh vật nào sâu trong Đại Mạc, cát bay cuồng loạn suốt cả ngày. Linh khí thuộc tính Thổ quá nồng đậm tràn ngập bầu trời nơi đây. Nếu có thể chịu đựng được môi trường khắc nghiệt này, thì đây là một nơi tốt để những người tu luyện công pháp thuộc tính Kim tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lý Thị Long Duyên Quả Phủ, Nhục Can, Yêu Linh Huyết, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Desert3">
+      <DisplayName>Hỏa Huyệt - ※Dã Chu Quả※ (Hỏa Đồng)</DisplayName>
+      <Desc>Một hang động kỳ lạ sâu trong Đại Mạc, trong đó cực kỳ nóng bức, nghe nói có bảo vật Thiên Tiên Hỏa Đức Chu Quả.
+[color=#D06508]Trong khung cảnh có thể nhặt được Chu Quả ×1, có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Hỏa Huyệt Thám Bảo": Sau khi đọc "Vân Cấp Bí Lục: Đại Mạc Thiên", nhân vật có giới hạn nhiệt độ cao nhất trên 900℃ đến đây luyện công, nhận được Tinh Tủy ×12, Chu Quả ×7.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Desert4">
+      <DisplayName>Minh Sa Thôn - Yêu Linh Huyết</DisplayName>
+      <Desc>Một ngôi làng nhỏ ở rìa Đại Mạc, dân làng đa số có huyết mạch ma tộc, hiếu chiến không sợ chết, sống bằng nghề săn giết yêu thú trong sa mạc.
+[color=#D06508]Trong khung cảnh có thể nhặt được Xà Nhục, Dã Trư Nhục, Châm Cứu, Xà Đảm, Lộc Thục Chi Bì ×1, Phí Chi Bì ×1, Yêu Hóa Chi Thú Bì ×1, Yêu Thú Chi Nhận Bì ×1, Yêu Linh Huyết ×2.[/color]</Desc>
+    </Text>
+    <Text Name="Place_SouthForest1">
+      <DisplayName>Vạn Cổ Đào Hoa Chướng</DisplayName>
+      <Desc>Trong vùng núi non hiểm ác của Nam Hoang, vốn có một khu rừng đào rộng hàng trăm dặm. Vì ít người đến, đào chín không có người hái, rơi xuống đất và thối rữa, hàng ngàn năm tích tụ thành một vùng chướng khí hoa đào này, không tan suốt cả năm.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ngũ Sắc Kim Liên ×1, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Vạn Cổ Đào Hoa Chướng": Nếu nhân vật đã học được bí tịch Cửu U Phản Chiếu, nhưng chưa học được bí tịch Linh Thị Thần Quan, thì có thể vào trong mò mẫm, có thể nhận được bí tịch hoặc vật liệu quý, nếu chưa có bí tịch "Kim Cổ Mệnh Tập Chú" và "Quần Tiên Lục: Quyển Nhị", có thể mò ra bí tịch "Kim Cổ Mệnh Tập Chú" và "Quần Tiên Lục: Quyển Nhị", cơ duyên càng cao kết quả càng tốt; nếu nhân vật đã học được cả bí tịch Cửu U Phản Chiếu và Linh Thị Thần Quan, thì có thể vào trong tìm kiếm, nhất định sẽ nhận được bí tịch hoặc vật liệu quý, lần đầu tìm kiếm có thể nhận được bí tịch "Kim Cổ Mệnh Tập Chú" và "Quần Tiên Lục: Quyển Nhị".[/color]</Desc>
+    </Text>
+    <Text Name="Place_SouthForest2">
+      <DisplayName>Tà Đế Lăng</DisplayName>
+      <Desc>Lăng mộ của giáo tổ Ma Giáo phương Nam Tà Đế. Cung điện được đúc từ một khối Thiên Tinh Vẫn Thiết, chôn sâu dưới lòng đất. Toàn bộ lăng mộ được bao quanh bởi Cửu Thiên Thập Địa Diệt Thần Sát, nếu không có bí pháp mở đường, bất kể tu vi cao đến đâu cũng không thể vào trong tìm bảo.
+[color=#D06508]Trong khung cảnh có thể nhặt được Chân Cương Đan, Ngũ Cực Linh Đan, Huyền Tẫn Trùng Sinh Đan, Linh Thạch, có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Tà Đế Lăng": Mở lần đầu vào ngày thứ 65, sau đó cứ 3 năm mở một lần, mỗi lần kéo dài 28 ngày. Trong thời gian mở, đến đây luyện công, bất kể cơ duyên thế nào, sẽ học được Tà Thuật Tha Hóa Tự Tại Đại Pháp. Nếu nhân vật có cơ duyên cao hơn 3, nhận được vật liệu quý; nếu nhân vật có cơ duyên cao hơn 5, nhận được vật liệu quý và đan dược; nếu nhân vật có cơ duyên cao hơn 7, nhận được vật liệu quý, đan dược và pháp bảo.[/color]</Desc>
+    </Text>
+    <Text Name="Place_SouthForest3">
+      <DisplayName>Trùng Cốc - ※Dã Mộc Khô Đằng※ (Mộc Tài)</DisplayName>
+      <Desc>Một vùng lòng chảo sâu trong Nam Hoang, rừng rậm rạp mọc đầy côn trùng, môi trường rất hiểm ác. Nhưng môi trường ẩm ướt và nóng bức nơi đây đặc biệt thích hợp cho sự sinh trưởng của Thần Dược Mộc Khô Đằng, vì vậy thường thấy các tu hành giả mạo hiểm vào đây để tìm kiếm tiên duyên.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lê, Mộc Khô Đằng ×1, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Trùng Cốc Bí Văn": Sau khi đọc "Ngự Phong Tử Du Ký: Quyển Lục", nhân vật tu luyện "Bắc Đẩu Động Tâm Kiếp Pháp" đến đây luyện công, nhận được Pháp Bảo - Động Tâm.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Snowfield1">
+      <DisplayName>Thiên Loa Dụ - Sâm Loại</DisplayName>
+      <Desc>Một thung lũng trong Đại Tuyết Nguyên, linh khí nồng đậm, ít người đến. Trong thung lũng mọc nhiều nhân sâm trăm năm.
+[color=#D06508]Trong khung cảnh có thể nhặt được Nhân Sâm, có 4 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Snowfield2">
+      <DisplayName>Ngọc Tinh Đàm - ※Dã Ngũ Sắc Kim Liên※ (Hàn Tinh)</DisplayName>
+      <Desc>Một dòng suối thần không bao giờ đóng băng sâu trong Đại Tuyết Nguyên. Nghe nói trong đó có một đóa Ngũ Sắc Kim Liên sinh tồn, người không có duyên khó mà tìm thấy. Mắt suối thông thẳng đến trung tâm nguyên từ sâu trong vỏ trái đất, một khi rơi vào sẽ không bao giờ có thể thoát ra. Ngày xưa, Ma Đế Phó Tịch Không, bá chủ tuyệt thế thống nhất giới tu hành, trước khi gặp Thiên Kiếp, đã giấu toàn bộ tài sản trong một chiếc hộp vàng và chìm xuống hồ. Chiếc hộp vàng bị trung tâm nguyên từ giữ lại, không còn ai có thể lấy ra.
+[color=#D06508]Trong khung cảnh có thể nhặt được Ngũ Sắc Kim Liên ×1, có 1 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Sự kiện "Kim Hạp Khai Khải": Bắt đầu từ ngày thứ 285, sẽ có ba lần bí văn về sự xuất thế của hộp vàng, lần thứ hai vào ngày thứ 447, lần thứ ba vào ngày thứ 565. Mỗi lần kéo dài 7 ngày, cần nhân vật ở Nguyên Thần kỳ hoặc có tốc độ luyện công sau khi được gia tăng cao hơn 24 dặm/hơi thở đến đây luyện công để nhận được. Trong hộp đều là bảo vật cực phẩm, nếu bỏ lỡ thì sẽ vĩnh viễn không thể có lại được.[/color]</Desc>
+    </Text>
+    <Text Name="Place_Snowfield3">
+      <DisplayName>Tuyết Phong Nguyên - Hàn Tinh</DisplayName>
+      <Desc>Đại Tuyết Nguyên rộng lớn vô tận, gió lạnh thổi không ngừng suốt cả ngày. Sản xuất nhiều quặng Hàn Tinh.
+[color=#D06508]Trong khung cảnh có thể nhặt được Hàn Tinh Đĩnh, Hàn Tinh Khoáng Thạch, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_FertileField1">
+      <DisplayName>Hàn Sơn Trấn - Hàn Tinh</DisplayName>
+      <Desc>Một thị trấn nhỏ ở phía Bắc Đại Hà.
+[color=#D06508]Trong khung cảnh có thể nhặt được Gia Thường Thái, Trân Tu Mỹ Thực, Bột Mì, Tiểu Mạch, Ô, Hàn Tinh Đĩnh, Thiên Long Sa ×1.[/color]</Desc>
+    </Text>
+    <Text Name="Place_FertileField2">
+      <DisplayName>Lạc Hà Trấn - Ngọc Thạch</DisplayName>
+      <Desc>Một thị trấn nhỏ ở đồng bằng phía Bắc sông, dân phong thuần phác, không tranh chấp với thế gian. Dân làng sống bằng nghề khai thác mỏ ngọc thạch xung quanh.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lý Thị Long Duyên Quả Phủ ×1, Gia Thường Thái, Trân Tu Mỹ Thực, Tiểu Mạch, Hồ Nê Đao, Nông Cụ ×2, Trường Sinh Đan ×1, Ngọc Tủy, Ngọc Thạch.[/color]</Desc>
+    </Text>
+    <Text Name="Place_FertileField3">
+      <DisplayName>Đạo Hương Thôn - Ngư Mạch</DisplayName>
+      <Desc>Một ngôi làng xây dựng ven hồ, dân làng sống bằng nghề nông và đánh cá.
+[color=#D06508]Trong khung cảnh có thể nhặt được Bánh Mì, Lê, Tiểu Mạch, Ma Diện Chi Triết, Kiếm, Vạn Linh Tán ×1, Xích Sâm ×1, Nấm Kỳ Lạ ×1.[/color]</Desc>
+    </Text>
+    <Text Name="Place_FertileField4">
+      <DisplayName>Quế Sơn - Chi Loại</DisplayName>
+      <Desc>Danh sơn Giang Nam, phong cảnh đẹp, khí hậu ôn hòa, sản xuất nhiều Linh Chi.
+[color=#D06508]Trong khung cảnh có thể nhặt được Chi Thảo, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_FertileField5">
+      <DisplayName>Lư Sơn - ※Dã Lang Gia Quả※ (Linh Thạch)</DisplayName>
+      <Desc>Danh sơn Giang Nam, địa thế núi thâm sâu đa dạng, khỉ vượn khó trèo. Trong núi có rải rác những mỏ Linh Thạch lộ thiên, tuy không có giá trị khai thác quy mô lớn, nhưng cũng thường có tán tu vào núi tìm kiếm để tự dùng. Nghe nói có tu hành giả cảm ứng được linh khí thuộc tính Kim mạnh mẽ tại đây, dường như có Thiên Địa Linh Căn Lang Gia Quả ẩn mình trong núi.
+[color=#D06508]Trong khung cảnh có thể nhặt được Lang Gia Quả ×1, Linh Tinh, Linh Thạch, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains1">
+      <DisplayName>Vân Đài Sơn - Chu Sa</DisplayName>
+      <Desc>Danh sơn ở trung tâm Trung Nguyên, được đặt tên vì trong núi có tầng mây dày đặc. Trên núi sản xuất nhiều Chu Sa, thường có đạo sĩ tu hành đến đây thu hoạch.
+[color=#D06508]Trong khung cảnh có thể nhặt được Chu Sa, có 1 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains2">
+      <DisplayName>Luyện Đan Phong - ※Dã Giả Hoàng Tinh※ (Linh Tiên Thảo)</DisplayName>
+      <Desc>Ngày xưa Y Tiên từng luyện đan tại đây, đến nay chỉ còn lại một động phủ bị bỏ hoang, trống rỗng. Tiên thảo trồng trong vườn thuốc trên núi đã chết khô, chỉ có Linh Tiên Thảo dễ sinh trưởng đã mọc khắp núi. Nghe nói ngày xưa Y Tiên từng trồng Thiên Địa Linh Căn Giả Hoàng Tinh tại đây, đã sớm thông linh, người không có duyên không thể thấy được.
+[color=#D06508]Trong khung cảnh có thể nhặt được Đan Dược Luyện Hỏng, bốn loại Đan Hoàn Bị Hỏng, có 3 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn kho báu "Y Tiên Nội Phủ": Sau khi đọc "Ngự Phong Tử Du Ký: Quyển Nhất", nhân vật có kỹ năng Luyện Đan không thấp hơn cấp 20 đến đây luyện công, nhận được Đan Phương "Tạo Hóa Linh Cảm Phương", nhận được Tạo Hóa Thần Đan ×3, Tái Tạo Kim Đan ×3, Càn Nguyên Tị Kiếp Đan ×3.[/color]</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains3">
+      <DisplayName>Bình Đỉnh Sơn (Sinh Thủy)</DisplayName>
+      <Desc>Một ngọn núi kỳ lạ ở trung tâm Trung Nguyên, đỉnh núi bằng phẳng như một cánh đồng, do tạo hóa tự nhiên mà thành. Trên đỉnh núi có một bảng Tam Tài, ghi danh những người kỳ lạ trên trời đất. Do đó, linh khí thuộc tính Kim ở đây đặc biệt dồi dào, là nơi tốt để những người tu luyện công pháp thuộc tính Thủy tu luyện.
+[color=#D06508]Trong khung cảnh có thể nhặt được Tinh Tủy, có 3 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains4">
+      <DisplayName>Ngũ Hoa Thôn - Sâm Loại</DisplayName>
+      <Desc>Một ngôi làng xây dựng dựa vào núi ở trung tâm Trung Nguyên. Dân làng đời đời làm nghề y, sống bằng nghề khai khẩn vườn thuốc trên núi gần đó.
+[color=#D06508]Trong khung cảnh có thể nhặt được Trân Tu Mỹ Thực, Trường Sinh Đan ×1, Quả Bạch Quả, Chỉ Thống Tán, Tiểu Hoàn Đan, Kim Sang Dược, Tiếp Cốt Cao, Dược Thảo.[/color]</Desc>
+    </Text>
+    <Text Name="Place_CentralPlains5">
+      <DisplayName>Lô Hư Thôn - Bố Vải</DisplayName>
+      <Desc>Một ngôi làng ở trung tâm Trung Nguyên, nổi tiếng khắp thiên hạ với nghề dệt vải.
+[color=#D06508]Trong khung cảnh có thể nhặt được Khâu Nhẫn Hộ Oản, Hương Nang ×18, tám loại Bố Vải, Nấm Kỳ Lạ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace11">
+      <DisplayName>Nam Bình Thôn - Sinh Nhục</DisplayName>
+      <Desc>Một ngôi làng nhỏ, cư dân trong làng chủ yếu là nông dân và thợ săn, sống bằng nghề trồng trọt và săn bắn.
+[color=#D06508]Trong khung cảnh có thể nhặt được Dã Trư Nhục, Ngư Nhục ×1, Cung Săn ×5, Tử Chi ×1, Linh Thạch ×1.[/color]
+[color=#007700]Bí văn "Thái Nhất Thạch Hạp": Sau khi bí văn xuất hiện vào ngày thứ 16, luyện công tại Nam Bình Thôn, nhận được Thạch Hạp, mở ra sẽ nhận được Phù Thư "Lục Sắc Ngũ Phương Thần Phù Kim Thư", Đan Phương "Tục Thế Tiên Phương", Du Ký "Quần Tiên Lục: Quyển Nhất", Ngũ Linh Tán ×11, Thông Mạch Tán ×12, Huyền Tẫn Trùng Sinh Đan ×1, Tinh Tủy ×1.
+Bí văn "Trùng Kiến Đại Lý": Sau khi bí văn xuất hiện, luyện công tại Nam Bình Thôn, mở khóa điểm đại lý Lĩnh Nam, không cần ảnh hưởng cũng có thể vào đại lý này.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace12">
+      <DisplayName>Nguyệt Luân Sơn - Dược Sài</DisplayName>
+      <Desc>Một ngọn núi nhỏ ở biên giới phía Nam, được bao phủ bởi rừng núi, thực vật rậm rạp, thường có người hái thuốc vào núi để sống bằng nghề hái thuốc.
+[color=#D06508]Trong khung cảnh có thể nhặt được Gia Thường Thái, Bạc Hạ Thường, Thanh Lương Y Sam, Tinh Nguyên Đan ×1, Dược Thảo, Nguyên Mộc, Sách ×9, có 2 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn "Trọng Hồi Thái Nhất": Sau khi bí văn xuất hiện vào ngày thứ 21, luyện công tại Nguyệt Luân Sơn, nhận được công pháp "Bắc Đẩu Động Tâm Kiếp Pháp", "Trường Sinh Lục Đạo Luân Hồi Kinh", "Thái Hòa Thập Lục Động Thiên", "Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết", "Quỳ Hoa Luyện Thần Đại Pháp", nhận được Đan Phương "Tị Kiếp Tiên Phương", và mở khóa địa điểm Thái Nhất Di Tích, trong đó có vật liệu xây dựng.
+Trước đó, vào khung cảnh Nguyệt Luân Sơn, đi theo con đường nhỏ xuyên qua khe hẹp trên núi để vào khu vực phía dưới bên phải của bản đồ, tại cổng Thái Nhất Sơn ở phía dưới bên phải của bản đồ bái môn, cũng có thể mở khóa địa điểm Thái Nhất Di Tích trước, nhưng vài bản công pháp phải tiếp tục đợi đến ngày thứ 21 mới có thể nhận được thông qua bí văn.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace13">
+      <DisplayName>Tiểu Lương Sơn - Bông Vải</DisplayName>
+      <Desc>Một ngọn núi đá tông, vốn có một mỏ đá của triều đình, sau đó bị bỏ hoang vì chiến loạn. Bây giờ có khá nhiều cư dân dưới chân núi sống bằng nghề trồng bông.
+[color=#D06508]Trong khung cảnh có thể nhặt được Thức Ăn Bị Hỏng, Cuốc Khoáng ×2, Ngọc Thạch, Thạch Tủy, Bông Vải, có 2 con yêu thú ở Kết Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace14">
+      <DisplayName>Đồng Lăng Sơn - Thiết Khoáng</DisplayName>
+      <Desc>Một ngọn núi đá, trong núi có nhiều mỏ kim loại, ít người đến.
+[color=#D06508]Trong khung cảnh có thể nhặt được Giai Diệu ×3, Thủy Ngoại Dã, Thiết Khoáng Thạch, Huyền Thiết Khoáng Thạch, Phù Chú Vô Hiệu ×2, có 2 con yêu thú ở Kết Đan kỳ.[/color]
+[color=#007700]Bí văn "Cố Nhân Nghi Tung": Sau khi bí văn xuất hiện vào ngày thứ 32, luyện công tại Đồng Lăng Sơn để hoàn thành bí văn này, nhưng bí văn này không có ý nghĩa thực tế.
+Bất kể đã hoàn thành bí văn hay chưa, vào khung cảnh Đồng Lăng Sơn, tìm kiếm thi thể tươi mới trong hang động ở trung tâm bản đồ, có thể tìm thấy trận đồ "Thái Nhất Trận Pháp Kỷ Yếu", "Thái Nhất Tứ Ngự Trận Pháp Đồ Lục". Sau khi tìm thấy, nhất định phải nhặt từ dưới đất lên.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace15">
+      <DisplayName>Thái Nhất Di Tích</DisplayName>
+      <Desc>Di tích của Thái Nhất Môn, đã bị diệt môn. Một số vật liệu còn sót lại sau khi kiến trúc bị hư hỏng có thể còn dùng được.
+[color=#D06508]Trong khung cảnh có thể nhặt được Hương Nang, Bạc Hạ Thường, Hưu Nhàn Y Sam, Tu Hành Hạ Thường ×3, Bạc Y Sam ×2, Tu Hành Y Sam, Cuốc Khoáng, Ngọc Thạch Chuyên, Linh Thạch Chuyên, Đại Lý Thạch Chuyên, Thiết Đĩnh, Mộc Liệu, Phù Chú Vô Hiệu.[/color]
+[color=#007700]Vào khung cảnh, Trấn Tháp trong đó có thể tầm bảo, sẽ rơi ra Thái Nhất Di Vật, nhất định phải nhặt từ dưới đất lên, bên trong có Thái Nhất Bí Điển và Càn Khôn Linh Tinh, có thể mở khi ở Kim Đan kỳ.[/color]</Desc>
+    </Text>
+    <Text Name="Place_BirthPlace16">
+      <DisplayName>Hắc Sa Than</DisplayName>
+      <Desc>Cát ở đây đen như mực. Có một lối vào bí ẩn dẫn đến sòng bạc dưới lòng đất, chỉ có người hữu duyên mới tìm thấy.
+[color=#007700]Mỗi buổi đấu giá kéo dài 5 ngày, buổi đấu giá tiếp theo sẽ được tổ chức vào ngày thứ 10 sau khi bí văn về buổi đấu giá hiện tại kết thúc.[/color]</Desc>
+    </Text>
+  </List>
+</Texts>
