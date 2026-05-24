@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Other_BingCanSi" sParam="Item">
+      <ThingName>Băng Tàm Ti</ThingName>
+      <Item.BeMaterial.NamePrefix>Băng Tàm Ti</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_BuZhiMing" sParam="Item">
+      <ThingName>Bất Tri Danh Tài Liêu</ThingName>
+    </Text>
+    <Text Name="Item_Other_JinJing" sParam="Item">
+      <ThingName>Tiên Thiên Canh Tân Kim Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Kim Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_MuJing" sParam="Item">
+      <ThingName>Tiên Thiên Giáp Ất Mộc Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Mộc Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_ShuiJing" sParam="Item">
+      <ThingName>Tiên Thiên Nhâm Quý Thủy Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Thủy Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_HuoJing" sParam="Item">
+      <ThingName>Tiên Thiên Bính Đinh Hỏa Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Hỏa Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_TuJing" sParam="Item">
+      <ThingName>Tiên Thiên Mậu Kỷ Thổ Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Thổ Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_NoneJing" sParam="Item">
+      <ThingName>Tiên Thiên Nguyên Tinh</ThingName>
+      <Item.BeMaterial.NamePrefix>Tiên Thiên Nguyên Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_LarkPerk" sParam="Item">
+      <ThingName>Tước Uế</ThingName>
+      <Item.BeMaterial.NamePrefix>Tước Uế</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_BuffaloHorn" sParam="Item">
+      <ThingName>Man Ngưu Giác</ThingName>
+      <Item.BeMaterial.NamePrefix>Man Ngưu Giác</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_LionFang" sParam="Item">
+      <ThingName>Báo Xỉ</ThingName>
+      <Item.BeMaterial.NamePrefix>Báo Xỉ</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_TortoiseShell" sParam="Item">
+      <ThingName>Giáp Xác</ThingName>
+      <Item.BeMaterial.NamePrefix>Giáp Xác</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_DeerFeet" sParam="Item">
+      <ThingName>Mi Chủng</ThingName>
+      <Item.BeMaterial.NamePrefix>Mi Chủng</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SPStuffCategories_1" sParam="Item">
+      <ThingName>Vị Tri</ThingName>
+    </Text>
+  </List>
+</Texts>
