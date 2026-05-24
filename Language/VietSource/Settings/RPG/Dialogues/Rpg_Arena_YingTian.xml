@@ -1,0 +1,11 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Rpg_Arena_YingTian">
+      <Nodes.0.Text>Nhập Khẩu</Nodes.0.Text>
+      <Nodes.1.Text>Ứng sân thượng phát ra hào quang màu xanh lam.</Nodes.1.Text>
+      <Nodes.2.Text>Nhập huyền ( Người đưa lên mạng vật số liệu )</Nodes.2.Text>
+      <Nodes.3.Text>Mời ( Đưa vào mời mã, triệu hoán mục tiêu nhân vật )</Nodes.3.Text>
+      <Nodes.4.Text>Ly Khai</Nodes.4.Text>
+    </Text>
+  </List>
+</Texts>
