@@ -1,0 +1,31 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_11_Tu">
+      <DisplayName>Quỳ Hoa Luyện Thần Đại Pháp</DisplayName>
+      <Desc>Thái Nhất Môn trấn phái Ngũ Hành chân quyết một trong, chỉ có nữ tính mới có thể tu luyện. Mượn Hậu Thổ chí âm chi lực thành tựu thuần âm Nguyên Thần lấy thoát ly phàm thai phi thăng thành tiên. Nếu như nam tính gượng ép tu luyện, giới tính sẽ phát sinh nghịch chuyển.</Desc>
+      <SelectDesc>Công pháp này thích hợp nữ tính tu luyện, nếu như nam tính gượng ép tu luyện, giới tính sẽ phát sinh nghịch chuyển. Công pháp này am hiểu ngự khí chi thuật, chỉ là tại thành đan lúc lại tiếp nhận sơ kiếp tẩy lễ. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Thiếu Âm Chi Thể</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Anh Ninh</Stages.0.Necks.0.DisplayName>
+      <Stages.0.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.0.Desc>
+      <Stages.0.Necks.1.DisplayName>Giao Cảm</Stages.0.Necks.1.DisplayName>
+      <Stages.0.Necks.1.Desc>[color=#D06508]\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.0.Necks.1.Desc>
+      <Stages.0.Necks.2.DisplayName>Nhập Thể</Stages.0.Necks.2.DisplayName>
+      <Stages.1.DisplayName>Trung Âm Thành Đan</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Thông Cù</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.0.Desc>
+      <Stages.1.Necks.1.DisplayName>Bách Hối</Stages.1.Necks.1.DisplayName>
+      <Stages.1.Necks.1.Desc>[color=#D06508]\n Bình này cái cổ thần thức càng thấp, càng khó đột phá.[/color]</Stages.1.Necks.1.Desc>
+      <Stages.1.Necks.2.DisplayName>Thành Đan</Stages.1.Necks.2.DisplayName>
+      <Stages.2.DisplayName>Thái Âm Nguyên Thần</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Vong Ngã</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.1.DisplayName>Tòng Chân</Stages.2.Necks.1.DisplayName>
+      <Stages.2.Necks.2.DisplayName>Phản Hư</Stages.2.Necks.2.DisplayName>
+      <Stages.3.DisplayName>Phá Toái Hư Không</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Cụ Túc</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>Lấy yêu thú trưởng thành Huyền Tẫn Châu hợp nhập thái âm Nguyên Thần, mượn nhờ trong đó thái âm chi khí trọn vẹn có đủ.</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>Hóa Thần</Stages.3.Necks.1.DisplayName>
+      <Stages.3.Necks.1.Desc>Lấy có đủ chi Nguyên Thần phân hoá ngàn vạn, các ngộ sinh tử, lấy khuy thiên đạo.[color=#D06508]\n Bình này cái cổ rất khó đột phá, lại không kinh nghiệm tăng thêm.[/color]</Stages.3.Necks.1.Desc>
+      <Stages.3.Necks.2.DisplayName>Hợp Đạo</Stages.3.Necks.2.DisplayName>
+    </Text>
+  </List>
+</Texts>
