@@ -1,0 +1,179 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc	UnlockNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数(SECRET为事件ID)	文本参数		
+First	1	Ngươi là người phương nào?	Ta gọi [NAME]... Gặp qua tiên trưởng!						
+First	3	Ta chính là [NAME], ngươi là?	Xin ra mắt tiền bối, tại hạ [NAME]!						
+First	4	Tại hạ [NAME], lần đầu gặp mặt!	Ngô, ta là [NAME]!						
+First	5	Lần đầu gặp mặt, ta là [NAME], xin hỏi đạo hữu tính danh?	Khách khí, tại hạ [NAME], hạnh ngộ hạnh ngộ!						
+									
+Track	0	Ngươi biết [TSCHOOL][TNAME] Gần đây hành tung a?	Ta đối người này không có hứng thú	Hắn hai ngày này tựa hồ tại [TXT].	Ta tại sao phải nói cho ngươi biết?				
+TrackTell	0	[TSCHOOL][TNAME] Hai ngày này tại [TXT]	Ta đối người này không có hứng thú	A, tạ ơn cáo tri!	Cái này ta đã biết				
+									
+TrackT	0	Ngươi gần nhất có xuất hành kế hoạch sao?	......	Ta hai ngày chuẩn bị đi lội [TXT], thế nào?	Ta tại sao phải nói cho ngươi biết?				
+TrackTellT	0	Ngươi nhưng là muốn tiến về [TXT] Sao? Chú ý an toàn.	A......	Đạo hữu có lòng, ta sẽ cẩn thận!	Làm sao ngươi biết?				
+									
+AboutNpc	0	Ngươi biết [TSCHOOL][TNAME] Sao?	Người này ai? Không biết.	Ta biết một điểm liên quan tới [IT][TXT] Sự tình	Ngươi có [TITS] Tin tức sao?				
+									
+Gift	1	Ban thưởng ngươi vật này!	Cảm tạ tiên trưởng!	Cảm tạ tiên trưởng!	......( Khúm núm )				
+Gift	3	Cái này [TXT] Cùng ngươi, còn vừa ý?	Vật này không tệ, cám ơn!	Vật này rất tốt, tiền bối có lòng!	Ngô......( Nhíu mày )				
+Gift	4	Cái này [TXT] Còn xin vui vẻ nhận!	A, vật này còn có thể.	Vật này rất tốt, đạo hữu có lòng!	Hừ......				
+Gift	5	Cái này [TXT] Còn xin vui vẻ nhận!	A, vật này còn có thể.	Vật này rất tốt, đạo hữu có lòng!	Ha ha......				
+									
+Invite	1	Ta hỏi ngươi, ngươi nhưng có hứng thú đến ta tiên sơn chiêm ngưỡng một phen?	Ta đã trả lời qua.	Quá tốt rồi! Cái này chẳng phải là ta thiên đại tiên duyên?!	Ta còn có rất nhiều thế tục không có xử lý, không đi được a.				
+Invite	2	[HENAME] Đạo hữu, nhưng có hứng thú đến chúng ta phái làm khách du lãm một phen?	Ta đã trả lời qua.	Đang có ý này!	Gần nhất không tiện, cáo lỗi!				
+									
+Close	1	Liền cho tới chỗ này đi!	Cung tiễn tiên trưởng!						
+Close	2	Hôm nay liền trò chuyện những này đi, đạo hữu, cáo từ!	Sau này còn gặp lại!						
+									
+Secret	2	Gần nhất có cái gì chuyện thú vị a?	Ta nói cho ngươi cái ta vừa nghe nói cái bí mật.						
+									
+Interest	0	Ân? Có chuyện gì a?	Ta đối [TSCHOOL][TNAME] Tin tức rất có hứng thú, ngươi biết thứ gì sao?						
+Interest	0	Ân? Có chuyện gì a?	Ngươi có [TSCHOOL][TNAME] Tin tức sao?						
+Interest	0	Ân? Có chuyện gì a?	Ngươi chưa từng gặp qua [TSCHOOL][TNAME]?						
+									
+Know	0	Gần nhất nhưng có cái gì chuyện mới mẻ?	Ta biết một chút [TSCHOOL][TNAME] Liên quan tới [TXT] Sự tình.						
+Know	0	Gần nhất nhưng có cái gì chuyện mới mẻ?	Ta thăm dò được [TSCHOOL][TNAME] Liên quan tới [TXT] Một ít tin tức.						
+Know	0	Gần nhất nhưng có cái gì chuyện mới mẻ?	Hai ngày trước gặp được [TSCHOOL][TNAME], thân thể không tệ.						
+									
+Chat	0	Gần nhất thế nào?	Ha ha.						
+Chat	0	Có đôi khi lại đột nhiên cảm thấy đột nhiên cùng trên thế giới hết thảy cách biệt, mười phần tịch mịch.	...... Nghe không hiểu ngươi đang nói cái gì......						
+Chat	0	Gần nhất nhưng có cái gì chuyện mới mẻ?	Mặt trời dưới đáy không mới sự tình, nhàm chán a nhàm chán.						
+Chat_Place_DanXia	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái [color=#ff0000] Tạ nghĩ [/color] Trưởng lão chính là Ngoại Sự đường tổng quản, vì môn phái cúc cung tận tụy, mười phần kính nghiệp. Nghe nói [desc_daytime=-20], môn phái muốn tiến hành khuếch trương, thậm chí không tiếc giá thấp bán tháo một nhóm bảo tài.[color=#ff0000] Tạ nghĩ [/color] Trưởng lão lúc này từ bỏ mình sắp luyện thành Thần khí, chuẩn bị chấp hành chưởng giáo chi lệnh, có thể thấy được đối với môn phái chi trung tâm. Bất quá cuối cùng việc này cũng không thực hành, thật sự là đáng tiếc lò kia Thần khí.					Npc_DanXia_2	Npc_DanXia_2
+Chat_Place_DanXia	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái Bát Bảo Công Đức Trì bên trong ẩn chứa vũ trụ chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_DanXia	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Tiên thiên Giáp Ất mộc thần trận 》, Tiên Thiên Mộc Linh giới triển khai sau, thật làm cho nhân thân tâm đều mới.						
+Chat_Place_DanXia	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Hoắc cách [/color] Là cái mọt sách, một mực tận sức tại giải mã cổ đại bí văn, mặc dù không có thành công, nhưng hắn còn nói cử chỉ ngồi nằm tay không rời sách nghiên cứu.					Npc_DanXia_3	Npc_DanXia_3
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_KunLun	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái [color=#ff0000] Cách đuôi yến [/color] Trưởng lão thật sự là khôn khéo hơn người, chấp chưởng môn phái kho tàng đến nay, chưa từng có bị thua thiệt gì. Bất quá [desc_daytime=-20], [color=#ff0000] Cách đuôi yến [/color] Trưởng lão rầu rĩ không vui một lúc lâu, không biết xảy ra chuyện gì.					Npc_KunLun_2	Npc_KunLun_2
+Chat_Place_KunLun	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Cổ thông [/color] Tinh thông các loại trận pháp, nghe nói liền liền thất truyền tuyệt rồng trận đều bị hoàn nguyên, thật sự là học cứu thiên nhân.					Npc_KunLun_3	Npc_KunLun_3
+Chat_Place_KunLun	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái vạn đạo tôn pháp tòa bên trong ẩn chứa Thiên Địa Khai Tịch chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_KunLun	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Chư thiên lục ngự hành pháp nghi quỹ 》, lấy trận pháp bày ra chư thiên lục ngự thanh linh thắng cảnh sau, vậy mà để cho người ta toàn thân linh hơi thở dồi dào, quả nhiên thần kỳ.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_TianJi	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái thất tình Kiến Mộc bên trong ẩn chứa đạo âm dương, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_TianJi	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Chân Hoàng vũ kiếm trận 》, Niết Bàn chi pháp thật có tuyệt cảnh nghịch chuyển huyền diệu.						
+Chat_Place_TianJi	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái trưởng lão [color=#ff0000] Hà Túc Đạo [/color] Rất thích phù chú chi thuật, thậm chí thường xuyên vẽ một chút trước đây chưa từng gặp phù chú, khẳng định từng chiếm được cái gì truyền thừa bí mật.					Npc_JiTian_1	Npc_JiTian_1
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_JiuHua	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	[color=#ff0000] Tần Kiệt [/color] Kia tiểu tử thật sự là không may, vì Kết Đan chuẩn bị mấy chục năm, nhưng mà [desc_daytime=-20], cơ duyên đã tới, mời sư phó hộ pháp. Sư phụ hắn lại bỏ đi không thèm để ý, tham gia cái gì bế quan pháp hội, cuối cùng còn ngộ đạo đau sốc hông thụ thương, để kỳ sổ mười năm chuẩn bị hóa thành chảy về hướng đông nước, thật thảm.					Npc_ZiXiao_3	Npc_ZiXiao_3
+Chat_Place_JiuHua	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Tân cờ [/color] Làm người sáng sủa, giao du rộng lớn, một mực phụ trách tiếp đãi môn phái khác khách tới thăm, ta Tử Tiêu tông đệ tử hành tẩu thiên hạ thụ nhiều chiếu ứng, may mắn mà có tân cờ trưởng lão.					Npc_ZiXiao_2	Npc_ZiXiao_2
+Chat_Place_JiuHua	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái Chu Thiên Tinh Đấu trong mâm ẩn chứa thời không diễn sinh cùng nhật nguyệt chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_JiuHua	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Âm dương hai đi thần trận 》, trận pháp linh động biến hóa như thiên mã hành không, thật sự là không có dấu vết mà tìm kiếm.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_LongHu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Diệp Bạch tuyết [/color] Chính là nổi danh người hiền lành, cho tới bây giờ chưa thấy qua nàng tức giận bộ dạng. Bất quá [desc_daytime=-20], nàng đi sứ Tử Tiêu tông về núi, vậy mà nổi giận phừng phừng, kêu to không làm người tử, thật sự là hiếm thấy.					Npc_ZhengYi_2	Npc_ZhengYi_2
+Chat_Place_LongHu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái ngũ long Huyền Dương tháp bên trong ẩn chứa từ đầu đến cuối chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_LongHu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Thiên địa ngũ phương bất diệt trận 》, thiên địa ngũ phương bất diệt giới bao phủ phía dưới, thật sự là vạn pháp lui tránh.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_Shu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái kiếm trì bên trong ẩn chứa sinh diệt chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_Shu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Tám môn Huyền Kim thiên kiếp kiếm trận 》, trận pháp sinh môn tử môn biến hóa ở giữa, thật sự là công thủ đều có.						
+Chat_Place_Shu	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Ứng giương [/color] Sư tôn ngày xưa danh xưng Thanh Liên tổ sư về sau đệ nhất nhân, đáng tiếc ngàn năm trước vẫn lạc tại một trận hạo kiếp, quá đáng tiếc.					Npc_Shu_1	Npc_Shu_1
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_WuLian	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái cùng Bách Man Sơn có nhiều tranh chấp, nhờ có [color=#ff0000] Cam minh [/color] Trưởng lão giám sát Bách Man Sơn động tĩnh, mới khiến cho chúng ta có thể chiếm cứ không ít tiên cơ.					Npc_QiXia_1	Npc_QiXia_1
+Chat_Place_WuLian	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	[desc_daytime=-20], ta phái đệ tử [color=#ff0000] Lâm Tư nguyên [/color] Tại hải ngoại phát hiện một cái Tiên Phủ, còn kém chút gặp nạn, nhờ có trong phái trưởng lão cứu viện mới còn sống. Trời phù hộ ta Tê Hà tông!					Npc_QiXia_3	Npc_QiXia_3
+Chat_Place_WuLian	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	[color=#ff0000] Trăng thanh sầu [/color] Trưởng lão cùng [color=#ff0000] Thà tiêu [/color] Trưởng lão tại phàm nhân lúc liền quen biết, sau đó cùng một chỗ nhập môn cùng một chỗ tu hành tương giao tâm đầu ý hợp, thật làm cho người ghen tị.					Npc_QiXia_2	Npc_QiXia_2|Npc_QiXia_4
+Chat_Place_WuLian	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái Linh Ngọc phong bên trong ẩn chứa vạn linh sinh sôi chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_WuLian	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Ngũ phong trấn Quy Khư 》, ngũ phong ngự giới bao phủ phía dưới, thật có thể nói là cứng như bàn thạch......						
+									
+									
+									
+									
+									
+									
+Chat_Place_BaiMan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	[color=#ff0000] Ba lạnh [/color] Gia hỏa này phụ trách trông coi sơn môn, bình thường mà nói trong phái có động tỉnh gì không đều nhất thanh nhị sở. Không riêng tin tức linh thông, mà lại chất béo sung túc, thật làm cho người ghen tị.					Npc_BaiMan_1	Npc_BaiMan_1
+Chat_Place_BaiMan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	[desc_daytime=-20], ta phái đại năng [color=#ff0000] Sơn khắc vụng [/color] Công lực đại tăng, sau đó, lần lượt có trong phái cao thủ công lực tiến mạnh, không biết là được cơ duyên gì.					Npc_BaiMan_2	Npc_BaiMan_2
+Chat_Place_BaiMan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Bạch chỉ [/color] Làm người khôn khéo, giao du rộng lớn, một mực phụ trách tiếp đãi môn phái khác khách tới thăm, bằng hữu khắp thiên hạ, là ta phái tin tức đệ nhất linh thông người.					Npc_BaiMan_3	Npc_BaiMan_3
+Chat_Place_BaiMan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái vạn xương tà pháp trong vò ẩn chứa thời không tận suy chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_BaiMan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Chín ngự phú hình rồng trận 》, long hồn nứt thần pháp nhìn từ xa phía dưới cũng để cho người ta sinh ra thần hồn dao động cảm giác, thật sự là lăng lệ phi thường.						
+									
+									
+									
+									
+									
+									
+Chat_Place_XianKong	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta bảy thiên ổ nhất khiến người đỏ mắt đơn giản chính là [color=#ff0000] Chu không phải [/color] , chỉ cần định kỳ tiếp ứng Trung Nguyên đất liền ám tử mật lệnh, cũng đem hồi báo cho trong phái cao tầng liền có thể. Bực này việc phải làm lại nhẹ nhõm, chất béo lại đủ, còn không chậm trễ tu luyện, thật làm cho người đố kỵ.					Npc_QiQian_2	Npc_QiQian_2
+Chat_Place_XianKong	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái huyền từ trong hố trời ẩn chứa thiên địa quy tịch chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_XianKong	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Bắc Đẩu Chân Vũ lục ma đại trận 》, Bắc Đẩu phá vọng bí thuật lại có xuyên thủng vạn vật chi uy, thật là vô thượng tiên trận.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_Hei	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Tại mực nhiễm [/color] Phụ trách trông coi tàng thư kho, tàng thư trong kho đều ghi tạc một chút thượng cổ đã sớm thất truyền bảo bối, nhìn loại đồ vật này căn bản là như là nhìn diễn dịch tiểu thuyết, liền đồ cái việc vui, không có chút ý nghĩa nào. Ta Thất Sát lấy giết thành đạo, thật thua thiệt nàng chịu được tính tình.					Npc_QiSha_2	Npc_QiSha_2
+Chat_Place_Hei	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái Thất Sát thần bia bên trong ẩn chứa vạn vật vẫn diệt chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_Hei	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Tru Tiên kiếm trận 》, bốn kiếm tề phát phía dưới vạn vật tro bụi, không hổ là Thái Cổ thứ nhất sát trận.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_HeHuan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Ta phái đại năng [color=#ff0000] Ân sen [/color] Một mực đối cổ đại bí văn lịch sử hết sức cảm thấy hứng thú, biết được rất nhiều thượng cổ bí văn. Nghe nói [desc_daytime=-20], nàng tại đi sứ Bách Man Sơn lúc trả lời một vấn đề, liền đạt được mười vạn mai linh thạch làm thù lao. Xem ra nghiên cứu một chút lịch sử thật đúng là một đầu phát tài đường tắt.					Npc_HeHuan_2	Npc_HeHuan_2
+Chat_Place_HeHuan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nghe đồn bản phái Huyền Âm thánh tuyền bên trong ẩn chứa tạo hóa chi đạo, đem vận dụng cho trận pháp uy lực vô tận...... Không biết có phải hay không là thật......						
+Chat_Place_HeHuan	0	[HENAME] Đạo hữu, quý phái nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Mấy ngày trước đây trông thấy trong phái có người tại diễn luyện 《 Tam âm Tam Tuyệt trận 》, lấy thuần âm chi lực ngự pháp, lại có như thế uy lực, để cho người ta nhìn mà than thở.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_BirthPlace14	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Nơi đây là đồng lăng vùng núi giới, gần đây phía đông nam tựa hồ có cái quái nhân ẩn hiện...... Thật làm cho người lo lắng......						
+Chat_Place_BirthPlace14	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Thiên hạ rất nhiều chém sắt như chém bùn chi lợi khí, lại ít nghe gọt bùn như sắt chi cùn khí. Lợi khí chuyên tại hái thô mài kiên, cùn khí chuyên tại tập giòn kiến trúc, đều có sở dụng cũng. Chúng ta sở dụng đều là lợi khí, nghe trên đời hi hữu hái ngọc chi cùn khí, nhưng không biết nơi nào mà theo.						
+Chat_Place_JiuHua1	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Trước đó nhìn thấy cái mãi nghệ, hắn mang theo các loại dã thú, những dã thú kia sẽ còn mình sắp xếp trận sắp xếp. Có một lần hắn đến, bị một cái mặc da thú người gọi lại nói vài câu, tất cả dã thú đều bị kia mặc da thú lấy đi, mãi nghệ cũng cùng hắn đi, về sau liền rốt cuộc chưa đến đây.						
+Chat_Place_Desert4	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Nơi này mặc dù khô hạn, nhưng cũng có trời mưa thời điểm.						
+Chat_Place_FertileField1	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Gia gia của ta nói, trên đời kia tối cao Phong Sơn đỉnh có cái ao, trước kia sẽ còn phun lửa!						
+Chat_Place_FertileField2	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Thần mộc trong rừng có chút kỳ quái cây nấm, ăn về sau trông thấy có thật nhiều tinh linh đang giúp ta cắt đá, thật vui vẻ a!						
+Chat_Place_FertileField3	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Ta trước kia đi qua đại mạc làm ăn, có cái người trong thôn a, chỉ ăn thịt tươi a! Bột mì bọn hắn căn bản sẽ không ăn cũng sẽ không làm!						
+Chat_Place_CentralPlains4	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Trước mấy ngày trong thôn có người ăn nơi khác mua được cây nấm, mê man ba ngày, lúc ngủ khi thì mồ hôi không ngừng, khi thì cười ha ha. Kết quả sau khi tỉnh lại cùng chúng ta nói hắn trong mộng trông thấy toàn bộ làng người đều biến thành chim, chúng ta đều cảm thấy hắn điên rồi, nhưng hắn về sau cũng rất bình thường.						
+Chat_Place_CentralPlains5	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Có một ngày có cái người bên ngoài bán cây nấm, rất rẻ, ta mua điểm về nhà ăn về sau, cảm giác trên tường đều là đóa hoa, ta vẫn hái một mực hái. Không biết bao nhiêu ngày về sau, phát hiện tất cả mọi người dùng ánh mắt khác thường nhìn ta, nguyên lai ta một mực tại bên tường đào đất......						
+Chat_Place_BirthPlace11	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Bờ sông ốc dã bột mì sản lượng kỳ cao, chúng ta tổ tiên lúa mì sản lượng không kém gì bọn hắn, nhưng bột mì sản lượng lại không kịp nửa cũng không biết vì sao.						
+Chat_Place_BirthPlace13	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Chúng ta bông rất nhiều đều bán cho lô khư thôn, người ở đó may tốc độ cực nhanh vô cùng, trong đó nữ công đều đeo một loại giống như hộ oản đồ vật.						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Nghe nói lão Vương nhà hàng xóm lại thêm cái tân đinh, đố kỵ muốn chết!						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Gần nhất thôn chúng ta có người trẻ tuổi cũng cử chỉ điên rồ, Thiên Thiên ngăn ở cửa thôn, náo cái gì bãi công, còn động thủ đánh bộ khoái. Thật sự là nghiệp chướng.						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Không có cái gì chuyện mới mẻ a, hết thảy đều bình thản không có gì lạ! Rất muốn cũng có thể có tiên duyên giáng lâm tại trên người ta a. Thế nhưng là ta cho tới bây giờ đều chưa thấy qua tiên nhân, thật làm cho người uể oải......						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Trước mấy ngày gặp được cái phối chìa khoá, nói lời thật là để cho người ta sinh khí.						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Gần nhất trong thôn ăn luôn không gặp, kỳ quái.						
+Chat	1	Nơi đây nhưng có chuyện gì đáng giá nói chuyện?	Ngươi nói có hay không một loại khả năng, những cái kia đi tới đi lui tiên nhân cũng sẽ vụng trộm bắt chúng ta đồ vật?						
+Chat	2	[HENAME] Đạo hữu, gần nhất nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nói đến khiến người tức giận, hôm đó ta cùng người đấu pháp, mới sử xuất nửa chiêu, liền bị người nói học trộm kia Tây Vực tuyệt học. Thật tức chết ta cũng...... Cần biết thiên hạ kiếm thuật lên tay đơn giản chính là kia mấy loại hình thái...... Không nhận biết rõ ràng đến tiếp sau biến hóa, lại có thể nào võ đoán hạ này kết luận?						
+Chat	2	[HENAME] Đạo hữu, gần nhất nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Gần đây sư đệ luôn luôn thúc ta mau mau đột phá cảnh giới, nhưng đột phá cảnh giới việc này lớn, có thể nào qua loa? Ta cũng chỉ có thể nói một câu nhanh nhanh, thật sự là buồn rầu.						
+Chat	2	[HENAME] Đạo hữu, gần nhất nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Gần đây ta đột nhiên có điều ngộ ra: Tu hành chi đạo, cùng người khác mà nói, vô luận tốt xấu chê khen, đã không thể nắm giữ, cũng đều là ngoại vật. Chỗ của Đạo, chung tẫn quy về tự thân. Có thể không thẹn lương tâm, liền là đủ.						
+Chat	2	[HENAME] Đạo hữu, gần nhất nhưng có cái gì đề tài nói chuyện tin đồn thú vị?	Nói lên phù chú chi thuật, đó là đương nhiên muốn xách cực Thiên Cung trưởng lão [color=#ff0000] Hà Túc Đạo [/color] A.					Npc_JiTian_1	Npc_JiTian_1
+ZhuLongChat	0	Thế nhưng là thiên đạo âm dương chi hóa thân Chúc Long? Xem ra tựa hồ có chút kỳ quái, đột nhiên giáng lâm nơi này, thế nhưng là chuyện gì xảy ra?	Ta chính là Chúc Long, gần đây có một ít dị giới chi vật mang theo dị giới thiên đạo chi tức chảy vào giới này, ta thụ ảnh hưởng này, lấy như vậy hình tượng hiển hiện ra. Những này dị giới chi vật bên trong có một vật tên là cầu phúc tiền xu, phía trên ngưng kết khác thường giới người tâm niệm chi nguyện, mười phần thú vị. Như ngươi nguyện đem hiến cùng ta, ta nguyện vận dụng thiên đạo chi lực thỏa mãn các ngươi một cái nguyện vọng.						
