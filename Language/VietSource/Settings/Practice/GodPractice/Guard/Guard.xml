@@ -1,0 +1,294 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Guard_LeiBu_1">
+      <DisplayName>Lôi Công</DisplayName>
+      <Names>Huỳnh</Names>
+      <Desc>Hộ pháp nắm giữ sức mạnh sấm sét, thờ phụng có thể tăng toàn diện các năng lực, và tăng thêm cấp độ kỹ năng Ngự Khí, uy lực pháp bảo, nhưng sẽ làm giảm tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50, Linh khí tối đa +40000, Tỷ lệ uy lực pháp bảo +12, Tỷ lệ tốc độ hồi phục linh khí pháp bảo -1, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +1, Tỷ lệ tiêu hao linh khí thuật pháp +1, Cấp độ Ngự Khí và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_2">
+      <DisplayName>Điện Mẫu</DisplayName>
+      <Names>Giang</Names>
+      <Desc>Hộ pháp nắm giữ sức mạnh điện chớp, thờ phụng có thể tăng toàn diện các năng lực, và tăng thêm cấp độ kỹ năng Ngự Khí, tốc độ hồi phục linh khí pháp bảo, nhưng sẽ làm giảm uy lực pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50, Linh khí tối đa +40000, Tỷ lệ uy lực pháp bảo -1, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +3, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +1, Tỷ lệ tiêu hao linh khí thuật pháp +1, Cấp độ Ngự Khí và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_3">
+      <DisplayName>Vân Đình Thần Tướng</DisplayName>
+      <Names>Thiểm</Names>
+      <Desc>Hộ pháp nắm giữ sức mạnh bố trí mây và điều khiển gió, thờ phụng có thể tăng một chút các năng lực, và tăng thêm cấp độ kỹ năng Hộ Thể, nhưng sẽ làm giảm uy lực pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo -0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.3, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Hộ Thể và giới hạn của nó +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_4">
+      <DisplayName>Ngự Lôi Thần Tướng</DisplayName>
+      <Names>Chấn</Names>
+      <Desc>Hộ pháp nắm giữ sức mạnh hóa mưa sinh sấm, thờ phụng có thể tăng một chút các năng lực, và tăng thêm cấp độ kỹ năng Hộ Thể, nhưng sẽ làm giảm tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo -0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.3, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Hộ Thể và giới hạn của nó +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_5">
+      <DisplayName>Liệt Khuyết Sứ</DisplayName>
+      <Names>Cung</Names>
+      <Desc>Một trong năm sứ giả Lôi Bộ, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và tăng thêm uy lực pháp bảo, linh khí pháp bảo, tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Tỷ lệ uy lực pháp bảo +4, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +4, Tỷ lệ linh khí tối đa pháp bảo +4).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_6">
+      <DisplayName>Phi Lịch Sứ</DisplayName>
+      <Names>Lôi</Names>
+      <Desc>Một trong năm sứ giả Lôi Bộ, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và tăng thêm uy lực pháp bảo, nhưng sẽ làm giảm cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Tỷ lệ uy lực pháp bảo +4, Hiệu ứng cộng thêm cường độ lá chắn -0.2).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_7">
+      <DisplayName>Thần Tiêu Sứ</DisplayName>
+      <Names>Huyền</Names>
+      <Desc>Một trong năm sứ giả Lôi Bộ, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và tăng thêm uy lực pháp bảo, uy lực thuật pháp, tiêu hao thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Tỷ lệ uy lực pháp bảo +3, Tỷ lệ uy lực thuật pháp +3, Tỷ lệ tiêu hao linh khí thuật pháp +3).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_8">
+      <DisplayName>Thiên Đô Sứ</DisplayName>
+      <Names>Định</Names>
+      <Desc>Một trong năm sứ giả Lôi Bộ, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và tăng thêm cấp độ kỹ năng Ngự Khí, cấp độ kỹ năng Thuật Pháp, cấp độ kỹ năng Hộ Thể (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Cấp độ Ngự Khí và giới hạn của nó +0.5, Cấp độ Thuật Pháp và giới hạn của nó +0.5, Cấp độ Hộ Thể và giới hạn của nó +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_LeiBu_9">
+      <DisplayName>Ngọc Xu Sứ</DisplayName>
+      <Names>Trụ</Names>
+      <Desc>Một trong năm sứ giả Lôi Bộ, thờ phụng có thể tăng mạnh tuổi thọ và linh khí tối đa (Giá trị cơ bản của hiệu ứng: Thọ nguyên +80, Linh khí tối đa +80000), và học được thần thông: Quy Nhất Quan.</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_1">
+      <DisplayName>Thiên Nhân</DisplayName>
+      <Names>Đế</Names>
+      <Desc>Thủ lĩnh của Bát Bộ Chúng, thờ phụng có thể tăng mạnh toàn diện tất cả các năng lực (Giá trị cơ bản của hiệu ứng: Tăng mỗi chiều trong ngũ duy nửa thành, Thọ nguyên +80, Linh khí tối đa +60000, Tỷ lệ uy lực pháp bảo +3, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +3, Tỷ lệ linh khí tối đa pháp bảo +3, Hiệu ứng cộng thêm cường độ lá chắn +0.3, Tỷ lệ uy lực thuật pháp +3, Tỷ lệ tiêu hao linh khí thuật pháp +3), và học được thần thông: Thần Tâm Quan.</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_2">
+      <DisplayName>Long Vương</DisplayName>
+      <Names>Long</Names>
+      <Desc>Trong Bát Bộ Chúng, là vua của chúng sinh biển cả, thờ phụng có thể tăng một chút tất cả các năng lực, học được thuật pháp: Ngự Long Khiếu, và tăng thêm cấp độ kỹ năng thuật pháp, uy lực thuật pháp, nhưng sẽ tăng gấp đôi tiêu hao thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +10, Tỷ lệ tiêu hao linh khí thuật pháp +20, Cấp độ Thuật Pháp và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_3">
+      <DisplayName>Dạ Xoa</DisplayName>
+      <Names>La</Names>
+      <Desc>Trong Bát Bộ Chúng, là vua hộ pháp đại diện cho sự nhanh nhẹn và bí ẩn, thờ phụng có thể tăng một chút các năng lực, học được thuật pháp: Dạ Xoa Huyết Chú, và tăng thêm uy lực thuật pháp, tiêu hao thuật pháp, giảm thời gian ngâm xướng thuật pháp, thời gian điều tức (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +3, Tỷ lệ tiêu hao linh khí thuật pháp -1, Tỷ lệ thời gian ngâm xướng thuật pháp -0.05).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_4">
+      <DisplayName>Càn Thát Bà</DisplayName>
+      <Names>Huyễn</Names>
+      <Desc>Trong Bát Bộ Chúng, là hộ pháp đại diện cho sự phiêu diêu biến hóa, thờ phụng có thể tăng một chút các năng lực, và tăng thêm tốc độ hồi phục linh khí pháp bảo, giảm tiêu hao linh khí thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +2.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp -1).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_5">
+      <DisplayName>A Tu La</DisplayName>
+      <Names>Ma</Names>
+      <Desc>Trong Bát Bộ Chúng, là hộ pháp đại diện cho sự sát lục ác niệm, thờ phụng có thể tăng một chút các năng lực, học được thuật pháp: Tu La Kiếm, và tăng thêm cấp độ kỹ năng chiến đấu, cấp độ kỹ năng Ngự Khí, cấp độ kỹ năng Thuật Pháp, cấp độ kỹ năng Hộ Thể (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Ngự Khí và giới hạn của nó +1, Cấp độ Thuật Pháp và giới hạn của nó +1, Cấp độ Hộ Thể và giới hạn của nó +1, Cấp độ Chiến Đấu và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_6">
+      <DisplayName>Ca Lâu La</DisplayName>
+      <Names>Bằng</Names>
+      <Desc>Trong Bát Bộ Chúng, là hộ pháp đại diện cho sự uy nghiêm thần thánh, thờ phụng có thể tăng một chút các năng lực, và tăng thêm tốc độ Ngự Khí phi hành, tốc độ pháp bảo, tốc độ quay đầu pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Tỷ lệ tốc độ phi hành lịch luyện +1, Hiệu ứng cộng thêm tốc độ phi hành pháp bảo +0.5, Hiệu ứng cộng thêm tốc độ quay đầu pháp bảo +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_7">
+      <DisplayName>Khẩn Na La</DisplayName>
+      <Names>Nhạc</Names>
+      <Desc>Trong Bát Bộ Chúng, là hộ pháp đại diện cho sự tươi đẹp và yên tĩnh, thờ phụng có thể tăng một chút các năng lực, học được thuật pháp: Ninh Tĩnh, và tăng thêm mị lực, tuổi thọ, linh khí tối đa (Giá trị cơ bản của hiệu ứng: Thọ nguyên +150, Linh khí tối đa +70000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_BaBuZhong_8">
+      <DisplayName>Ma Hô La Già</DisplayName>
+      <Names>Kiếp</Names>
+      <Desc>Trong Bát Bộ Chúng, là vua của chúng sinh trên mặt đất, thờ phụng có thể tăng một chút các năng lực, nhận được thần thông: Quy Nhất Quan, và tăng thêm cấp độ kỹ năng lá chắn, cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.4, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Hộ Thể và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_1">
+      <DisplayName>Thông U Phán Quan</DisplayName>
+      <Names>Lý</Names>
+      <Desc>Hộ pháp nắm giữ sinh tử của thế giới U Minh, thờ phụng có thể tăng tất cả các năng lực, và nhận được thần thông: Âm Dương Nghịch Chuyển, tăng thêm cấp độ kỹ năng Hộ Ngự, linh khí tối đa (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50, Linh khí tối đa +100000, Tỷ lệ uy lực pháp bảo +1, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +1, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +1, Tỷ lệ tiêu hao linh khí thuật pháp +1, Cấp độ Hộ Thể và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_2">
+      <DisplayName>Hắc Y Vô Thường</DisplayName>
+      <Names>Phạm</Names>
+      <Desc>Sứ giả câu hồn của thế giới U Minh, thờ phụng có thể tăng một chút tất cả các năng lực, học được thuật pháp: Vô Thường Chi Hộ, và tăng thêm cấp độ kỹ năng Ngự Khí, uy lực pháp bảo, linh khí pháp bảo, tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +5, Tỷ lệ linh khí tối đa pháp bảo +5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Ngự Khí và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_3">
+      <DisplayName>Bạch Bào Vô Thường</DisplayName>
+      <Names>Tạ</Names>
+      <Desc>Sứ giả câu hồn của thế giới U Minh, thờ phụng có thể tăng một chút tất cả các năng lực, và tăng thêm cấp độ kỹ năng Thuật Pháp, uy lực thuật pháp, tiêu hao thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.05, Tỷ lệ uy lực thuật pháp +5, Tỷ lệ tiêu hao linh khí thuật pháp +5, Cấp độ Thuật Pháp và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_4">
+      <DisplayName>Ngưu Đầu U Sứ</DisplayName>
+      <Names>Ngưu</Names>
+      <Desc>Người tuần tra của thế giới U Minh, thờ phụng có thể tăng một chút tất cả các năng lực, và tăng thêm cường độ lá chắn, uy lực pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +3, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.4, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_5">
+      <DisplayName>Mã Diện Quỷ Tướng</DisplayName>
+      <Names>Mã</Names>
+      <Desc>Người tuần tra của thế giới U Minh, thờ phụng có thể tăng một chút tất cả các năng lực, và tăng thêm cường độ lá chắn, uy lực thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.4, Tỷ lệ uy lực thuật pháp +3, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_6">
+      <DisplayName>Dẫn Độ Nhân</DisplayName>
+      <Names>Mạnh</Names>
+      <Desc>Người dẫn độ của sông Minh Hà thế giới U Minh, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và nhận thêm thần thông: Hoàn Hồn Thuật, tăng thêm uy lực pháp bảo, uy lực thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Tỷ lệ uy lực pháp bảo +4, Tỷ lệ uy lực thuật pháp +4).</Desc>
+    </Text>
+    <Text Name="Guard_YouMing_7">
+      <DisplayName>Âm Sơn Vệ</DisplayName>
+      <Names>Hà</Names>
+      <Desc>Người bảo vệ Âm Sơn của thế giới U Minh, thờ phụng có thể tăng tuổi thọ và linh khí tối đa, và tăng thêm cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +20, Linh khí tối đa +20000, Hiệu ứng cộng thêm cường độ lá chắn +0.5), và nhận thêm thần thông: Quy Nhất Quan.</Desc>
+    </Text>
+    <Text Name="Guard_Other_1">
+      <DisplayName>Tham Lang Tinh</DisplayName>
+      <Names>Lục</Names>
+      <Desc>Linh của Tinh Túc, cực kỳ hung dữ, thờ phụng sẽ tăng tất cả các năng lực, và tăng thêm uy lực pháp bảo, uy lực pháp thuật, nhưng sẽ giảm mạnh tuổi thọ (Giá trị cơ bản của hiệu ứng: Thọ nguyên -100, Linh khí tối đa +40000, Tỷ lệ uy lực pháp bảo +9, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +1, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +9, Tỷ lệ tiêu hao linh khí thuật pháp +9).</Desc>
+    </Text>
+    <Text Name="Guard_Other_2">
+      <DisplayName>Thất Sát Tinh</DisplayName>
+      <Names>Sát</Names>
+      <Desc>Linh của Tinh Túc, cực kỳ hung dữ, thờ phụng sẽ tăng tất cả các năng lực, và tăng thêm uy lực pháp bảo, uy lực pháp thuật, nhưng sẽ giảm mạnh giới hạn linh khí (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50, Linh khí tối đa -80000, Tỷ lệ uy lực pháp bảo +9, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +1, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +9, Tỷ lệ tiêu hao linh khí thuật pháp +9).</Desc>
+    </Text>
+    <Text Name="Guard_Other_3">
+      <DisplayName>Phá Quân Tinh</DisplayName>
+      <Names>Quân</Names>
+      <Desc>Linh của Tinh Túc, cực kỳ hung dữ, thờ phụng sẽ tăng tất cả các năng lực, và tăng thêm uy lực pháp bảo, uy lực pháp thuật, nhưng sẽ giảm mạnh cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50, Linh khí tối đa +40000, Tỷ lệ uy lực pháp bảo +9, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +1, Tỷ lệ linh khí tối đa pháp bảo +1, Hiệu ứng cộng thêm cường độ lá chắn -0.8, Tỷ lệ uy lực thuật pháp +9, Tỷ lệ tiêu hao linh khí thuật pháp +9).</Desc>
+    </Text>
+    <Text Name="Guard_Other_4">
+      <DisplayName>Xích Linh</DisplayName>
+      <Names>Xích</Names>
+      <Desc>Hộ pháp Ngũ Phương Ngũ Hành thượng cổ, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm cấp độ kỹ năng pháp thuật, uy lực pháp thuật (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +4, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Thuật Pháp và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Other_5">
+      <DisplayName>Bạch Linh</DisplayName>
+      <Names>Bạch</Names>
+      <Desc>Hộ pháp Ngũ Phương Ngũ Hành thượng cổ, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm cấp độ kỹ năng pháp bảo, uy lực pháp bảo, giới hạn linh khí pháp bảo, tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +4, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +4, Tỷ lệ linh khí tối đa pháp bảo +4, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Ngự Khí và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Other_6">
+      <DisplayName>Hoàng Linh</DisplayName>
+      <Names>Cơ</Names>
+      <Desc>Hộ pháp Ngũ Phương Ngũ Hành thượng cổ, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm cấp độ kỹ năng Hộ Thể, cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.4, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Cấp độ Hộ Thể và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Other_7">
+      <DisplayName>Hắc Linh</DisplayName>
+      <Names>Chấp</Names>
+      <Desc>Hộ pháp Ngũ Phương Ngũ Hành thượng cổ, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm Khí cảm (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Khí cảm +1).</Desc>
+    </Text>
+    <Text Name="Guard_Other_8">
+      <DisplayName>Thanh Linh</DisplayName>
+      <Names>Linh</Names>
+      <Desc>Hộ pháp Ngũ Phương Ngũ Hành thượng cổ, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm linh khí tối đa (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +80000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Other_9">
+      <DisplayName>Hải Linh</DisplayName>
+      <Names>Uông</Names>
+      <Desc>Hộ pháp không rõ truyền thừa từ Thần đạo nào, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm uy lực thuật pháp (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +6, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Other_10">
+      <DisplayName>Sơn Linh</DisplayName>
+      <Names>Thái</Names>
+      <Desc>Linh hộ pháp của sơn mạch, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.4, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Other_11">
+      <DisplayName>Hoa Linh</DisplayName>
+      <Names>Hương</Names>
+      <Desc>Linh hộ pháp của trăm hoa, thờ phụng sẽ tăng một chút tất cả các năng lực, học được thuật pháp: Vạn Hoa Chú, và tăng thêm linh khí tối đa (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +60000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Other_12">
+      <DisplayName>Cự Linh</DisplayName>
+      <Names>Sùng</Names>
+      <Desc>Hộ pháp mang trong mình sức mạnh cực lớn, thờ phụng sẽ tăng một chút tất cả các năng lực, và tăng thêm khả năng đẩy lùi pháp bảo, khả năng kháng đẩy lùi pháp bảo (Giá trị cơ bản của hiệu ứng: Thọ nguyên +30, Linh khí tối đa +30000, Tỷ lệ uy lực pháp bảo +0.5, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +0.5, Tỷ lệ linh khí tối đa pháp bảo +0.5, Hiệu ứng cộng thêm cường độ lá chắn +0.1, Tỷ lệ uy lực thuật pháp +0.5, Tỷ lệ tiêu hao linh khí thuật pháp +0.5, Tỷ lệ kháng cự khoảng cách đẩy lùi pháp bảo +1, Tỷ lệ khoảng cách đẩy lùi pháp bảo +1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_1">
+      <DisplayName>Kim Tinh</DisplayName>
+      <Names>Nhẫn</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng pháp bảo, uy lực pháp bảo, giới hạn linh khí pháp bảo, tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ uy lực pháp bảo +3, Tỷ lệ tốc độ hồi phục linh khí pháp bảo +3, Tỷ lệ linh khí tối đa pháp bảo +3, Cấp độ Ngự Khí và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_2">
+      <DisplayName>Mộc Tinh</DisplayName>
+      <Names>Diệp</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng linh khí tối đa (Giá trị cơ bản của hiệu ứng: Linh khí tối đa +25000).</Desc>
+    </Text>
+    <Text Name="Guard_Base_3">
+      <DisplayName>Thủy Tinh</DisplayName>
+      <Names>Lưu</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng Khí cảm (Giá trị cơ bản của hiệu ứng: Khí cảm +1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_4">
+      <DisplayName>Hỏa Tinh</DisplayName>
+      <Names>Diễm</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng pháp thuật, uy lực pháp thuật (Giá trị cơ bản của hiệu ứng: Tỷ lệ uy lực thuật pháp +3, Tỷ lệ tiêu hao linh khí thuật pháp +3, Cấp độ Thuật Pháp và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_5">
+      <DisplayName>Thổ Tinh</DisplayName>
+      <Names>Trần</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng Hộ Thể, cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Hiệu ứng cộng thêm cường độ lá chắn +0.3, Cấp độ Hộ Thể và giới hạn của nó +1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_6">
+      <DisplayName>Thổ Sát</DisplayName>
+      <Names>Tham</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng tuổi thọ (Giá trị cơ bản của hiệu ứng: Thọ nguyên +50).</Desc>
+    </Text>
+    <Text Name="Guard_Base_7">
+      <DisplayName>Mộc Sát</DisplayName>
+      <Names>Linh</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng giá trị linh khí tối đa (Giá trị cơ bản của hiệu ứng: Linh khí tối đa +40000).</Desc>
+    </Text>
+    <Text Name="Guard_Base_8">
+      <DisplayName>Kim Sát</DisplayName>
+      <Names>Diệt</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng uy lực pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ uy lực pháp bảo +6).</Desc>
+    </Text>
+    <Text Name="Guard_Base_9">
+      <DisplayName>Hồ Tinh</DisplayName>
+      <Names>Vu</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng tốc độ hồi phục linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ tốc độ hồi phục linh khí pháp bảo +6).</Desc>
+    </Text>
+    <Text Name="Guard_Base_10">
+      <DisplayName>Tinh Tinh</DisplayName>
+      <Names>Minh</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng linh khí pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ linh khí tối đa pháp bảo +6).</Desc>
+    </Text>
+    <Text Name="Guard_Base_11">
+      <DisplayName>Nham Tinh</DisplayName>
+      <Names>Hậu</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cường độ lá chắn (Giá trị cơ bản của hiệu ứng: Hiệu ứng cộng thêm cường độ lá chắn +0.4).</Desc>
+    </Text>
+    <Text Name="Guard_Base_12">
+      <DisplayName>Hỏa Sát</DisplayName>
+      <Names>Sí</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng sát thương pháp thuật (Giá trị cơ bản của hiệu ứng: Tỷ lệ uy lực thuật pháp +6, Tỷ lệ tiêu hao linh khí thuật pháp +6).</Desc>
+    </Text>
+    <Text Name="Guard_Base_13">
+      <DisplayName>Thủy Sát</DisplayName>
+      <Names>Quyết</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể giảm tiêu hao pháp thuật (Giá trị cơ bản của hiệu ứng: Tỷ lệ tiêu hao linh khí thuật pháp -2).</Desc>
+    </Text>
+    <Text Name="Guard_Base_14">
+      <DisplayName>Phong Tinh</DisplayName>
+      <Names>Khiếu</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng tốc độ phi hành của pháp thuật và pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ tốc độ phi hành pháp bảo +0.3).</Desc>
+    </Text>
+    <Text Name="Guard_Base_15">
+      <DisplayName>Phong Sát</DisplayName>
+      <Names>Minh</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng tốc độ quay đầu pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ tốc độ quay đầu pháp bảo +0.3).</Desc>
+    </Text>
+    <Text Name="Guard_Base_16">
+      <DisplayName>Nham Sát</DisplayName>
+      <Names>Chấp</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng khoảng cách đẩy lùi pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ khoảng cách đẩy lùi pháp bảo +0.4).</Desc>
+    </Text>
+    <Text Name="Guard_Base_17">
+      <DisplayName>Nhẫn Sát</DisplayName>
+      <Names>Kiên</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng khả năng kháng đẩy lùi pháp bảo (Giá trị cơ bản của hiệu ứng: Tỷ lệ kháng cự khoảng cách đẩy lùi pháp bảo +0.4).</Desc>
+    </Text>
+    <Text Name="Guard_Base_18">
+      <DisplayName>Mộc Cương</DisplayName>
+      <Names>Diệp</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể giảm thời gian ngâm xướng pháp thuật (Giá trị cơ bản của hiệu ứng: Tỷ lệ thời gian ngâm xướng thuật pháp -0.05).</Desc>
+    </Text>
+    <Text Name="Guard_Base_19">
+      <DisplayName>Thủy Cương</DisplayName>
+      <Names>Ba</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể giảm tiêu hao pháp thuật (Giá trị cơ bản của hiệu ứng: Tỷ lệ tiêu hao linh khí thuật pháp -1).</Desc>
+    </Text>
+    <Text Name="Guard_Base_20">
+      <DisplayName>Kim Cương</DisplayName>
+      <Names>Đồng</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng Ngự Khí (Giá trị cơ bản của hiệu ứng: Cấp độ Ngự Khí và giới hạn của nó +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Base_21">
+      <DisplayName>Hỏa Cương</DisplayName>
+      <Names>Diễm</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng Thuật Pháp (Giá trị cơ bản của hiệu ứng: Cấp độ Thuật Pháp và giới hạn của nó +0.5).</Desc>
+    </Text>
+    <Text Name="Guard_Base_22">
+      <DisplayName>Thổ Cương</DisplayName>
+      <Names>Mạch</Names>
+      <Desc>Hộ pháp vô chủ có thể thấy khắp nơi trong trời đất. Thờ phụng hộ pháp này có thể tăng cấp độ kỹ năng Hộ Thể (Giá trị cơ bản của hiệu ứng: Cấp độ Hộ Thể và giới hạn của nó +0.5).</Desc>
+    </Text>
+  </List>
+</Texts>
