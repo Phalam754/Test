@@ -1,0 +1,29 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="Ls_School_Panda">
+      <DisplayName>Tiên Giới Đại Sử</DisplayName>
+      <Desc>Mạch Tiên Tiên cố gắng cải thiện [SCHOOL] Cùng ta phái quan hệ</Desc>
+      <Selections.0.Display>Tốt</Selections.0.Display>
+    </Text>
+    <Text Name="Ls_FindPanda">
+      <DisplayName>Thiên Mạch Ngọc Bội</DisplayName>
+      <Desc>Nghe nói rừng trúc lớn chỗ sâu có cái kỳ diệu ngọc bội, một nửa đen một nửa bạch, rất như là trong truyền thuyết trời mạch di vật.</Desc>
+      <Selections.0.Display>Cẩn thận tìm kiếm</Selections.0.Display>
+    </Text>
+    <Text Name="Ls_CallPanda">
+      <DisplayName>Phá Phôi</DisplayName>
+      <Desc>Ngọc này bên trong ẩn chứa hai loại khí tức, một âm một dương, bọn chúng đan vào lẫn nhau, có một tia cổ phác lại có một tia hoạt bát.</Desc>
+      <Selections.0.Display>Phá Phôi</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_Fish">
+      <DisplayName>Thùy Điếu Cảm Ngộ</DisplayName>
+      <Desc>[NAME] Linh quang lóe lên!</Desc>
+      <Selections.0.Display>Có chỗ lĩnh ngộ</Selections.0.Display>
+    </Text>
+    <Text Name="Little_Panda">
+      <DisplayName>Thiên Mạch Tu Tu</DisplayName>
+      <Desc>Một cái khác trời mạch xây một chút nghe được Tiên Tiên kêu gọi, cũng tới đến nơi này!</Desc>
+      <Selections.0.Display>Hoan nghênh</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>
