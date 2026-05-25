@@ -1,0 +1,252 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NI_FSZhenWu">
+      <DisplayName>Nghịch - Trấn Vật Thông Linh</DisplayName>
+      <Desc>Trong phòng phong thuỷ trấn vật xung đột, nhân vật thụ ảnh hưởng, năng lực thu hoạch được suy yếu.</Desc>
+    </Text>
+    <Text Name="SHUN_FSZhenWu">
+      <DisplayName>Thuận - Trấn Vật Thông Linh</DisplayName>
+      <Desc>Trong phòng phong thuỷ trấn vật có hiệu lực, nhân vật thụ ảnh hưởng, năng lực thu hoạch được tăng cường.</Desc>
+    </Text>
+    <Text Name="FSZhenWu_1">
+      <DisplayName>Toàn Cục Công Tác Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_2">
+      <DisplayName>Trị Liệu Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_3">
+      <DisplayName>Trị Liệu Hiệu Quả Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_4">
+      <DisplayName>Phanh Nhẫm Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_5">
+      <DisplayName>Đồ Tể Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_6">
+      <DisplayName>Đồ Tể Sản Lượng Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_7">
+      <DisplayName>Thạch Liêu Gia Công Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_8">
+      <DisplayName>Kiến Trúc Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_9">
+      <DisplayName>Chủng Thực Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_10">
+      <DisplayName>Thu Hoạch Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_11">
+      <DisplayName>Thu Hoạch Sản Lượng Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_12">
+      <DisplayName>Thải Quật Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_13">
+      <DisplayName>Thải Quật Sản Lượng Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_14">
+      <DisplayName>Chế Tác Phẩm Chất Gia Trị Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_15">
+      <DisplayName>Đoán Tạo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_16">
+      <DisplayName>Thủ Công Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_17">
+      <DisplayName>Phùng Nhân Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_18">
+      <DisplayName>Cát Trừ Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_19">
+      <DisplayName>Cứu Tai Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_20">
+      <DisplayName>Thanh Khiết Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_21">
+      <DisplayName>Tâm Tình Cơ Sở Trị Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_22">
+      <DisplayName>Di Động Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_23">
+      <DisplayName>Tối Đê Cực Hạn Ôn Độ Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_24">
+      <DisplayName>Tối Cao Cực Hạn Ôn Độ Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_25">
+      <DisplayName>Tự Nhiên Khôi Phục Lực Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_26">
+      <DisplayName>Đông Thống Cực Hạn Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_27">
+      <DisplayName>Học Tập Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_28">
+      <DisplayName>Ngạc Mộng Phát Sinh Kỷ Suất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_29">
+      <DisplayName>Mỹ Mộng Phát Sinh Kỷ Suất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_30">
+      <DisplayName>Tinh Lực Tiêu Háo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_31">
+      <DisplayName>Tinh Lực Bổ Sung Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_32">
+      <DisplayName>Thực Vật Tiêu Háo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_33">
+      <DisplayName>Thực Vật Tiêu Háo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_34">
+      <DisplayName>Thực Vật Bổ Sung Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_35">
+      <DisplayName>Ẩm Thủy Tiêu Háo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_36">
+      <DisplayName>Ẩm Thủy Bổ Sung Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_37">
+      <DisplayName>Ngu Nhạc Tiêu Háo Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_38">
+      <DisplayName>Ngu Nhạc Bổ Sung Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_39">
+      <DisplayName>Tinh Nguyên Luyện Hóa Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_40">
+      <Desc>Tinh Nguyên Bổ Sung Gia Thành</Desc>
+    </Text>
+    <Text Name="FSZhenWu_41">
+      <DisplayName>Tiềm Lực Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_42">
+      <DisplayName>Tu Luyện Tốc Độ Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_43">
+      <DisplayName>Tâm Cảnh Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_44">
+      <DisplayName>Lĩnh Ngộ Phát Sinh Kỷ Suất Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_45">
+      <DisplayName>Pháp Bảo Luyện Chế Tốc Độ Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_46">
+      <DisplayName>Pháp Bảo Luyện Chế Thành Công Suất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_47">
+      <DisplayName>Pháp Bảo Luyện Chế Phẩm Giai Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_48">
+      <DisplayName>Pháp Bảo Luyện Chế Phẩm Chất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_49">
+      <DisplayName>Thần Khí Luyện Thành Kỷ Suất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_50">
+      <DisplayName>Đan Dược Luyện Chế Tốc Độ Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_51">
+      <DisplayName>Đan Dược Luyện Chế Thành Công Suất Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_52">
+      <DisplayName>Đan Dược Luyện Chế Sản Lượng Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_53">
+      <DisplayName>Bình Cảnh Đột Phá Khái Suất Gia Thành</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_54">
+      <DisplayName>Đạo Hành Gia Trị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_55">
+      <DisplayName>Chiến Đấu Mệnh Trung</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_56">
+      <DisplayName>Chiến Đấu Thiểm Tị</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_57">
+      <DisplayName>Thần Thức</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_58">
+      <DisplayName>Căn Cốt</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_59">
+      <DisplayName>Mị Lực</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_60">
+      <DisplayName>Ngộ Tính</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_61">
+      <DisplayName>Cơ Duyên</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_62">
+      <DisplayName>Ngũ Duy</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1a">
+      <DisplayName>Đạo Đức Ấn</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1b">
+      <DisplayName>Nguyên Thủy Ấn</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1c">
+      <DisplayName>Linh Bảo Ấn</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_2">
+      <DisplayName>Thiên Công Tháp</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_3">
+      <DisplayName>Vạn Linh Tháp</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_4">
+      <DisplayName>Hối Âm Bình</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_5">
+      <DisplayName>Thập Châu Đỉnh</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_6">
+      <DisplayName>Vô Tự Linh Bi</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_7">
+      <DisplayName>Tịch Tà Sư Tử</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_8">
+      <DisplayName>Bất Chu Nguyên Thạch</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_9">
+      <DisplayName>Tam Tài Âm Dương Bảng</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_10">
+      <DisplayName>Quần Tiên Lục</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_11">
+      <DisplayName>Tiên Cơ Phổ</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_12">
+      <DisplayName>Tỏa Âm Phù</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_13">
+      <DisplayName>Linh Bảo Kiếm</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_14">
+      <DisplayName>Đâu Suất Hồ Lô</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_15">
+      <DisplayName>Xích Long Chi Căn</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_16">
+      <DisplayName>Tuệ Quang</DisplayName>
+    </Text>
+  </List>
+</Texts>
