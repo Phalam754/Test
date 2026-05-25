@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_BambooLeftover" sParam="Item">
+      <ThingName>Trúc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp trúc mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Trúc</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
