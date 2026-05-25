@@ -1,0 +1,50 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="GodStory_1">
+      <DisplayName>Truyện Đạo</DisplayName>
+      <Desc>[NAME] Tại du lịch thời điểm ven đường truyền đạo, cũng đối tao ngộ khốn khổ phàm nhân làm viện thủ.</Desc>
+      <Selections.0.Display>Biết</Selections.0.Display>
+    </Text>
+    <Text Name="GodStory_2">
+      <DisplayName>Truyện Đạo</DisplayName>
+      <Desc>[NAME] Tại [PLACE] Du lịch thời điểm gặp được một chút phàm nhân tao ngộ khốn cảnh, liền đối với làm viện thủ.</Desc>
+      <Selections.0.Display>Biết</Selections.0.Display>
+    </Text>
+    <Text Name="Secrets_GodStory_1">
+      <DisplayName>Phàm Nhân Chiến Tranh</DisplayName>
+      <Desc>[NAME] Đuổi tới [PLACE], phát hiện chiến hỏa chính đốt, nơi đây bách tính chịu đủ chiến tranh nỗi khổ.</Desc>
+      <Selections.0.Display>Khuyên ngưng chiến tranh</Selections.0.Display>
+      <Selections.1.Display>Lôi đình trấn áp</Selections.1.Display>
+      <Selections.1.Tip>Kim Đan kỳ</Selections.1.Tip>
+      <Selections.2.Display>Ly Khai</Selections.2.Display>
+    </Text>
+    <Text Name="Secrets_GodStory_2">
+      <DisplayName>Ôn Dịch Tứ Ngược</DisplayName>
+      <Desc>[NAME] Đuổi tới [PLACE], phát hiện nơi đây ôn dịch đã càng diễn càng liệt, đã có mấy cái thôn xóm chó gà không tha.</Desc>
+      <Selections.0.Display>Kiên nhẫn chữa trị</Selections.0.Display>
+      <Selections.0.Tip>Kim Đan kỳ</Selections.0.Tip>
+      <Selections.1.Display>Cách ly diệt sát</Selections.1.Display>
+      <Selections.2.Display>Ly Khai</Selections.2.Display>
+    </Text>
+    <Text Name="Secrets_GodStory_3">
+      <DisplayName>Yêu Tà Loạn Thế</DisplayName>
+      <Desc>[NAME] Đuổi tới [PLACE], đang phát hiện nơi đây yêu khí tràn ngập, phụ cận bách tính lòng người bàng hoàng, tràn ngập bất an.</Desc>
+      <Selections.0.Display>Thiết kế trừ yêu</Selections.0.Display>
+      <Selections.1.Display>Lôi Đình Trảm giết</Selections.1.Display>
+      <Selections.1.Tip>Kim Đan kỳ</Selections.1.Tip>
+      <Selections.2.Display>Ly Khai</Selections.2.Display>
+    </Text>
+    <Text Name="Secrets_GodStory_4">
+      <DisplayName>Thiên Tai Đột Phát</DisplayName>
+      <Desc>[NAME] Đuổi tới [PLACE] Lúc, phát hiện nơi đây dân chúng tử thương thảm trọng, chính bối rối tránh né tai hoạ.</Desc>
+      <Selections.0.Display>Cứu tế tế dân</Selections.0.Display>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="Secrets_GodStory_Gong_God_1">
+      <DisplayName>Thất Truyện Chi Pháp</DisplayName>
+      <Desc>[NAME] Đi vào người đại diện nói tới ngọn núi kia khe, chỉ gặp nơi đây lôi quang ẩn ẩn, nhưng lại không giống với đương thời truyền lại chi lôi pháp, tựa hồ có một ít không tầm thường chi vật.</Desc>
+      <Selections.0.Display>Nhập khe xem xét</Selections.0.Display>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+  </List>
+</Texts>
