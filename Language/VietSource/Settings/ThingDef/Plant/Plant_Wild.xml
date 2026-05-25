@@ -1,0 +1,36 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Grass" sParam="Plant">
+      <ThingName>Cỏ dại</ThingName>
+      <Desc>Cỏ dại. Nhiệt độ: -30℃~60℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="IceGrass" sParam="Plant">
+      <ThingName>Băng thảo</ThingName>
+      <Desc>Loại cỏ dại sinh trưởng trên vùng băng nguyên. Nhiệt độ: -30℃~60℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Reed" sParam="Plant">
+      <ThingName>Cây sậy</ThingName>
+      <Desc>Loại cây mọc ven sông, hình dáng đẹp mắt. Nhiệt độ: -10℃~40℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="LongGrass" sParam="Plant">
+      <ThingName>Cỏ dài</ThingName>
+      <Desc>Cỏ dại. Nhiệt độ: -10℃~40℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Raspberry" sParam="Plant">
+      <ThingName>Long Tiễn Quả</ThingName>
+      <Desc>Một loại quả dại được Long Tiễn tưới tiêu, quả có linh dị đặc biệt, sau khi ăn có thể không đói không mệt trong vòng nửa ngày. Tuy nhiên, sau khi hái sẽ nhanh chóng bị thối rữa. Nhiệt độ: -10℃~40℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Lotus" sParam="Plant">
+      <ThingName>Cây sen</ThingName>
+      <Desc>Một loại thực vật thủy sinh, hình dáng xinh đẹp. Phần rễ có thể ăn được. Nhiệt độ: -10℃~40℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="LittleRock" sParam="Plant">
+      <ThingName>Đá nhỏ</ThingName>
+      <Desc>Những tảng đá nhỏ nằm rải rác trên mặt đất.</Desc>
+    </Text>
+    <Text Name="IceLittleRock" sParam="Plant">
+      <ThingName>Băng nham</ThingName>
+      <Desc>Những tảng đá nhỏ nằm rải rác trên mặt đất.</Desc>
+    </Text>
+  </List>
+</Texts>
