@@ -1,0 +1,3 @@
+﻿ID	Name	Desc	Gong	GrandMaster
+499后不可用	门派名字	介绍	门派功法 随便填 没实体	祖师
+13	Võ Đương Phái	Trên biển Đông, một tòa phiêu miểu tiên sơn đột nhiên tại tu hành giới lộ ra tiên tung. Chợt có tu sĩ nhập trong đó thăm dò, lại phát hiện nơi đây lại là một chỗ sớm đã thất lạc vô phương tiên cảnh, trong đó ẩn cư có một phái tị thế đạo môn! Này trong phái đạo thống không thể coi thường, vì Chân Vũ chi đích truyền; Nó môn hạ đệ tử nói truyền huyền diệu, đến đãng ma chi tinh nghĩa. Này tiên cảnh tên là: Núi Võ Đang!	Huyền Thiên Chân Võ Lưỡng Nghi Diệu Đạo	Chân Vũ Đại Đế
