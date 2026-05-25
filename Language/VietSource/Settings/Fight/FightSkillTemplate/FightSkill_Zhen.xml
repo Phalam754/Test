@@ -1,0 +1,90 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="ChangeZhen">
+      <DisplayName>Biến Trận</DisplayName>
+      <Tip>Biến động trận pháp, che giấu bị bại lộ trận nhãn</Tip>
+    </Text>
+    <Text Name="CancelZhen">
+      <DisplayName>Thủ Tiêu Trận Pháp</DisplayName>
+      <Tip>Hủy bỏ trận pháp, hủy bỏ trận pháp về sau trong một khoảng thời gian không thể kết trận</Tip>
+    </Text>
+    <Text Name="JointJian">
+      <DisplayName>Pháp Bảo Hợp Kích</DisplayName>
+      <Tip>Đám người tiêu hao linh khí hợp lực thao túng chủ trận người pháp bảo, vì đó một lần nữa quán chú linh khí, trên diện rộng đề cao pháp bảo uy lực, tăng lên biên độ cùng trận pháp ngự kiếm uy lực tăng thêm có quan hệ. Rót vào linh khí lúc từ trận pháp tất cả mọi người đồng đều bày.</Tip>
+    </Text>
+    <Text Name="JointSkill">
+      <DisplayName>Pháp Thuật Hợp Kích</DisplayName>
+      <Tip>Đám người tiêu hao linh khí, hợp lực trợ giúp chủ trận người phóng thích kế tiếp pháp thuật, tăng cường uy lực của nó. Tăng lên biên độ cùng trận pháp uy lực pháp thuật tăng thêm có quan hệ. Tiêu hao linh khí lúc từ trận pháp tất cả mọi người đồng đều bày.</Tip>
+    </Text>
+    <Text Name="ZhenTempAura">
+      <DisplayName>Gia Nhiệt</DisplayName>
+    </Text>
+    <Text Name="ZhenModifyArea">
+      <DisplayName>Biến Đại</DisplayName>
+    </Text>
+    <Text Name="ZhenShield">
+      <DisplayName>Khai Thuẫn</DisplayName>
+    </Text>
+    <Text Name="TransLing">
+      <DisplayName>Linh Khí Chuyển Di</DisplayName>
+    </Text>
+    <Text Name="Reducetability">
+      <DisplayName>Hàng Đê Ổn Định Độ</DisplayName>
+    </Text>
+    <Text Name="RevealZhen">
+      <DisplayName>Bạo Lộ Trận Nhãn</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Zhen_RevealZhen1">
+      <DisplayName>Diễn Hóa Tiên Thiên</DisplayName>
+      <HeadMsg>Mời lựa chọn một cái địch quân trận nhãn</HeadMsg>
+      <Tip>Lợi dụng tám môn biến hóa quy luật mục tiêu công kích trận pháp nhược điểm, khiến cho ổn định độ hạ xuống, cũng căn cứ trận pháp ổn định độ có tỉ lệ bại lộ trận nhãn</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_RevealZhen2">
+      <DisplayName>Bắc Đấu Phá Vọng</DisplayName>
+      <Tip>Đối mục tiêu địch nhân tạo thành lượng lớn linh khí tổn thương</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenShield1">
+      <DisplayName>Ngũ Phong Ngự Giới</DisplayName>
+      <Tip>Tại mục tiêu điểm triển khai một cái bán kính 5 Gạo kết giới, lấy trận pháp linh khí phòng ngự công kích</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenShield2">
+      <DisplayName>Thiên Địa Ngũ Phương Bất Diệt Giới</DisplayName>
+      <Tip>Tại mục tiêu điểm triển khai một cái bán kính 12 Gạo kết giới, lấy trận pháp linh khí phòng ngự công kích</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenArea1">
+      <DisplayName>Tiên Thiên Mộc Linh Giới</DisplayName>
+      <Tip>Tại mục tiêu điểm triển khai một cái bán kính 8 Gạo kết giới, gia tăng trong kết giới thổ nhưỡng độ phì, cũng đề cao phe bạn nhân vật tự nhiên sức khôi phục</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenArea2">
+      <DisplayName>Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh</DisplayName>
+      <Tip>Tại mục tiêu điểm triển khai một cái bán kính 8 Gạo kết giới, đề cao trong kết giới phe bạn nhân vật tâm cảnh, tâm tình, tốc độ tu luyện</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_JointJian1">
+      <DisplayName>Phượng Ngự Thần Kiếm</DisplayName>
+      <Tip>Đám người tiêu hao linh khí hợp lực thao túng chủ trận người pháp bảo, vì đó một lần nữa quán chú linh khí, trên diện rộng đề cao pháp bảo uy lực, tăng lên biên độ cùng trận pháp ngự kiếm uy lực tăng thêm có quan hệ. Rót vào linh khí lúc từ trận pháp tất cả mọi người đồng đều bày.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_JointSkill1">
+      <DisplayName>Long Ngâm Thần Chú</DisplayName>
+      <Tip>Đám người tiêu hao linh khí, hợp lực trợ giúp chủ trận người phóng thích kế tiếp pháp thuật, tăng cường uy lực của nó. Tăng lên biên độ cùng trận pháp uy lực pháp thuật tăng thêm có quan hệ. Tiêu hao linh khí lúc từ trận pháp tất cả mọi người đồng đều bày.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_Stability1">
+      <DisplayName>Long Hồn Thần Liệt Pháp</DisplayName>
+      <HeadMsg>Mời lựa chọn một cái địch quân trận nhãn</HeadMsg>
+      <Tip>Đối địch phương trận pháp tạo thành đại lượng ổn định độ tổn thương</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_Stability2">
+      <DisplayName>Niết Bàn</DisplayName>
+      <Tip>Khôi phục trận pháp ổn định độ</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhuXian">
+      <DisplayName>Tru Tiên</DisplayName>
+      <Tip>Tại ngắn ngủi trì hoãn về sau, đối mục tiêu giờ rưỡi kính 12 Gạo trong vòng địch nhân tạo thành lượng lớn linh khí tổn thương</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_BDPW_MissileBase">
+      <DisplayName>Bắc Đấu Phá Vọng Tử Đạn</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
+      <DisplayName>Tru Tiên Tử Kỹ Năng</DisplayName>
+    </Text>
+  </List>
+</Texts>
