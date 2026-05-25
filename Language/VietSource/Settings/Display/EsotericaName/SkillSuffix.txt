@@ -1,0 +1,10 @@
+﻿Tử Đạn Loại Thương Hại 1,Quyết,Chú,Chân Ngôn,Thần Lôi
+Trực Tiếp Tác Dụng Thương Hại 2,Thần Sát,Thần Cương
+Đan Thể Phi Kiếm Tăng Cường 3,Kiếm Quyết,Kiếm Độn,Kiếm
+Quần Thể Phi Kiếm Tăng Cường 4,Kiếm Trận,Kiếm Quyết,Kiếm Độn,Kiếm
+Đan Thể Thuật Pháp Tăng Cường 5,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Quần Thể Thuật Pháp Tăng Cường 6,Trận,Đại Trận,Chú Trận,Phù Trận
+Đan Thể Khôi Phục Huyết Lượng 7,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Quần Thể Khôi Phục Huyết Lượng 8,Trận,Đại Trận,Chú Trận,Phù Trận
+Đan Thể Đề Cao Hộ Thuẫn 9,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Quần Thể Đề Cao Hộ Thuẫn 10,Trận,Đại Trận,Chú Trận,Phù Trận
