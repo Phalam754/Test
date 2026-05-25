@@ -1,0 +1,136 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="sys_getnothing">
+      <DisplayName>Nhất Vô Sở Hoạch</DisplayName>
+      <Desc>Chúng ta không thể đạt được bất kỳ vật hữu dụng gì.</Desc>
+    </Text>
+    <Text Name="sys_noreaction">
+      <DisplayName>Hào Vô Phản Ứng</DisplayName>
+      <Desc>Tựa hồ không phản ứng chút nào.</Desc>
+    </Text>
+    <Text Name="sys_brokenneck">
+      <DisplayName>Đốn Ngộ</DisplayName>
+      <Desc>[NAME] Đột nhiên có rõ ràng cảm ngộ, thật lâu không có phản ứng công pháp bình cảnh bình cảnh tựa hồ có buông lỏng hiện tượng, [IT] Tranh thủ thời gian ngồi xuống.</Desc>
+    </Text>
+    <Text Name="sys_openplacelink">
+      <DisplayName>Sơ Thứ Để Đạt</DisplayName>
+      <Desc>Lần đầu tiên tới [PLACE], [NAME] Tìm người dò xét một chút xung quanh tin tức.</Desc>
+    </Text>
+    <Text Name="sys_openplace">
+      <DisplayName>Giải Tỏa Địa Điểm</DisplayName>
+      <Desc>Nhiều lần tới đến [PLACE], [NAME] Đối với chỗ này dần dần quen thuộc, phát hiện một cái thú vị chỗ.</Desc>
+    </Text>
+    <Text Name="sys_test">
+      <DisplayName>Đốn Ngộ</DisplayName>
+      <Desc>[NAME] Đột nhiên có rõ ràng cảm ngộ, thật lâu không có phản ứng công pháp bình cảnh tựa hồ có buông lỏng hiện tượng, [IT] Tranh thủ thời gian ngồi xuống.</Desc>
+    </Text>
+    <Text Name="Story_SoulSeach">
+      <DisplayName>Sưu Hồn</DisplayName>
+      <Desc>[NAME] Đối cái này di lưu người tu hành thi triển Sưu Hồn Đại Pháp, ý đồ thu hoạch được một chút tin tức hữu dụng.</Desc>
+    </Text>
+    <Text Name="Story_JiangDao">
+      <DisplayName>Hốt Hữu Sở Ngộ</DisplayName>
+      <Desc>[NAME] Đắm chìm trong huyền diệu chi đạo bên trong,</Desc>
+    </Text>
+    <Text Name="Story_TitleGold">
+      <DisplayName>Thành Đan</DisplayName>
+      <Desc>[NAME] Tu vi đạt tới Kim Đan chi cảnh, tu hành giới đồng đạo cho một cái xưng hào.</Desc>
+    </Text>
+    <Text Name="Story_TitleRandom">
+      <DisplayName>Tiệm Hữu Danh Hào</DisplayName>
+      <Desc>[NAME] Xuống núi lịch lãm, tại tu hành giới cũng dần dần truyền ra danh hào.</Desc>
+    </Text>
+    <Text Name="Story_sys_BossLong_Wish">
+      <DisplayName>Hứa Nguyện</DisplayName>
+      <Desc>Thần bí trong huyệt động ý niệm tựa hồ đặc biệt thần thông, có thể đánh đổi một số thứ đến thỉnh cầu nó làm một chút đặc thù sự tình. Nhưng nếu như không thể thỏa mãn nó đưa ra yêu cầu, cũng sẽ gọi đến phẫn nộ của nó.</Desc>
+      <Selections.0.Display>Khẩn cầu thu hoạch được bí văn</Selections.0.Display>
+      <Selections.1.Display>Khẩn cầu linh khí tràn ngập</Selections.1.Display>
+      <Selections.2.Display>Khẩn cầu bản thân tăng lên</Selections.2.Display>
+      <Selections.3.Display>Ly Khai</Selections.3.Display>
+    </Text>
+    <Text Name="Story_sys_BossLong_WishSuccess">
+      <DisplayName>Thực Hiện Nguyện Vọng</DisplayName>
+      <Desc>Thần bí hang động rất hài lòng lần này hiến tế, nó thực hiện [NAME] Khẩn cầu.</Desc>
+    </Text>
+    <Text Name="System_RobGreateBuilding">
+      <DisplayName>Đoạt Thủ Kỳ Quan</DisplayName>
+      <Desc>[NAME] Ý đồ cướp đoạt trấn phái kỳ quan bên trong ngưng tụ nhiều năm tinh hoa.</Desc>
+      <Selections.0.Display>Cướp đoạt tinh hoa</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="System_LearnGreateBuilding">
+      <DisplayName>Tham Ngộ Đại Đạo</DisplayName>
+      <Desc>Nghe đồn toà này kỳ quan bên trong ẩn chứa một loại nào đó trận pháp chi đạo, [NAME] Ý đồ lĩnh hội nên kỳ quan bên trong ẩn chứa thiên địa pháp tắc lấy lĩnh ngộ cái gì.</Desc>
+      <Selections.0.Display>Tham Ngộ Đại Đạo</Selections.0.Display>
+      <Selections.0.Tip>Cảnh giới / Ngộ tính / Cơ duyên / Trận pháp kỹ năng</Selections.0.Tip>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="System_LearnGreateBuilding_WuDang">
+      <DisplayName>Tham Ngộ Đại Đạo</DisplayName>
+      <Desc>Võ Đang Kim điện, ẩn chứa trong đó một loại huyền diệu đạo vận, tựa hồ tại hướng thăm viếng người truyền lại một loại nào đó tin tức.</Desc>
+      <Selections.0.Display>Tham Ngộ Đại Đạo</Selections.0.Display>
+      <Selections.0.Tip>Cảnh giới / Ngộ tính / Cơ duyên</Selections.0.Tip>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="System_FightMap_ZhenWuShenXiang">
+      <DisplayName>Tế Bái</DisplayName>
+      <Desc>Hướng Chân Vũ đại đế tượng thần tế bái, để cầu lấy một tia thần uy linh dẫn.</Desc>
+      <Selections.0.Display>Tế Bái</Selections.0.Display>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="System_EnterQianKunJie">
+      <DisplayName>Tiểu Càn Khôn Giới</DisplayName>
+      <Desc>Từ Thái Nhất Môn mật tàng càn khôn Linh Tinh làm hạch tâm xây thành thần kỳ kiến trúc, trong đó tự thành không gian, có thể bằng tâm niệm thu nạp lấy dùng vạn vật. Nhưng trong đó có một loại kì lạ Phong Giới ngăn trở thần niệm, mặc cho ngươi cao bao nhiêu tu vi cũng vô pháp cưỡng ép xem xét bên trong tường tình, tựa hồ ẩn giấu đi bí ẩn gì.</Desc>
+      <Selections.0.Display>Thần niệm dò xét</Selections.0.Display>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="System_EnterQianKunJie1">
+      <DisplayName>Tiểu Càn Khôn Giới</DisplayName>
+      <Desc>[NAME] Đơn giản tra xét cái này cửa vào, phát hiện Phong Giới đối diện tựa hồ là một cái mấy tận đình trệ không gian, cũng không nguy hiểm gì dấu hiệu.</Desc>
+      <Selections.0.Display>Tiến vào bên trong</Selections.0.Display>
+      <Selections.1.Display>Ly Khai</Selections.1.Display>
+    </Text>
+    <Text Name="System_FightMap_NormalTalk">
+      <DisplayName>Giao Đàm</DisplayName>
+      <Desc>Phàm nhân sinh hoạt chính là như vậy buồn tẻ, lại vui vẻ.</Desc>
+      <Selections.0.Display>Nhàn Liêu</Selections.0.Display>
+      <Selections.0.Say>Gần đây có gì chuyện mới mẻ?</Selections.0.Say>
+      <Selections.1.Display>Cáo từ</Selections.1.Display>
+    </Text>
+    <Text Name="System_FightMap_DiscipleTalk">
+      <DisplayName>Giao Đàm</DisplayName>
+      <Desc>Con đường tu hành, đi ngược dòng nước, không tiến tắc thối.........</Desc>
+      <Selections.0.Display>Hỏi ý</Selections.0.Display>
+      <Selections.0.Say>Đạo hữu, gần nhất nhưng có cái gì chuyện mới mẻ?</Selections.0.Say>
+      <Selections.1.Display>Cáo từ</Selections.1.Display>
+    </Text>
+    <Text Name="System_Tribute">
+      <DisplayName>Tiến Cống</DisplayName>
+      <Desc>[NAME] Đi vào [PLACE], chuẩn bị thu lấy hàng năm cống phẩm.</Desc>
+      <Selections.0.Display>Thu lấy cống phẩm</Selections.0.Display>
+      <Selections.1.Display>Cáo từ</Selections.1.Display>
+    </Text>
+    <Text Name="System_FightMap_UnlockPlant">
+      <DisplayName>Thải Dạng</DisplayName>
+      <Desc>[NAME] Nếm thử thu thập vật này hàng mẫu.</Desc>
+      <Selections.0.Display>Thu thập</Selections.0.Display>
+    </Text>
+    <Text Name="System_FightMap_UnlockBuilding">
+      <DisplayName>Quan Ma</DisplayName>
+      <Desc>[NAME] Thử giải nên kiến trúc kiến tạo phương pháp.</Desc>
+      <Selections.0.Display>Quan Ma</Selections.0.Display>
+    </Text>
+    <Text Name="Story_SuperPartItem">
+      <DisplayName>Tham Ngộ Áo Nghĩa</DisplayName>
+      <Desc>Nếm thử lĩnh hội khối này tứ chi bên trong ẩn chứa rèn thể chi pháp áo nghĩa.</Desc>
+      <Selections.0.Display>Tham Ngộ</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Fight">
+      <DisplayName>Thiết Tha Kỹ Nghệ</DisplayName>
+      <Desc>Để các đệ tử ở chỗ này luận bàn kỹ nghệ.</Desc>
+      <Selections.0.Display>Luận võ</Selections.0.Display>
+      <Selections.1.Display>Tính toán</Selections.1.Display>
+    </Text>
+  </List>
+</Texts>
