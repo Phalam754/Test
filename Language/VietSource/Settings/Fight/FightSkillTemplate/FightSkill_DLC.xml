@@ -1,0 +1,11 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Ls_OC">
+      <DisplayName>Dị Giới Từ Quang</DisplayName>
+    </Text>
+    <Text Name="Ls_Erosion">
+      <DisplayName>Âm Dương Xâm Thực</DisplayName>
+      <Desc>Sử dụng âm dương chi lực diện rộng hạ thấp địch nhân phòng ngự.</Desc>
+    </Text>
+  </List>
+</Texts>
