@@ -1,0 +1,157 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="MapSize">
+      <DisplayName>Địa Đồ Xích Thốn</DisplayName>
+      <Values.0.Name>Tiểu</Values.0.Name>
+      <Values.0.Desc>96x96 Địa đồ kích thước</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>128x128 Địa đồ kích thước</Values.1.Desc>
+      <Values.2.Name>Đại</Values.2.Name>
+      <Values.2.Desc>196x196 Địa đồ kích thước</Values.2.Desc>
+    </Text>
+    <Text Name="ThunderAddion">
+      <DisplayName>Thiên Kiếp Nan Độ</DisplayName>
+      <Desc>Độ kiếp thời điểm thiên kiếp cường độ</Desc>
+      <Values.0.Name>Cực Nhược</Values.0.Name>
+      <Values.0.Desc>0.25 Lần thiên kiếp độ khó</Values.0.Desc>
+      <Values.1.Name>Nhược</Values.1.Name>
+      <Values.1.Desc>0.7 Lần thiên kiếp độ khó</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường thiên kiếp độ khó</Values.2.Desc>
+      <Values.3.Name>Cường</Values.3.Name>
+      <Values.3.Desc>1.2 Lần thiên kiếp độ khó</Values.3.Desc>
+      <Values.4.Name>Cực Cường</Values.4.Name>
+      <Values.4.Desc>1.4 Lần thiên kiếp độ khó</Values.4.Desc>
+    </Text>
+    <Text Name="FightDifficultCoefficient">
+      <DisplayName>Chiến Đấu Nan Độ</DisplayName>
+      <Desc>Người tu hành, yêu thú, thượng cổ chi thú, thượng cổ người tu hành, môn phái thực lực chờ đối địch đơn vị cường độ.</Desc>
+      <Values.0.Name>Cực Nhược</Values.0.Name>
+      <Values.0.Desc>0.33 Lần chiến đấu độ khó</Values.0.Desc>
+      <Values.1.Name>Nhược</Values.1.Name>
+      <Values.1.Desc>0.67 Lần chiến đấu độ khó</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường chiến đấu độ khó</Values.2.Desc>
+      <Values.3.Name>Cường</Values.3.Name>
+      <Values.3.Desc>1.33 Lần chiến đấu độ khó</Values.3.Desc>
+      <Values.4.Name>Cực Cường</Values.4.Name>
+      <Values.4.Desc>1.67 Lần chiến đấu độ khó</Values.4.Desc>
+    </Text>
+    <Text Name="LiveDifficulty">
+      <DisplayName>Sinh Tồn Nan Độ</DisplayName>
+      <Desc>Thực vật sinh trưởng tốc độ cùng thu hoạch sản lượng bội suất</Desc>
+      <Values.0.Name>Cực Đê</Values.0.Name>
+      <Values.0.Desc>2 Lần sinh trưởng tốc độ, 2 Lần thu hoạch sản lượng</Values.0.Desc>
+      <Values.1.Name>Đê</Values.1.Name>
+      <Values.1.Desc>1.5 Lần sinh trưởng tốc độ, 1.5 Lần thu hoạch sản lượng</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường sinh trưởng tốc độ, bình thường thu hoạch sản lượng</Values.2.Desc>
+    </Text>
+    <Text Name="BaseMood">
+      <DisplayName>Cơ Sở Tâm Tình</DisplayName>
+      <Desc>Nhân vật tại ngầm thừa nhận trạng thái hạ cơ sở tâm tình giá trị</Desc>
+      <Values.0.Name>Cực Cao</Values.0.Name>
+      <Values.0.Desc>2 Lần cơ sở tâm tình</Values.0.Desc>
+      <Values.1.Name>Cao</Values.1.Name>
+      <Values.1.Desc>1.5 Lần cơ sở tâm tình</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường cơ sở tâm tình</Values.2.Desc>
+    </Text>
+    <Text Name="WorkAddp">
+      <DisplayName>Cơ Sở Công Tác Hiệu Suất</DisplayName>
+      <Desc>Nhân vật chấp hành đại đa số công việc lúc tốc độ</Desc>
+      <Values.0.Name>Cực Khoái</Values.0.Name>
+      <Values.0.Desc>2 Lần công việc hiệu suất</Values.0.Desc>
+      <Values.1.Name>Khoái</Values.1.Name>
+      <Values.1.Desc>1.5 Lần công việc hiệu suất</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Công việc bình thường hiệu suất</Values.2.Desc>
+    </Text>
+    <Text Name="PracticeAddp">
+      <DisplayName>Cơ Sở Tu Luyện Tốc Độ</DisplayName>
+      <Desc>Nhân vật lúc tu luyện tu luyện giá trị gia tăng tốc độ</Desc>
+      <Values.0.Name>Cực Khoái</Values.0.Name>
+      <Values.0.Desc>2 Lần tốc độ tu luyện</Values.0.Desc>
+      <Values.1.Name>Khoái</Values.1.Name>
+      <Values.1.Desc>1.5 Lần tốc độ tu luyện</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường tốc độ tu luyện</Values.2.Desc>
+    </Text>
+    <Text Name="MapExploringAddp">
+      <DisplayName>Cơ Sở Lịch Luyện Tốc Độ</DisplayName>
+      <Desc>Nhân vật ở thế giới bên trong lịch luyện lúc tốc độ</Desc>
+      <Values.0.Name>Cực Khoái</Values.0.Name>
+      <Values.0.Desc>2 Lần lịch luyện tốc độ</Values.0.Desc>
+      <Values.1.Name>Khoái</Values.1.Name>
+      <Values.1.Desc>1.5 Lần lịch luyện tốc độ</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường lịch luyện tốc độ</Values.2.Desc>
+    </Text>
+    <Text Name="TreeExpAddtion">
+      <DisplayName>Tham Ngộ Tiêu Háo</DisplayName>
+      <Desc>Nhân vật học tập bí tịch lúc lĩnh hội giá trị lượng tiêu hao</Desc>
+      <Values.0.Name>Cực Thiếu</Values.0.Name>
+      <Values.0.Desc>0.5 Lần lĩnh hội tiêu hao</Values.0.Desc>
+      <Values.1.Name>Thiếu</Values.1.Name>
+      <Values.1.Desc>0.75 Lần lĩnh hội tiêu hao</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình thường lĩnh hội tiêu hao</Values.2.Desc>
+    </Text>
+    <Text Name="AverageTimePerEvent">
+      <DisplayName>Sự Kiện Phát Sinh Gian Cách</DisplayName>
+      <Desc>Các loại sự kiện phát sinh khoảng cách thời gian</Desc>
+      <Values.0.Name>Cực Trường</Values.0.Name>
+      <Values.0.Desc>Bình quân mỗi 3 Thiên phát sinh một lần sự kiện</Values.0.Desc>
+      <Values.1.Name>Trường</Values.1.Name>
+      <Values.1.Desc>Bình quân mỗi 2.5 Thiên phát sinh một lần sự kiện</Values.1.Desc>
+      <Values.2.Name>Chính Thường</Values.2.Name>
+      <Values.2.Desc>Bình quân mỗi 2 Thiên phát sinh một lần sự kiện</Values.2.Desc>
+      <Values.3.Name>Đoản</Values.3.Name>
+      <Values.3.Desc>Bình quân mỗi 1.5 Thiên phát sinh một lần sự kiện</Values.3.Desc>
+      <Values.4.Name>Cực Đoản</Values.4.Name>
+      <Values.4.Desc>Bình quân mỗi 1 Thiên phát sinh một lần sự kiện</Values.4.Desc>
+    </Text>
+    <Text Name="DoubleRate">
+      <DisplayName>Song Bội Sự Kiện Phát Sinh Kỷ Suất</DisplayName>
+      <Desc>Phát sinh một lần sự kiện lúc, phát động 2 Chuyện này tỉ lệ</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Sẽ không phát sinh gấp đôi sự kiện</Values.0.Desc>
+      <Values.1.Name>Đê</Values.1.Name>
+      <Values.1.Desc>10% Xác suất phát sinh gấp đôi sự kiện</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>20% Xác suất phát sinh gấp đôi sự kiện</Values.2.Desc>
+      <Values.3.Name>Cao</Values.3.Name>
+      <Values.3.Desc>30% Xác suất phát sinh gấp đôi sự kiện</Values.3.Desc>
+      <Values.4.Name>Cực Cao</Values.4.Name>
+      <Values.4.Desc>40% Xác suất phát sinh gấp đôi sự kiện</Values.4.Desc>
+    </Text>
+    <Text Name="TripleRate">
+      <DisplayName>Tam Bội Sự Kiện Phát Sinh Kỷ Suất</DisplayName>
+      <Desc>Phát sinh một lần sự kiện lúc, phát động 3 Chuyện này tỉ lệ</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Sẽ không phát sinh gấp ba sự kiện</Values.0.Desc>
+      <Values.1.Name>Đê</Values.1.Name>
+      <Values.1.Desc>5% Xác suất phát sinh gấp ba sự kiện</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>10% Xác suất phát sinh gấp ba sự kiện</Values.2.Desc>
+      <Values.3.Name>Cao</Values.3.Name>
+      <Values.3.Desc>15% Xác suất phát sinh gấp ba sự kiện</Values.3.Desc>
+      <Values.4.Name>Cực Cao</Values.4.Name>
+      <Values.4.Desc>20% Xác suất phát sinh gấp ba sự kiện</Values.4.Desc>
+    </Text>
+    <Text Name="BlankWeight">
+      <DisplayName>Luân Không Sự Kiện Kỷ Suất</DisplayName>
+      <Desc>Phát sinh một lần sự kiện lúc, phát động luân không sự kiện tỉ lệ</Desc>
+      <Values.0.Name>Cực Cao</Values.0.Name>
+      <Values.0.Desc>60% Tỉ lệ phát động luân không sự kiện</Values.0.Desc>
+      <Values.1.Name>Cao</Values.1.Name>
+      <Values.1.Desc>45% Tỉ lệ phát động luân không sự kiện</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>30% Tỉ lệ phát động luân không sự kiện</Values.2.Desc>
+      <Values.3.Name>Đê</Values.3.Name>
+      <Values.3.Desc>15% Tỉ lệ phát động luân không sự kiện</Values.3.Desc>
+      <Values.4.Name>Vô</Values.4.Name>
+      <Values.4.Desc>Sẽ không phát động luân không sự kiện</Values.4.Desc>
+    </Text>
+  </List>
+</Texts>
