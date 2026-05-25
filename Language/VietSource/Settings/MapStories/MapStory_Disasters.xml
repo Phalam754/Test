@@ -1,0 +1,62 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="Disaster_Drought">
+      <DisplayName>Hạn Tai</DisplayName>
+      <Desc>Nơi đây ngay tại phát sinh nạn hạn hán.</Desc>
+      <Selections.0.Display>Trợ giúp chẩn tai</Selections.0.Display>
+      <Selections.1.Display>Tăng lên tai nạn</Selections.1.Display>
+      <Selections.2.Display>Trấn an dân tâm</Selections.2.Display>
+    </Text>
+    <Text Name="Disaster_Flood">
+      <DisplayName>Hồng Tai</DisplayName>
+      <Desc>Nơi đây ngay tại phát sinh hồng tai.</Desc>
+      <Selections.0.Display>Trợ giúp chẩn tai</Selections.0.Display>
+      <Selections.1.Display>Tăng lên tai nạn</Selections.1.Display>
+      <Selections.2.Display>Trấn an dân tâm</Selections.2.Display>
+    </Text>
+    <Text Name="Disaster_Siberia">
+      <DisplayName>Hàn Triều</DisplayName>
+      <Desc>Nơi đây ngay tại phát sinh luồng không khí lạnh.</Desc>
+      <Selections.0.Display>Trợ giúp chẩn tai</Selections.0.Display>
+      <Selections.1.Display>Tăng lên tai nạn</Selections.1.Display>
+      <Selections.2.Display>Trấn an dân tâm</Selections.2.Display>
+    </Text>
+    <Text Name="Disaster_EarthQuake">
+      <DisplayName>Địa Chấn</DisplayName>
+      <Desc>Nơi đây ngay tại phát sinh chấn.</Desc>
+      <Selections.0.Display>Trợ giúp chẩn tai</Selections.0.Display>
+      <Selections.1.Display>Tăng lên tai nạn</Selections.1.Display>
+      <Selections.2.Display>Trấn an dân tâm</Selections.2.Display>
+    </Text>
+    <Text Name="Place_Drought">
+      <DisplayName>Chẩn Tai</DisplayName>
+      <Desc>Người đại diện [NAME] Quyết định xử lý một chút nạn hạn hán.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="Place_Flood">
+      <DisplayName>Chẩn Tai</DisplayName>
+      <Desc>Người đại diện [NAME] Quyết định xử lý một chút hồng tai.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="Place_Siberia">
+      <DisplayName>Chẩn Tai</DisplayName>
+      <Desc>Người đại diện [NAME] Quyết định xử lý một chút luồng không khí lạnh.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="Place_EarthQuake">
+      <DisplayName>Chẩn Tai</DisplayName>
+      <Desc>Người đại diện [NAME] Quyết định xử lý một chút địa chấn.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="MapStory_DroughtFinish">
+      <DisplayName>Tai Nan Kết Thúc</DisplayName>
+      <Desc>Tai nạn kéo dài rất nhiều nhật, dân chúng lầm than, thu hoạch giảm mạnh, nhiều người mất mạng, càng nhiều người thoát đi nơi này.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+    <Text Name="MapStory_DroughtSolve">
+      <DisplayName>Tai Nan Kết Thúc</DisplayName>
+      <Desc>Tại các phương cố gắng hạ, tình hình tai nạn đạt được hữu hiệu khống chế.</Desc>
+      <Selections.0.Display>Xem xét kết quả</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>
