@@ -1,0 +1,36 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_Magic_XuanWuHeart">
+      <DisplayName>Tĩnh Tâm Nạp Khí</DisplayName>
+      <Desc>Trong ba ngày không cần ăn uống, cũng sẽ không mệt mỏi, nhưng di chuyển trở nên chậm chạp (Bội số tiêu hao thức ăn -1, Bội số tiêu hao nước uống -1, Bội số tiêu hao tinh lực -1, Bội số tốc độ di chuyển -0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_XuanWuShield">
+      <DisplayName>Huyền Giáp Che Chở</DisplayName>
+      <Desc>Trong thời gian ngắn tăng mạnh độ bền của Linh Khí Hộ Thuẫn và Bí Thể (Giá trị gia tăng cường độ Lá Chắn +50, Giá trị gia tăng chung độ bền Bí Thể +10).</Desc>
+    </Text>
+    <Text Name="Modifier_XuanWuBreak">
+      <DisplayName>Chân Võ Phá Thể</DisplayName>
+      <Desc>Trong thời gian ngắn giảm mạnh độ bền của Linh Khí Hộ Thuẫn và Bí Thể (Giá trị gia tăng cường độ Lá Chắn -50, Giá trị gia tăng chung độ bền Bí Thể -10).</Desc>
+    </Text>
+    <Text Name="Modifier_JinFish">
+      <DisplayName>Kim Ngao Tinh Hoa</DisplayName>
+      <Desc>Trong thời gian ngắn tăng Linh Khí Hộ Thuẫn và độ bền Bí Thể. (Giá trị gia tăng cường độ Lá Chắn +10, Giá trị gia tăng chung độ bền Bí Thể +2)</Desc>
+    </Text>
+    <Text Name="Modifier_LongTou1">
+      <DisplayName>Tâm Cảnh Thanh Khiết</DisplayName>
+      <Desc>Thành kính cầu nguyện trong nghi lễ dâng hương đầu rồng hàng năm, tâm cảnh được nâng cao một chút (Giá trị cơ bản của Tâm Cảnh +10).</Desc>
+    </Text>
+    <Text Name="Modifier_LongTou2">
+      <DisplayName>Tiến thêm một tầng</DisplayName>
+      <Desc>Thành kính cầu nguyện trong nghi lễ dâng hương đầu rồng hàng năm, tỷ lệ đột phá bình cảnh tăng lên đáng kể (Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh +0.15).</Desc>
+    </Text>
+    <Text Name="Modifier_LongTou3">
+      <DisplayName>Gặp Dữ Hóa Lành</DisplayName>
+      <Desc>Thành kính cầu nguyện trong nghi lễ dâng hương đầu rồng hàng năm, phòng thủ được nâng cao một chút (Giá trị gia tăng cường độ Lá Chắn +5, Giá trị gia tăng chung độ bền Bí Thể +1).</Desc>
+    </Text>
+    <Text Name="Modifier_LongTou5">
+      <DisplayName>Tham Lam Hành Hạ</DisplayName>
+      <Desc>Tham lam cầu nguyện trong nghi lễ dâng hương đầu rồng hàng năm, tuy nhận được nhiều lời chúc phúc nhưng cơ thể cũng phải chịu một loại thần phạt vô hình, Ngũ Duy giảm đi rất nhiều (Ngũ Duy mỗi loại giảm 8 phần (80%), Giá trị cơ bản của Tâm Cảnh +10, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh +0.15, Giá trị gia tăng cường độ Lá Chắn +5, Giá trị gia tăng chung độ bền Bí Thể +1).</Desc>
+    </Text>
+  </List>
+</Texts>
