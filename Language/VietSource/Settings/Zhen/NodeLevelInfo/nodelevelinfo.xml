@@ -1,0 +1,19 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="0">
+      <DisplayName>Linh Cấp Trận Nhãn</DisplayName>
+    </Text>
+    <Text Name="1">
+      <DisplayName>Nhất Cấp Trận Nhãn</DisplayName>
+    </Text>
+    <Text Name="2">
+      <DisplayName>Nhị Cấp Trận Nhãn</DisplayName>
+    </Text>
+    <Text Name="3">
+      <DisplayName>Tam Cấp Trận Nhãn</DisplayName>
+    </Text>
+    <Text Name="4">
+      <DisplayName>Tứ Cấp Trận Nhãn</DisplayName>
+    </Text>
+  </List>
+</Texts>
