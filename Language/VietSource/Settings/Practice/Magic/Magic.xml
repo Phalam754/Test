@@ -1,0 +1,248 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SYS_LOST">
+      <DisplayName>Mô-đun bị mất</DisplayName>
+      <Desc>Một vật bị mất, không ai nhận ra nó.\n(Mô-đun bị mất).</Desc>
+    </Text>
+    <Text Name="RebornSelf">
+      <DisplayName>Huyền Phẫn Tái Sinh</DisplayName>
+      <Desc>Bí pháp độc môn của môn phái Thái Nhất, lấy Huyền Phẫn Châu làm mồi, tự hủy tu vi, thiêu đốt kim đan, đảo ngược tạo hóa, trở lại phàm thai.</Desc>
+    </Text>
+    <Text Name="JieHuiDaoPowerUp">
+      <DisplayName>Đạo Tôi Chi Pháp</DisplayName>
+      <Desc>Sử dụng trên một vật phẩm, tiêu tốn một Hỏa Kiếp, có cơ hội nâng cấp phẩm cấp vật phẩm lên 1 cấp, hoàn toàn không có tác dụng với vật phẩm đã đạt phẩm cấp 12.[size=16]\nHỏa Kiếp có nguồn gốc từ những người đã chết mang Thiên Khiển, cứ 100 Thiên Khiển có thể ngưng tụ thành 1 Hỏa Kiếp.\n[color=#009900]Huyền Phách Tinh Quái sử dụng pháp này, tỷ lệ thành công gấp đôi.[/color][color=#009900]\nTôi luyện bùa giấy đã vẽ xong hoặc pháp bảo đã luyện xong không thể nâng cao hiệu quả của chúng, chỉ tôi luyện bùa giấy chưa vẽ hoặc nguyên liệu pháp bảo chưa luyện mới có thể nâng cao hiệu quả của thành phẩm.\nTôi luyện nguyên liệu do đệ tử ngoại môn chế tạo không thể nâng cao phẩm cấp của thành phẩm.[/color]\nTôi luyện vũ khí có thể nâng cao phẩm cấp từ đó nâng cao sát thương, còn tôi luyện công cụ không thể nâng cao hiệu quả.\nTôi luyện đan dược hoặc thuốc dưới 12 phẩm cấp, mỗi lần có thể làm cho dược hiệu trở thành 1,2 lần so với trước khi tôi luyện (tôi luyện 1 lần thì dược hiệu là 1,2 lần dược hiệu ban đầu, 2 lần là 1,44 lần, 3 lần là 1,73 lần, 4 lần là 2,0736 lần, 5 lần là 2,49 lần, 6 lần là 2,986 lần, 7 lần là 3,5832 lần, 8 lần là 4,3 lần).\nTôi luyện bùa giấy dưới 12 phẩm cấp đến 12 phẩm cấp, nhiều nhất có thể làm cho hiệu quả tăng lên 3,5 lần so với bùa giấy trống, tức là 1,75 lần so với Thần Phách Phù Giấy.[/size]</Desc>
+    </Text>
+    <Text Name="SoulCrystalYouPowerUp">
+      <DisplayName>U Tôi Chi Pháp</DisplayName>
+      <Desc>Sử dụng trên một vật phẩm, tiêu tốn một U Phách, có cơ hội nâng cấp phẩm cấp vật phẩm lên 1 cấp, hoàn toàn không có tác dụng với vật phẩm đã đạt phẩm cấp 12.[size=16]\nNhân vật tử vong hoặc sắp chết trong phòng đại hung chắc chắn sẽ ngưng tụ U Phách, nhân vật có cảm xúc cực kỳ tồi tệ khi chết hoặc sắp chết có khả năng ngưng tụ U Phách, cũng có thể dùng thi thể nuôi dưỡng linh thực mang tính sát, hoặc có được thông qua tà pháp Ngưng Phách Quyết.\n[color=#009900]Huyền Phách Tinh Quái sử dụng pháp này, tỷ lệ thành công gấp đôi.[/color]\nPhòng thi triển pháp này phong thủy càng kém, tỷ lệ thành công càng cao.[color=#009900]\nTôi luyện bùa giấy đã vẽ xong hoặc pháp bảo đã luyện xong không thể nâng cao hiệu quả của chúng, chỉ tôi luyện bùa giấy chưa vẽ hoặc nguyên liệu pháp bảo chưa luyện mới có thể nâng cao hiệu quả của thành phẩm.\nTôi luyện nguyên liệu do đệ tử ngoại môn chế tạo không thể nâng cao phẩm cấp của thành phẩm.[/color]\nTôi luyện vũ khí có thể nâng cao phẩm cấp từ đó nâng cao sát thương, còn tôi luyện công cụ không thể nâng cao hiệu quả.\nTôi luyện đan dược hoặc thuốc dưới 12 phẩm cấp, mỗi lần có thể làm cho dược hiệu trở thành 1,2 lần so với trước khi tôi luyện (tôi luyện 1 lần thì dược hiệu là 1,2 lần dược hiệu ban đầu, 2 lần là 1,44 lần, 3 lần là 1,73 lần, 4 lần là 2,0736 lần, 5 lần là 2,49 lần, 6 lần là 2,986 lần, 7 lần là 3,5832 lần, 8 lần là 4,3 lần).\nTôi luyện bùa giấy dưới 12 phẩm cấp đến 12 phẩm cấp, nhiều nhất có thể làm cho hiệu quả tăng lên 3,5 lần so với bùa giấy trống, tức là 1,75 lần so với Thần Phách Phù Giấy.[/size]</Desc>
+    </Text>
+    <Text Name="SoulCrystalLingPowerUp">
+      <DisplayName>Linh Tôi Chi Pháp</DisplayName>
+      <Desc>Sử dụng trên một vật phẩm, tiêu tốn một Linh Phách, có cơ hội nâng cao tỷ lệ hấp thụ linh khí của vật phẩm (nếu là pháp bảo sẽ nâng cao dung lượng linh khí).[size=16]\nNhân vật có cảm xúc cực kỳ hưng phấn sau khi chết có khả năng ngưng tụ Linh Phách, cũng có thể dùng thi thể nuôi dưỡng linh thực mang tính linh, hoặc có được thông qua tà pháp Ngưng Phách Quyết.\n[color=#009900]Huyền Phách Tinh Quái sau khi hóa hình sử dụng pháp này, tỷ lệ thành công gấp đôi.[/color][color=#009900]\nTôi luyện nguyên liệu pháp bảo chưa luyện không thể nâng cao hiệu quả của thành phẩm.[/color][/size]</Desc>
+    </Text>
+    <Text Name="MakeSoulCrystal">
+      <DisplayName>Ngưng Phách Quyết</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Sử dụng trên nhân vật không có tu vi, nhân vật đang hấp hối hoặc tinh quái, thu lấy phách của chúng. Sử dụng trên nhân vật có cảm xúc cực kỳ tồi tệ để có được U Phách, sử dụng trên nhân vật có cảm xúc bình thường để có được Ninh Phách, sử dụng trên nhân vật có cảm xúc cực kỳ hưng phấn để có được Linh Phách, sử dụng trên tinh quái để có được Nguyên Linh Chi Phách. Không thể có được Mèo Yêu Chi Phách. Chỉ có thể sử dụng một lần trên cùng một đơn vị. Tăng 1 điểm Thiên Khiển, tăng 20 điểm ác danh môn phái, tăng 20 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="MakePuppet">
+      <DisplayName>Khiên Thi Ngự Linh Thuật</DisplayName>
+      <Desc>Pháp nghịch thiên, nhưng không thuộc tà pháp. Giải phóng lên một thân xác, đánh thức nó. Thân xác được đánh thức có thể đảm nhận một số công việc nặng nhọc đơn giản, tố chất của nó liên quan đến cảnh giới khi còn sống. Con rối sẽ từ từ bị hao mòn không thể đảo ngược. Tăng 1 điểm Thiên Khiển.\n[color=#D06508]Mỗi người tu hành chỉ có thể điều khiển một con rối[/color]</Desc>
+    </Text>
+    <Text Name="BuidPuppet">
+      <DisplayName>Khôi Lỗi Phụ Linh Thuật</DisplayName>
+      <Desc>Giải phóng lên con rối, ban cho nó linh tính. Con rối được ban linh tính có thể đảm nhận một số công việc nặng nhọc đơn giản, tố chất của nó liên quan đến phẩm cấp chế tạo con rối. Con rối có thể được chế tạo bởi đệ tử ngoại môn tại bàn thủ công. Con rối sẽ từ từ bị hao mòn không thể đảo ngược.\n[color=#D06508]Mỗi người tu hành chỉ có thể điều khiển một con rối[/color]</Desc>
+    </Text>
+    <Text Name="SeachSoul">
+      <DisplayName>Sưu Hồn Đại Pháp</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Sử dụng trên nhân vật đang hấp hối, có một tỷ lệ nhất định để có được bí tịch công pháp hoặc kiến thức khác của hắn. Thi triển ở nơi hung sát sẽ làm tăng tỷ lệ có được thông tin. Tăng 1 điểm Thiên Khiển, tăng 20 điểm ác danh môn phái, tăng 20 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="ClosedDoor">
+      <DisplayName>Nhập Định</DisplayName>
+      <Desc>Đi vào trạng thái định cảnh để tu luyện, sẽ nhanh chóng tiêu hao tuổi thọ và tinh nguyên. Có thể nhanh chóng có được tu vi, và nâng cao giá trị tối đa của linh khí.</Desc>
+    </Text>
+    <Text Name="ClosedDoor_Gong1">
+      <DisplayName>Thủy Kính Quan Tâm Định</DisplayName>
+      <Desc>Bí pháp nhập định được ghi lại trong Thái Hòa Thập Lục Động Thiên, trong nguyên thần định cảnh quán tưởng thủy kính, đi vào định trong định, nhanh chóng tiêu hao tuổi thọ luyện hóa tinh nguyên, nâng cao giá trị tối đa của linh khí. Trong trạng thái này, nguyên thần của người tu hành đi vào cảnh giới hư vô, suy nghĩ dừng lại, do đó tu vi sẽ không tăng lên.</Desc>
+    </Text>
+    <Text Name="ClosedDoor_Gong4">
+      <DisplayName>Ngọc Thanh Định Cảnh</DisplayName>
+      <Desc>Bí pháp nhập định được ghi lại trong Ngọc Thanh Tiên Pháp, có thể dùng nguyên thần du ngoạn cảnh giới nguyên thủy khi trời đất mới khai mở, nhanh chóng có được tu vi, và nâng cao giá trị tối đa của linh khí. So với pháp nhập định truyền lại trên thế gian hiệu quả cao hơn, tiêu hao tuổi thọ ít hơn.</Desc>
+    </Text>
+    <Text Name="AbsorbLing_Aoe">
+      <DisplayName>Linh Tức Quyết</DisplayName>
+      <Desc>Đi đến địa điểm chỉ định để hấp thụ linh khí trong môi trường.</Desc>
+    </Text>
+    <Text Name="AbsorbLing_Live">
+      <DisplayName>Minh Linh Chân Pháp</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Giải phóng lên sinh vật sống không có tu vi, tiêu hao tuổi thọ của mục tiêu, bổ sung linh khí cho bản thân. Tăng 0.1 điểm Thiên Khiển/giây, tăng 100 điểm ác danh môn phái, tăng 100 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbLing_Body">
+      <DisplayName>Thiên Yêu Hóa Huyết Thuật</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Luyện hóa một thi thể, luyện hóa huyết nhục của nó, bổ sung linh khí cho bản thân. Tăng 2 điểm Thiên Khiển, tăng 10 điểm ác danh môn phái, tăng 10 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbLing_Thing">
+      <DisplayName>Thác Thể Đồng Sơn Quyết</DisplayName>
+      <Desc>Giải phóng lên kiến trúc, thực vật, khoáng vật trong cảnh, có thể hấp thụ linh khí trong đó. Mục tiêu càng nhiều linh khí, giới hạn linh khí của bản thân càng nhiều, tốc độ hấp thụ càng nhanh.</Desc>
+    </Text>
+    <Text Name="AbsorbLing_Item">
+      <DisplayName>Hấp Tinh Chưởng</DisplayName>
+      <Desc>Giải phóng lên một vật phẩm, hấp thụ linh khí của nó để dùng cho bản thân.</Desc>
+    </Text>
+    <Text Name="Healing_Damage">
+      <DisplayName>Hóa Thương Thuật</DisplayName>
+      <Desc>Vận công thay một mục tiêu chữa trị thương tổn nội môn mà hắn phải chịu, cũng có tác dụng cải thiện cảm xúc. Hiệu quả trị liệu liên quan đến lượng linh khí của người thi thuật.</Desc>
+    </Text>
+    <Text Name="BuildBody">
+      <DisplayName>Tái Tạo Thuật</DisplayName>
+      <Desc>Thực hiện tái sinh thân thể cho một mục tiêu, tái tạo lại tất cả các bộ phận mà hắn đã mất.</Desc>
+    </Text>
+    <Text Name="RobBodyLow">
+      <DisplayName>Âm Thần Đoạt Xá</DisplayName>
+      <Desc>Phương thức đoạt xá cấp thấp, đoạt lấy thân thể của một sinh vật sống không có tu vi. Nhưng sẽ mất đi rất nhiều khổ tu, và vì thế hồn phách không hòa hợp. Tăng 5 điểm Thiên Khiển, tăng 300 điểm ác danh môn phái, tăng 300 điểm danh vọng môn phái, tăng 300 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="RobBodyHigh">
+      <DisplayName>Dương Thần Đoạt Xá</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Phương thức đoạt xá cao cấp, hoàn toàn đoạt lấy thân thể của một sinh vật sống không có tu vi, nhưng sẽ mất đi rất nhiều khổ tu. Tăng 5 điểm Thiên Khiển, tăng 300 điểm ác danh môn phái, tăng 300 điểm danh vọng môn phái, tăng 300 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_1">
+      <DisplayName>Đỉnh Lô Hấp Chân Thuật</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Hút lấy tuổi thọ của một sinh vật sống không có tu vi, và tăng tu vi cho bản thân, đồng thời có được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 điểm Thiên Khiển/giây, tăng 50 điểm ác danh môn phái, tăng 50 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_1_Gong9">
+      <DisplayName>Nguyên Ương Quy Tức Pháp</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Lợi dụng lực luân hồi thúc đẩy pháp quyết Đỉnh Lô Hấp Chân, có thể hấp thụ tuổi thọ của một sinh vật sống không có tu vi hiệu quả hơn, và tăng tu vi cho bản thân, đồng thời có được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 điểm Thiên Khiển/giây, tăng 50 điểm ác danh môn phái, tăng 50 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_2">
+      <DisplayName>Phong Nguyệt Huyễn Cảnh</DisplayName>
+      <Desc>Pháp nghịch thiên, nhưng không thuộc tà pháp. Lợi dụng huyễn cảnh mê hoặc một dị tính hình người không có tu vi, trong huyễn cảnh đoạt lấy tuổi thọ của họ, tăng tu vi cho bản thân, đồng thời có được tham ngộ. Mị lực của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 điểm Thiên Khiển/giây.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_2_Gong7">
+      <DisplayName>Như Ý Huyễn Cảnh</DisplayName>
+      <Desc>Pháp nghịch thiên, nhưng không thuộc tà pháp. Lợi dụng huyễn cảnh mê hoặc một dị tính hình người không có tu vi, trong huyễn cảnh đoạt lấy tuổi thọ của họ, tăng tu vi cho bản thân, đồng thời có được tham ngộ. Mị lực của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 điểm Thiên Khiển/giây.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_3">
+      <DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Đoạt lấy hồn phách của một sinh vật sống không có tu vi, luyện hóa nó để tăng tu vi cho bản thân, đồng thời có được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 2 điểm Thiên Khiển, tăng 50 điểm ác danh môn phái, tăng 50 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_3_Gong11">
+      <DisplayName>Cửu U Luyện Thần</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Dùng lực Cửu U luyện hóa hồn phách của một sinh vật sống không có tu vi, từ đó tăng tu vi cho bản thân, đồng thời có được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 2 điểm Thiên Khiển, tăng 50 điểm ác danh môn phái, tăng 50 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_4">
+      <DisplayName>Luyện Hồn</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Thi triển hình phạt luyện hồn lên một sinh vật sống hình người không có tu vi, làm cho họ cảm nhận nỗi đau khổ tột cùng. Và từ đó có được niềm vui. Tăng 2 điểm Thiên Khiển, tăng 10 điểm ác danh môn phái, tăng 10 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_5">
+      <DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+      <Desc>Công hiệu quỷ dị, nhưng không thuộc pháp nghịch thiên, cũng không thuộc tà pháp. Thi pháp lên một sinh vật sống hình người không có tu vi, khi mục tiêu ở trong cảm xúc cực đoan (trên 160 hoặc dưới 40), là có thể có được tham ngộ và tu vi. Thần thông một khi giải phóng sẽ tác dụng liên tục, cảm xúc của mục tiêu càng cực đoan, hiệu quả thần thông càng mạnh.\nMỗi lần thi triển lên một mục tiêu, giá trị cơ bản của tâm trạng và tâm cảnh của bản thân sẽ giảm đi một ít, mục tiêu thì vì thế mà càng dễ bị kích động, dễ nổi giận. Thi triển lại lên mục tiêu đã giải phóng, có thể thu hồi thần thông. Sau khi thu hồi thần thông, tất cả ảnh hưởng tiêu cực sẽ biến mất trong thời gian ngắn.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_6">
+      <DisplayName>Hồn Thể Ký Sinh</DisplayName>
+      <Desc>Công hiệu quỷ dị, nhưng không thuộc pháp nghịch thiên, cũng không thuộc tà pháp. Thi pháp lên một sinh vật sống hình người không có tu vi, ký sinh một luồng nguyên thần của bản thân lên đó, mỗi ngày 0 giờ sẽ chuyển hóa toàn bộ giá trị Trúc Cơ của đối tượng ký sinh thành giá trị tu vi và tham ngộ tương đương cho bản thân.\nMỗi khi ký sinh một đơn vị, bản thân sẽ vì phân hồn mà tổn hại thần trí, mục tiêu thì vì bị ký sinh mà suy yếu. Thi triển lại lên mục tiêu đã giải phóng, có thể thu hồi thần thông. Sau khi thu hồi thần thông, tất cả ảnh hưởng tiêu cực sẽ biến mất trong thời gian ngắn.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_7">
+      <DisplayName>Hiến Tế</DisplayName>
+      <Desc>Tà pháp nghịch thiên. Hiến tế một sinh vật sống hình người không có tu vi cho Ma Hồn, Ma Hồn sẽ ngẫu nhiên đoạt lấy một vài cơ quan của vật hiến tế, và phản hồi lại cho người thi pháp một lượng lớn tu vi và tham ngộ. Năm thuộc tính của mục tiêu càng mạnh, hiệu quả hiến tế càng mạnh. Tăng 2 điểm Thiên Khiển, tăng 50 điểm ác danh môn phái, tăng 50 điểm giới hạn dưới của danh vọng môn phái.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_8">
+      <DisplayName>Thanh Tâm Chú</DisplayName>
+      <Desc>Thi triển pháp thuật, thêm một tâm trạng tốt cho một sinh vật sống hình người không có tu vi.</Desc>
+    </Text>
+    <Text Name="PlantGrowUp">
+      <DisplayName>Ngự Mộc Quyết</DisplayName>
+      <Desc>Ngưng tụ nguyên khí của bản thân, truyền vào thực vật mục tiêu, làm cho tốc độ sinh trưởng của nó tăng mạnh, kéo dài 1 ngày. Phẩm cấp thực vật mục tiêu càng cao, hiệu quả càng kém. Pháp này cực kỳ tổn hại nguyên khí, nên cẩn thận khi sử dụng.</Desc>
+    </Text>
+    <Text Name="PlantGrowUp_Gong1">
+      <DisplayName>Thiên Lâm Quyết</DisplayName>
+      <Desc>Dẫn động khí sinh trưởng của trời đất, truyền vào thực vật mục tiêu, làm cho tốc độ sinh trưởng của nó tăng nhẹ, kéo dài 7 ngày. Phẩm cấp thực vật mục tiêu càng cao, hiệu quả càng kém.</Desc>
+    </Text>
+    <Text Name="PlantGrowUp_Gong9">
+      <DisplayName>Vạn Mộc Hồi Xuân</DisplayName>
+      <Desc>Dùng linh khí thuộc tính Mộc tinh thuần kích thích toàn bộ sinh cơ của cây, có thể làm cho tốc độ sinh trưởng của nó tăng mạnh trong một ngày. Phẩm cấp thực vật mục tiêu càng cao, hiệu quả càng kém.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_9_1">
+      <DisplayName>Thiên Tâm Chính Pháp</DisplayName>
+      <Desc>Tiêu hao mười năm tuổi thọ, trong thời gian ngắn nâng cao năng lực bản thân và hồi phục giá trị linh khí.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_9_2">
+      <DisplayName>Thiên Ma Giải Thể Đại Pháp</DisplayName>
+      <Desc>Tiêu hao mười năm tuổi thọ, trong thời gian ngắn nâng cao năng lực bản thân và hồi phục giá trị linh khí.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_9_3">
+      <DisplayName>Lực Bùng Nổ</DisplayName>
+      <Desc>Tiêu hao mười năm tuổi thọ, trong thời gian ngắn nâng cao năng lực bản thân và hồi phục giá trị linh khí.</Desc>
+    </Text>
+    <Text Name="AbsorbGong_10">
+      <DisplayName>Tuệ Kiếm Trảm Niệm</DisplayName>
+      <Desc>Thi triển pháp thuật lên một sinh vật không có tu vi, loại bỏ toàn bộ cảm xúc ngắn hạn của mục tiêu.</Desc>
+    </Text>
+    <Text Name="LingStoneMake">
+      <DisplayName>Luyện Chế Linh Thạch</DisplayName>
+      <Desc>Ngưng kết linh khí thành Linh Thạch, mỗi 5000 linh khí một viên. Hành vi này sẽ được thực hiện liên tục, cho đến khi dừng lại hoặc linh khí không đủ.</Desc>
+    </Text>
+    <Text Name="LingCrystalMake">
+      <DisplayName>Luyện Chế Linh Tinh</DisplayName>
+      <Desc>Ngưng kết linh khí thành Linh Tinh, quá trình chậm rãi.</Desc>
+    </Text>
+    <Text Name="PrayForRain">
+      <DisplayName>Cầu Vũ Thuật</DisplayName>
+      <Desc>Lợi dụng thần thông cầu một trận mưa, tăng thuộc tính Thủy trong cảnh, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForSun">
+      <DisplayName>Khu Vân Quyết</DisplayName>
+      <Desc>Lợi dụng thần thông làm trời quang mây tạnh, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForRain_FeiHorse">
+      <DisplayName>Cầu Vũ Thuật (Phí)</DisplayName>
+      <Desc>Thần thông được Linh Khế ban cho. Có thể thúc đẩy thiên phú của Phí, cầu một trận mưa.</Desc>
+    </Text>
+    <Text Name="PrayForSun_LuShuHorse">
+      <DisplayName>Khu Vân Quyết (Lộc Thử)</DisplayName>
+      <Desc>Thần thông được Linh Khế ban cho. Có thể thúc đẩy thiên phú của Lộc Thử, làm trời quang mây tạnh.</Desc>
+    </Text>
+    <Text Name="PrayForRainstorm">
+      <DisplayName>Bạo Vũ Thuật</DisplayName>
+      <Desc>Chỉ có hiệu quả khi sử dụng vào mùa đông hoặc mùa hè, lợi dụng thần thông cầu một trận bão lớn, tăng thuộc tính Thủy trong cảnh nhiều hơn, thậm chí có thể ảnh hưởng đến phẩm cấp đan của người kết đan tại đây, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForZhenShuiJieJie_Gong1">
+      <DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+      <Desc>Dùng đại pháp lực bố trí Chân Thủy Kết Giới tại khu vực này, làm cho nhiệt độ cảnh giảm mạnh (-100℃), tất cả nhân vật phe ta lực hồi phục tự nhiên, tốc độ hồi phục linh khí tăng mạnh (tốc độ hấp thụ linh khí tăng +15, lực hồi phục tự nhiên tăng +3). Cùng một lúc chỉ có thể tồn tại một kết giới.\n(Cảnh báo: Có thể làm cho ngoại môn chết vì nhiệt độ cực thấp)</Desc>
+    </Text>
+    <Text Name="PrayForFohn">
+      <DisplayName>Phần Phong Thuật</DisplayName>
+      <Desc>Chỉ có hiệu quả khi sử dụng vào mùa hè hoặc mùa thu, lợi dụng thần thông triệu hồi gió Phần Phong, tăng thuộc tính Hỏa trong cảnh, thậm chí có thể ảnh hưởng đến phẩm cấp đan của người kết đan tại đây, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForZhenHuoJieJie_Gong10">
+      <DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+      <Desc>Dùng đại pháp lực bố trí Cửu Dương Thần Hỏa Giới tại khu vực này, làm cho nhiệt độ cảnh tăng mạnh (+100℃), tất cả nhân vật phe ta uy lực pháp thuật tăng mạnh (uy lực thuật pháp cơ bản tăng +0.3). Cùng một lúc chỉ có thể tồn tại một kết giới.\n(Cảnh báo: Có thể làm cho ngoại môn chết vì nhiệt độ cực cao)</Desc>
+    </Text>
+    <Text Name="PrayForDustStorm">
+      <DisplayName>Trần Bạo Thuật</DisplayName>
+      <Desc>Chỉ có hiệu quả khi sử dụng vào mùa đông hoặc mùa xuân, lợi dụng thần thông cầu một trận bão cát, tăng thuộc tính Thổ trong cảnh, thậm chí có thể ảnh hưởng đến phẩm cấp đan của người kết đan tại đây, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForMiasma">
+      <DisplayName>Độc Chướng Thuật</DisplayName>
+      <Desc>Chỉ có hiệu quả khi sử dụng vào mùa xuân hoặc mùa hè, lợi dụng thần thông cầu một vùng chướng khí, tăng thuộc tính Mộc trong cảnh, thậm chí có thể ảnh hưởng đến phẩm cấp đan của người kết đan tại đây, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForLightningStorm">
+      <DisplayName>Lôi Bạo Thuật</DisplayName>
+      <Desc>Chỉ có hiệu quả khi sử dụng vào mùa hè hoặc mùa thu, lợi dụng thần thông cầu một trận bão sét, tăng thuộc tính Kim trong cảnh, thậm chí có thể ảnh hưởng đến phẩm cấp đan của người kết đan tại đây, nhưng hành động này can thiệp vào thiên số, sẽ tổn hao tuổi thọ.</Desc>
+    </Text>
+    <Text Name="PrayForBeiDouJianJie_Gong8">
+      <DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+      <Desc>Dùng đại pháp lực bố trí Bắc Đẩu Kiếm Giới tại khu vực này, làm cho uy lực pháp bảo của tất cả nhân vật phe ta tăng mạnh (uy lực pháp bảo tăng +15). Cùng một lúc chỉ có thể tồn tại một kết giới.</Desc>
+    </Text>
+    <Text Name="Healing_Physique">
+      <DisplayName>Phạt Mao Tẩy Tủy</DisplayName>
+      <Desc>Tiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, phạt mao tẩy tủy cho một sinh vật không có tu vi, làm cho cốt cách của họ được tăng thêm, giá trị ban đầu càng thấp hiệu quả càng tốt, ít nhất sẽ tăng 2 thành cốt cách. Mục tiêu chỉ có thể được thi triển một lần trong đời.\nThuật toán cụ thể: Tạo một số ngẫu nhiên từ 8 đến 10, dùng số ngẫu nhiên này trừ đi giá trị cốt cách hiện tại của mục tiêu (đơn vị: điểm), so sánh kết quả với 2, lấy số lớn hơn (đơn vị: thành).</Desc>
+    </Text>
+    <Text Name="Healing_Intelligence">
+      <DisplayName>Đề Hồ Quán Đỉnh</DisplayName>
+      <Desc>Tiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, đề hồ quán đỉnh cho một sinh vật không có tu vi, làm cho ngộ tính của họ được tăng thêm, giá trị ban đầu càng thấp hiệu quả càng tốt, ít nhất sẽ tăng 2 thành ngộ tính. Mục tiêu chỉ có thể được thi triển một lần trong đời.\nThuật toán cụ thể: Tạo một số ngẫu nhiên từ 8 đến 10, dùng số ngẫu nhiên này trừ đi giá trị ngộ tính hiện tại của mục tiêu (đơn vị: điểm), so sánh kết quả với 2, lấy số lớn hơn (đơn vị: thành).</Desc>
+    </Text>
+    <Text Name="Healing_Charisma">
+      <DisplayName>Tái Tạo Hình Thần</DisplayName>
+      <Desc>Tiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, tái tạo hình thần cho một sinh vật không có tu vi, làm cho mị lực của họ được tăng thêm, giá trị ban đầu càng thấp hiệu quả càng tốt, ít nhất sẽ tăng 2 thành mị lực. Mục tiêu chỉ có thể được thi triển một lần trong đời.\nThuật toán cụ thể: Tạo một số ngẫu nhiên từ 8 đến 10, dùng số ngẫu nhiên này trừ đi giá trị mị lực hiện tại của mục tiêu (đơn vị: điểm), so sánh kết quả với 2, lấy số lớn hơn (đơn vị: thành).</Desc>
+    </Text>
+    <Text Name="Healing_Perception">
+      <DisplayName>Khai Thiên Nhãn</DisplayName>
+      <Desc>Tiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, khai thiên nhãn cho một sinh vật không có tu vi, làm cho thần thức của họ được tăng thêm, giá trị ban đầu càng thấp hiệu quả càng tốt, ít nhất sẽ tăng 2 thành thần thức. Mục tiêu chỉ có thể được thi triển một lần trong đời.\nThuật toán cụ thể: Tạo một số ngẫu nhiên từ 8 đến 10, dùng số ngẫu nhiên này trừ đi giá trị thần thức hiện tại của mục tiêu (đơn vị: điểm), so sánh kết quả với 2, lấy số lớn hơn (đơn vị: thành).</Desc>
+    </Text>
+    <Text Name="Magic_Plant_Pee">
+      <DisplayName>Tưới Nước Thuật</DisplayName>
+      <Desc>Tưới cho thực vật để nó phát triển nhanh chóng đến khi trưởng thành. Không thể sử dụng thủ công, chỉ có thể giải phóng thông qua hành vi của linh thú.</Desc>
+    </Text>
+    <Text Name="Magic_Healing_LingShou">
+      <DisplayName>Hóa Thương Thuật</DisplayName>
+      <Desc>Chữa trị thương tổn nội môn cho một đệ tử. Không thể sử dụng thủ công, chỉ có thể giải phóng thông qua hành vi của linh thú.</Desc>
+    </Text>
+    <Text Name="Magic_Healing_Hot">
+      <DisplayName>Lương Phong Thuật</DisplayName>
+      <Desc>Chữa trị say nắng cho một đệ tử. Không thể sử dụng thủ công, chỉ có thể giải phóng thông qua hành vi của linh thú.</Desc>
+    </Text>
+    <Text Name="Magic_Healing_Freeze">
+      <DisplayName>Lô Ôn Thuật</DisplayName>
+      <Desc>Chữa trị bỏng lạnh cho một đệ tử. Không thể sử dụng thủ công, chỉ có thể giải phóng thông qua hành vi của linh thú.</Desc>
+    </Text>
+  </List>
+</Texts>
