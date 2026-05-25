@@ -1,0 +1,77 @@
+﻿ID	Des	Disname
+		
+-1	Mô tổ mất đi	Mô tổ mất đi
+1	Đem một chút ngự khí chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Thô thiển
+2	Đem khá nhiều ngự khí chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Tinh thâm
+3	Đem một chút thuật pháp chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Thô thiển
+4	Đem khá nhiều thuật pháp chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Tinh thâm
+5	Đem một chút hộ thể chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Thô thiển
+6	Đem khá nhiều hộ thể chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Tinh thâm
+7	Đem một chút luyện đan chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Thô thiển
+8	Đem khá nhiều luyện đan chi đạo bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Tinh thâm
+9	Đem một chút con đường luyện khí bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Thô thiển
+10	Đem khá nhiều con đường luyện khí bên trên cảm ngộ ký thác nơi này vật phía trên.	Đại đạo chi ngộ: Tinh thâm
+11	Đem một bản cấp độ nhập môn ngự khí chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+12	Đem một bản tiến giai cấp ngự khí chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+13	Đem một bản tinh diệu cấp ngự khí chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+14	Đem một bản huyền diệu cấp ngự khí chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+15	Đem một bản cấp độ nhập môn thuật pháp chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+16	Đem một bản tiến giai cấp thuật pháp chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+17	Đem một bản tinh diệu cấp thuật pháp chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+18	Đem một bản huyền diệu cấp thuật pháp chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+19	Đem một bản cấp độ nhập môn hộ thể chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+20	Đem một bản tiến giai cấp hộ thể chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+21	Đem một bản tinh diệu cấp hộ thể chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+22	Đem một bản huyền diệu cấp hộ thể chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+23	Đem một bản cấp độ nhập môn luyện đan chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+24	Đem một bản tiến giai cấp luyện đan chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+25	Đem một bản tinh diệu cấp luyện đan chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+26	Đem một bản huyền diệu cấp luyện đan chi đạo bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+27	Đem một bản cấp độ nhập môn con đường luyện khí bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+28	Đem một bản tiến giai cấp con đường luyện khí bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+29	Đem một bản tinh diệu cấp con đường luyện khí bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+30	Đem một bản huyền diệu cấp con đường luyện khí bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+31	Đem một bản cấp độ nhập môn con đường tu luyện bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+32	Đem một bản tiến giai cấp con đường tu luyện bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+33	Đem một bản tinh diệu cấp con đường tu luyện bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+34	Đem một bản huyền diệu cấp con đường tu luyện bí tịch ký thác nơi này vật phía trên.	Bí tịch chi ngộ:[TXT]
+35	Đem một chút có thể vi lượng tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+36	Đem một chút có thể một chút tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+37	Đem một chút có thể tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+38	Đem một chút có thể khá nhiều tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+39	Đem một chút có thể đại lượng tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+40	Đem một chút có thể lượng lớn tăng cường pháp bảo uy lực kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+41	Đem một chút có thể vi lượng tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+42	Đem một chút có thể một chút tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+43	Đem một chút có thể tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+44	Đem một chút có thể khá nhiều tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+45	Đem một chút có thể đại lượng tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+46	Đem một chút có thể lượng lớn tăng cường uy lực pháp thuật kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+47	Đem một chút có thể vi lượng tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+48	Đem một chút có thể một chút tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+49	Đem một chút có thể tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+50	Đem một chút có thể khá nhiều tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+51	Đem một chút có thể đại lượng tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+52	Đem một chút có thể lượng lớn tăng cường hộ thuẫn cường độ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+53	Đem một chút có thể vi lượng tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+54	Đem một chút có thể một chút tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+55	Đem một chút có thể tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+56	Đem một chút có thể khá nhiều tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+57	Đem một chút có thể đại lượng tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+58	Đem một chút có thể lượng lớn tăng cường Thần khí luyện thành tỉ lệ kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+59	Đem một chút có thể vi lượng tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+60	Đem một chút có thể một chút tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+61	Đem một chút có thể tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+62	Đem một chút có thể khá nhiều tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+63	Đem một chút có thể đại lượng tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+64	Đem một chút có thể lượng lớn tăng cường luyện đan sản lượng kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+65	Đem một chút có thể vi lượng tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Vi lượng
+66	Đem một chút có thể một chút tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Chút ít
+67	Đem một chút có thể tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Trung đẳng
+68	Đem một chút có thể khá nhiều tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Khá nhiều
+69	Đem một chút có thể đại lượng tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Đại lượng
+70	Đem một chút có thể lượng lớn tăng cường tốc độ tu luyện kỹ xảo ký thác nơi này vật phía trên.	Kỹ xảo chi ngộ: Lượng lớn
+71	Đem ngự không phi hành năng lực ngoài định mức kèm theo tại vật này phía trên.( Bản thể sẽ không mất đi năng lực này )	Ngự không phi hành
+72	Sắp mở ra một cái chút ít Linh Khí Hộ Thuẫn năng lực ngoài định mức kèm theo tại vật này phía trên.( Bản thể sẽ không mất đi năng lực này )	Linh khí hộ thể: Ít
+73	Sắp mở ra một trong đó lượng Linh Khí Hộ Thuẫn năng lực ngoài định mức kèm theo tại vật này phía trên.( Bản thể sẽ không mất đi năng lực này )	Linh khí hộ thể: Bên trong
+74	Sắp mở ra một cái đại lượng Linh Khí Hộ Thuẫn năng lực ngoài định mức kèm theo tại vật này phía trên.( Bản thể sẽ không mất đi năng lực này )	Linh khí hộ thể: Lớn
