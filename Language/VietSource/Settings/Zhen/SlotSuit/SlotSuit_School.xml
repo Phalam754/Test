@@ -1,0 +1,114 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SlotSuit_School_1">
+      <DisplayName>Đan Hà Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_2">
+      <DisplayName>Côn Lôn Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_3">
+      <DisplayName>Cực Thiên Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_4">
+      <DisplayName>Tử Tiêu Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_5">
+      <DisplayName>Chính Nhất Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_6">
+      <DisplayName>Thanh Liên Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_7">
+      <DisplayName>Tê Hà Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_8">
+      <DisplayName>Bách Man Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_9">
+      <DisplayName>Thất Thiên Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_10">
+      <DisplayName>Thất Sát Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_11">
+      <DisplayName>Hợp Hoan Ý</DisplayName>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức gia tăng</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Trận pháp linh cơ hạn mức cao nhất gia tăng</SuitEffect.6.Description>
+    </Text>
+  </List>
+</Texts>
