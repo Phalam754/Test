@@ -1,0 +1,26 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Ginseng" sParam="Plant">
+      <ThingName>Nhân sâm</ThingName>
+      <Desc>Loại dược liệu quý hiếm, có giá trị y học cao, giúp đại bổ nguyên khí. Cây có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần được trồng ở nơi có một lượng linh khí nhất định. Độ màu mỡ: 1+, Linh khí: 25+.</Desc>
+    </Text>
+    <Text Name="GanodermaLucidum" sParam="Plant">
+      <ThingName>Chi thảo</ThingName>
+      <Desc>Loại dược liệu quý hiếm, có giá trị y học cao, giúp đại bổ nguyên khí. Cây có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]10[/temperature] đến [temperature]40[/temperature]. Cần được trồng ở nơi có một lượng linh khí nhất định. Độ màu mỡ: 1+, Linh khí: 25+.</Desc>
+    </Text>
+    <Text Name="Mint" sParam="Plant">
+      <ThingName>Thanh tâm thảo</ThingName>
+      <Desc>Loại dược liệu phổ biến, dược tính thanh mát, có thể giúp người an thần định khí. Cây có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần được trồng ở nơi có một lượng linh khí nhất định. Độ màu mỡ: 1+, Linh khí: 25+.</Desc>
+    </Text>
+    <Text Name="MagicHerb" sParam="Plant">
+      <ThingName>Linh tiên thảo</ThingName>
+      <Desc>Loại thảo dược dồi dào linh lực, vốn rất hiếm thấy. Cây có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần được trồng ở nơi có một lượng linh khí nhất định. Ngoài Động phủ Y tiên của Luyện Đan Phong ở Trung Nguyên, có vô số Linh tiên thảo mọc khắp nơi trên núi. Độ màu mỡ: 1+, Linh khí: 50+.</Desc>
+    </Text>
+    <Text Name="WarmHerb" sParam="Plant">
+      <ThingName>Đông trùng hạ thảo</ThingName>
+      <Desc>Một loại cỏ có hình dạng biến hóa, chỉ trưởng thành vào mùa đông và mùa hè, người đời còn gọi là Bách biến thảo. Sau khi uống vào có thể tạm thời nâng cao khả năng thích ứng với môi trường khắc nghiệt.</Desc>
+      <StoryBnts.0.Name>Thu hoạch</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng pháp lực để thu hoạch.</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>
