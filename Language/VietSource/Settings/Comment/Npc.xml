@@ -1,0 +1,43 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NpcDiscipleOfJinDan">
+      <Notes>Liên quan tới tiên đạo người tu hành bình luận bảng</Notes>
+      <Title>Tiên đạo người tu hành</Title>
+      <Desc>Tu luyện Kim Đan pháp, truy cầu tiên đạo người tu hành. Tiên đạo người tu hành mặc dù tu hành gian nan, nhưng là chân chính thể ngộ thế gian đại đạo, đến cầu tiêu dao đường tắt. Bọn hắn cá thể thực lực mặc dù có hạn, nhưng cũng kết thành trận pháp, hợp chúng nhân chi lực đối địch. Trừ cái đó ra, càng tinh thông hơn Luyện Thần Đan, vẽ phù lục, lấy các loại thần thông cải tạo tự nhiên, chính là hoàn toàn xứng đáng tu hành giới chủ lưu.</Desc>
+    </Text>
+    <Text Name="NpcDiscipleOfGod">
+      <Notes>Liên quan tới thần đạo người tu hành bình luận bảng</Notes>
+      <Title>Thần đạo người tu hành</Title>
+      <Desc>Tụ tập chúng sinh tín ngưỡng chi lực, truy cầu thần linh chi đạo người tu hành, bọn hắn mặc dù thập phần cường đại, có thể từ vô cùng tín ngưỡng bên trong thu hoạch vô tận lực lượng, nhưng lại sẽ không thể nghịch chuyển đánh mất bản thân, cuối cùng nhận thư ngửa lôi cuốn, trở thành thuần túy thần linh.</Desc>
+    </Text>
+    <Text Name="NpcDiscipleOfBody">
+      <Notes>Liên quan tới Luyện Thể giả bình luận bảng</Notes>
+      <Title>Luyện Thể giả</Title>
+      <Desc>Truyền thừa từ thượng cổ tu hành chi đạo, tụ tập thiên địa tinh hoa rèn luyện thân thể, lấy thu hoạch được bất hủ thể phách. Luyện Thể giả cực thiện công phạt, giảng cứu lấy lực phá đạo, chỉ cần nhập môn có thể rất nhanh có được lực chiến đấu mạnh mẽ, nhưng thể tu chi đạo lấy tự thân làm gốc, tiếp tục tác thủ cướp đoạt, lại không thể trả lại thiên địa, càng khó tụ quần mà tụ. Tuế nguyệt trôi qua, cuối cùng khó cùng quật khởi tiên đạo người tu hành tranh phong, dần dần xuống dốc xuống dưới.</Desc>
+    </Text>
+    <Text Name="NpcWaiMen">
+      <Notes>Liên quan tới ngoại môn đệ tử bình luận bảng</Notes>
+      <Title>Phàm nhân</Title>
+      <Desc>Không có đạp lên tu hành chi đạo người, tại cái này loạn thế tựa như cỏ rác.</Desc>
+    </Text>
+    <Text Name="NpcDaNeng">
+      <Notes>Liên quan tới đại năng bình luận bảng</Notes>
+      <Title>Thượng cổ người tu hành</Title>
+      <Desc>Thượng Cổ thời đại bởi vì linh khí khô triều mà ngủ say người tu hành, bây giờ đã khôi phục trở về. Bọn hắn có được thập phần cường đại thực lực.</Desc>
+    </Text>
+    <Text Name="NpcPuppet">
+      <Notes>Liên quan tới khôi lỗi bình luận bảng</Notes>
+      <Title>Khôi Lỗi</Title>
+      <Desc>Bị pháp thuật thôi động hình người vật thể, có thể tiến hành đơn giản khổ lực lao động.</Desc>
+    </Text>
+    <Text Name="NpcZombie">
+      <Notes>Liên quan tới cương thi bình luận bảng</Notes>
+      <Title>Cương Thi</Title>
+      <Desc>Mất đi người bởi vì phong thuỷ không tốt mà phát sinh dị biến, trở thành khao khát huyết thực không có linh trí tồn tại.</Desc>
+    </Text>
+    <Text Name="NpcTeacher">
+      <Notes>Liên quan tới thần bí người tu hành bình luận bảng</Notes>
+      <Title>Thần Bí Tu Hành Giả</Title>
+    </Text>
+  </List>
+</Texts>
