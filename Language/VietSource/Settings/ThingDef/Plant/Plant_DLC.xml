@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Plant_Bamboo" sParam="Plant">
+      <ThingName>Tre</ThingName>
+      <Desc>Một loại thực vật phổ biến, phát triển nhanh chóng, có thể được sử dụng để chế tạo các công trình và vật phẩm đặc biệt. Khi trưởng thành, củ của nó sẽ mọc măng có thể ăn được. Nhiệt độ: 0℃~40℃, Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+  </List>
+</Texts>
