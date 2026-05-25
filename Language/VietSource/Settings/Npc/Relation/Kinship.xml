@@ -1,0 +1,64 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Spouse">
+      <DisplayNameF>Thê Tử</DisplayNameF>
+      <DisplayNameM>Trượng Phu</DisplayNameM>
+    </Text>
+    <Text Name="Child">
+      <DisplayNameF>Nữ Nhi</DisplayNameF>
+      <DisplayNameM>Nhi Tử</DisplayNameM>
+    </Text>
+    <Text Name="Brother">
+      <DisplayNameF>Tỷ Tỷ, Muội Muội</DisplayNameF>
+      <DisplayNameM>Ca Ca, Đệ Đệ</DisplayNameM>
+    </Text>
+    <Text Name="Parent">
+      <DisplayNameF>Mẫu Thân</DisplayNameF>
+      <DisplayNameM>Phụ Thân</DisplayNameM>
+    </Text>
+    <Text Name="GodChild">
+      <DisplayNameF>Nghĩa Nữ</DisplayNameF>
+      <DisplayNameM>Nghĩa Tử</DisplayNameM>
+    </Text>
+    <Text Name="GodParent">
+      <DisplayNameF>Nghĩa Mẫu</DisplayNameF>
+      <DisplayNameM>Nghĩa Phụ</DisplayNameM>
+    </Text>
+    <Text Name="BiaoBrother">
+      <DisplayNameF>Biểu Tỷ, Biểu Muội</DisplayNameF>
+      <DisplayNameM>Biểu Ca, Biểu Đệ</DisplayNameM>
+    </Text>
+    <Text Name="Friend">
+      <DisplayNameF>Bằng Hữu</DisplayNameF>
+      <DisplayNameM>Bằng Hữu</DisplayNameM>
+    </Text>
+    <Text Name="Fancy">
+      <DisplayNameF>Đối Tượng Ái Mộ</DisplayNameF>
+      <DisplayNameM>Đối Tượng Ái Mộ</DisplayNameM>
+    </Text>
+    <Text Name="FancyFlag">
+      <DisplayNameF>Người Ái Mộ</DisplayNameF>
+      <DisplayNameM>Người Ái Mộ</DisplayNameM>
+    </Text>
+    <Text Name="Lover">
+      <DisplayNameF>Người Yêu</DisplayNameF>
+      <DisplayNameM>Người Yêu</DisplayNameM>
+    </Text>
+    <Text Name="RivalInlove">
+      <DisplayNameF>Tình Địch</DisplayNameF>
+      <DisplayNameM>Tình Địch</DisplayNameM>
+    </Text>
+    <Text Name="PersonalEnemy">
+      <DisplayNameF>Cừu Gia</DisplayNameF>
+      <DisplayNameM>Cừu Gia</DisplayNameM>
+    </Text>
+    <Text Name="Reincarnation">
+      <DisplayNameF>Tiền Thế</DisplayNameF>
+      <DisplayNameM>Tiền Thế</DisplayNameM>
+    </Text>
+    <Text Name="SYS_LOST">
+      <DisplayNameF>Vị Tri ( Mô Tổ Đâu Thất )</DisplayNameF>
+      <DisplayNameM>Vị Tri ( Mô Tổ Đâu Thất )</DisplayNameM>
+    </Text>
+  </List>
+</Texts>
