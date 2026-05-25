@@ -1,0 +1,74 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBlockBase" sParam="Item">
+      <Item.FabaoSuffix>Kim, Ấn, Bia, Giác, Khuê, Khuyết, Trấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronBlock" sParam="Item">
+      <ThingName>Thiết đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ quặng sắt, có thể dùng để chế tác thêm.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.2
+Hệ số tốc độ tấn công của vũ khí: -0.1
+Hệ số thuộc tính ngũ hành của vật liệu: 2</Desc>
+      <Item.BeMaterial.NamePrefix>Thiết</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock" sParam="Item">
+      <ThingName>Hoả đồng đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ quặng hoả đồng, có thể dùng để chế tác thêm.
+Nhiệt độ trung tâm 15, phạm vi 3, nhiệt độ phòng 30.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.4
+Hệ số tốc độ tấn công của vũ khí: +0.15
+Hệ số thuộc tính ngũ hành của vật liệu: 5</Desc>
+      <Item.BeMaterial.NamePrefix>Hoả đồng</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock" sParam="Item">
+      <ThingName>Hàn tinh đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ quặng hàn tinh, có thể dùng để chế tác thêm.
+Nhiệt độ trung tâm -15, phạm vi 3, nhiệt độ phòng -30.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.4
+Hệ số tốc độ tấn công của vũ khí: +0.3
+Hệ số thuộc tính ngũ hành của vật liệu: 5</Desc>
+      <Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock1" sParam="Item">
+      <ThingName>Hoả tinh đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ một lượng lớn quặng hoả đồng bằng máu yêu linh, mỗi đĩnh đều cần tiêu tốn rất nhiều thời gian để luyện chế.
+Nhiệt độ trung tâm 30, phạm vi 3, nhiệt độ phòng 60.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.6
+Hệ số tốc độ tấn công của vũ khí: +0.15
+Hệ số thuộc tính ngũ hành của vật liệu: 9</Desc>
+      <Item.BeMaterial.NamePrefix>Hoả tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock1" sParam="Item">
+      <ThingName>Hàn tinh đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ một lượng lớn quặng hàn tinh bằng máu yêu linh, mỗi đĩnh đều cần tiêu tốn rất nhiều thời gian để luyện chế.
+Nhiệt độ trung tâm -30, phạm vi 3, nhiệt độ phòng -60.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.6
+Hệ số tốc độ tấn công của vũ khí: +0.3
+Hệ số thuộc tính ngũ hành của vật liệu: 9</Desc>
+      <Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelBlock" sParam="Item">
+      <ThingName>Huyền thiết đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ quặng huyền thiết, có thể dùng để chế tác thêm.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 2
+Hệ số tốc độ tấn công của vũ khí: -0.15
+Hệ số thuộc tính ngũ hành của vật liệu: 8</Desc>
+      <Item.BeMaterial.NamePrefix>Huyền thiết</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceBlock" sParam="Item">
+      <ThingName>Tinh tuỷ đĩnh</ThingName>
+      <Desc>Đĩnh kim loại được luyện từ tinh tuỷ, có thể dùng để chế tác thêm.
+Độ dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 3
+Hệ số tốc độ tấn công của vũ khí: +0
+Hệ số thuộc tính ngũ hành của vật liệu: 12</Desc>
+      <Item.BeMaterial.NamePrefix>Tinh tuỷ</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
