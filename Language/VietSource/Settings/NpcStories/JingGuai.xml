@@ -1,0 +1,190 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JGTest">
+      <Events.0.Story>[name] Đang ngẩn người lúc, trong đầu bắt đầu ảo tưởng biến thành người bộ dáng.</Events.0.Story>
+      <Events.1.Story>[name] Đang ngẩn người lúc, trong đầu đột nhiên hiện ra cùng chủ nhân cùng một chỗ thời gian.</Events.1.Story>
+    </Text>
+    <Text Name="JGTunShi">
+      <Events.0.Story>Hina, cái này quá đẹp vị, ta còn nghĩ lại ăn một cân.</Events.0.Story>
+      <Events.1.Story>Lại đến một điểm đi, van cầu ngươi, ta thề ta cái này về sau sẽ giảm béo</Events.1.Story>
+      <Events.2.Story>[name] Tại thôn phệ vật phẩm lúc, đột nhiên nhớ tới tinh quái [obj_tongling], không biết nó có hay không hưởng qua những này mỹ thực</Events.2.Story>
+      <Events.3.Story>An nhàn! Ba vừa!</Events.3.Story>
+      <Events.4.Story>Tốt vị!</Events.4.Story>
+      <Events.5.Story>Ai da má ơi, cái này cát đồ chơi ăn ngon thật!</Events.5.Story>
+      <Events.6.Story>Lại đến</Events.6.Story>
+      <Events.7.Story>Tốt lần đến một thớt</Events.7.Story>
+      <Events.8.Story>Đúng vị!</Events.8.Story>
+    </Text>
+    <Text Name="JGTalkDay">
+      <Events.0.Story>[name] Đang ngẩn người lúc, trong đầu bắt đầu ảo tưởng biến thành người bộ dáng.</Events.0.Story>
+      <Events.1.Story>[name] Không biết chuyện gì xảy ra, không hiểu thấu phát ngẩn người.</Events.1.Story>
+      <Events.2.Story>[name] Nhìn xem những cái kia ngơ ngơ ngác ngác đồng loại, đột nhiên cảm thấy mình rất may mắn.</Events.2.Story>
+      <Events.3.Story>[name][rand_string= Đột nhiên phát ra nhảy mũi thanh âm, đột nhiên phát ra ợ hơi thanh âm, đột nhiên phát ra ngáp thanh âm, bắt đầu lẩm bẩm, đột nhiên cảm thấy có chút ngứa, cảm thấy có chút nhàm chán, thở dài, đột nhiên phát ra chậc lưỡi thanh âm, đột nhiên phát ra thêm đồ vật thanh âm, run run người bên trên tro bụi, ngâm nga tiểu khúc, muốn cùng người nói chuyện, muốn thử xem làm thơ ].</Events.3.Story>
+      <Events.4.Story>[name] Giống như nghe được có ai đang kêu mình.</Events.4.Story>
+      <Events.5.Story>[name] Rất thích [rand_lable=obj_weather].</Events.5.Story>
+      <Events.6.Story>[name] Nhìn xem bên cạnh [rand_lable=obj_nearthing][rand_string= Ngẩn người, cười lên, như có điều suy nghĩ ].</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên rất nhớ nhà.</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy bên cạnh [obj_nearthing] Rất có ý tứ......</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn ăn [obj_food].</Events.9.Story>
+      <Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên suy nghĩ ngàn vạn.</Events.10.Story>
+      <Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên nước mắt chảy xuống.</Events.11.Story>
+      <Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy không hiểu bực bội.</Events.12.Story>
+      <Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn đi [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] Nhìn xem.</Events.13.Story>
+      <Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên nhớ tới chân trời ráng chiều.</Events.14.Story>
+      <Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy không hiểu bực bội.</Events.15.Story>
+      <Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy rất giận buồn bực.</Events.16.Story>
+      <Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Không biết làm sao lại nghĩ khống chế [obj_fabao], thử nghiệm cảm giác.</Events.17.Story>
+      <Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Không biết làm sao lại muốn ăn một hạt [obj_dan], nếm thử hương vị.</Events.18.Story>
+      <Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn cùng người nào đánh một trận.</Events.19.Story>
+      <Events.20.Story>Nhìn ta nhìn ta nhìn ta!</Events.20.Story>
+      <Events.21.Story>Tới tới tới!</Events.21.Story>
+      <Events.22.Story>Ngươi! Tới tâm sự</Events.22.Story>
+      <Events.23.Story>Các ngươi đi tới đi lui phiền quá à</Events.23.Story>
+      <Events.24.Story>Biến thành người liền sẽ giống các ngươi bận rộn như vậy a?</Events.24.Story>
+      <Events.25.Story>Nhìn lão tử làm cái gì mà</Events.25.Story>
+      <Events.26.Story>Làm be?</Events.26.Story>
+      <Events.27.Story>Các ngươi chạy tới chạy lui con mắt không làm chi?</Events.27.Story>
+    </Text>
+    <Text Name="JGTalkNight">
+      <Events.0.Story>[name] Đang ngẩn người lúc, trong đầu bắt đầu ảo tưởng biến thành người bộ dáng.</Events.0.Story>
+      <Events.1.Story>[name] Không biết chuyện gì xảy ra, không hiểu thấu phát ngẩn người.</Events.1.Story>
+      <Events.2.Story>[name] Nhìn xem những cái kia ngơ ngơ ngác ngác đồng loại, đột nhiên cảm thấy mình rất may mắn.</Events.2.Story>
+      <Events.3.Story>[name][rand_string= Đột nhiên phát ra nhảy mũi thanh âm, đột nhiên phát ra ợ hơi thanh âm, đột nhiên phát ra ngáp thanh âm, bắt đầu lẩm bẩm, đột nhiên cảm thấy có chút ngứa, cảm thấy có chút nhàm chán, thở dài, đột nhiên phát ra chậc lưỡi thanh âm, đột nhiên phát ra thêm đồ vật thanh âm, run run người bên trên tro bụi, ngâm nga tiểu khúc, muốn cùng người nói chuyện, muốn thử xem làm thơ ].</Events.3.Story>
+      <Events.4.Story>[name] Giống như nghe được có ai đang kêu mình.</Events.4.Story>
+      <Events.5.Story>[name] Rất thích [rand_lable=obj_weather].</Events.5.Story>
+      <Events.6.Story>[name] Nhìn xem bên cạnh [rand_lable=obj_nearthing][rand_string= Ngẩn người, cười lên, như có điều suy nghĩ ].</Events.6.Story>
+      <Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên rất nhớ nhà.</Events.7.Story>
+      <Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy bên cạnh [obj_nearthing] Rất có ý tứ......</Events.8.Story>
+      <Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn ăn [obj_food].</Events.9.Story>
+      <Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên suy nghĩ ngàn vạn.</Events.10.Story>
+      <Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên nước mắt chảy xuống.</Events.11.Story>
+      <Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy không hiểu bực bội.</Events.12.Story>
+      <Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn đi [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] Nhìn xem.</Events.13.Story>
+      <Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên nhớ tới chân trời ráng chiều.</Events.14.Story>
+      <Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy không hiểu bực bội.</Events.15.Story>
+      <Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên cảm thấy rất giận buồn bực.</Events.16.Story>
+      <Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Không biết làm sao lại nghĩ khống chế [obj_fabao], thử nghiệm cảm giác.</Events.17.Story>
+      <Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Không biết làm sao lại muốn ăn một hạt [obj_dan], nếm thử hương vị.</Events.18.Story>
+      <Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] Đột nhiên muốn cùng người nào đánh một trận.</Events.19.Story>
+      <Events.20.Story>Làm sao đều nằm xuống, chơi a!</Events.20.Story>
+      <Events.21.Story>Lạp lạp lạp lạp lạp lạp ~~</Events.21.Story>
+      <Events.22.Story>Ai ~ Bị ~ Nhao nhao ~ Tỉnh ~ ? Bị ~ Nhao nhao ~ Tỉnh ~~ ? Nhao nhao ~ Tỉnh ~ ? Tỉnh ~ ? ? Đối ~ Không ~ Lên ~ Nha ~~ Lên ~ Nha ~~ Lên ~ Nha ~~ Nha ~~</Events.22.Story>
+      <Events.23.Story>Hô hô hô hô ~ Ta ngủ thiếp đi ~~~~~~~ Giả!</Events.23.Story>
+      <Events.24.Story>Tích tích tích tích tích ~</Events.24.Story>
+      <Events.25.Story>Cộc cộc cộc cộc cộc ~</Events.25.Story>
+      <Events.26.Story>Nghe nói thường xuyên có tinh quái sẽ nửa đêm leo đến ngươi trên giường......</Events.26.Story>
+      <Events.27.Story>A ~~~~~~~~~~ Ta thật thê thảm a ~~~~~~~~ Tay ~ Chỉ ~ Giáp ~ Bên trong tất cả đều là bùn ~~~~~~~~</Events.27.Story>
+    </Text>
+    <Text Name="JGTalkNoMove">
+      <Events.0.Story>Lúc nào mới có thể để cho ta động một chút a, nín chết ở chỗ này!</Events.0.Story>
+      <Events.1.Story>Cho ăn? Cho ăn? Có người a! Mau buông ta ra!</Events.1.Story>
+      <Events.2.Story>Linh hồn của ta đã khô héo, rất muốn ra ngoài đi dạo một vòng......</Events.2.Story>
+      <Events.3.Story>Có ~ Người ~ A ~~ Ta ~ Tốt ~ Không ~ Trò chuyện ~~</Events.3.Story>
+      <Events.4.Story>Hừ, hiện tại coi như ngươi đem ta giải khai, ta cũng không muốn động.</Events.4.Story>
+      <Events.5.Story>Mặt trời đối ta nháy mắt, chim chóc ca hát cho ta nghe, ta là một con toàn thân khó chịu còn không thể động tiểu yêu tinh ~</Events.5.Story>
+      <Events.6.Story>Thả ta ra, ta biết ngươi đang nhìn!</Events.6.Story>
+      <Events.7.Story>Ta muốn đem thiên long cát cua được trong chén trà của ngươi!</Events.7.Story>
+      <Events.8.Story>Rất muốn biến thành người ~ Rất muốn chạy khắp nơi ~</Events.8.Story>
+      <Events.9.Story>Các ngươi già đang nói lửa đồng phòng là dùng để làm gì?</Events.9.Story>
+      <Events.10.Story>Ta có thể hay không cứ như vậy nát ở đây a</Events.10.Story>
+      <Events.11.Story>Ô ô ô ~ Đầu hàng, nhận thua, ta cũng không tiếp tục chạy loạn</Events.11.Story>
+      <Events.12.Story>Thả ~ Ta ~ Ra ~ Đi ~~~</Events.12.Story>
+      <Events.13.Story>Ta kỳ thật không phải nhỏ tinh quái, ta là bị phong ấn ở bên trong lão gia gia. Ngươi thả ta ra, ta dạy cho ngươi tuyệt thế công pháp.</Events.13.Story>
+      <Events.14.Story>Tút tút tút tút bĩu ~</Events.14.Story>
+      <Events.15.Story>Tích tích tích tích tích ~</Events.15.Story>
+      <Events.16.Story>Cộc cộc cộc cộc cộc ~</Events.16.Story>
+      <Events.17.Story>Mấy ngày nay ta suy nghĩ minh bạch một sự kiện, tinh quái khả năng không nên chạy khắp nơi.</Events.17.Story>
+      <Events.18.Story>A ô ~ Ta là một đầu đại ác lang ~~</Events.18.Story>
+      <Events.19.Story>Thả ta ra! Ta muốn thay đổi, ta muốn thay đổi!</Events.19.Story>
+      <Events.20.Story>Van cầu ngươi, thả ta ra đi!</Events.20.Story>
+      <Events.21.Story>Làm yêu liệt khẩn yếu nhất liền hệ vui vẻ còi</Events.21.Story>
+      <Events.22.Story>Nói cho ngươi một cái để cho ta ngậm miệng phương pháp: Không có a. Hì hì hì hì</Events.22.Story>
+      <Events.23.Story>Ta hiện tại đầy chạy trốn đều là đầu óc.</Events.23.Story>
+      <Events.24.Story>Ngươi hai ngày nữa lại đến nhìn ta, ta vụng trộm nói cho ngươi một cái bí mật.</Events.24.Story>
+      <Events.25.Story>Ta có phải là đã điên rồi?</Events.25.Story>
+      <Events.26.Story>Ta cho ngươi biết một cái bí mật............ Kia chính là ta không có bí mật.</Events.26.Story>
+      <Events.27.Story>Ta trước kia không đến lấy, ta mà nhà muốn làm người tốt</Events.27.Story>
+      <Events.28.Story>Không thể động, sọ não đau nhức</Events.28.Story>
+      <Events.29.Story>Ngươi bảy quá mức nồi không có? Hương vị kia không lay động.</Events.29.Story>
+      <Events.30.Story>Ba ngày sau đó lại ba ngày, ba ngày sau đó lại ba ngày</Events.30.Story>
+    </Text>
+    <Text Name="JGEqupt">
+      <Events.0.Story>Đừng a...... Đừng giả bộ chuẩn bị ta, ta còn nghĩ mình chơi một hồi......</Events.0.Story>
+      <Events.1.Story>Dùng đến ta thời điểm liền nhớ lại ta?</Events.1.Story>
+      <Events.2.Story>Lại tới bắt ta làm gì a! Có thể hay không để cho ta một người đợi chút nữa, van ngươi!</Events.2.Story>
+      <Events.3.Story>Còn có thể nhớ tới ta? Ta đều nhàn ra chim......!!</Events.3.Story>
+      <Events.4.Story>Trên người ngươi thối a?</Events.4.Story>
+      <Events.5.Story>Mang theo ta làm gì? Sẽ ra cửa a? Biết đánh nhau không? Sẽ bị rơi tại địa phương khác a?</Events.5.Story>
+      <Events.6.Story>Tha thứ ta nói thẳng, liền ngươi chút thực lực ấy mang theo ta ý nghĩa cũng không lớn.</Events.6.Story>
+      <Events.7.Story>Ai nha ai nha ai nha, có người muốn xuyên ta</Events.7.Story>
+    </Text>
+    <Text Name="JGEqupted">
+      <Events.0.Story>[hename] Ngươi làm sao ra nhiều như vậy mồ hôi, thật buồn nôn!</Events.0.Story>
+      <Events.1.Story>[hename], ngươi nhanh nhiều cùng ta tâm sự a, đừng không nói lời nào!</Events.1.Story>
+      <Events.2.Story>[hename] Ngươi được hay không a, cái trước mang theo ta người so với ngươi còn mạnh hơn nhiều!</Events.2.Story>
+      <Events.3.Story>[hename] Có thể hay không ổn trọng điểm, điên chết ta rồi!</Events.3.Story>
+      <Events.4.Story>[hename] Trên người ngươi quá chật, mau đưa bên cạnh ta gia hỏa này vứt bỏ!</Events.4.Story>
+      <Events.5.Story>[hename] Ta cho ngươi biết cái bí mật, ta nhưng thật ra là bị phong ấn ở bên trong lão gia gia. Ngươi thả ta xuống, ta dạy cho ngươi tuyệt thế công pháp.</Events.5.Story>
+      <Events.6.Story>A a a, [hename] Ngươi nhìn vật kia là sống! A a a! Làm sao ta cũng là sống!</Events.6.Story>
+      <Events.7.Story>[hename] Nhanh ngẩng đầu! Trên trời có đồ vật!</Events.7.Story>
+      <Events.8.Story>Ta nghe nói có loại đồ vật gọi tọa kỵ, Thiên Thiên chở đi người khác đi, [hename] Ngươi là tọa kỵ của ta sao?</Events.8.Story>
+      <Events.9.Story>[hename] Cứu mạng! Ta không thể hít thở!! A, nguyên lai ta không cần hô hấp.</Events.9.Story>
+      <Events.10.Story>[hename] A, ta chỉ điểm ngươi một hai, ngươi cho ta tố cái hình?</Events.10.Story>
+      <Events.12.Story>[hename] Ngươi phải cố gắng lên tu luyện, ta cũng không muốn bại bởi sát vách đầu kia quần</Events.12.Story>
+      <Events.13.Story>[hename] Tự suy nghĩ một chút, người khác vì cái gì làm được, ngươi vì cái gì làm không được?</Events.13.Story>
+      <Events.14.Story>Tút tút tút tút bĩu ~</Events.14.Story>
+      <Events.15.Story>Tích tích tích tích tích ~</Events.15.Story>
+      <Events.16.Story>Cộc cộc cộc cộc cộc ~</Events.16.Story>
+      <Events.17.Story>[hename] Ngươi cảm thấy đem ta phóng tới một cái tất cả đều là bảo vật trong kho hàng thế nào?</Events.17.Story>
+      <Events.18.Story>[hename] Ngươi là thật đồ ăn</Events.18.Story>
+    </Text>
+    <Text Name="JGBreak">
+      <Events.0.Story>[name] Đột nhiên có một loại dự cảm bất tường, nhịn không được xê dịch vị trí.</Events.0.Story>
+      <Events.1.Story>[name] Đột nhiên một trận ác hàn, rất muốn rời đi nơi này......</Events.1.Story>
+    </Text>
+    <Text Name="JGRuin">
+      <Events.0.Story>Tha mạng a! Mau dừng tay! Ta cũng không tiếp tục nhiều lời!</Events.0.Story>
+      <Events.1.Story>Hai mươi năm sau lại là một đầu hảo hán! Đừng nghĩ để cho ta cầu xin tha thứ!</Events.1.Story>
+    </Text>
+    <Text Name="JGMoveSelf">
+      <Events.0.Story>Ngươi muốn đem ta phóng tới đi đâu a?</Events.0.Story>
+      <Events.1.Story>Chớ chịu ta, ta không muốn đổi địa phương.</Events.1.Story>
+      <Events.2.Story>Lại muốn đi địa phương mới? Miễn cưỡng chờ mong một chút......</Events.2.Story>
+      <Events.3.Story>Đây là lại muốn đi chỗ nào? Đừng già đổi lấy đổi đi được không......</Events.3.Story>
+      <Events.4.Story>Ta kỳ thật không quan trọng, nhưng là đem đồ vật chuyển đến dọn đi đối phong thuỷ không tốt......</Events.4.Story>
+      <Events.5.Story>Ta phải lớn nhà kho!</Events.5.Story>
+    </Text>
+    <Text Name="JGBuildingUse">
+      <Events.0.Story>Kỹ thuật không được nha, tiểu hỏa tử!</Events.0.Story>
+      <Events.1.Story>Có thể hay không nhanh lên, nhìn ngươi làm việc ta đều thay ngươi gấp!</Events.1.Story>
+      <Events.2.Story>Liền tài nghệ này còn không biết xấu hổ đến dùng ta! Ta nếu là lớn tay, đã sớm làm xong!</Events.2.Story>
+    </Text>
+    <Text Name="JGPlantHarvest">
+      <Events.0.Story>[hename], ai ai, lưu cho ta mấy cái a!</Events.0.Story>
+      <Events.1.Story>Cẩn thận một chút, đừng đụng xấu đi!</Events.1.Story>
+    </Text>
+    <Text Name="JGInteractive">
+      <Events.0.Story>Này![hename], ngươi tại đối ta làm cái gì!??</Events.0.Story>
+      <Events.1.Story>Có thể thuận tay giúp ta gãi gãi ngứa a?</Events.1.Story>
+      <Events.2.Story>Dung mạo ngươi thật là xấu!</Events.2.Story>
+    </Text>
+    <Text Name="JGInjured">
+      <Events.0.Story>Giết người rồi, cứu mạng a!</Events.0.Story>
+      <Events.1.Story>Tha mạng a anh hùng, ta về sau cũng không tiếp tục lắm mồm!</Events.1.Story>
+      <Events.2.Story>Tha mạng a! Mau dừng tay! Ta cũng không tiếp tục nhiều lời!</Events.2.Story>
+      <Events.3.Story>Hai mươi năm sau lại là một đầu hảo hán! Đừng nghĩ để cho ta cầu xin tha thứ!</Events.3.Story>
+      <Events.4.Story>Ngươi chưa ăn cơm mà? Yếu như vậy! Ta nếu là ngươi liền sẽ lập tức dừng tay, không ở chỗ này mất mặt xấu hổ!</Events.4.Story>
+    </Text>
+    <Text Name="JGTalkToNpc">
+      <Events.0.Story>[hename], chớ đi a, theo giúp ta tâm sự a!</Events.0.Story>
+      <Events.1.Story>[hename], ngươi gấp gáp như vậy là làm gì đi a, thả chậm bước chân, nhìn xem ngươi chung quanh thế giới.</Events.1.Story>
+      <Events.2.Story>[hename], không vội sống, ngươi như vậy đồ ăn, trong môn phái thiếu ngươi một người không ít.</Events.2.Story>
+      <Events.3.Story>[hename], đến mang ta ra ngoài hóng gió một chút a!</Events.3.Story>
+      <Events.4.Story>[hename] Mau nhìn ta!</Events.4.Story>
+      <Events.5.Story>[hename]! Tới!</Events.5.Story>
+      <Events.6.Story>[hename] A, ngươi Thiên Thiên bận rộn như vậy, chưởng môn cho ngươi phát linh thạch không có?</Events.6.Story>
+      <Events.7.Story>[hename], chân trái chân phải một hai một</Events.7.Story>
+      <Events.8.Story>[hename] Chạy mau, phía sau ngươi có tịch mịch!</Events.8.Story>
+    </Text>
+  </List>
+</Texts>
