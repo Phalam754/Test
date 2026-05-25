@@ -1,0 +1,44 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Initialize">
+      <DisplayName>Sơ Thủy Hóa</DisplayName>
+    </Text>
+    <Text Name="StayInTrap">
+      <DisplayName>Tại Trap Điểm Trung Đình Lưu</DisplayName>
+      <PDisplayName>Đình Lưu Thì Gian ( Miểu )</PDisplayName>
+    </Text>
+    <Text Name="EnterTrap">
+      <DisplayName>Tiến Nhập Trap Điểm</DisplayName>
+    </Text>
+    <Text Name="LeaveTrap">
+      <DisplayName>Ly Khai Trap Điểm</DisplayName>
+    </Text>
+    <Text Name="BeenAttack">
+      <DisplayName>Bị Công Kích</DisplayName>
+    </Text>
+    <Text Name="BeenDestroy">
+      <DisplayName>Bị Hủy Phôi</DisplayName>
+    </Text>
+    <Text Name="Dead">
+      <DisplayName>Tử Vong</DisplayName>
+    </Text>
+    <Text Name="InSocial">
+      <DisplayName>Xã Giao Trung</DisplayName>
+    </Text>
+    <Text Name="LeaveSocial">
+      <DisplayName>Xã Giao Hậu</DisplayName>
+    </Text>
+    <Text Name="NpcEnterWorkSpace">
+      <DisplayName>Giác Sắc Tiến Nhập Công Tác Điểm</DisplayName>
+    </Text>
+    <Text Name="NpcLeaveWorkSpace">
+      <DisplayName>Giác Sắc Ly Khai Công Tác Điểm</DisplayName>
+    </Text>
+    <Text Name="OnStep">
+      <DisplayName>La Tập Tránh Hồi Điều</DisplayName>
+    </Text>
+    <Text Name="OnRender">
+      <DisplayName>Tuyển Nhiễm Tránh Hồi Điều</DisplayName>
+    </Text>
+  </List>
+</Texts>
