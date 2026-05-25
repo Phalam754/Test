@@ -1,0 +1,410 @@
+﻿ID	Name	Desc
+ID	成就名字	介绍
+1	Đắc đạo phi thăng	Tính gộp lại 1 Người phi thăng
+2	Phi thăng đạt nhân	Tính gộp lại 3 Người phi thăng
+3	Tiên giới khách quen	Tính gộp lại 5 Người phi thăng
+4	Tiên tên truyền xa	Tính gộp lại 10 Người phi thăng
+5	Mới ra đời	Tính gộp lại lịch luyện 1 Lần
+6	Trà trộn hồng trần	Tính gộp lại lịch luyện 100 Lần
+7	Đi lượt Thiên Sơn	Tính gộp lại lịch luyện 500 Lần
+8	Rong ruổi thiên hạ	Tính gộp lại lịch luyện 1000 Lần
+9	Thi vòng đầu luyện đan	Tính gộp lại luyện đan 1 Lần
+10	Luyện đan quen tay	Tính gộp lại luyện đan 50 Lần
+11	Đan môn cao nhân	Tính gộp lại luyện đan 100 Lần
+12	Đại đan sư	Tính gộp lại luyện đan 500 Lần
+13	Thi vòng đầu luyện bảo	Tính gộp lại luyện bảo 1 Lần
+14	Luyện bảo quen tay	Tính gộp lại luyện bảo 50 Lần
+15	Luyện bảo cao thủ	Tính gộp lại luyện bảo 100 Lần
+16	Bảo Tôn Giả	Tính gộp lại luyện bảo 500 Lần
+17	Thi vòng đầu vẽ bùa	Tính gộp lại vẽ bùa 1 Lần
+18	Vẽ bùa quen tay	Tính gộp lại vẽ bùa 50 Lần
+19	Vẽ bùa cao thủ	Tính gộp lại vẽ bùa 100 Lần
+20	Phù thánh thủ	Tính gộp lại vẽ bùa 500 Lần
+21	Sát niệm mới sinh	Tính gộp lại đánh giết 1 Tên sinh linh
+22	Sát ý nghiêm nghị	Tính gộp lại đánh giết 100 Tên sinh linh
+23	Sát khí tung hoành	Tính gộp lại đánh giết 500 Tên sinh linh
+24	Sát thần	Tính gộp lại đánh giết 1000 Tên sinh linh
+25	Tu chân sát thủ	Tính gộp lại đánh giết người tu hành 1 Người
+26	Tu chân khắc tinh	Tính gộp lại đánh giết người tu hành 100 Người
+27	Tu chân đồ tể	Tính gộp lại đánh giết người tu hành 500 Người
+28	Thí tiên giả	Tính gộp lại đánh giết người tu hành 1000 Người
+29	Thi vòng đầu sưu hồn	Tính gộp lại sưu hồn 1 Người
+30	Sưu hồn quen tay	Tính gộp lại sưu hồn 10 Người
+31	Sưu hồn cao nhân	Tính gộp lại sưu hồn 50 Người
+32	Hồn Tông	Tính gộp lại sưu hồn 100 Người
+33	Đầu bếp	Tính gộp lại làm ra 10 Loại đồ ăn
+34	Đầu bếp	Tính gộp lại làm ra 20 Loại đồ ăn
+35	Thực thần	Tính gộp lại làm ra 50 Loại đồ ăn
+36	Linh tê lóe lên	Tính gộp lại làm ra 7 Giai tác phẩm nghệ thuật 1 Cái
+37	Linh nghĩ chảy ra	Tính gộp lại làm ra 7 Giai tác phẩm nghệ thuật 10 Cái
+38	Nghệ thuật gia	Tính gộp lại làm ra 7 Giai tác phẩm nghệ thuật 50 Cái
+39	Vui thêm một	Tính gộp lại thuyết phục 1 Tên lữ nhân gia nhập
+40	Vui thêm năm	Tính gộp lại thuyết phục 5 Tên lữ nhân gia nhập
+41	Vui thêm mười	Tính gộp lại thuyết phục 10 Tên lữ nhân gia nhập
+42	Tìm hiểu một chút	Tính gộp lại thuyết phục 20 Tên lữ nhân gia nhập
+43	Mới học bí sách	Tính gộp lại thông qua sách học được 1 Bản bí tịch
+44	Đọc nhiều sách vở kiến thức uyên bác	Tính gộp lại thông qua sách học được 10 Bản bí tịch
+45	Học giàu năm xe	Tính gộp lại thông qua sách học được 50 Bản bí tịch
+46	Bách Hiểu Sanh	Tính gộp lại thông qua sách học được 100 Bản bí tịch
+47	Bất hạnh chết	Tính gộp lại đệ tử tử vong 1 Người
+48	Họa vô đơn chí	Tính gộp lại đệ tử tử vong 5 Người
+49	Tiên đồ nhiều thăng trầm	Tính gộp lại đệ tử tử vong 10 Người
+50	Sinh tử vô thường	Tính gộp lại đệ tử tử vong 50 Người
+51	Đau mất ái đồ	Tính gộp lại nội môn đệ tử tử vong 1 Người
+52	Đau nhức càng thêm đau nhức	Tính gộp lại nội môn đệ tử tử vong 5 Người
+53	Đau thấu tim gan	Tính gộp lại nội môn đệ tử tử vong 10 Người
+54	Tan nát cõi lòng	Tính gộp lại nội môn đệ tử tử vong 20 Người
+55	Ta chính là ngươi	Tính gộp lại đoạt xá 1 Người
+56	Ta cũng là hắn	Tính gộp lại đoạt xá 5 Người
+57	Chúng sinh đều ta	Tính gộp lại đoạt xá 10 Người
+58	Áo lót vương	Tính gộp lại đoạt xá 20 Người
+59	Một cái chớp mắt trăm năm	Tính gộp lại nhập định 100 Năm
+60	Định bên trong tuế nguyệt	Tính gộp lại nhập định 500 Năm
+61	Không Tri Xuân thu	Tính gộp lại nhập định 1000 Năm
+62	Di thế người	Tính gộp lại nhập định 5000 Năm
+63	Để mạng lại	Tính gộp lại hút người khác tuổi thọ 10 Năm
+64	Ta còn muốn	Tính gộp lại hút người khác tuổi thọ 50 Năm
+65	Trong số mệnh có khi	Tính gộp lại hút người khác tuổi thọ 500 Năm
+66	Minh Linh	Tính gộp lại hút người khác tuổi thọ 1000 Năm
+67	Đau đến không muốn sống	Tính gộp lại luyện hồn 1 Lần
+68	Kêu rên khắp nơi	Tính gộp lại luyện hồn 10 Lần
+69	Đau khổ chi nguyên	Tính gộp lại luyện hồn 50 Lần
+70	Ma Nhân	Tính gộp lại luyện hồn 100 Lần
+71	Nhiếp thần ngự quỷ	Tính gộp lại nhiếp thần ngự quỷ 1 Lần
+72	Tươi sống chi hồn	Tính gộp lại nhiếp thần ngự quỷ 10 Lần
+73	Hồn vì ta dùng	Tính gộp lại nhiếp thần ngự quỷ 50 Lần
+74	Hồn Đế	Tính gộp lại nhiếp thần ngự quỷ 100 Lần
+75	Thiên yêu hóa huyết	Tính gộp lại thiên yêu hóa huyết 1 Lần
+76	Sinh tử khăng khít	Tính gộp lại thiên yêu hóa huyết 10 Lần
+77	Đạo âm dương	Tính gộp lại thiên yêu hóa huyết 50 Lần
+78	Tử chi vương	Tính gộp lại thiên yêu hóa huyết 100 Lần
+79	Câu thông Tà Thần	Tính gộp lại hiến tế 1 Lần
+80	Tà chi tín đồ	Tính gộp lại hiến tế 10 Lần
+81	Tà chi sứ giả	Tính gộp lại hiến tế 50 Lần
+82	Tà tuyển người	Tính gộp lại hiến tế 100 Lần
+83	Vì ta chi chủng	Tính gộp lại hồn thể ký sinh 1 Người
+84	Sinh sôi không ngừng	Tính gộp lại hồn thể ký sinh 10 Người
+85	Lượt loại thiên hạ	Tính gộp lại hồn thể ký sinh 50 Người
+86	Trộm đạo giả	Tính gộp lại hồn thể ký sinh 100 Người
+87	Minh hữu	Tính gộp lại thu hoạch được trấn phái pháp bảo 1 Kiện
+88	Thiết lập quan hệ ngoại giao thiên hạ	Tính gộp lại thu hoạch được trấn phái pháp bảo 10 Kiện
+89	Lữ nhân	Tại lịch luyện bên trong tự mình phát hiện 5 Cái vùng đất mới điểm ( Thông qua thư tịch thu hoạch được địa điểm không tính ở bên trong )
+90	Nhà thám hiểm	Tại lịch luyện bên trong tự mình phát hiện 25 Cái vùng đất mới điểm ( Thông qua thư tịch thu hoạch được địa điểm không tính ở bên trong )
+91	Thiên hạ hành tẩu	Tại lịch luyện bên trong tự mình phát hiện 50 Cái vùng đất mới điểm ( Thông qua thư tịch thu hoạch được địa điểm không tính ở bên trong )
+1002	Thần đan cửu chuyển	Luyện được cửu chuyển Kim Đan
+1003	Đan ngưng năm cực	Luyện được năm cực linh đan
+1004	Mệnh ta do ta	Kết thành Kim Đan
+1005	Đan thành nhất phẩm	Kết thành nhất phẩm Kim Đan
+1006	Thái Hòa môn hạ	Tu luyện 《 Thái hòa mười sáu động thiên 》
+1007	Chân truyền: Thái hòa	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Thái hòa mười sáu động thiên 》
+1008	Nhất phẩm: Thái hòa	Lấy 《 Thái hòa mười sáu động thiên 》 Công pháp kết thành nhất phẩm Kim Đan
+1009	Đắc đạo: Thái hòa	Lấy 《 Thái hòa mười sáu động thiên 》 Công pháp phi thăng
+1010	Đa Bảo môn hạ	Tu luyện 《 Mình dần chín xông Đa Bảo chân giải 》
+1011	Chân truyền: Đa Bảo	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Mình dần chín xông Đa Bảo chân giải 》
+1012	Nhất phẩm: Đa Bảo	Lấy 《 Mình dần chín xông Đa Bảo chân giải 》 Công pháp kết thành nhất phẩm Kim Đan
+1013	Đắc đạo: Đa Bảo	Lấy 《 Mình dần chín xông Đa Bảo chân giải 》 Công pháp phi thăng
+1014	Thất Sát môn hạ	Tu luyện 《 Thất Sát Kiếm quyết 》
+1015	Chân truyền: Thất Sát	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Thất Sát Kiếm quyết 》
+1016	Nhất phẩm: Thất Sát	Lấy 《 Thất Sát Kiếm quyết 》 Công pháp kết thành nhất phẩm Kim Đan
+1017	Đắc đạo: Thất Sát	Lấy 《 Thất Sát Kiếm quyết 》 Công pháp phi thăng
+1018	Ngọc Thanh môn hạ	Tu luyện 《 Ngọc Thanh tiên pháp 》
+1019	Chân truyền: Ngọc Thanh	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Ngọc Thanh tiên pháp 》
+1020	Nhất phẩm: Ngọc Thanh	Lấy 《 Ngọc Thanh tiên pháp 》 Công pháp kết thành nhất phẩm Kim Đan
+1021	Đắc đạo: Ngọc Thanh	Lấy 《 Ngọc Thanh tiên pháp 》 Công pháp phi thăng
+1022	Thâu thiên môn hạ	Tu luyện 《 Thâu thiên quyết 》
+1023	Chân truyền: Thâu thiên	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Thâu thiên quyết 》
+1024	Nhất phẩm: Thâu thiên	Lấy 《 Thâu thiên quyết 》 Công pháp kết thành nhất phẩm Kim Đan
+1025	Đắc đạo: Thâu thiên	Lấy 《 Thâu thiên quyết 》 Công pháp phi thăng
+1026	Cửu chuyển môn hạ	Tu luyện 《 Cửu chuyển Kim Đan trực chỉ 》
+1027	Chân truyền: Cửu chuyển	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Cửu chuyển Kim Đan trực chỉ 》
+1028	Nhất phẩm: Cửu chuyển	Lấy 《 Cửu chuyển Kim Đan trực chỉ 》 Công pháp kết thành nhất phẩm Kim Đan
+1029	Đắc đạo: Cửu chuyển	Lấy 《 Cửu chuyển Kim Đan trực chỉ 》 Công pháp phi thăng
+1030	Bắc Đẩu môn hạ	Tu luyện 《 Bắc Đẩu động tâm kiếp pháp 》
+1031	Chân truyền: Bắc Đẩu	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Bắc Đẩu động tâm kiếp pháp 》
+1032	Nhất phẩm: Bắc Đẩu	Lấy 《 Bắc Đẩu động tâm kiếp pháp 》 Công pháp kết thành nhất phẩm Kim Đan
+1033	Đắc đạo: Bắc Đẩu	Lấy 《 Bắc Đẩu động tâm kiếp pháp 》 Công pháp phi thăng
+1034	Luân hồi môn hạ	Tu luyện 《 Trường sinh Lục Đạo Luân Hồi trải qua 》
+1035	Chân truyền: Luân hồi	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Trường sinh Lục Đạo Luân Hồi trải qua 》
+1036	Nhất phẩm: Luân hồi	Lấy 《 Trường sinh Lục Đạo Luân Hồi trải qua 》 Công pháp kết thành nhất phẩm Kim Đan
+1037	Đắc đạo: Luân hồi	Lấy 《 Trường sinh Lục Đạo Luân Hồi trải qua 》 Công pháp phi thăng
+1038	Tam dương môn hạ	Tu luyện 《 Tam dương tam muội Bính Đinh luyện lửa quyết 》
+1039	Chân truyền: Tam dương	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Tam dương tam muội Bính Đinh luyện lửa quyết 》
+1040	Nhất phẩm: Tam dương	Lấy 《 Tam dương tam muội Bính Đinh luyện lửa quyết 》 Công pháp kết thành nhất phẩm Kim Đan
+1041	Đắc đạo: Tam dương	Lấy 《 Tam dương tam muội Bính Đinh luyện lửa quyết 》 Công pháp phi thăng
+1042	Quỳ Hoa môn hạ	Tu luyện 《 Quỳ Hoa luyện thần đại pháp 》
+1043	Chân truyền: Quỳ Hoa	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Quỳ Hoa luyện thần đại pháp 》
+1044	Nhất phẩm: Quỳ Hoa	Lấy 《 Quỳ Hoa luyện thần đại pháp 》 Công pháp kết thành nhất phẩm Kim Đan
+1045	Đắc đạo: Quỳ Hoa	Lấy 《 Quỳ Hoa luyện thần đại pháp 》 Công pháp phi thăng
+1046	Vong tình môn hạ	Tu luyện 《 Thái thượng vong tình đạo 》
+1047	Chân truyền: Vong tình	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Thái thượng vong tình đạo 》
+1048	Nhất phẩm: Vong tình	Lấy 《 Thái thượng vong tình đạo 》 Công pháp kết thành nhất phẩm Kim Đan
+1049	Đắc đạo: Vong tình	Lấy 《 Thái thượng vong tình đạo 》 Công pháp phi thăng
+1050	Làm môn phàm lưu	Môn phái danh vọng đạt tới 400: Làm môn phàm lưu
+1051	Mới gặp giang hồ	Môn phái danh vọng đạt tới 1000: Mới gặp giang hồ
+1052	Nghe tiếng xa gần	Môn phái danh vọng đạt tới 5000: Nghe tiếng xa gần
+1053	Danh chấn hoàn vũ	Môn phái danh vọng đạt tới 10000: Danh chấn hoàn vũ
+1054	Vạn năm lưu danh	Môn phái danh vọng đạt tới 40000: Vạn năm lưu danh
+1055	Danh môn chính phái	Môn phái trở thành: Danh môn chính phái
+1056	Trong chính đạo lưu	Môn phái trở thành: Trong chính đạo lưu
+1057	Chính đạo khôi thủ	Môn phái trở thành: Chính đạo khôi thủ
+1058	Tà môn ma đạo	Môn phái trở thành: Tà môn ma đạo
+1059	Tà đạo Để Trụ	Môn phái trở thành: Tà đạo Để Trụ
+1060	Ma Môn cự phách	Môn phái trở thành: Ma Môn cự phách
+1061	Dần dần có nhân khí	Môn phái có được 5 Người
+1062	Đơn giản quy mô	Môn phái có được 10 Người
+1063	Môn sinh thịnh vượng	Môn phái có được 18 Người
+1064	Đạp lên tiên đồ	Môn phái có được 1 Vị nội môn đệ tử
+1065	Thu môn đồ khắp nơi	Môn phái có được 4 Vị nội môn đệ tử
+1066	Nhân tài đông đúc	Môn phái có được 8 Vị nội môn đệ tử
+1067	Thiên tai: Hàn lưu	Vượt qua hàn lưu
+1068	Thiên tai: Sóng nhiệt	Vượt qua sóng nhiệt
+1069	Thiên tai: Vĩnh Dạ	Vượt qua Vĩnh Dạ
+1070	Vạn Kiếm Quy Tông	Ngự vật kỹ năng đạt tới 20 Cấp
+1071	Pháp có Nguyên Thần	Thuật pháp kỹ năng đạt tới 20 Cấp
+1072	Kim Cương Bất Hoại	Hộ thể kỹ năng đạt tới 20 Cấp
+1073	Y Tiên	Luyện đan kỹ năng đạt tới 20 Cấp
+1074	Khí tông	Luyện khí kỹ năng đạt tới 20 Cấp
+1075	Thu đi đông lại	Trong trò chơi vượt qua thứ 1 Năm
+1076	Thời gian cực nhanh	Trong trò chơi vượt qua thứ 5 Năm
+1077	Vội vàng năm đó	Trong trò chơi vượt qua thứ 10 Năm
+1078	Thể hồ quán đỉnh	Lần thứ nhất thi triển thần thông: Thể hồ quán đỉnh
+1079	Tái tạo hình thần	Lần thứ nhất thi triển thần thông: Tái tạo hình thần
+1080	Thiên nhãn mở rộng	Lần thứ nhất thi triển thần thông: Mở thiên nhãn
+1081	Phạt mao tẩy tủy	Lần thứ nhất thi triển thần thông: Phạt mao tẩy tủy
+1082	Nhục thân tái tạo	Lần thứ nhất thi triển thần thông: Tái tạo thuật
+1083	Hô phong hoán vũ	Lần thứ nhất thi triển thần thông: Cầu mưa thuật
+1084	Khu mây tạnh sương mù	Lần thứ nhất thi triển thần thông: Khu mây thuật
+1085	Não đại động mở	Đỉnh đầu hư hao
+1086	Nổ đầu!	Đầu hư hao
+1087	Cương thi cảnh cáo	Đại não hư hao
+1088	Bạo lá gan!	Gan hư hao
+1089	Vô dục vô cầu	Tịnh thân
+1090	My heart will go on	Trái tim hư hao
+1091	Đất lành để tu hành	Môn phái phong thuỷ biến thành đất lành để tu hành
+1092	Tiên gia động thiên	Môn phái phong thuỷ biến thành Tiên gia động thiên
+1093	Cát trạch	Làm một gian phòng phong thuỷ biến thành cát
+1094	Phong thuỷ bảo địa	Làm một gian phòng phong thuỷ biến thành đại cát
+1095	Một kiếp Thiên Tiên	Trong phái có một vị tiên nhân ngưng lại thế gian, vượt qua một lần Thiên Tiên Kiếp
+1096	Tam kiếp Thiên Tiên	Trong phái có một vị tiên nhân ngưng lại thế gian, vượt qua ba lần Thiên Tiên Kiếp
+1097	Ngũ kiếp Thiên Tiên	Trong phái có một vị tiên nhân ngưng lại thế gian, vượt qua năm lần Thiên Tiên Kiếp
+1098	Cửu kiếp Thiên Tiên	Trong phái có một vị tiên nhân ngưng lại thế gian, vượt qua chín lần Thiên Tiên Kiếp
+1099	Lịch kiếp Linh Bảo	Thu hoạch được một kiện kinh lịch 1 Lần Thiên Tiên Kiếp tẩy luyện pháp bảo
+1100	Trải qua cướp luyện	Thu hoạch được một kiện kinh lịch 5 Lần Thiên Tiên Kiếp tẩy luyện pháp bảo
+1101	Trấn phái Thần khí	Thu hoạch được một kiện kinh lịch 10 Lần Thiên Tiên Kiếp tẩy luyện pháp bảo
+1102	Truyền thế chi khí	Thu hoạch được một kiện kinh lịch 20 Lần Thiên Tiên Kiếp tẩy luyện pháp bảo
+2000	Tinh điêu tế trác	Luyện được 100 Phẩm chất pháp bảo
+2001	Thần Khí tông tượng	Luyện được 12 Giai pháp bảo
+2002	Thần bút	Vẽ ra phẩm chất 95 Trở lên phù chú
+2003	Tài đại khí thô	Dung luyện 12 Giai pháp bảo
+2004	Hướng lên trời hỏi	Độ kiếp thành công
+2005	Thiên uy hạo đãng	Độ kiếp thất bại tử vong
+2006	Đạo cơ hủy hết	Độ kiếp thất bại may mắn còn sống sót
+2007	Tiến bộ dũng mãnh	Lần thứ nhất đột phá bình cảnh thành công
+2008	Thành lập môn phái	Thành lập một môn phái
+2009	Căn cơ lớn mạnh	Môn phái khuếch trương vì phái
+2010	Đại phái quật khởi	Môn phái khuếch trương vì động thiên
+2011	Một ngày vi sư	Lần thứ nhất bái sư
+2012	Thanh xuất vu lam	Lần thứ nhất truyền thụ
+2013	Yêu	Lần thứ nhất yêu đương
+2014	Bước đầu tiên	Lần thứ nhất thổ lộ
+2015	Nhịp tim hồi ức	Lần thứ nhất thổ lộ thành công
+2016	Ngươi là người tốt	Lần thứ nhất thổ lộ thất bại
+2017	Tâm ma bắt đầu động	Lần thứ nhất nhập ma
+2018	Bái bai ngài siết	Lần thứ nhất khu trục đệ tử
+2019	Đơn rút ra kỳ tích	Lần thứ nhất đào ra cũ kỹ hộp đá
+2020	Cảnh thự có quy định	Lần thứ nhất đớp cứt
+2021	Thật là thơm	Lần thứ nhất ăn đất
+2022	Ta không làm người rồi	Đoạt xá một con động vật
+2023	Đừng tu tiên!	Hộ khách bưng mở ra vượt qua 4 Giờ, mà nên lúc trước ở giữa tại 0 Điểm -5 Điểm ở giữa.
+2024	Rồng vẫn	Đánh giết giao long
+2025	Phượng ngủ	Đánh giết hung phượng
+2026	Đạo âm dương	Đánh giết Chúc Long
+2027	Vội vã không nhịn nổi	Tại 60 Giây bên trong làm giao long tiến vào Chân Long hình thái
+2028	Trên đầu có sừng thú	Phá hư sừng rồng sau đánh giết giao long
+2029	Sau lưng có cái đuôi	Phá hư đuôi rồng sau đánh giết giao long
+2030	Vô năng cuồng nộ	Phá hư vảy ngược sau đánh giết giao long
+2031	Có khí khó ra	Giao long chưa từng phát động long nộ liền bị đánh giết
+2032	Ta cần nước	Giao long chưa từng phát động trạch quốc liền bị đánh giết
+2033	Thiên hỏa thiên hỏa	Lấy 5 Người gánh vác hạ Phượng Hoàng cắt kim loại, đồng thời không người thụ thương
+2034	Lại nhìn ta ta liền đem ngươi	Tiếp nhận đốt chi con ngươi 20 Giây lại không thụ thương
+2035	Hoan nghênh đi vào Trùng Khánh	Hung phượng hoàn chỉnh phóng thích mặt trời chi tinh sau đánh giết hung phượng
+2036	Đừng đánh mặt	Phá hư hung phượng đầu vũ sau đánh giết hung phượng
+2037	Thà làm đầu gà	Phá hư hung đuôi phượng vũ sau đánh giết hung phượng
+2038	Siêu cấp tụ Linh khí	Duy trì trứng Phượng Hoàng tại không nở cũng không chết vong trạng thái 36 Trời trở lên
+2039	Một mẻ hốt gọn	Đánh bại Chúc Long lúc, có 9 Cái trở lên trứng bị trấn áp
+2040	Thiên đạo có hại	Phá hư Chúc Long Thiên Lân sau đánh bại Chúc Long
+2041	Hỗn độn chi lực	Phá hư Chúc Long long ngọc sau đánh bại Chúc Long
+2042	Âm dương dùng cái gì	Cùng một cái nhân vật có tâm linh lồng chụp cùng Nghiệp Hỏa quấn thân sau đánh bại Chúc Long
+2043	Hoàn toàn trấn áp	Không có một cái trứng nở tình huống dưới đánh bại Chúc Long
+2044	Long tức, mau tránh!	Không người bị long tức trúng đích tình huống dưới đánh bại Chúc Long
+2045	Thiên địa linh căn	Lần thứ nhất trồng linh căn
+2046	Linh căn thu hoạch	Thu hoạch một lần Ngũ Hành linh căn
+2047	Linh sát chi cực	Ngũ Hành linh căn linh sát giá trị đạt thành một lần cực hạn
+2048	Bản nguyên chân pháp	Lần thứ nhất lĩnh ngộ bản nguyên chân pháp
+2049	Nghịch nguyên chân pháp	Lần thứ nhất lĩnh ngộ nghịch nguyên chân pháp
+2050	Ngài nghỉ ngơi	Đánh giết một lần cổ đại đại năng
+2051	Cùng ta hỗn	Lần thứ nhất thuần dưỡng động vật
+2052	Vĩnh bất vi nô!	Động vật lần thứ nhất biến thành yêu thú
+10000	Trùng cốc bí văn	Hoàn thành đặc thù lịch luyện: Trùng cốc bí văn
+10001	Độc Long bí bảo	Hoàn thành đặc thù lịch luyện: Độc Long bí bảo
+10002	Y Tiên nội phủ	Hoàn thành đặc thù lịch luyện: Y Tiên nội phủ
+10003	Lửa huyệt tầm bảo	Hoàn thành đặc thù lịch luyện: Lửa huyệt tầm bảo
+10004	Thiên trì bảo tàng	Hoàn thành đặc thù lịch luyện: Thiên trì bảo tàng
+10005	Thiên ma phong ấn	Hoàn thành đặc thù lịch luyện: Thiên ma phong ấn
+10006	Càn khôn bên ngoài	Hiểu rõ thế giới cuối cùng chân tướng
+3000	Giáo dục làm đầu	Lần thứ nhất kiến tạo Tàng Kinh Các
+3001	Tri thức ở chỗ chia sẻ	Lần thứ nhất tại trong Tàng Kinh Các ghi vào
+3002	Học tập cho giỏi	Lần thứ nhất thông qua Tàng Kinh Các học tập
+3003	Sách doanh bốn vách tường	Tàng Kinh Các tàng thư đạo hạnh đạt tới 500 Điểm
+3004	Toàn sách là sách	Tàng Kinh Các tàng thư đạo hạnh đạt tới 2000 Điểm
+3005	Phong phú	Tàng Kinh Các tàng thư đạo hạnh đạt tới 5000 Điểm
+3006	Lang hoàn chi giấu	Tàng Kinh Các tàng thư đạo hạnh đạt tới 10000 Điểm
+3007	Trân bảo lại thấy ánh mặt trời	Lần thứ nhất luyện chế bí bảo
+3008	Nhỏ máu nhận chủ	Lần thứ nhất kích hoạt bí bảo
+3009	Thi vòng đầu bí bảo	Tích lũy kích hoạt 1 Cái khác biệt bí bảo
+3010	Bí bảo quen tay	Tích lũy kích hoạt 5 Cái khác biệt bí bảo
+3011	Bí bảo cao thủ	Tích lũy kích hoạt 10 Cái khác biệt bí bảo
+3012	Thần tượng	Tích lũy kích hoạt 20 Cái khác biệt bí bảo
+3013	Ngươi tỉnh rồi?	Chủ động điểm hóa một cái tinh quái
+3014	An tĩnh!	Lấy ngưng phách quyết xoá bỏ một cái tinh quái
+3015	Lắng nghe huyền diệu	Thụ nhân vật cảm hoá mà tự nhiên sinh ra tinh quái
+3016	Từ cảm giác thành linh	Chứng kiến môi trường tự nhiên hạ sinh ra tinh quái
+3017	Ngươi là ai?	Lần thứ nhất gặp được hoang dại tinh quái
+3018	Tu hành giới: Biến người	Làm một cái tinh quái tố thể
+3019	Dinh dưỡng cân đối	Làm một cái Ngũ Hành cân đối tinh quái tố thể
+3020	Tùy theo tài năng tới đâu mà dạy	Làm một cái Ngũ Hành thuần túy ( Nào đó một hạng 100%) Tinh quái tố thể, cũng vì lựa chọn xứng đôi tiên đạo công pháp, khiến cho tiến vào nội môn
+3021	Nhiều người cơm bao no	Gian nan thoát đi toàn bộ kích hoạt tình huống dưới không người tử vong vượt qua hai năm
+3022	Gió mặc gió, mưa mặc mưa	Ác liệt hoàn cảnh toàn bộ kích hoạt tình huống dưới không người tử vong vượt qua một năm
+3023	Lớn uy thiên long	Ban đầu có 4 Cái yêu thú tình huống dưới năm thứ nhất bên trong đánh giết trên bản đồ tất cả yêu thú
+3024	Tinh vi kiến trúc	Gian nan kiến thiết toàn bộ kích hoạt tình huống dưới trong một năm kiến tạo Tiểu Càn Khôn Giới
+3025	Tự hành tìm tòi	Thất truyền toàn bộ kích hoạt tình huống dưới năm thứ nhất nội môn phái quy mô đạt tới động thiên
+3026	Tính toán tỉ mỉ	Vật tư thiếu toàn bộ kích hoạt tình huống dưới năm thứ nhất bên trong kiến tạo Tiểu Càn Khôn Giới
+3027	Tuyển chọn tỉ mỉ	Đạo suy chi thế toàn bộ kích hoạt tình huống dưới đem một thuộc tính cơ sở đồng đều vượt qua 5 Nhân vật thu nhập môn phái
+3028	Cò kè mặc cả	Làm ăn khó khăn toàn bộ kích hoạt tình huống dưới năm thứ nhất bên trong thông qua hành thương mua một kiện 10 Giai trở lên vật phẩm
+3029	Thuận thế mà làm	Thiên đạo hỗn loạn toàn bộ kích hoạt dưới điều kiện năm thứ nhất để một nhân vật đạt tới Nguyên Thần kỳ hoặc đối ứng cảnh giới
+3030	Ngươi nhìn gâu gâu nhiều tài giỏi	Suy nhược linh sủng toàn bộ kích hoạt dưới điều kiện năm thứ nhất bên trong để linh sủng đơn độc đánh giết một cái Kim Đan kỳ hoặc trở lên yêu thú
+3031	Cá nhân liên quan	Băng lãnh nhân gian toàn bộ kích hoạt dưới điều kiện cùng tất cả môn phái chưởng môn độ thiện cảm đạt tới 100
+3032	Hàng yêu trừ ma	Tại bầy yêu 80 Ngày qua tập tình huống dưới đem đánh giết
+3033	Tu chân sát thủ sát thủ	Tại tu chân sát thủ 150 Ngày qua tập tình huống dưới đem đánh giết
+3034	Tránh mà không gặp	Tại thần bí hang động 30 Trời sau khi xuất hiện 200 Trời bên trong không cho giao long xuất hiện, sau đó đem đánh giết
+3035	Nông phu cùng rồng cố sự	Tại thượng cổ nghiêm uy toàn bộ kích hoạt tình huống dưới thần bí hang động sau khi xuất hiện 200 Trời bên trong không cho rồng xuất hiện, sau đó đem đánh giết
+3036	Cao cấp tương đương uy nghiêm	Thế gian việc vặt toàn bộ kích hoạt dưới điều kiện trong vòng ba năm đem tất cả địa khu cùng thành thị chủ điện lên tới 3 Cấp
+3037	Tiên nhân không tin nước mắt	Tiên gia vô tình toàn bộ kích hoạt dưới điều kiện năm thứ nhất bên trong từ một môn phái mua một kiện 12 Giai vật phẩm
+3038	Trảm diệt quần tiên	Tại tối cao môn phái thực lực tình huống dưới để tất cả môn phái thần phục
+3039	Trảm diệt chân âm	Đánh giết tối cao thực lực hạ giao long
+3040	Trảm diệt chân dương	Đánh giết tối cao thực lực hạ hung phượng
+3041	Trảm diệt thiên đạo	Đánh giết tối cao thực lực hạ Chúc Long
+3042	Chung yên chi chiến	Tại ngày càng gian nan kích hoạt tình huống dưới, đánh bại thứ 1000 Ngày trước đến địch nhân
+3043	Phi thăng · Mới vào Chân Tiên	Tại một kiếp hoặc trở lên Chân Tiên độ khó hạ để một tử đệ phi thăng
+3046	Phi thăng · Thành thạo Chân Tiên	Tại Tứ kiếp hoặc trở lên Chân Tiên độ khó hạ để một tử đệ phi thăng
+3049	Phi thăng · Tuyệt đỉnh Chân Tiên	Tại Thất Kiếp hoặc trở lên Chân Tiên độ khó hạ để một tử đệ phi thăng
+3052	Chinh phạt · Mới vào Chân Tiên	Tại một kiếp hoặc trở lên Chân Tiên độ khó hạ chinh phạt tất cả môn phái
+3055	Chinh phạt · Thành thạo Chân Tiên	Tại Tứ kiếp hoặc trở lên Chân Tiên độ khó hạ chinh phạt tất cả môn phái
+3058	Chinh phạt · Tuyệt đỉnh Chân Tiên	Tại Thất Kiếp hoặc trở lên Chân Tiên độ khó hạ chinh phạt tất cả môn phái
+3061	Trận pháp chi đạo	Lần thứ nhất học tập trận pháp bí tịch
+3062	Thượng cổ trận pháp	Lần thứ nhất tập được bên trên Cổ Trận Đồ
+3063	Hợp chúng vì một	Lần thứ nhất kết thành trận pháp
+3064	Truyền thuyết lại xuất hiện	Lần thứ nhất kết thành thượng cổ trận pháp
+3065	Thế gian đại diện	Lần thứ nhất vào ở thế gian đại diện điểm
+3066	Tâm hệ thiên hạ	Vào ở tất cả thành thị cùng địa khu
+3067	Nhân gian kỳ quan	Kiến tạo một cái kỳ quan
+3068	Kỳ quan lầm nước	Kiến tạo qua tất cả kỳ quan
+3069	Đến dân tâm người	Từ một lần chính sách sự kiện bên trong thu hoạch được vượt qua 20000 Tín đồ
+3070	Chúng sinh chi thư	Tại một tòa thành thị hoặc địa khu có được vượt qua 40% Tín đồ
+3071	Truyền đạo thiên hạ	Tại tất cả thành thị cùng địa khu có được vượt qua 40% Tín đồ số lượng
+3072	Nhìn một chút nhìn một chút	Lần thứ nhất đấu giá
+3073	Tiểu hài tử mới làm lựa chọn	Một lần đấu giá mua đồ xong
+3074	Xe đạp biến môtơ	Một lần đấu giá mua xuống thần bí vật phẩm
+3075	Nhặt nhạnh chỗ tốt nhất thời thoải mái	Thấp hơn giá thị trường vỗ xuống vật phẩm
+3076	Ta kiếm lời sao?	Lấy 10 Lần trở lên giá thị trường vỗ xuống một kiện vật phẩm
+3077	Bù đắp nhau	Lần thứ nhất cùng hành thương giao dịch
+3078	Một giọt đều không thừa	Thu hoạch hành thương toàn bộ linh thạch
+3079	Tát ao bắt cá	Giết chết hành thương
+3080	Đưa than sưởi ấm trong ngày tuyết rơi	Để một môn phái thiếu ngươi 1 Chút nhân tình
+3081	Kim bài minh hữu	Để một môn phái thiếu ngươi 10 Chút nhân tình
+3082	Cứu!!!	Lần thứ nhất thuê đệ tử
+3083	Người người đều dâng ra một điểm yêu	Đồng thời thuê 4 Cái môn phái khác đệ tử
+3084	Hợp ý	Bái sơn lúc đưa tặng chưởng môn vật trong lòng
+3085	Thế giới rất lớn	Lần thứ nhất tiến vào dã ngoại địa đồ
+3086	Ta liền nhìn xem	Lần thứ nhất gia nhập môn phái địa đồ
+3087	Đều là ta	Lần thứ nhất tại dã ngoại địa đồ nhặt vật phẩm
+3088	Đến đều tới	Tại môn phái địa đồ lấy ẩn nấp trạng thái cầm lấy bảo vật
+3089	Chinh phạt: Đan hà động thiên	Chinh phạt đan hà động thiên thành công
+3090	Chinh phạt: Côn Luân cung	Chinh phạt Côn Luân cung thành công
+3091	Chinh phạt: Cực Thiên Cung	Chinh phạt cực Thiên Cung thành công
+3092	Chinh phạt: Tử Tiêu tông	Chinh phạt Tử Tiêu tông thành công
+3093	Chinh phạt: Huyền Nhất đạo	Chinh phạt Huyền Nhất đạo thành công
+3094	Chinh phạt: Thanh Liên Kiếm Tông	Chinh phạt Thanh Liên Kiếm Tông thành công
+3095	Chinh phạt: Tê Hà động thiên	Chinh phạt Tê Hà động thiên thành công
+3096	Chinh phạt: Bách Man Sơn	Chinh phạt Bách Man Sơn thành công
+3097	Chinh phạt: Bảy thiên ổ	Chinh phạt bảy thiên ổ thành công
+3098	Chinh phạt: Thất Sát Ma Cung	Chinh phạt Thất Sát Ma Cung thành công
+3099	Chinh phạt: Hợp Hoan phái	Chinh phạt Hợp Hoan phái thành công
+3100	Chinh phạt: Vạn Yêu Điện	Chinh phạt vạn Yêu Điện thành công
+3101	Chinh phạt thiên hạ	Chinh phạt toàn bộ môn phái
+3102	Nhân giới chí tôn	Chinh phạt tất cả môn phái cũng tại tất cả thành thị cùng địa khu có được vượt qua 40% Tín đồ số lượng
+3103	Bằng hữu dừng bước	Lần thứ nhất cùng người xã giao
+3104	Cũng không dễ dàng	Lần đầu tiên giải được một người chấp niệm
+3105	Chơi tâm a	Lần thứ nhất phá vỡ tâm phòng
+3106	Đạo hữu mời tới bên này	Lần thứ nhất mời người khác đến chúng ta phái
+3107	Chân tướng hiển hiện	Phá giải một hạng bí ẩn
+3108	Linh sủng: Thần khuyển	Thu hoạch được thần khuyển
+3109	Linh sủng: Linh Hồ	Thu hoạch được Linh Hồ
+3110	Linh sủng: Phù rồng	Thu hoạch được phù rồng
+3111	Linh sủng: Huyền Phượng	Thu hoạch được Huyền Phượng
+3112	Lớn lên rồi!	Đem tùy ý một cái linh sủng bồi dưỡng đến hoàn toàn thể
+3113	Cho ta biến!	Cho một con dã thú khai trí
+3114	Biến hóa: Năm trí	Để một cái có được 5 Cái trở lên linh trí mảnh vỡ yêu tộc vượt qua Hóa Hình Thiên Kiếp
+3115	Biến hóa: Bảy trí	Để một cái có được 7 Cái trở lên linh trí mảnh vỡ yêu tộc vượt qua Hóa Hình Thiên Kiếp
+3116	Biến hóa: Chín trí	Để một cái có được 9 Cái trở lên linh trí mảnh vỡ yêu tộc vượt qua Hóa Hình Thiên Kiếp
+3117	Thông hiểu thiên đạo	Vượt qua 5 Lần đạo hạnh chi kiếp
+3118	Thọ cùng trời đất	Vượt qua 5 Lần tuổi thọ chi kiếp
+3119	Lập ta hương hỏa	Tại một tòa thành thị thiết lập tín ngưỡng pho tượng cũng cùng một cái thần tu liên quan
+3120	Phong Ngô hộ pháp	Thiết lập một cái hộ pháp
+3121	Từ ta đại đạo	Thu được một cái hạch tâm tín đồ
+3122	Phù hộ ta tín đồ	Tại lắng nghe nguyện vọng lúc thỏa mãn một cái tín đồ màu cam nguyện vọng
+3123	Tố ta Thánh khí	Đem một cái tín ngưỡng thánh vật lên tới 15 Giai
+3124	Tích ta thần quốc	Lợi dụng trảm niệm cướp khuếch trương 1 Thứ thần nước
+3125	Linh ta tâm cảnh	Thần tu tâm cảnh đạt tới cảnh giới tối cao
+3126	Nguyện: Cửu thiên	Tập được 《 Cửu thiên ứng nguyên tiếng sấm phổ hóa ngọc thư 》
+3127	Mở: Cửu thiên	Lấy 《 Cửu thiên ứng nguyên tiếng sấm phổ hóa ngọc thư 》 Mở thần quốc
+3128	Viên mãn: Cửu thiên	Lấy 《 Cửu thiên ứng nguyên tiếng sấm phổ hóa ngọc thư 》 Mở thần quốc lúc liền đạt tới 48 Viên mãn
+3129	Thành tựu: Cửu thiên	Lấy 《 Cửu thiên ứng nguyên tiếng sấm phổ hóa ngọc thư 》 Phi thăng
+3130	Nguyện: Tám bộ	Tập được 《 Chư thiên tám bộ thành tựu pháp 》
+3131	Mở: Tám bộ	Lấy 《 Chư thiên tám bộ thành tựu pháp 》 Mở thần quốc
+3132	Viên mãn: Tám bộ	Lấy 《 Chư thiên tám bộ thành tựu pháp 》 Mở thần quốc lúc liền đạt tới 48 Viên mãn
+3133	Thành tựu: Tám bộ	Lấy 《 Chư thiên tám bộ thành tựu pháp 》 Phi thăng
+3134	Nguyện: U Minh	Tập được 《 U Minh thập phương Thái Ất cứu khổ trải qua 》
+3135	Mở: U Minh	Lấy 《 U Minh thập phương Thái Ất cứu khổ trải qua 》 Mở thần quốc
+3136	Viên mãn: U Minh	Lấy 《 U Minh thập phương Thái Ất cứu khổ trải qua 》 Mở thần quốc lúc liền đạt tới 48 Viên mãn
+3137	Thành tựu: U Minh	Lấy 《 U Minh thập phương Thái Ất cứu khổ trải qua 》 Phi thăng
+3138	Thiên địa tinh hoa: Thái hư tinh hoa	Thông qua thổ nạp thu hoạch được thái hư tinh hoa
+3139	Thiên địa tinh hoa: Huyền Thiên tử khí	Thông qua thổ nạp thu hoạch được Huyền Thiên tử khí
+3140	Thiên địa tinh hoa: Cửu Dương thật hoa	Thông qua thổ nạp thu hoạch được Cửu Dương thật hoa
+3141	Thiên địa tinh hoa: Huyền Nguyệt thật tinh	Thông qua thổ nạp thu hoạch được Huyền Nguyệt thật tinh
+3142	Thăng hoa chi thể	Lần thứ nhất kích hoạt bí thể
+3143	Thiên chuy bách luyện	Bách luyện đạt tới 100 Tầng
+3144	Lấy lực nhập đạo: Hình ý	Tập được 《 Thái Cổ hình ý lục hợp chân thể 》
+3145	Phá toái hư không: Hình ý	Lấy 《 Thái Cổ hình ý lục hợp chân thể 》 Phi thăng
+3146	Lấy lực nhập đạo: Rất cực	Tập được 《 Rất cực Kim Thân 》
+3147	Phá toái hư không: Rất cực	Lấy 《 Rất cực Kim Thân 》 Phi thăng
+3148	Lấy lực nhập đạo: Yêu Tổ	Tập được 《 Yêu Tổ Thánh thể 》
+3149	Phá toái hư không: Yêu Tổ	Lấy 《 Yêu Tổ Thánh thể 》 Phi thăng
+3150	Lấy lực nhập đạo: Bại diệt	Tập được 《 Bại diệt tà thể 》
+3151	Phá toái hư không: Bại diệt	Lấy 《 Bại diệt tà thể 》 Phi thăng
+3152	Cùng đi tu tiên đi!	Thu hoạch được linh sủng xây một chút cùng Tiên Tiên
+3153	Chân Tiên cuồn cuộn	Để một con mạch biến hóa làm người, cũng để kỳ thành công phi thăng
+3154	Một con cá	Câu đi lên 1 Con cá
+3155	Trăm đầu cá	Câu đi lên 100 Con cá
+3156	Ngàn đầu cá	Câu đi lên 1000 Con cá
+3157	Vạn cái cá	Câu đi lên 10000 Con cá
+3158	Người nguyện mắc câu	Câu đi lên một cái động vật
+3159	Liền quyết định là ngươi!	Câu đi lên một con yêu thú
+3160	Sáng lóng lánh	Câu được một viên linh thạch
+3161	Bắt cá đạt nhân	Câu đi lên tất cả chủng loại cá
+3162	Câu côn người	Câu đi lên một đầu nặng đến 25 Cân cá
+3163	Chân Vũ huyền cơ	Tại trong Tử Tiêu Cung thu hoạch được tất cả bi văn bí tàng.
+3164	Âm dương tương hợp	Thu hoạch được linh sủng Huyền Vũ mầm mầm.
+3165	Chân truyền: Huyền Thiên	Lấy 150% Trở lên xứng đôi độ tu luyện 《 Huyền Thiên Chân Vũ Lưỡng Nghi diệu đạo 》
+3166	Nhất phẩm: Huyền Thiên	Lấy 《 Huyền Thiên Chân Vũ Lưỡng Nghi diệu đạo 》 Công pháp kết thành nhất phẩm Kim Đan
+3167	Đắc đạo: Huyền Thiên	Lấy 《 Huyền Thiên Chân Vũ Lưỡng Nghi diệu đạo 》 Công pháp phi thăng
