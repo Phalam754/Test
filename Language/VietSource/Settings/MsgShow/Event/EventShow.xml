@@ -1,0 +1,56 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="t1">
+      <DisplayName>Phổ Thông Thiên Khí</DisplayName>
+      <Desc>Phổ Thông Thiên Khí</Desc>
+    </Text>
+    <Text Name="t2">
+      <DisplayName>Hãn Kiến Thiên Khí</DisplayName>
+      <Desc>Hãn Kiến Thiên Khí</Desc>
+    </Text>
+    <Text Name="t3">
+      <DisplayName>Bảo Vật Trụy Lạc</DisplayName>
+      <Desc>Bảo Vật Trụy Lạc</Desc>
+    </Text>
+    <Text Name="t8">
+      <DisplayName>Đệ Tử Dẫn Tiến</DisplayName>
+      <Desc>Đệ Tử Dẫn Tiến</Desc>
+    </Text>
+    <Text Name="t_vistor">
+      <DisplayName>Phóng Khách Sự Kiện</DisplayName>
+      <Desc>Phóng Khách Sự Kiện</Desc>
+    </Text>
+    <Text Name="t5">
+      <DisplayName>Dã Thú Tiến Công</DisplayName>
+      <Desc>Dã Thú Tiến Công</Desc>
+    </Text>
+    <Text Name="t6">
+      <DisplayName>Địch Nhân Lai Tập</DisplayName>
+      <Desc>Địch Nhân Lai Tập</Desc>
+    </Text>
+    <Text Name="t7">
+      <DisplayName>Yêu Thú Tập Kích</DisplayName>
+      <Desc>Yêu Thú Tập Kích</Desc>
+    </Text>
+    <Text Name="s_fabao">
+      <DisplayName>Bí Văn - Pháp Bảo Xuất Thổ</DisplayName>
+      <Desc>Bí Văn - Pháp Bảo Xuất Thổ</Desc>
+    </Text>
+    <Text Name="s_miji">
+      <DisplayName>Bí Văn - Bí Tịch Xuất Thổ</DisplayName>
+      <Desc>Bí Văn - Bí Tịch Xuất Thổ</Desc>
+    </Text>
+    <Text Name="s_daotong">
+      <DisplayName>Bí Văn - Đạo Thống Hiện Thế</DisplayName>
+      <Desc>Bí Văn - Đạo Thống Hiện Thế</Desc>
+    </Text>
+    <Text Name="s_dongfu">
+      <DisplayName>Bí Văn - Động Phủ Hiện Thế</DisplayName>
+      <Desc>Bí Văn - Động Phủ Hiện Thế</Desc>
+    </Text>
+    <Text Name="s_zhengxie">
+      <DisplayName>Bí Văn - Chính Tà Hành Tung</DisplayName>
+      <Desc>Bí Văn - Chính Tà Hành Tung</Desc>
+    </Text>
+  </List>
+</Texts>
