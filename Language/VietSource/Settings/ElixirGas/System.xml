@@ -1,0 +1,128 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="single_jin">
+			<Display>Kim Mãn</Display>
+			<Desc>Tăng nồng độ thuộc tính Kim trong môi trường và tỷ lệ đột phá các công pháp thuộc tính Kim.</Desc>
+		</Text>
+		<Text Name="single_mu">
+			<Display>Mộc Mãn</Display>
+			<Desc>Tăng nồng độ thuộc tính Mộc trong môi trường và tỷ lệ đột phá các công pháp thuộc tính Mộc.</Desc>
+		</Text>
+		<Text Name="single_shui">
+			<Display>Thủy Mãn</Display>
+			<Desc>Tăng nồng độ thuộc tính Thủy trong môi trường và tỷ lệ đột phá các công pháp thuộc tính Thủy.</Desc>
+		</Text>
+		<Text Name="single_huo">
+			<Display>Hỏa Mãn</Display>
+			<Desc>Tăng nồng độ thuộc tính Hỏa trong môi trường và tỷ lệ đột phá các công pháp thuộc tính Hỏa.</Desc>
+		</Text>
+		<Text Name="single_tu">
+			<Display>Thổ Mãn</Display>
+			<Desc>Tăng nồng độ thuộc tính Thổ trong môi trường và tỷ lệ đột phá các công pháp thuộc tính Thổ.</Desc>
+		</Text>
+		<Text Name="jin_mu">
+			<Display>Gỗ Tăng Cường</Display>
+			<Desc>Tăng đáng kể tốc độ đốn gỗ và thu thập của đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_shui">
+			<Display>Nghệ Thuật Tăng Cường</Display>
+			<Desc>Tăng đáng kể tốc độ thủ công và may vá của đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_huo">
+			<Display>Khai Thác Tăng Cường</Display>
+			<Desc>Tăng đáng kể sản lượng khai khoáng của đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_tu">
+			<Display>Khoáng Mãn</Display>
+			<Desc>Tăng đáng kể lợi nhuận khai thác khoáng sản của đệ tử.</Desc>
+		</Text>
+		<Text Name="mu_shui">
+			<Display>Chăn Nuôi</Display>
+			<Desc>Tăng đáng kể sản lượng của đệ tử tông môn và độ phì nhiêu của bản đồ tông môn.</Desc>
+		</Text>
+		<Text Name="mu_huo">
+			<Display>Hỏa Rực</Display>
+			<Desc>Tăng đáng kể tốc độ rèn và nấu ăn của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="mu_tu">
+			<Display>Ổn Định</Display>
+			<Desc>Tăng đáng kể tốc độ xây dựng của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="shui_huo">
+			<Display>Hỏa Diệt</Display>
+			<Desc>Tăng đáng kể tốc độ cứu trợ thiên tai và tỷ lệ thành công của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="shui_tu">
+			<Display>Tràn Đầy</Display>
+			<Desc>Tăng đáng kể hiệu quả trị liệu dự kiến và khả năng phục hồi tự nhiên của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="huo_tu">
+			<Display>Tàn Tro</Display>
+			<Desc>Tăng đáng kể tốc độ tháo dỡ và tốc độ làm việc với đá của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_shui">
+			<Display>Sum Suê</Display>
+			<Desc>Tăng đáng kể độ phù hợp công pháp hệ Mộc của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_huo">
+			<Display>Xanh Tươi</Display>
+			<Desc>Tăng đáng kể sản lượng luyện đan của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_tu">
+			<Display>U Ám</Display>
+			<Desc>Tăng đáng kể tốc độ tu luyện, tốc độ trúc cơ và giá trị tâm cảnh của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_shui_huo">
+			<Display>Sáng Chói</Display>
+			<Desc>Tăng đáng kể tỷ lệ thành công luyện khí của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_shui_tu">
+			<Display>Thác Đổ</Display>
+			<Desc>Tăng đáng kể độ phù hợp công pháp hệ Thủy của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="jin_huo_tu">
+			<Display>Bóng Loáng</Display>
+			<Desc>Tăng đáng kể độ phù hợp công pháp hệ Kim của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="mu_shui_huo">
+			<Display>Nồng Nhiệt</Display>
+			<Desc>Tăng đáng kể độ phù hợp công pháp hệ Hỏa của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="mu_shui_tu">
+			<Display>Điềm Tĩnh</Display>
+			<Desc>Tăng đáng kể tốc độ luyện đan của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="mu_huo_tu">
+			<Display>Nghiêm Nghị</Display>
+			<Desc>Tăng đáng kể độ phù hợp công pháp hệ Thổ của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="shui_huo_tu">
+			<Display>Hăng Hái</Display>
+			<Desc>Tăng đáng kể tốc độ luyện khí của đệ tử tông môn.</Desc>
+		</Text>
+		<Text Name="no_jin">
+			<Display>Đoạn Kim</Display>
+			<Desc>Tăng giảm sát thương hệ Kim. (toàn cục)</Desc>
+		</Text>
+		<Text Name="no_mu">
+			<Display>Đoạn Mộc</Display>
+			<Desc>Tăng giảm sát thương hệ Mộc. (toàn cục)</Desc>
+		</Text>
+		<Text Name="no_shui">
+			<Display>Đoạn Thủy</Display>
+			<Desc>Tăng giảm sát thương hệ Thủy. (toàn cục)</Desc>
+		</Text>
+		<Text Name="no_huo">
+			<Display>Đoạn Hỏa</Display>
+			<Desc>Tăng giảm sát thương hệ Hỏa. (toàn cục)</Desc>
+		</Text>
+		<Text Name="no_tu">
+			<Display>Đoạn Thổ</Display>
+			<Desc>Tăng giảm sát thương thuộc tính Thổ. (toàn cục)</Desc>
+		</Text>
+		<Text Name="hunyuan">
+			<Display>Hỗn Nguyên</Display>
+			<Desc>Giảm tu vi yêu cầu, tăng tốc độ học tập.</Desc>
+		</Text>
+	</List>
+</Texts>
