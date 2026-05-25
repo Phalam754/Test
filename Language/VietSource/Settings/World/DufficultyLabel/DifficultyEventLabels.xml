@@ -1,0 +1,280 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Lv4_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động kỳ ngộ sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 75 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 150 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 300 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Lv4_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương kỳ ngộ sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 10 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 20 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 30 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv4_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương kỳ ngộ sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là kỳ ngộ sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 35 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 50 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 75 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="EnemyLv2_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động cường địch sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 30 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 60 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 120 Trời</Values.3.Desc>
+      <Values.4.Name>Cực Trường</Values.4.Name>
+      <Values.4.Desc>Bảo hộ thời gian 240 Trời</Values.4.Desc>
+      <Values.5.Name>Vô Hạn</Values.5.Name>
+      <Values.5.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.5.Desc>
+    </Text>
+    <Text Name="EnemyLv2_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương cường địch sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 12 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 20 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 28 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="EnemyLv2_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương cường địch sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là cường địch sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 30 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 40 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 50 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv3_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động hi hữu sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 25 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 50 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 100 Trời</Values.3.Desc>
+      <Values.4.Name>Cực Trường</Values.4.Name>
+      <Values.4.Desc>Bảo hộ thời gian 200 Trời</Values.4.Desc>
+      <Values.5.Name>Vô Hạn</Values.5.Name>
+      <Values.5.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.5.Desc>
+    </Text>
+    <Text Name="Lv3_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương hi hữu sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 5 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 20 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 35 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv3_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương hi hữu sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là hi hữu sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 40 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 55 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 70 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Secrets_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động bí văn sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 15 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 45 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 75 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Secrets_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương bí văn sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 1 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 3 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 5 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Secrets_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương bí văn sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là bí văn sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 7 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 9 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 15 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Join_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động khách tới thăm sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 5 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 25 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 75 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Join_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương khách tới thăm sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 1 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 3 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 5 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Join_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương khách tới thăm sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là khách tới thăm sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 7 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 9 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 15 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Enemy_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động địch nhân sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 6 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 12 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 24 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Enemy_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Làm địch nhân sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 2 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 5 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 8 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Enemy_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Làm địch nhân sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là địch nhân sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 10 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 17 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 24 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv1_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động phổ thông sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 5 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 15 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 60 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Lv1_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương phổ thông sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 1 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 3 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 5 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv1_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương phổ thông sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là phổ thông sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 6 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 8 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 10 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv2_ProtectTime">
+      <DisplayName>Bảo Hộ Thì Gian</DisplayName>
+      <Desc>Trò chơi bắt đầu sau, bảo hộ thời gian bên trong sẽ không phát động cao cấp sự kiện.</Desc>
+      <Values.0.Name>Vô</Values.0.Name>
+      <Values.0.Desc>Không bảo hộ thời gian</Values.0.Desc>
+      <Values.1.Name>Đoản</Values.1.Name>
+      <Values.1.Desc>Bảo hộ thời gian 5 Trời</Values.1.Desc>
+      <Values.2.Name>Trung</Values.2.Name>
+      <Values.2.Desc>Bảo hộ thời gian 15 Trời</Values.2.Desc>
+      <Values.3.Name>Trường</Values.3.Name>
+      <Values.3.Desc>Bảo hộ thời gian 60 Trời</Values.3.Desc>
+      <Values.4.Name>Vô Hạn</Values.4.Name>
+      <Values.4.Desc>Kết thúc ván trò chơi sẽ không phát sinh loại sự kiện này</Values.4.Desc>
+    </Text>
+    <Text Name="Lv2_IntervalMin">
+      <DisplayName>Tối Tiểu Gian Cách</DisplayName>
+      <Desc>Đương cao cấp sự kiện phát sinh sau, tại nhỏ nhất khoảng cách bên trong sẽ không lại lần phát sinh</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Nhỏ nhất khoảng cách 3 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Nhỏ nhất khoảng cách 7 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Nhỏ nhất khoảng cách 11 Trời</Values.2.Desc>
+    </Text>
+    <Text Name="Lv2_IntervalMax">
+      <DisplayName>Tối Đại Gian Cách</DisplayName>
+      <Desc>Đương cao cấp sự kiện vượt qua lớn nhất khoảng cách không có phát sinh, như vậy lần sau sự kiện phát sinh lúc nhất định là cao cấp sự kiện</Desc>
+      <Values.0.Name>Đoản</Values.0.Name>
+      <Values.0.Desc>Lớn nhất khoảng cách 15 Trời</Values.0.Desc>
+      <Values.1.Name>Trung</Values.1.Name>
+      <Values.1.Desc>Lớn nhất khoảng cách 20 Trời</Values.1.Desc>
+      <Values.2.Name>Trường</Values.2.Name>
+      <Values.2.Desc>Lớn nhất khoảng cách 25 Trời</Values.2.Desc>
+    </Text>
+  </List>
+</Texts>
