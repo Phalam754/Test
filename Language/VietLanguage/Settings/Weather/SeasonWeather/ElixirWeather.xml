@@ -1,0 +1,132 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>Khí Luyện Đan Tràn Đầy</DisplayName>
+			<StoryDesc>Khí Luyện Đan thấm đẫm không khí, khiến Linh Khí trở nên hoạt động mạnh hơn.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>Nguyên Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan thấm đẫm không khí, khiến Linh Khí trở nên hoạt động mạnh hơn.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>Kim Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>Mộc Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>Thủy Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>Hỏa Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>Thổ Khí</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>Khí Hao Tổn</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>Khí Dâng Trào</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>Khí Dung Luyện</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>Khí Tích Tụ</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>Khí Sinh Sôi</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>Khí Lửa Cháy Hết Cỡ</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>Khí Ổn Định</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>Khí Lửa Tàn</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>Khí Tràn Đầy</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>Khí Tro Tàn</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>Khí Giáp Mộc</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>Khí Ất Mộc</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>Khí Kỷ Thổ</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>Khí Tân Kim</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>Khí Nhâm Thủy</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>Khí Quý Kim</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>Khí Bính Hỏa</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>Khí Quý Thủy</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>Khí Mậu Thổ</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>Khí Đinh Hỏa</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>Khí Đoạn Kim</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>Khí Đoạn Mộc</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>Khí Đoạn Thủy</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>Khí Đoạn Hỏa</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>Khí Đoạn Thổ</DisplayName>
+			<StoryDesc>Khí Luyện Đan đậm đặc tràn ngập không khí.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
