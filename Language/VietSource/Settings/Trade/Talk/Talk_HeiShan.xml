@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Talk_HeiShan">
+      <Hate.0>Ngươi tại sao lại tới?</Hate.0>
+      <Hate.1>Đừng góp quá gần, cẩn thận ta không cẩn thận đánh chết ngươi.</Hate.1>
+      <Hate.2>Ngươi là một người sao?</Hate.2>
+      <Normal.0>A, ngươi tốt. Có chuyện mau nói.</Normal.0>
+      <Normal.1>Mau mau, đừng quấy rầy chúng ta luyện kiếm.</Normal.1>
+      <Like.0>( Buông kiếm ) Ngươi đã đến a, mời theo liền.</Like.0>
+      <Like.1>A? Là ngươi a. Gần nhất có cái gì đột phá a?</Like.1>
+      <Submiss.0>A? Ngài đã tới a, muốn hay không cho ngươi làm bồi luyện a? Ra tay nhẹ một chút a.</Submiss.0>
+      <Submiss.1>Ngươi tốt, ta nhìn ngươi gần đây lại có tinh tiến, chúc mừng chúc mừng a.</Submiss.1>
+      <GiftLike.0>Vật này ta chờ mấy trăm năm, rốt cục có người đưa tiễn a.</GiftLike.0>
+      <GiftLike.1>Xem ra, chúng ta hữu duyên thiên lý năng tương ngộ.</GiftLike.1>
+      <GiftLike.2>Ta từng mộng thấy có người đưa ta vật này, này mộng thành sự thật a.</GiftLike.2>
+      <LowValueGift.0>Ân, vật này có thể đem ra thử một chút mũi kiếm không sắc bén.</LowValueGift.0>
+      <LowValueGift.1>( Xuất kiếm ) Ngươi nhìn nó vỡ thành hai nửa.</LowValueGift.1>
+    </Text>
+  </List>
+</Texts>
