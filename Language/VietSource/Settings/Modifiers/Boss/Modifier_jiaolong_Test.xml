@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JueSeJiNeng">
+      <DisplayName>Kiểm tra kỹ năng nhân vật</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong1_Test">
+      <DisplayName>Giá trị chuẩn giai đoạn cuối của nhân vật</DisplayName>
+    </Text>
+    <Text Name="Boss_Player_Test">
+      <DisplayName>Giá trị kiểm tra của nhân vật</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Test">
+      <DisplayName>Giao Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_LongNu_Test">
+      <DisplayName>Long Nộ</DisplayName>
+      <Desc>Yêu Long tiến vào trạng thái phẫn nộ, toàn bộ thuộc tính được nâng cao (Bội số uy lực Pháp Bảo +100, Bội số tốc độ bay Pháp Bảo +1, Bội số tốc độ quay Pháp Bảo +2, Giá trị gia tăng cường độ Lá Chắn +2, Bội số uy lực Thuật Pháp +70).</Desc>
+    </Text>
+  </List>
+</Texts>
