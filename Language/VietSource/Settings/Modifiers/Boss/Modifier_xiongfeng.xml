@@ -1,0 +1,32 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Xiongfeng">
+      <DisplayName>Hung Phượng</DisplayName>
+    </Text>
+    <Text Name="Boss_XiongfengFight">
+      <DisplayName>Hung Phượng</DisplayName>
+    </Text>
+    <Text Name="Boss_Xiongfeng_Part">
+      <DisplayName>Bộ vị Hung Phượng</DisplayName>
+    </Text>
+    <Text Name="Boss_Xiongfeng_huoling">
+      <DisplayName>Lực lượng Hỏa Linh</DisplayName>
+      <Desc>Hung Phượng tụ tập lực lượng Hỏa Linh, đạt 100 tầng sẽ phóng ra Liệt Diễm Chi Vũ, và tiến vào hình thái Chân Diễm.</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_Huofeng">
+      <DisplayName>Hình thái Chân Diễm</DisplayName>
+      <Desc>Bội số uy lực Pháp Bảo +400, Bội số tốc độ hồi phục Linh Khí Pháp Bảo +300, Bội số tốc độ bay Pháp Bảo -1, Bội số uy lực Thuật Pháp +400. Hình thái Chân Diễm sẽ liên tục tiêu hao Hỏa Linh, khi kết thúc sẽ thu hồi lại Hỏa Vũ vẫn còn tồn tại và hồi phục Linh Khí.</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_rongjin">
+      <DisplayName>Nóng chảy</DisplayName>
+      <Desc>Sau một khoảng thời gian sẽ gây sát thương, tu hành giả không thuộc tính Kim chỉ chịu một phần ba sát thương.</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_yishang">
+      <DisplayName>Dễ bị tổn thương</DisplayName>
+      <Desc>Hung Phượng đang ở trạng thái dễ bị tổn thương (Giá trị gia tăng cường độ Lá Chắn -5).</Desc>
+    </Text>
+    <Text Name="Boss_Xiongfeng_taiyangzhiyan">
+      <DisplayName>Mắt Trời</DisplayName>
+    </Text>
+  </List>
+</Texts>
