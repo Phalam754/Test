@@ -1,0 +1,113 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Dice" sParam="Item">
+      <ThingName>Xúc xắc</ThingName>
+      <Desc>Một cặp xúc xắc, mang theo bên mình có thể dùng để giải khuây lúc rảnh rỗi, nâng cao tâm trạng, nhưng sẽ ảnh hưởng đến hiệu quả công việc (bội số tốc độ làm việc toàn cục -0.1, giá trị cơ bản tâm trạng +15).</Desc>
+      <Item.FabaoSuffix>xúc xắc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SmallBell" sParam="Item">
+      <ThingName>Chuông nhỏ</ThingName>
+      <Desc>Một chiếc chuông nhỏ, mang theo bên mình có thể làm tâm trạng tốt hơn, cũng có thể thu hút sự chú ý của người khác, khiến họ vui vẻ giao tiếp với bạn (xu hướng xã giao +0.2, giá trị cơ bản tâm trạng +6).</Desc>
+      <Item.FabaoSuffix>chuông</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Bracelet" sParam="Item">
+      <ThingName>Vòng tay</ThingName>
+      <Desc>Một cặp vòng tay, mang theo bên mình làm bạn trở nên quyến rũ hơn (tăng 0.3 thành Mị Lực).</Desc>
+      <Item.FabaoSuffix>vòng, điêu khắc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Handkerchief" sParam="Item">
+      <ThingName>Khăn tay</ThingName>
+      <Desc>Một chiếc khăn tay, mang theo bên mình có thể khiến bạn trở thành một người rất tinh tế trong mắt người khác (giá trị vị trí xã giao +1).</Desc>
+      <Item.FabaoSuffix>khăn, lụa, vải</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PerfumeBag" sParam="Item">
+      <ThingName>Túi thơm</ThingName>
+      <Desc>Một chiếc túi thơm, đệ tử nội môn đeo có thể nâng cao tâm cảnh (giá trị cơ bản tâm cảnh +5).</Desc>
+      <Item.FabaoSuffix>túi</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WhiteHair" sParam="Item">
+      <ThingName>Tập thơ buồn</ThingName>
+      <Desc>Một tập thơ, chứa đựng khí tức bi thương nồng đậm, người đeo sẽ bị u sầu lây nhiễm mà tóc bạc trắng, tỏa ra khí chất u buồn, khiến người ta cảm thấy rất quyến rũ (tăng 0.3 thành Mị Lực).</Desc>
+      <Item.FabaoSuffix>tập, sách, thẻ tre, cuộn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+      <ThingName>Thế giới tươi đẹp</ThingName>
+      <Desc>Một chiếc hộp đến từ thế giới khác, đắm mình trong thần niệm có thể chơi một trò chơi thú vị và cảm động.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+      <ThingName>Trái tim nguyện ước</ThingName>
+      <Desc>Bảo vật được ngưng tụ từ nguyện ước về niềm vui của người phàm.</Desc>
+      <Item.FabaoSuffix>tim</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+      <ThingName>Đông Phương Hách Thần Châm</ThingName>
+      <Desc>Vật này vốn là bản mệnh pháp bảo của một vị kiếm tiên, mặc dù đã mất hết thần uy trong quá trình luân hồi cùng chủ nhân, nhưng vẫn giữ được bản chất phi thường của nó.</Desc>
+      <Item.FabaoSuffix>kim</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+      <ThingName>Bạch Ngọc Thạch</ThingName>
+      <Desc>Bạch ngọc thạch do Tiên nhân Mộc Bạch để lại, nhìn bề ngoài bình thường, nhưng lại có thể tăng đáng kể sức phục hồi tự nhiên của người đeo (bội số sức phục hồi tự nhiên +1).</Desc>
+      <Item.FabaoSuffix>đá</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+      <ThingName>Tứ Tượng Chiết Thiên Đồ</ThingName>
+      <Desc>Một trận đồ thần bí do Tiên nhân Thanh Liên để lại bằng đại pháp lực, người đeo có thể mượn khí mạch của nơi này, kết hợp với sức mạnh luân chuyển của bốn mùa trong đại thiên thế giới, che chắn thiên cơ của bản thân trong chín năm, không bị thiên kiếp quấy nhiễu (thời gian đếm ngược bình cảnh trì hoãn +604800). Nếu trong quá trình này tháo đồ ra, thiên kiếp sẽ lập tức giáng xuống.</Desc>
+      <Item.FabaoSuffix>đồ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Other_PuppetTest" sParam="Item">
+      <ThingName>Con rối</ThingName>
+      <Desc>Một con rối. Truyền thuyết trong "Thái Hòa Thập Lục Động Thiên" có ghi lại bí pháp ban cho con rối linh tính.</Desc>
+      <Item.FabaoSuffix>con rối</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yao_RabbitLuck" sParam="Item">
+      <ThingName>Chân yêu thỏ</ThingName>
+      <Desc>Truyền thuyết có thể mang lại may mắn (tăng 1 thành Cơ Duyên).</Desc>
+    </Text>
+    <Text Name="Item_Yao_WolfAtk" sParam="Item">
+      <ThingName>Răng nanh của yêu sói</ThingName>
+      <Desc>Răng nanh hoàn chỉnh của yêu sói, sát khí ngập tràn, đeo có thể từ gốc rễ nâng cao sát thương của pháp bảo (bội số gia tăng uy lực pháp bảo từ gốc rễ +0.1).</Desc>
+    </Text>
+    <Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+      <ThingName>Vảy lạnh của yêu rắn</ThingName>
+      <Desc>Vảy ngưng tụ toàn bộ âm khí trên người yêu rắn, có thể khiến người ta không sợ nhiệt độ cao, tâm cảnh thanh tịnh (giá trị cơ bản tâm cảnh +5, nhiệt độ thoải mái tối đa +300, giới hạn nhiệt độ tối đa +300).</Desc>
+    </Text>
+    <Text Name="Item_Yao_BearPiMao" sParam="Item">
+      <ThingName>Lông cổ của yêu gấu</ThingName>
+      <Desc>Lông tinh túy nhất ở cổ yêu gấu, chứa đựng dương khí mạnh mẽ. Đeo có thể khiến người ta không sợ nhiệt độ thấp, nâng cao tốc độ tu luyện (bội số tốc độ tu luyện +1, nhiệt độ thoải mái tối thiểu -180, giới hạn nhiệt độ tối thiểu -180).</Desc>
+    </Text>
+    <Text Name="Item_Yao_TurtleKe" sParam="Item">
+      <ThingName>Mai cứng của cự quy</ThingName>
+      <Desc>Mai cứng của cự quy, đeo có thể tăng đáng kể khả năng kháng sát thương của linh khí (giá trị gia tăng cường độ khiên +0.3).</Desc>
+    </Text>
+    <Text Name="Item_Yao_TigerZhui" sParam="Item">
+      <ThingName>Hổ Vương Cốt</ThingName>
+      <Desc>Mảnh xương của yêu hổ đầy uy nghiêm, đeo có thể tăng Mị Lực và Đạo Hành (tăng 2 thành Mị Lực, giá trị đạo hành +45).</Desc>
+    </Text>
+    <Text Name="Item_Yao_CattleJiao" sParam="Item">
+      <ThingName>Yêu ngưu giác</ThingName>
+      <Desc>Sừng rắn chắc của yêu ngưu được rèn luyện trăm lần, đeo có thể tăng một chút Căn Cốt (tăng 1 thành Căn Cốt).</Desc>
+    </Text>
+    <Text Name="Item_Yao_ChickenGuan" sParam="Item">
+      <ThingName>Kim Dương Quan</ThingName>
+      <Desc>Vương miện được ngưng tụ từ tinh hoa mặt trời trên đỉnh đầu yêu gà, đeo có thể khiến người ta thần thức thanh tịnh, ngộ tính tăng (tăng 1 thành Ngộ Tính).</Desc>
+    </Text>
+    <Text Name="Item_StoneCutter" sParam="Item">
+      <ThingName>Hồ Nê Đao</ThingName>
+      <Desc>Rất cùn, vốn được dùng để khai thác ngọc, vì là vũ khí cùn nên dùng để xây dựng cũng rất nhanh (bội số tốc độ xây dựng +3).</Desc>
+    </Text>
+    <Text Name="Item_SewingDefender" sParam="Item">
+      <ThingName>Hộ oản may vá</ThingName>
+      <Desc>Nhìn giống như một chiếc hộ oản, thực chất có thể mượn lực ở khuỷu tay để tăng tốc độ may vá (bội số tốc độ may vá +3).</Desc>
+    </Text>
+    <Text Name="Item_MillVell" sParam="Item">
+      <ThingName>Mài Diện Chi Tráo</ThingName>
+      <Desc>Che mặt lại, vì không ai nhận ra bạn nên có thể mài bột một cách thoải mái, thậm chí các công việc thủ công khác cũng nhanh hơn, dù sao thì làm tốt hay dở người khác cũng không biết là bạn làm (bội số tốc độ thủ công +3).</Desc>
+    </Text>
+    <Text Name="Item_Sys_RanSeYu" sParam="Item">
+      <ThingName>Nhuộm Sắc Ngọc</ThingName>
+      <Desc>Một loại ngọc đặc biệt, dùng pháp thuật kích hoạt có thể hóa thành khói mù, bám vào người nào đó, hoàn toàn không thể bị phát hiện. Tuy nhiên người thi triển pháp thuật có thể cảm nhận được tung tích của vật này.</Desc>
+      <Item.FabaoSuffix>ngọc</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>
