@@ -1,0 +1,127 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Gong_3_1">
+      <Prefix>Yêu Độc</Prefix>
+      <Suffix>Nha</Suffix>
+      <Desc>Tôi luyện hai chiếc răng, khiến chúng mang theo khí ăn mòn của chất độc, rất giỏi phá vỡ lá chắn linh khí của người tu luyện.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +150
+Tỉ lệ tấn công trúng mục tiêu của bí thể +10%
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +15%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_2">
+      <Prefix>Yêu Ảnh Liệt Phong</Prefix>
+      <Suffix>Vĩ</Suffix>
+      <Desc>Tôi luyện chiếc đuôi dài, khiến nó có thể điều khiển tùy ý, có thể cắt đứt bóng ảnh và xé tan không khí, giỏi trấn áp pháp bảo.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +100
+Tỉ lệ tấn công trúng mục tiêu của bí thể +10%
+Tỉ lệ trấn áp pháp bảo của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +5%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_3">
+      <Prefix>Đỗng Hư</Prefix>
+      <Suffix>Trảo</Suffix>
+      <Desc>Tôi luyện bốn móng vuốt đến mức cực kỳ sắc bén. Khi luyện thành, sức mạnh của nó có thể xuyên thủng hư không, khi tung ra liên tiếp sẽ khiến đối thủ không thể né tránh.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +10%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +20%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_4">
+      <Prefix>Lăng Tiêu</Prefix>
+      <Suffix>Đạp</Suffix>
+      <Desc>Một bí thể có sức mạnh vô song, dùng sức mạnh âm dương luyện vào cơ thể. Tương truyền, thời viễn cổ, một Yêu tộc Đại Thánh đã dùng nó để đạp nát Lăng Tiêu, quét sạch các tiên gia mà vô địch thiên hạ, do đó mà có tên này.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_5">
+      <Prefix>Thiên Mang Yêu</Prefix>
+      <Suffix>Tông</Suffix>
+      <Desc>Dùng bí pháp tôi luyện bờm cứng ở cổ, khi được Chân Khí thúc đẩy sẽ phóng ra như hàng ngàn tia sáng bạc, chuyên phá khí cương bảo vệ cơ thể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +20%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_6">
+      <Prefix>Thực Cốt</Prefix>
+      <Suffix>Thần Phong</Suffix>
+      <Desc>Dùng bí pháp tôi luyện đôi cánh, có thể phát ra Chân Khí có sức ăn mòn mạnh, giỏi xuyên qua lá chắn linh khí.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_7">
+      <Prefix>Hồn Thiên Yêu</Prefix>
+      <Suffix>Giáp</Suffix>
+      <Desc>Tôi luyện toàn bộ lông trên cơ thể thành một khối thống nhất, có thể chống lại mọi sự xâm hại từ bên ngoài.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ phòng thủ thành công của bí thể +50%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_8">
+      <Prefix>Yêu Ngự</Prefix>
+      <Suffix>Huyền Lân</Suffix>
+      <Desc>Tiến hóa cơ bắp thành dạng tương tự vảy rồng, rất giỏi chống lại những đòn tấn công mạnh.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản độ dẻo dai bí thể +500</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ phòng thủ thành công của bí thể +20%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_9">
+      <Prefix>Vạn Hóa</Prefix>
+      <Suffix>Vũ Y</Suffix>
+      <Desc>Tương truyền là bí thể hộ thân do Khổng Tước Yêu Thánh truyền lại, dùng sức mạnh Vạn Hóa tôi luyện lông vũ, có công dụng vô cùng kỳ diệu.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản độ dẻo dai bí thể +1000
+Tỉ lệ trấn áp pháp bảo của bí thể +15%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản độ dẻo dai bí thể +1500
+Tỉ lệ trấn áp pháp bảo của bí thể +20%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ phòng thủ thành công của bí thể +20%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_10">
+      <Prefix>Thái Hư Yêu</Prefix>
+      <Suffix>Thức</Suffix>
+      <Desc>Dùng yêu lực vô thượng tôi luyện đại não, ngưng tụ Thái Hư Yêu Thức. Dùng bí thể này để tôi luyện có thể nâng cao hiệu quả tôi luyện. Nếu tôi luyện đại não, còn có thể khiến đại não xảy ra dị biến, phát triển tiềm năng tiến hóa của toàn bộ các cơ quan trên cơ thể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Học được pháp tôi luyện: Thái Hư Yêu Thức</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_11">
+      <Prefix>Vạn Thú Quy</Prefix>
+      <Suffix>Tức</Suffix>
+      <Desc>Tập hợp những bí ẩn của phép hô hấp, thổ nạp của vạn thú để cuối cùng tu luyện thành bí thể này. Có thể tăng cường đáng kể khả năng hồi phục Chân Khí.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tốc độ hồi phục Chân Khí của bí thể +15</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tốc độ hồi phục Chân Khí của bí thể +30</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tốc độ hồi phục Chân Khí của bí thể +90</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_3_12">
+      <Prefix>Định Tinh</Prefix>
+      <Suffix>Vĩ</Suffix>
+      <Desc>Một bí pháp độc đáo, dùng kỹ thuật đặc biệt tôi luyện đuôi, giúp nó có khả năng hô ứng với các vì sao trong trời đất, tăng cường đáng kể khả năng cân bằng của người luyện thể, từ đó nâng cao độ chính xác tổng thể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị gia tăng tỉ lệ tấn công trúng mục tiêu tổng thể của bí thể +7.5%
+Giá trị gia tăng tỉ lệ phòng thủ thành công tổng thể của bí thể +7.5%
+Giá trị gia tăng tỉ lệ trấn áp pháp bảo tổng thể của bí thể +7.5%
+Tỉ lệ né tránh trong chiến đấu +4%</Levels.0.Desc>
+    </Text>
+  </List>
+</Texts>
