@@ -1,0 +1,22 @@
+talk	notarget	int	string	float	thing
+BabySleep1	Xây một chút muốn ngủ				
+BabySleep2	Xây một chút vây lại				
+BabySleep3	Xây một chút buồn ngủ				
+BabyPandaTalk	Xây một chút lại tiến bộ				
+BabySilly	Xây một chút muốn cùng Tiên Tiên chơi				
+BabyFollow1	Đi theo Tiên Tiên				
+BabyFollow2	Đi Tiên Tiên nơi đó				
+Roll	Lăn a lăn				
+Chop	Rèn luyện một chút				
+Happy	Thật vui vẻ				
+PlayBB	Nhìn ta bao nhiêu lợi hại				
+NotEat_Item_Bamboo	Ta sẽ không ăn cây gậy trúc				Ta sẽ không ăn cây gậy trúc
+NotEat_Item_BambooShoot	Ta sẽ không ăn măng				Ta sẽ không ăn măng
+WannaEat_Item_Bamboo	Ta thật muốn ăn cây gậy trúc a				Ta thật muốn ăn cây gậy trúc a
+WannaEat_Item_BambooShoot	Ta thật muốn ăn măng a				Ta thật muốn ăn măng a
+DoTalkEat_Item_Bamboo	Ta ngay tại ăn cây gậy trúc				Ta ngay tại ăn cây gậy trúc
+DoTalkEat_Item_BambooShoot	Ta ngay tại ăn măng				Ta ngay tại ăn măng
+CantEat_Item_Bamboo	Ta không có cây gậy trúc có thể ăn				Ta không có cây gậy trúc có thể ăn
+CantEat_Item_BambooShoot	Ta không có măng có thể ăn				Ta không có măng có thể ăn
+EatTogether	Cùng Tiên Tiên cùng một chỗ ăn				
+BabyHelpPlay	Cùng bọn họ chơi				Bồi {0} Cùng nhau chơi đùa
