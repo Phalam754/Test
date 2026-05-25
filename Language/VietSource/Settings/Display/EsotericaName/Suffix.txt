@@ -1,8 +1,0 @@
-﻿Thông Dụng,Bí Pháp,Bí Yếu,Yếu Quyết,Bảo Điển,Mật Quyển
-Ngự Khí,Kiếm,Kiếm Quyết,Quyết,Thức,Thất Thức,Thập Thức,Thập Tam Thức,Bảo Điển,Bí Quyết
-Thuật Pháp,Thất Thiêm,Cửu Quyển,Quyển,Kinh,Bảo Điển,Bí Quyết
-Hộ Thể,Kinh,Bí Sách,Bảo Điển,Mật Quyển
-Đan Dược,Đan Phương,Dược Điển,Bảo Sách,Thông Quyển
-Luyện Bảo,Cương Yếu,Bí Truyện,Bảo Sách,Thông Quyển
-Công Pháp,Thần Công,Kinh,Kỷ Yếu,Bí Truyện
-Điều Tâm,Thư,Sách,Điển,Ký

@@ -1,5 +1,0 @@
-race	bdtag	desc
-LsDog	DogStone	Một con bởi vì sinh trưởng chậm chạp mà bị vứt bỏ chó con, nhưng đây là bởi vì bản thân chính là thiên địa linh cơ uẩn sinh linh vật, chính là hiếm thấy linh sủng. Am hiểu hộ thể, cùng phòng ngự hướng thuật pháp.
-LsFox	FoxStone	Nguyên bản Thái Nhất Môn chăn nuôi linh sủng, ra ngoài đưa tin thời điểm về nhà phát hiện Thái Nhất Môn đã diệt môn, bởi vậy lưu lạc hoang dã. Nội đan tư chất rất cao, am hiểu nội đan công kích.
-LsDragon	DragonStone	Rồng dòng dõi, trời sinh chính là linh sủng chi thể, các hạng thuộc tính đều có ưu thế, am hiểu thuật pháp công kích.
-LsPhoenix	PhoenixStone	Phượng dòng dõi, , trời sinh chính là linh sủng chi thể, am hiểu tiến công, thuật pháp cùng nội đan thuộc tính xuất chúng.
