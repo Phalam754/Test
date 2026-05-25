@@ -1,0 +1,54 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsDog">
+      <PossibleMagic.0.DisplayName>Kiêu Quán Thuật</PossibleMagic.0.DisplayName>
+      <PossibleMagic.0.Desc>Đổ vào thực vật khiến cho phi tốc sinh trưởng đến thành thục. Không cách nào dùng tay sử dụng, chỉ có thể thông qua linh sủng hành vi phóng thích.</PossibleMagic.0.Desc>
+      <PossibleMagic.1.DisplayName>Tạo Hóa Ốc Thổ</PossibleMagic.1.DisplayName>
+      <PossibleMagic.1.Desc>Lấy tự thân trưởng thành cùng dinh dưỡng làm đại giới, đem một phiến khu vực hóa thành đất màu mỡ.\n[color=#FF0000] Cần đạt tới thành niên kỳ.[/color]</PossibleMagic.1.Desc>
+      <PossibleMagic.2.DisplayName>Tát Kiều</PossibleMagic.2.DisplayName>
+      <PossibleMagic.2.Desc>Hướng một nhân vật nũng nịu, dùng nhiệt tình của mình cùng mị lực đả động đối phương, đột phá tâm phòng.\n[color=#FF0000] Cần linh trí đạt tới 100.[/color]</PossibleMagic.2.Desc>
+      <PossibleSkill.0.Desc>[color=#FF0000] Cần hộ thể đạt tới 50.[/color]</PossibleSkill.0.Desc>
+      <PossibleSkill.1.Desc>[color=#FF0000] Cần hộ thể đạt tới 100.[/color]</PossibleSkill.1.Desc>
+      <PossibleSkill.2.Desc>[color=#FF0000] Cần thuật pháp đạt tới 50.[/color]</PossibleSkill.2.Desc>
+      <PossibleSkill.3.Desc>[color=#FF0000] Cần thuật pháp đạt tới 100.[/color]</PossibleSkill.3.Desc>
+    </Text>
+    <Text Name="LsFox">
+      <PossibleMagic.0.DisplayName>Hóa Thương Thuật</PossibleMagic.0.DisplayName>
+      <PossibleMagic.0.Desc>Trị liệu một đệ tử nội môn tổn thương. Không cách nào dùng tay sử dụng, chỉ có thể thông qua linh sủng hành vi phóng thích.</PossibleMagic.0.Desc>
+      <PossibleMagic.1.DisplayName>Tạo Hóa Linh Thổ</PossibleMagic.1.DisplayName>
+      <PossibleMagic.1.Desc>Lấy tự thân trưởng thành cùng dinh dưỡng làm đại giới, đem một phiến khu vực hóa thành linh thổ.\n[color=#FF0000] Cần đạt tới thành niên kỳ.[/color]</PossibleMagic.1.Desc>
+      <PossibleMagic.2.DisplayName>Tát Kiều</PossibleMagic.2.DisplayName>
+      <PossibleMagic.2.Desc>Hướng hành thương nũng nịu, lấy chiếm được đối phương hảo cảm.\n[color=#FF0000] Cần linh trí đạt tới 100.[/color]</PossibleMagic.2.Desc>
+      <PossibleSkill.0.Desc>[color=#FF0000] Cần ngự đan đạt tới 50.[/color]</PossibleSkill.0.Desc>
+      <PossibleSkill.1.Desc>[color=#FF0000] Cần thuật pháp đạt tới 50.[/color]</PossibleSkill.1.Desc>
+      <PossibleSkill.2.Desc>[color=#FF0000] Cần linh khí đạt tới 50.[/color]</PossibleSkill.2.Desc>
+      <PossibleSkill.3.Desc>[color=#FF0000] Cần linh khí đạt tới 100.[/color]</PossibleSkill.3.Desc>
+    </Text>
+    <Text Name="LsDragon">
+      <PossibleMagic.0.DisplayName>Lương Phong Thuật</PossibleMagic.0.DisplayName>
+      <PossibleMagic.0.Desc>Trị liệu một đệ tử bị cảm nắng. Không cách nào dùng tay sử dụng, chỉ có thể thông qua linh sủng hành vi phóng thích.</PossibleMagic.0.Desc>
+      <PossibleMagic.1.DisplayName>Hàn Ngục Hấp Trừ</PossibleMagic.1.DisplayName>
+      <PossibleMagic.1.Desc>Làm giao long đồng loại, nhưng hấp thu giao long lưu lại lạnh ngục.\n[color=#FF0000] Cần đạt tới thành niên kỳ.[/color]</PossibleMagic.1.Desc>
+      <PossibleMagic.2.DisplayName>Lãnh Liệt Khí Tức</PossibleMagic.2.DisplayName>
+      <PossibleMagic.2.Desc>Sử dụng thể nội giao long chân khí, thanh trừ nóng bức.\n[color=#FF0000] Cần đạt tới trưởng thành kỳ.[/color]</PossibleMagic.2.Desc>
+      <PossibleMagic.3.DisplayName>Uy Chấn Tứ Phương</PossibleMagic.3.DisplayName>
+      <PossibleMagic.3.Desc>Hướng một cái đại diện điểm biểu hiện ra thần uy, đề cao ổn định độ.[color=#FF0000] Cần linh trí đạt tới 100 Giải tỏa.[/color]</PossibleMagic.3.Desc>
+      <PossibleSkill.0.Desc>Thuỷ lôi thuật.</PossibleSkill.0.Desc>
+      <PossibleSkill.1.Desc>[color=#FF0000] Cần thuật pháp đạt tới 50.[/color]</PossibleSkill.1.Desc>
+      <PossibleSkill.2.Desc>[color=#FF0000] Cần thuật pháp đạt tới 100.[/color]</PossibleSkill.2.Desc>
+    </Text>
+    <Text Name="LsPhoenix">
+      <PossibleMagic.0.DisplayName>Lô Ôn Thuật</PossibleMagic.0.DisplayName>
+      <PossibleMagic.0.Desc>Trị liệu một đệ tử đông thương. Không cách nào dùng tay sử dụng, chỉ có thể thông qua linh sủng hành vi phóng thích.</PossibleMagic.0.Desc>
+      <PossibleMagic.1.DisplayName>Chước Nhiệt Khí Tức</PossibleMagic.1.DisplayName>
+      <PossibleMagic.1.Desc>Sử dụng thể nội Phượng Hoàng chân khí, thanh trừ lẫm đông.\n[color=#FF0000] Cần đạt tới trưởng thành kỳ.[/color]</PossibleMagic.1.Desc>
+      <PossibleMagic.2.DisplayName>Hỏa Nhãn Kim Tình</PossibleMagic.2.DisplayName>
+      <PossibleMagic.2.Desc>Ban cho một nội môn đệ tử Hỏa Nhãn Kim Tinh năng lực, khiến cho đang đấu giá trông được phá một chút vật phẩm chân diện mục.\n[color=#FF0000] Cần linh trí đạt tới 50 Giải tỏa.[/color]</PossibleMagic.2.Desc>
+      <PossibleMagic.3.DisplayName>Tường Vân Thụy Thú</PossibleMagic.3.DisplayName>
+      <PossibleMagic.3.Desc>Hướng một cái đại diện điểm biểu hiện ra thần uy, đề cao bên ta lực hấp dẫn, \n[color=#FF0000] Cần linh trí đạt tới 100 Giải tỏa.[/color]</PossibleMagic.3.Desc>
+      <PossibleSkill.0.Desc>[color=#FF0000] Cần ngự đan đạt tới 50.[/color]</PossibleSkill.0.Desc>
+      <PossibleSkill.1.Desc>[color=#FF0000] Cần thuật pháp đạt tới 50.[/color]</PossibleSkill.1.Desc>
+      <PossibleSkill.2.Desc>[color=#FF0000] Cần thuật pháp đạt tới 100.[/color]</PossibleSkill.2.Desc>
+    </Text>
+  </List>
+</Texts>
