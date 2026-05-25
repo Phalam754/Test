@@ -1,0 +1,17 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Body_Gong_2">
+      <DisplayName>Man Cực Kim Thân</DisplayName>
+      <Desc>Nhân loại Luyện Thể giả tham chiếu Thái Cổ thời đại đại yêu trời sinh yêu thân sáng tạo luyện thể thuật. Phương pháp này lấy cuồng mãnh bạo liệt lấy xưng, cực kỳ am hiểu rèn luyện xương cốt, cuối cùng nhưng đúc thành rất cực chi thân, nhục thân thành thánh, phá toái hư không.</Desc>
+      <SelectDesc>Đạp lên thể tu con đường mang ý nghĩa cùng tinh khí thần ba triệt để hợp nhất, cùng linh khí cách biệt, không cách nào sử dụng bất luận cái gì huyền diệu chi vật, từ đây hành tẩu thiên địa chỉ bằng nhục thân, nhất định phải đi đến con đường này a?</SelectDesc>
+      <Stages.0.DisplayName>Thối Thể Kỳ</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Huyết Nhục Tân Sinh</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Tẩy Tủy Kỳ</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Tẩy Tủy Hoán Cốt</Stages.1.Necks.0.DisplayName>
+      <Stages.2.DisplayName>Thoát Thai Kỳ</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Nội Ngoại Hợp Nhất</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>Hỗn Nguyên Kỳ</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Thiên Hình</Stages.3.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>
