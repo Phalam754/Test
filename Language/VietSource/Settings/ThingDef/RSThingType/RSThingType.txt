@@ -1,0 +1,294 @@
+ItemName	Type
+Item_LingStone	Nguyên Liệu
+Item_LingCrystal	Nguyên Liệu
+Item_BrownRock	Nguyên Liệu
+Item_GrayRock	Nguyên Liệu
+Item_Marble	Nguyên Liệu
+Item_Jade	Nguyên Liệu
+Item_JadeEssence	Nguyên Liệu
+Item_StoneEssence	Nguyên Liệu
+Item_SkyStone	Nguyên Liệu
+Item_IronRock	Nguyên Liệu
+Item_CopperRock	Nguyên Liệu
+Item_SilverRock	Nguyên Liệu
+Item_DarksteelRock	Nguyên Liệu
+Item_Wood	Nguyên Liệu
+Item_HardWood	Nguyên Liệu
+Item_ParasolWood	Nguyên Liệu
+Item_LingWood	Nguyên Liệu
+Item_Bamboo	Nguyên Liệu
+Item_SilverGrit	Nguyên Liệu
+Item_CopperGrit	Nguyên Liệu
+Item_Cinnabar	Nguyên Liệu
+Item_LingMuXueJie	Nguyên Liệu
+Item_Ginkgo	Nguyên Liệu
+Item_SnakeGallbladder	Nguyên Liệu
+Item_BearGallbladder	Nguyên Liệu
+Item_Healroot	Nguyên Liệu
+Item_Grass	Nguyên Liệu
+Item_Cotton	Nguyên Liệu
+Item_Shit	Nguyên Liệu
+Item_DragonShit	Nguyên Liệu
+Item_IronBlock	Vật Liệu
+Item_CopperBlock	Vật Liệu
+Item_SilverBlock	Vật Liệu
+Item_CopperBlock1	Vật Liệu
+Item_SilverBlock1	Vật Liệu
+Item_DarksteelBlock	Vật Liệu
+Item_StarEssenceBlock	Vật Liệu
+Item_BrownRockBlock	Vật Liệu
+Item_GrayRockBlock	Vật Liệu
+Item_MarbleBlock	Vật Liệu
+Item_JadeBlock	Vật Liệu
+Item_SkyStoneBlock	Vật Liệu
+Item_LingStoneBlock	Vật Liệu
+Item_LingCrystalBlock	Vật Liệu
+Item_RoughWoodBlock	Vật Liệu
+Item_HardWoodBlock	Vật Liệu
+Item_ParasolWoodBlock	Vật Liệu
+Item_LingWoodBlock	Vật Liệu
+Item_SpellPaper	Vật Liệu
+Item_SpellPaperLv2	Vật Liệu
+Item_SpellPaperLv3	Vật Liệu
+Item_CottonCloth	Vật Liệu
+Item_DeepBlueCloth	Vật Liệu
+Item_PurpleCloth	Vật Liệu
+Item_YellowCloth	Vật Liệu
+Item_BlueCloth	Vật Liệu
+Item_RedCloth	Vật Liệu
+Item_WhiteCloth	Vật Liệu
+Item_BlackCloth	Vật Liệu
+Item_WoodLeftover	Vật Liệu
+Item_HardWoodLeftover	Vật Liệu
+Item_ParasolWoodLeftover	Vật Liệu
+Item_LingWoodLeftover	Vật Liệu
+Item_BrownRockLeftover	Vật Liệu
+Item_GrayRockLeftover	Vật Liệu
+Item_MarbleLeftover	Vật Liệu
+Item_JadeLeftover	Vật Liệu
+Item_SkyStoneLeftover	Vật Liệu
+Item_LingStoneLeftover	Vật Liệu
+Item_LingCrystalLeftover	Vật Liệu
+Item_IronRockLeftover	Vật Liệu
+Item_CopperRockLeftover	Vật Liệu
+Item_SilverRockLeftover	Vật Liệu
+Item_DarksteelRockLeftover	Vật Liệu
+Item_StarEssenceLeftover	Vật Liệu
+Item_SoulCrystalYou	Hồn Phách
+Item_SoulCrystalNing	Hồn Phách
+Item_SoulCrystalLing	Hồn Phách
+Item_SoulCrystalYuanLing	Hồn Phách
+Item_Yao_CatSoul	Hồn Phách
+Item_Yao_RabbitLuck	Yêu Thú Rơi Đồ
+Item_Yao_WolfAtk	Yêu Thú Rơi Đồ
+Item_Yao_SnakeHanLin	Yêu Thú Rơi Đồ
+Item_Yao_BearPiMao	Yêu Thú Rơi Đồ
+Item_Yao_TurtleKe	Yêu Thú Rơi Đồ
+Item_Yao_TigerZhui	Yêu Thú Rơi Đồ
+Item_Yao_CattleJiao	Yêu Thú Rơi Đồ
+Item_Yao_ChickenGuan	Yêu Thú Rơi Đồ
+Item_BoarLeather	Mao Bì
+Item_RabbitLeather	Mao Bì
+Item_BearLeather	Mao Bì
+Item_WolfLeather	Mao Bì
+Item_CattleLeather	Mao Bì
+Item_TigerLeather	Mao Bì
+Item_FeiLeather	Mao Bì
+Item_LuShuLeather	Mao Bì
+Item_YaoLeather	Mao Bì
+Item_YaoLeather1	Mao Bì
+Item_BambooShoot	Dược Thực
+Item_HorribleMeal	Dược Thực
+Item_HomeFood	Dược Thực
+Item_DeliciousFood	Dược Thực
+Item_DelicacyFood	Dược Thực
+Item_GuanyinMud	Dược Thực
+Item_Water	Dược Thực
+Item_DirtyWater	Dược Thực
+Item_Hemostatics	Dược Thực
+Item_SmallCycle	Dược Thực
+Item_Plaster	Dược Thực
+Item_StoneEssenceDrug	Dược Thực
+Item_Anodyne	Dược Thực
+Item_Laxative	Dược Thực
+Item_Fruit	Dược Thực
+Item_LingWater	Dược Thực
+Item_ZaoHuaYuLu	Dược Thực
+Item_Cake	Dược Thực
+Item_Jerky	Dược Thực
+Item_PreservedFruit	Dược Thực
+Item_Yao_BoarMeat	Dược Thực
+Item_Flour	Dược Thực
+Item_Pear	Dược Thực
+Item_Wheat	Dược Thực
+Item_Mushroom	Dược Thực
+Item_Lotusroot	Dược Thực
+Item_BoarMeat	Dược Thực
+Item_FrogMeat	Dược Thực
+Item_TurtleMeat	Dược Thực
+Item_BearMeat	Dược Thực
+Item_Beef	Dược Thực
+Item_RabbitMeat	Dược Thực
+Item_ChickenMeat	Dược Thực
+Item_WolfMeat	Dược Thực
+Item_FishMeat	Dược Thực
+Item_SnakeMeat	Dược Thực
+Item_ChickenEgg	Dược Thực
+Item_SnakeEgg	Dược Thực
+Item_CatMeat	Dược Thực
+Item_TigerMeat	Dược Thực
+Item_TurtleEgg	Dược Thực
+Item_Ginseng	Linh Dược
+Item_GanodermaLucidum	Linh Dược
+Item_Mint	Linh Dược
+Item_MagicHerb	Linh Dược
+Item_WuDang_HuangJing	Linh Dược
+Item_WuDang_HuangJingFen	Linh Dược
+Item_Dan_ExtremeLofty	Tiên Đan
+Item_Dan_HundredRefine	Tiên Đan
+Item_Dan_IncreaseLife1	Tiên Đan
+Item_Dan_IncreaseLife2	Tiên Đan
+Item_Dan_IncreaseLife3	Tiên Đan
+Item_Dan_IncreaseLife4	Tiên Đan
+Item_Dan_IncreaseLife5	Tiên Đan
+Item_Dan_IncreaseNeckCountdown1	Tiên Đan
+Item_Dan_IncreaseNeckCountdown2	Tiên Đan
+Item_Dan_SwordBall	Tiên Đan
+Item_Dan_Ling3	Tiên Đan
+Item_Dan_FiveBaseFromLife	Tiên Đan
+Item_Dan_TreeEXP	Tiên Đan
+Item_Dan_ReBorn	Tiên Đan
+Item_Dan_ReBorn_4	Tiên Đan
+Item_Dan_FenShen1	Tiên Đan
+Item_Dan_FenShen2	Tiên Đan
+Item_Dan_FenShen3	Tiên Đan
+Item_Dan_LongDan1	Tiên Đan
+Item_Dan_FengDan1	Tiên Đan
+Item_Dan_ZhuLongDan1	Tiên Đan
+Item_BasePracticeDrug	Đan Dược
+Item_Dan_Ling	Đan Dược
+Item_Dan_Ling2	Đan Dược
+Item_Dan_PracticeRate	Đan Dược
+Item_Dan_PracticeSpeed	Đan Dược
+Item_Dan_CalmDown	Đan Dược
+Item_Dan_Defense	Đan Dược
+Item_Dan_FiveBase1	Đan Dược
+Item_Dan_FiveBase2	Đan Dược
+Item_Dan_FiveBase3	Đan Dược
+Item_Dan_FiveBase4	Đan Dược
+Item_Dan_FiveBase5	Đan Dược
+Item_Dan_Soul1	Đan Dược
+Item_Dan_Soul2	Đan Dược
+Item_Dan_Soul3	Đan Dược
+Item_Dan_Soul4	Đan Dược
+Item_Dan_LunHui1	Đan Dược
+Item_Dan_LingYuanZhong	Đan Dược
+Item_Dan_TiShen	Đan Dược
+Item_QiZhi	Đan Dược
+Item_Fall_LingZhi	Đan Dược
+Item_Winter_LingZhi	Đan Dược
+Item_Spring_LingZhi	Đan Dược
+Item_Summer_LingZhi	Đan Dược
+Item_Earth_LingZhi	Đan Dược
+Item_Dan_JingYuan	Đan Dược
+Item_Dan_JingYuan2	Đan Dược
+Item_Dan_JingYuan3	Đan Dược
+Item_Dan_Happiness	Đan Dược
+Item_Dan_NoHunger	Đan Dược
+Item_Dan_NoHunger2	Đan Dược
+Item_Dan_NoHunger1	Đan Dược
+Item_Dan_LostSoul	Đan Dược
+Item_Dan_DredgeQi1	Đan Dược
+Item_Dan_DredgeQi	Đan Dược
+Item_Dan_WuLingSan	Đan Dược
+Item_Dan_CureJinDamage	Đan Dược
+Item_Dan_CureMuDamage	Đan Dược
+Item_Dan_CureShuiDamage	Đan Dược
+Item_Dan_CureHuoDamage	Đan Dược
+Item_Dan_CureTuDamage	Đan Dược
+Item_Dan_CureFiveElementDamage	Đan Dược
+Item_Dan_Restore	Đan Dược
+Item_Dan_Thin	Đan Dược
+Item_Dan_Fat	Đan Dược
+Item_Dan_FaceLock	Đan Dược
+Item_Dan_FaceUnLock	Đan Dược
+Item_Dan_FaceLock1	Đan Dược
+Item_Dan_FaceLock2	Đan Dược
+Item_Dan_FaceLock3	Đan Dược
+Item_LifeStream	Thiên Tài Địa Bảo
+Item_MonsterBlood	Thiên Tài Địa Bảo
+Item_EarthEssence	Thiên Tài Địa Bảo
+Item_EarthEssence1	Thiên Tài Địa Bảo
+Item_StarEssence	Thiên Tài Địa Bảo
+Item_ExtremeJade	Thiên Tài Địa Bảo
+Item_Dan_LingYuanSha	Thiên Tài Địa Bảo
+Item_SoulPearl	Thiên Tài Địa Bảo
+Item_ThunderAir	Thiên Tài Địa Bảo
+Item_XianBone	Thiên Tài Địa Bảo
+Item_XianBoneBall	Thiên Tài Địa Bảo
+Item_ZaoHuaYuZi	Thiên Tài Địa Bảo
+Item_YuanHunLu	Thiên Tài Địa Bảo
+Item_XieHunLu	Thiên Tài Địa Bảo
+Item_YanDaoGuo	Thiên Tài Địa Bảo
+Item_QieDaoGuo	Thiên Tài Địa Bảo
+Item_XianDaoShenNian	Thiên Tài Địa Bảo
+Item_XianDaoXieNian	Thiên Tài Địa Bảo
+Item_WinterWarm	Thiên Tài Địa Bảo
+Item_SummerHerb	Thiên Tài Địa Bảo
+Item_God_ZhiNianJieJing	Thiên Tài Địa Bảo
+Item_God_JieHui	Thiên Tài Địa Bảo
+Item_JinEssence	Thiên Tài Địa Bảo
+Item_MuEssence	Thiên Tài Địa Bảo
+Item_ShuiEssence	Thiên Tài Địa Bảo
+Item_HuoEssence	Thiên Tài Địa Bảo
+Item_TuEssence	Thiên Tài Địa Bảo
+Item_BenYuan_None	Bản Nguyên
+Item_BenYuan_Jin	Bản Nguyên
+Item_BenYuan_Mu	Bản Nguyên
+Item_BenYuan_Shui	Bản Nguyên
+Item_BenYuan_Huo	Bản Nguyên
+Item_BenYuan_Tu	Bản Nguyên
+Item_BossFeng_HuoYu	Thần Thú Tài Liệu
+Item_BossFeng_GangYu	Thần Thú Tài Liệu
+Item_BossFeng_TouYu	Thần Thú Tài Liệu
+Item_BossFeng_WeiYu	Thần Thú Tài Liệu
+Item_BossFeng_Gu	Thần Thú Tài Liệu
+Item_BossFeng_HongYu	Thần Thú Tài Liệu
+Item_BossFeng_Meat	Thần Thú Tài Liệu
+Item_DragonScale	Thần Thú Tài Liệu
+Item_BossLong_Jiao	Thần Thú Tài Liệu
+Item_BossLong_Zhua	Thần Thú Tài Liệu
+Item_BossLong_Lin	Thần Thú Tài Liệu
+Item_BossLong_NiLin	Thần Thú Tài Liệu
+Item_BossLong_Jing	Thần Thú Tài Liệu
+Item_BossLong_Meat	Thần Thú Tài Liệu
+Item_BossZhuLong_BaiLin	Thần Thú Tài Liệu
+Item_BossZhuLong_HeiLin	Thần Thú Tài Liệu
+Item_BossZhuLong_Eye	Thần Thú Tài Liệu
+Item_BossZhuLong_TianLin	Thần Thú Tài Liệu
+Item_BossZhuLong_LongYu	Thần Thú Tài Liệu
+Item_BossZhuLong_Meat	Thần Thú Tài Liệu
+Item_BossFeng_FengYin	Thần Thú Tài Liệu
+Item_BossZhuLong_FengYin	Thần Thú Tài Liệu
+Item_GodPractice_MiJuan	Hộp Mù
+Item_LunHui_Box2	Hộp Mù
+Item_ZuShiZhiCi	Hộp Mù
+Item_LunHui_Box1	Hộp Mù
+Item_E_FaBaoBox	Hộp Mù
+Item_E_DanBox	Hộp Mù
+Item_E_MiJiBox	Hộp Mù
+Item_E_FuBox	Hộp Mù
+Item_StoneBox	Hộp Mù
+Item_StoneBox1	Hộp Mù
+Item_StoneBox2	Hộp Mù
+Item_Firecracker	Niên Hỏa
+Item_FirecrackerShit	Niên Hỏa
+Item_Jiaozi	Niên Hỏa
+Item_Yingbi1	Niên Hỏa
+Item_Yingbi2	Niên Hỏa
+Item_Yingbi3	Niên Hỏa
+Item_SpringBox	Niên Hỏa
+Item_StoneCutter	Công Cụ
+Item_SewingDefender	Công Cụ
+Item_MillVell	Công Cụ
+Item_AuctionPaper	Giấy Mời
