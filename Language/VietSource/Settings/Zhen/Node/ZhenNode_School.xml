@@ -1,0 +1,37 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="ZhenMainNode_School_1">
+      <DisplayName>Đan Hà Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_2">
+      <DisplayName>Côn Lôn Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_3">
+      <DisplayName>Cực Thiên Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_4">
+      <DisplayName>Tử Tiêu Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_5">
+      <DisplayName>Chính Nhất Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_6">
+      <DisplayName>Thanh Liên Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_7">
+      <DisplayName>Tê Hà Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_8">
+      <DisplayName>Bách Man Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_9">
+      <DisplayName>Thất Thiên Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_10">
+      <DisplayName>Thất Sát Trận Xu</DisplayName>
+    </Text>
+    <Text Name="ZhenMainNode_School_11">
+      <DisplayName>Hợp Hoan Trận Xu</DisplayName>
+    </Text>
+  </List>
+</Texts>
