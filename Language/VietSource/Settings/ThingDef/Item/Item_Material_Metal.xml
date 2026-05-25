@@ -1,0 +1,71 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBase" sParam="Item">
+      <Item.FabaoSuffix>kim, ấn, bia, giác, khuê, khuyết, trấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronRock" sParam="Item">
+      <ThingName>Quặng sắt</ThingName>
+      <Desc>Loại quặng kim loại phổ biến nhất. Có độ cứng cao và dễ gia công.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.2
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Tỷ lệ sát thương vật sắc nhọn: 3
+Tỷ lệ sát thương vật cùn: 3
+Tỷ lệ sát thương linh khí: 0.6
+Hệ số thuộc tính ngũ hành của vật liệu: 2</Desc>
+      <Item.BeMaterial.NamePrefix>Sắt</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRock" sParam="Item">
+      <ThingName>Quặng hoả đồng</ThingName>
+      <Desc>Một loại quặng kim loại giàu hỏa khí, khi đến gần sẽ cảm thấy nóng rát.
+Nhiệt độ trung tâm 15, phạm vi 3, nhiệt độ phòng 30.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.4
+Hệ số tốc độ tấn công của vũ khí: +0.7
+Tỷ lệ sát thương vật sắc nhọn: 1
+Tỷ lệ sát thương vật cùn: 1
+Tỷ lệ sát thương linh khí: 1.5
+Hệ số thuộc tính ngũ hành của vật liệu: 5</Desc>
+      <Item.BeMaterial.NamePrefix>Đồng lửa</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRock" sParam="Item">
+      <ThingName>Quặng hàn tinh</ThingName>
+      <Desc>Một loại quặng kim loại chứa hàn khí, kết cấu tương tự như quặng bạc, khi đến gần sẽ cảm thấy lạnh thấu xương và rất đẹp.
+Nhiệt độ trung tâm -15, phạm vi 3, nhiệt độ phòng -30.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 1.6
+Hệ số tốc độ tấn công của vũ khí: +0.9
+Tỷ lệ sát thương vật sắc nhọn: 2.2
+Tỷ lệ sát thương vật cùn: 0.5
+Tỷ lệ sát thương linh khí: 4
+Hệ số thuộc tính ngũ hành của vật liệu: 5</Desc>
+      <Item.BeMaterial.NamePrefix>Hàn tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRock" sParam="Item">
+      <ThingName>Quặng huyền thiết</ThingName>
+      <Desc>Một loại kim loại hiếm có, màu đen, cực kỳ nặng và cứng, là vật liệu quý hiếm để chế tạo thần binh.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 2
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Tỷ lệ sát thương vật sắc nhọn: 10
+Tỷ lệ sát thương vật cùn: 10
+Tỷ lệ sát thương linh khí: 10
+Hệ số tiêu thụ vật liệu: 2
+Hệ số thuộc tính ngũ hành của vật liệu: 8</Desc>
+      <Item.BeMaterial.NamePrefix>Huyền thiết</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssence" sParam="Item">
+      <ThingName>Tinh tủy</ThingName>
+      <Desc>Tinh hoa của sao băng, có tính chất vật lý đặc biệt, là báu vật quý hiếm trong giới tu hành.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 3
+Hệ số tốc độ tấn công của vũ khí: +0.2
+Tỷ lệ sát thương vật sắc nhọn: 10
+Tỷ lệ sát thương vật cùn: 10
+Tỷ lệ sát thương linh khí: 10
+Hệ số tiêu thụ vật liệu: 2
+Hệ số thuộc tính ngũ hành của vật liệu: 12</Desc>
+      <Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
