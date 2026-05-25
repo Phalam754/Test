@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Wheat" sParam="Plant">
+      <ThingName>Lúa mì</ThingName>
+      <Desc>Nguồn lương thực chính. Mặc dù chu kỳ sinh trưởng khá dài, nhưng nó có khả năng thích nghi mạnh mẽ và có thể phát triển trong phạm vi nhiệt độ từ [temperature]0[/temperature] đến [temperature]40[/temperature]. Năng suất cũng khá cao. Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Healroot" sParam="Plant">
+      <ThingName>Thảo dược</ThingName>
+      <Desc>Một loại dược liệu cơ bản thông dụng nhất, có thể được chế biến thành nhiều loại thuốc khác. Chỉ có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]10[/temperature] đến [temperature]40[/temperature]. Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Cotton" sParam="Plant">
+      <ThingName>Bông gòn</ThingName>
+      <Desc>Nguồn cung cấp vải chính, nhiệt độ thích hợp là từ [temperature]5[/temperature] đến [temperature]35[/temperature]. Cũng có thể thu được bằng cách đi du ngoạn đến Tiểu Lương Sơn. Độ màu mỡ: 0.6+.</Desc>
+    </Text>
+    <Text Name="Mushroom" sParam="Plant">
+      <ThingName>Nấm hương</ThingName>
+      <Desc>Một loại nấm ăn phổ biến, thường mọc trong môi trường có nhiệt độ từ [temperature]18[/temperature] đến [temperature]23[/temperature], và chỉ có thể phát triển trong môi trường tối. Độ màu mỡ: 1+.</Desc>
+    </Text>
+  </List>
+</Texts>
