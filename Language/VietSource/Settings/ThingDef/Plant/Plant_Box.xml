@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Box_Cargo" sParam="Plant">
+      <ThingName>Trần Cựu Đích Hóa Tương</ThingName>
+      <Desc>Một cái bảo tồn coi như hoàn hảo hàng rương, tựa hồ là trốn tránh chiến loạn người trong lúc bối rối di thất.</Desc>
+      <StoryBnts.0.Name>Sưu Tác</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lục soát cái rương này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse" sParam="Plant">
+      <ThingName>Hủ Phôi Đích Tàn Hài</ThingName>
+      <Desc>Một bộ sớm đã mục nát thi thể, không biết vì sao chết ở chỗ này.</Desc>
+      <StoryBnts.0.Name>Sưu Tác</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lục soát cái này thi thể</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_OldMan1" sParam="Plant">
+      <ThingName>Hủ Phôi Đích Tàn Hài</ThingName>
+      <Desc>Một bộ sớm đã mục nát thi thể, không biết vì sao chết ở chỗ này.</Desc>
+      <StoryBnts.0.Name>Sưu Tác</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lục soát cái này thi thể</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_OldMan2" sParam="Plant">
+      <ThingName>Hủ Phôi Đích Tàn Hài</ThingName>
+      <Desc>Một bộ sớm đã mục nát thi thể, không biết vì sao chết ở chỗ này.</Desc>
+      <StoryBnts.0.Name>Sưu Tác</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lục soát cái này thi thể</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_BeastMan" sParam="Plant">
+      <ThingName>Bán Hủ Phôi Đích Tàn Hài</ThingName>
+      <Desc>Một bộ hư một nửa thi thể, không biết vì sao dã thú cũng không ăn hắn.</Desc>
+      <StoryBnts.0.Name>Tiếp Xúc</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Nếm thử dùng thần thức cùng nó âm hồn tiếp xúc.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+      <ThingName>Tân Tiên Đích Thi Thể</ThingName>
+      <Desc>Một cương chết không lâu thi thể, không biết vì sao ở chỗ này.</Desc>
+      <StoryBnts.0.Name>Sưu Tác</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lục soát cái này thi thể.</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>
