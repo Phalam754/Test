@@ -1,0 +1,174 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Star">
+      <DisplayName>Tinh Tinh</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại đêm khuya tối thui, {0} Phá lệ sáng tỏ</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại tại thâm thúy trong hẻm núi, tùy thời có thể trông thấy {0}</SingleFormat.1>
+    </Text>
+    <Text Name="Cloud">
+      <DisplayName>Trân Bảo</DisplayName>
+      <SingleFormat.0>Nhớ tới có chút {0} Phi thường dễ nát</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có chút {0} Sẽ phát sáng</SingleFormat.1>
+    </Text>
+    <Text Name="Sun">
+      <DisplayName>Thái Dương</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại bị {0} Bạo chiếu thời gian</SingleFormat.0>
+      <SingleFormat.1>Đã từng nghĩ nhìn thẳng {0}, nhưng phi thường chướng mắt</SingleFormat.1>
+    </Text>
+    <Text Name="Moon">
+      <DisplayName>Nguyệt Lượng</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Đặc biệt sáng tỏ ban đêm</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới cái kia một mình nhìn {0} Ban đêm</SingleFormat.1>
+    </Text>
+    <Text Name="Meteriod">
+      <DisplayName>Lưu Tinh</DisplayName>
+      <SingleFormat.0>Nhớ tới mình chưa thấy qua mấy lần {0}</SingleFormat.0>
+    </Text>
+    <Text Name="Jade">
+      <DisplayName>Bảo Thạch</DisplayName>
+      <SingleFormat.0>Nhớ tới mình chưa thấy qua mấy lần {0}</SingleFormat.0>
+    </Text>
+    <Text Name="Sculpture">
+      <DisplayName>Điêu Tố</DisplayName>
+      <SingleFormat.0>Nhớ tới có {0} Rất giống mình</SingleFormat.0>
+    </Text>
+    <Text Name="Spring">
+      <DisplayName>Xuân Quý</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Hương hoa</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Mưa dầm</SingleFormat.1>
+    </Text>
+    <Text Name="Summer">
+      <DisplayName>Hạ Quý</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Nóng bức</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Côn trùng kêu vang</SingleFormat.1>
+    </Text>
+    <Text Name="Autumn">
+      <DisplayName>Thu Quý</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Lá rụng</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Lá phong</SingleFormat.1>
+    </Text>
+    <Text Name="Winter">
+      <DisplayName>Đông Quý</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Rét lạnh</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Mặt băng</SingleFormat.1>
+    </Text>
+    <Text Name="Earth">
+      <DisplayName>Đại Địa</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại {0} Bên trên hoa hoa thảo thảo</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Có đôi khi sẽ mở nứt</SingleFormat.1>
+    </Text>
+    <Text Name="Rain">
+      <DisplayName>Vũ</DisplayName>
+      <SingleFormat.0>Hồi tưởng lại có lần hạ {0} Về sau đi sơn động tránh né</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới hạ {0} Lúc lá cây xanh biếc càng sâu</SingleFormat.1>
+    </Text>
+    <Text Name="Snow">
+      <DisplayName>Tuyết</DisplayName>
+      <SingleFormat.0>Nhớ tới hạ {0} Thời điểm rất yên tĩnh</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới dưới có cây tùng địa phương sẽ hạ {0}</SingleFormat.1>
+    </Text>
+    <Text Name="Lake">
+      <DisplayName>Hồ</DisplayName>
+      <SingleFormat.0>Nhớ tới đi lớn {0} Bên cạnh uống nước thời gian</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới lớn {0} Bên trong cá</SingleFormat.1>
+    </Text>
+    <Text Name="Wind">
+      <DisplayName>Phong</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Thổi vào người rất dễ chịu</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại {0} Lớn có thể đem mình thổi chạy</SingleFormat.1>
+    </Text>
+    <Text Name="Thunder">
+      <DisplayName>Lôi</DisplayName>
+      <SingleFormat.0>Nhớ tới đánh {0} Thời điểm tổng lúc mây đen dày đặc</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có đôi khi {0} Phía dưới lại có thể có người</SingleFormat.1>
+    </Text>
+    <Text Name="Tree">
+      <DisplayName>Thụ</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Bên trên luôn có chút chim</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới {0} Bên trên khả năng có quả ăn</SingleFormat.1>
+    </Text>
+    <Text Name="Flower">
+      <DisplayName>Hoa</DisplayName>
+      <SingleFormat.0>Nhớ tới đủ loại nhan sắc {0}</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có {0} Có đặc biệt mùi thơm</SingleFormat.1>
+    </Text>
+    <Text Name="Human">
+      <DisplayName>Nhân</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Sẽ làm sự tình các loại</SingleFormat.0>
+      <SingleFormat.1>Hồi tưởng lại có {0} Sẽ đến cho ăn mình</SingleFormat.1>
+    </Text>
+    <Text Name="Self">
+      <DisplayName>Tự Kỷ</DisplayName>
+      <SingleFormat.0>Nhớ tới ở trong nước có thể trông thấy {0} Cái bóng</SingleFormat.0>
+    </Text>
+    <Text Name="Food">
+      <DisplayName>Thực Vật</DisplayName>
+      <SingleFormat.0>Nhớ tới mình thích ăn nhất {0}</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới nhân loại khả năng đem mình làm {0}</SingleFormat.1>
+    </Text>
+    <Text Name="Barrier">
+      <DisplayName>Vi Lan</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Sẽ đem mình ngăn lại</SingleFormat.0>
+    </Text>
+    <Text Name="Weed">
+      <DisplayName>Tạp Thảo</DisplayName>
+      <SingleFormat.0>Nhớ lại mình từng nếm qua các loại {0}</SingleFormat.0>
+    </Text>
+    <Text Name="Wall">
+      <DisplayName>Tường</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Phi thường cứng rắn</SingleFormat.0>
+    </Text>
+    <Text Name="Coat">
+      <DisplayName>Y Phục</DisplayName>
+      <SingleFormat.0>Nhớ tới có chút {0} Là dùng động vật da chế tác</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có chút {0} Rất khó coi</SingleFormat.1>
+    </Text>
+    <Text Name="Pants">
+      <DisplayName>Khố Tử</DisplayName>
+      <SingleFormat.0>Nhớ tới có chút {0} Là dùng động vật da chế tác</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có chút {0} Rất khó coi</SingleFormat.1>
+    </Text>
+    <Text Name="Fellows">
+      <DisplayName>Đồng Bạn</DisplayName>
+      <SingleFormat.0>Nhớ lại mình {0}, bọn hắn đại bộ phận đều chết hết</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới cùng {0} Bơi chung chơi thời gian</SingleFormat.1>
+    </Text>
+    <Text Name="Mines">
+      <DisplayName>Khoáng Thạch</DisplayName>
+      <SingleFormat.0>Nhớ lại một chút {0} Sẽ phát sáng</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới có {0} Hương vị rất cổ quái</SingleFormat.1>
+    </Text>
+    <Text Name="Weapon">
+      <DisplayName>Vũ Khí</DisplayName>
+      <SingleFormat.0>Hồi ức giết chết đồng bạn {0}</SingleFormat.0>
+    </Text>
+    <Text Name="Nature">
+      <DisplayName>Tạo Hóa Khí Tức</DisplayName>
+      <SingleFormat.0>Nhớ tới trong cõi u minh vạn vật ở giữa {0}</SingleFormat.0>
+    </Text>
+    <Text Name="Fog">
+      <DisplayName>Vụ</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Bên trong cái gì đều thấy không rõ</SingleFormat.0>
+    </Text>
+    <Text Name="House">
+      <DisplayName>Môn</DisplayName>
+      <SingleFormat.0>Nhớ lại {0} Trong cơ bản đều có người</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới {0} Bên trong không có gió</SingleFormat.1>
+    </Text>
+    <Text Name="Farm">
+      <DisplayName>Nông Điền</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Bên trong đồ vật không thể ăn</SingleFormat.0>
+      <SingleFormat.1>Nghĩ tại {0} Bên trong đi ị</SingleFormat.1>
+    </Text>
+    <Text Name="Sharp">
+      <DisplayName>Châm</DisplayName>
+      <SingleFormat.0>Nhớ tới {0} Rất bén nhọn</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới bị {0} Đâm chọt rất đau</SingleFormat.1>
+    </Text>
+    <Text Name="Ring">
+      <DisplayName>Hoàn</DisplayName>
+      <SingleFormat.0>Nhớ tới mình sẽ bị {0} Bao lấy</SingleFormat.0>
+      <SingleFormat.1>Nhớ tới {0} Sẽ bị mang tại trên cổ</SingleFormat.1>
+    </Text>
+  </List>
+</Texts>
