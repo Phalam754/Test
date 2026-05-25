@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="XianKongA">
+      <IVNUMBER.0.Animal.DisplayName>Ngưu Lung</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, môn phái định hướng bồi dưỡng khiến cho có được trung y tương quan suy nghĩ.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="XianKongAL">
+      <IVNUMBER.0.Animal.DisplayName>Giản Lậu Đích Ngưu Lung</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, có được liên quan tới sợ hãi linh trí.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Giản Lậu Đích Ngưu Lung</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, có được liên quan tới tưởng niệm linh trí.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Giản Lậu Đích Ngưu Lung</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, có được liên quan tới cao hứng linh trí.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Giản Lậu Đích Ngưu Lung</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, có được liên quan tới phẫn nộ linh trí.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Giản Lậu Đích Ngưu Lung</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Bên trong chứa một con khai trí kỳ trâu, có được liên quan tới lo lắng linh trí.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>
