@@ -1,0 +1,11 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Default">
+      <Fragment.Random.0.Format.0>Tại {0} Thời điểm, hơi có sở ngộ.</Fragment.Random.0.Format.0>
+      <Fragment.Random.0.Format.1>Tại {0} Lúc, có rõ ràng cảm ngộ.</Fragment.Random.0.Format.1>
+      <Fragment.Random.0.Format.2>Tại {0} Lúc, lâm vào trầm tư.</Fragment.Random.0.Format.2>
+      <Fragment.Random.1.Format.0>Nhớ lại {0}</Fragment.Random.1.Format.0>
+      <Fragment.Random.2.Format.0>Trong cõi u minh cảm nhận được {0}</Fragment.Random.2.Format.0>
+    </Text>
+  </List>
+</Texts>
