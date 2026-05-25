@@ -1,0 +1,55 @@
+﻿Name	DisplayName	Tips
+		
+DisplayName	Tên	Hạng này mục đích tên.
+Desc	Miêu tả	Hạng này mục đích kỹ càng miêu tả.
+Element	Ngũ Hành	Vật phẩm đấy thuộc tính ngũ hành.
+Rate	Phẩm giai	Vật phẩm đấy phẩm giai.
+Zhuji	Trúc cơ giá trị	Dồng phục ngoại môn đệ tử dùng vật phẩm đấy tăng lên trúc cơ giá trị.( Điền phạm vi: 0~30000)
+Fesistance	Tính kháng dược	Nhiều lần phục dụng vật phẩm đấy dược hiệu suy giảm suất. Tính kháng dược vì 1 Mang ý nghĩa lần sau phục dụng vật phẩm đấy đem hoàn toàn không cách nào có hiệu lực.( Điền phạm vi: 0~1; Độ chính xác ủng hộ: 0.01)
+Ling	Linh khí giá trị	Phục dụng vật phẩm đấy đề cao linh khí giá trị.( Điền phạm vi: 0~999999999)
+Nutrition	Dinh dưỡng giá trị	Phục dụng vật phẩm đấy đề cao nhiều ít đồ ăn giá trị.( Điền phạm vi: 0~100)
+Water	Uống nước giá trị	Phục dụng vật phẩm đấy đề cao nhiều ít uống nước giá trị.( Điền phạm vi: 0~100)
+PracticeNutrition	Tinh nguyên giá trị	Phục dụng vật phẩm đấy đề cao nhiều ít tinh nguyên giá trị.( Điền phạm vi: 0~9999)
+DiscipleOnly	Phải chăng chỉ có nội môn hữu hiệu	Vật phẩm đấy phải chăng chỉ có nội môn đệ tử có hiệu lực.
+DanModifier	Đan dược hiệu quả	Phục dụng vật phẩm đấy chỗ kèm theo hiệu quả đặc biệt.
+Color	Lệch sắc	Vật phẩm đấy topic lệch sắc.
+EquipLable	Trang bị loại hình	Nên trang bị loại hình.
+EquipModel	Mô hình	Nên trang bị mô hình.
+Sex	Giới tính	Mặc nên trang bị cần thiết giới tính yêu cầu.
+TemperatureMaxAdd	Lớn nhất thích hợp nhiệt độ điều chỉnh giá trị	Nên trang bị góc đối sắc lớn nhất thích hợp nhiệt độ cơ sở điều chỉnh giá trị, chân thực giá trị sẽ cùng trang bị phẩm chất cùng sở dụng vật liệu có quan hệ.( Điền phạm vi: -999~999)
+TemperatureMinAdd	Thấp nhất thích hợp nhiệt độ điều chỉnh giá trị	Nên trang bị góc đối sắc thấp nhất thích hợp nhiệt độ cơ sở điều chỉnh giá trị, chân thực giá trị sẽ cùng trang bị phẩm chất cùng sở dụng vật liệu có quan hệ.( Điền phạm vi: -999~999)
+WeaponKind	Vũ khí	Vũ khí đấy loại hình.
+Damage	Cơ sở tổn thương	Vũ khí đấy cơ sở mức thương tổn, chân thực giá trị sẽ cùng trang bị phẩm chất cùng sở dụng vật liệu có quan hệ.( Điền phạm vi: 1~999)
+AttackSpeed	Tốc độ công kích	Vũ khí đấy mỗi giây công kích số lần.( Điền phạm vi: 0.3~3)
+AttackRange	Phạm vi công kích	Vũ khí đấy phát động công kích xa nhất khoảng cách. Đơn vị: Cách.( Điền phạm vi: 1.5~20)
+Difficulty	Học tập độ khó	Nên bí tịch độ khó, độ khó càng lớn, học tập cần thiết lĩnh hội càng nhiều, tập được sau đề cao đạo hạnh cũng càng nhiều.( Điền phạm vi: 0~999)
+EsotericaType	Bí tịch loại hình	Nên bí tịch sở thuộc loại hình.
+MaxStack	Điệp gia số tầng	
+Duration	Tiếp tục	Nên hiệu quả đặc biệt tiếp tục thời gian. Đơn vị: Giây.( Điền phạm vi: -1 Hoặc 1~999999, -1 Vì nên hiệu quả vĩnh cửu hữu hiệu )
+Skill	Kỹ năng gia tăng	Nên hiệu quả đặc biệt mang đến kỹ năng kèm theo.
+Property	Thuộc tính gia tăng	Nên hiệu quả đặc biệt mang đến thuộc tính kèm theo.
+GLevel	Cảnh giới	Học tập nên bí tịch cần thiết cảnh giới.
+DanLevel	Luyện đan đẳng cấp	Luyện chế nên đan dược cần thiết luyện đan kỹ năng đẳng cấp.( Điền phạm vi: 1~20)
+DanCount	Luyện đan số lượng	Mỗi lần luyện chế nên đan dược sản xuất lý luận số lượng, chân thực giá trị sẽ cùng luyện đan người trình độ, luyện chế hoàn cảnh có quan hệ; Luyện đan lúc, nên giá trị chân thực giá trị chí ít vì 1.( Điền phạm vi: 0.1~999)
+DanRate	Luyện đan độ khó	Luyện chế nên đan dược độ khó. Độ khó càng cao, càng không dễ dàng luyện chế thành công.
+ELearn	Bí tịch học tập	Có thể thông qua trở xuống bí tịch học được viên thuốc này phương pháp luyện chế.
+WorldDrop	Thế giới rơi xuống	Tại lịch luyện bên trong phát động thu hoạch được ngẫu nhiên đan dược ban thưởng sau, có khả năng thu hoạch được viên thuốc này.
+Businessman	Thương nhân bán	Có thể lành nghề thương hàng hóa bên trong mua được viên thuốc này.
+InitialUnlock	Ban đầu giải tỏa	Nên đan dược ngầm thừa nhận tất cả mọi người có thể luyện chế.
+DropCount	Rơi xuống số lượng	Lịch luyện bên trong thu hoạch được nên đan dược số lượng.
+DropRate	Rơi xuống xác suất	Lịch luyện bên trong phát động thu hoạch được ngẫu nhiên đan dược ban thưởng sau, thu hoạch được nên đan dược xác suất.
+SellPrice	Vật phẩm giá cả	Từ hành thương trong tay mua vật phẩm đấy giá cả.
+SellCount	Bán số lượng	Hành thương một lần sẽ mang theo nhiều ít nên đan dược.
+StuffSelect	Phó vật liệu	Lựa chọn chế tạo vật phẩm đấy cần thiết vật liệu.
+EsoDropRate	Rơi xuống xác suất	Lịch luyện bên trong phát động thu hoạch được ngẫu nhiên bí tịch ban thưởng sau, thu hoạch được nên bí tịch xác suất.
+StartUnlock	Bắt đầu giải tỏa	Bắt đầu tự động thu hoạch được bí tịch.
+EsoWorldDrop	Thế giới rơi xuống	Tại lịch luyện bên trong phát động thu hoạch được ngẫu nhiên bí tịch ban thưởng sau, có khả năng thu hoạch được bí tịch này.
+EquipModifier	Trang bị hiệu quả	Mặc nên trang bị chỗ kèm theo hiệu quả đặc biệt.
+EsoModifier	Bí tịch hiệu quả	Học tập nên bí tịch chỗ kèm theo hiệu quả đặc biệt.
+MaterialSelect	Tài liệu chính	Chế tạo vật phẩm đấy cần thiết tài liệu chính thuộc loại.
+BuildSelect	Sản xuất kiến trúc	Thiết lập chế tác vật phẩm đấy sở dụng kiến trúc.
+MainCostItemCount	Tài liệu chính số lượng	Chế tạo vật phẩm đấy cần thiết tài liệu chính cơ sở số lượng.( Điền phạm vi: 1~999)
+DanSelect	Đan phương	Học tập nên bí tịch có thể tập được đan dược phối phương.
+ModSelect	Mô hình	Vũ khí đấy mô hình.
+Ignorelimit	Phải chăng không nhìn hạn mức cao nhất	Kỹ năng này đẳng cấp tăng thêm sẽ hay không đột phá 20 Cấp kỹ năng hạn mức cao nhất.
+PpTypeSelect	Loại hình	Nên thuộc tính tăng thêm loại hình.
