@@ -1,0 +1,17 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Body_Gong_5">
+      <DisplayName>Bại Diệt Tà Thể</DisplayName>
+      <Desc>Cổ đại có một bộ phận Luyện Thể giả cho rằng thế này vì lồng giam, mà Vĩnh Dạ loại khí trời này chính là lồng giam bên ngoài bắn ra tiến đến chỉ riêng. Bọn hắn từ Vĩnh Dạ bên trong hấp thu ra một loại kì lạ tinh hoa, cũng dùng cái này rèn luyện thân thể, cho rằng cuối cùng sẽ đem nhục thể tu thành đánh vỡ lồng giam vượt qua bể khổ bảo bè. Loại này luyện thể lưu phái nóng lòng đối Vĩnh Dạ sùng bái, một lần vì thế nhân chỗ không dung, được xưng là bại diệt tà giáo. Mà về căn bản đại pháp cũng được xưng là 《 Bại diệt tà thể 》.</Desc>
+      <SelectDesc>Đạp lên thể tu con đường mang ý nghĩa cùng tinh khí thần ba triệt để hợp nhất, cùng linh khí cách biệt, không cách nào sử dụng bất luận cái gì huyền diệu chi vật, từ đây hành tẩu thiên địa chỉ bằng nhục thân, nhất định phải đi đến con đường này a?</SelectDesc>
+      <Stages.0.DisplayName>Thối Thể Kỳ</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Huyết Nhục Tân Sinh</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Tẩy Tủy Kỳ</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Tẩy Tủy Hoán Cốt</Stages.1.Necks.0.DisplayName>
+      <Stages.2.DisplayName>Thoát Thai Kỳ</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Nội Ngoại Hợp Nhất</Stages.2.Necks.0.DisplayName>
+      <Stages.3.DisplayName>Hỗn Nguyên Kỳ</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Thiên Hình</Stages.3.Necks.0.DisplayName>
+    </Text>
+  </List>
+</Texts>
