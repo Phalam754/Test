@@ -1,0 +1,81 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_LingZhi_DiaoXie">
+      <DisplayName>Giao cảm</DisplayName>
+      <Desc>Giao cảm với Linh Căn, cảm nhận được khí tức bi thương toát ra từ Linh Thực đang tàn lụi, tâm cảnh hơi bị nhiễu động (Giá trị cơ bản của Tâm Cảnh -5).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Jin">
+      <DisplayName>Kim Linh Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Kim, tiến vào trạng thái giao cảm. Thần Thức tăng, Tâm Cảnh tăng, tốc độ tu luyện giảm, Tiềm Năng tăng 2 phần (20%) (Bội số tốc độ tu luyện -1, Giá trị gia tăng Tiềm Năng +2, Giá trị cơ bản của Tâm Cảnh +20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Jin">
+      <DisplayName>Kim Sát Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Kim, tiến vào trạng thái giao cảm. Thần Thức tăng, Tâm Cảnh giảm, tốc độ tu luyện tăng, Tiềm Năng giảm 2 phần (20%) (Bội số tốc độ tu luyện +2, Giá trị gia tăng Tiềm Năng -1, Giá trị cơ bản của Tâm Cảnh -20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Mu">
+      <DisplayName>Mộc Linh Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Mộc, tiến vào trạng thái giao cảm. Căn Cốt tăng, Tâm Cảnh tăng, tốc độ tu luyện giảm, Tiềm Năng tăng 2 phần (20%) (Bội số tốc độ tu luyện -1, Giá trị gia tăng Tiềm Năng +2, Giá trị cơ bản của Tâm Cảnh +20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Mu">
+      <DisplayName>Mộc Sát Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Mộc, tiến vào trạng thái giao cảm. Căn Cốt tăng, Tâm Cảnh giảm, tốc độ tu luyện tăng, Tiềm Năng giảm 2 phần (20%) (Bội số tốc độ tu luyện +2, Giá trị gia tăng Tiềm Năng -1, Giá trị cơ bản của Tâm Cảnh -20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Shui">
+      <DisplayName>Thủy Linh Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Thủy, tiến vào trạng thái giao cảm. Mị Lực tăng, Tâm Cảnh tăng, tốc độ tu luyện giảm, Tiềm Năng tăng 2 phần (20%) (Bội số tốc độ tu luyện -1, Giá trị gia tăng Tiềm Năng +2, Giá trị cơ bản của Tâm Cảnh +20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Shui">
+      <DisplayName>Thủy Sát Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Thủy, tiến vào trạng thái giao cảm. Mị Lực tăng, Tâm Cảnh giảm, tốc độ tu luyện tăng, Tiềm Năng giảm 2 phần (20%) (Bội số tốc độ tu luyện +2, Giá trị gia tăng Tiềm Năng -1, Giá trị cơ bản của Tâm Cảnh -20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Huo">
+      <DisplayName>Hỏa Linh Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Hỏa, tiến vào trạng thái giao cảm. Ngộ Tính tăng, Tâm Cảnh tăng, tốc độ tu luyện giảm, Tiềm Năng tăng 2 phần (20%) (Bội số tốc độ tu luyện -1, Giá trị gia tăng Tiềm Năng +2, Giá trị cơ bản của Tâm Cảnh +20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Huo">
+      <DisplayName>Hỏa Sát Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Hỏa, tiến vào trạng thái giao cảm. Ngộ Tính tăng, Tâm Cảnh giảm, tốc độ tu luyện tăng, Tiềm Năng giảm 2 phần (20%) (Bội số tốc độ tu luyện +2, Giá trị gia tăng Tiềm Năng -1, Giá trị cơ bản của Tâm Cảnh -20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Tu">
+      <DisplayName>Thổ Linh Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Thổ, tiến vào trạng thái giao cảm. Cơ Duyên tăng, Tâm Cảnh tăng, tốc độ tu luyện giảm, Tiềm Năng tăng 2 phần (20%) (Bội số tốc độ tu luyện -1, Giá trị gia tăng Tiềm Năng +2, Giá trị cơ bản của Tâm Cảnh +20).</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Tu">
+      <DisplayName>Thổ Sát Giao Cảm</DisplayName>
+      <Desc>Tu luyện gần Linh Căn hệ Thổ, tiến vào trạng thái giao cảm. Cơ Duyên tăng, Tâm Cảnh giảm, tốc độ tu luyện tăng, Tiềm Năng giảm 2 phần (20%) (Bội số tốc độ tu luyện +2, Giá trị gia tăng Tiềm Năng -1, Giá trị cơ bản của Tâm Cảnh -20).</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing1">
+      <DisplayName>Tâm Cảnh Không Minh</DisplayName>
+      <Desc>Tâm cảnh được nâng cao trong thời gian ngắn.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing2">
+      <DisplayName>Tâm Cảnh Rối Loạn</DisplayName>
+      <Desc>Tâm cảnh bị giảm xuống trong thời gian ngắn.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_MaxLing1">
+      <DisplayName>Linh Khí bị đoạt</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing1">
+      <DisplayName>Hiệu quả Linh tính 1 Linh Thực trưởng thành</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing2">
+      <DisplayName>Hiệu quả Linh tính 2 Linh Thực trưởng thành</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing3">
+      <DisplayName>Hiệu quả Linh tính 3 Linh Thực trưởng thành</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing4">
+      <DisplayName>Hiệu quả Linh tính 4 Linh Thực trưởng thành</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing5">
+      <DisplayName>Hiệu quả Linh tính 5 Linh Thực trưởng thành</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing_A">
+      <DisplayName>Linh Tức Thủy Đãng</DisplayName>
+      <Desc>Được dưỡng ẩm bởi khí tức Linh Thực trưởng thành, tất cả thương tích nội môn trong cơ thể đều đang chuyển biến tốt.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_RipeSha">
+      <DisplayName>Hiệu quả Sát tính Linh Thực trưởng thành</DisplayName>
+    </Text>
+  </List>
+</Texts>
