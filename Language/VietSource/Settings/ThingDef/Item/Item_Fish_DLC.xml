@@ -1,0 +1,267 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="FishBase" sParam="Item">
+      <ThingName>Ngư Cơ Loại</ThingName>
+      <Item.FabaoSuffix>Mi,Ngư,Thứ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Fish_StoneCrab" sParam="Item">
+      <ThingName>Thạch Giải</ThingName>
+      <Desc>Phổ biến con cua, sinh hoạt tại bùn đất cùng trong nham thạch</Desc>
+    </Text>
+    <Text Name="Fish_Ji" sParam="Item">
+      <ThingName>Lý Ngư</ThingName>
+      <Desc>Phổ biến cá nước ngọt, sinh hoạt tại các loại trong thủy vực</Desc>
+    </Text>
+    <Text Name="Fish_t6" sParam="Item">
+      <ThingName>Băng Lam Đoản Điêu</ThingName>
+      <Desc>Côn Luân một vùng trên núi phổ biến loài cá.</Desc>
+    </Text>
+    <Text Name="Fish_t8" sParam="Item">
+      <ThingName>Hồng Đầu Tương</ThingName>
+      <Desc>Ở trên núi mới có tương, hình thể lớn, không sợ rét lạnh.</Desc>
+    </Text>
+    <Text Name="Fish_s3" sParam="Item">
+      <ThingName>Lam Biên</ThingName>
+      <Desc>Thiên cực phong mới có biên cá, thích vô cùng ăn băng hoa.</Desc>
+    </Text>
+    <Text Name="Fish_s7" sParam="Item">
+      <ThingName>Cao Sơn Điệp</ThingName>
+      <Desc>Hướng tây bắc trên núi mới có điệp cá.</Desc>
+    </Text>
+    <Text Name="Fish_s9" sParam="Item">
+      <ThingName>Hắc Sơn Điệp</ThingName>
+      <Desc>Chỉ có Hắc Sơn mới có điệp cá, nhận Thất Sát Kiếm trận ảnh hưởng mà toàn thân biến thành màu đen mà cứng rắn, đặc biệt thích Kim thuộc tính vật phẩm.</Desc>
+    </Text>
+    <Text Name="Fish_ChillyCrab" sParam="Item">
+      <ThingName>Hàn Băng Giải</ThingName>
+      <Desc>Chỉ có tại rét lạnh địa phương mới có thể nhìn thấy con cua, chất thịt tươi non</Desc>
+      <Item.FabaoSuffix>Mi,Xác,Thứ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Fish_BaiHuang" sParam="Item">
+      <ThingName>Tuyết Hoàng Ngư</ThingName>
+      <Desc>Chỉ ở ngọc tinh đầm sinh hoạt hoàng cá, phi thường hi hữu, mùa đông mới có thể ẩn hiện. Chất thịt kình đạo, nhưng trực tiếp dùng ăn.</Desc>
+    </Text>
+    <Text Name="Fish_s1" sParam="Item">
+      <ThingName>Nê Bạch Linh Tương</ThingName>
+      <Desc>Tại rét lạnh thuỷ vực ít ẩn hiện loài cá, thể đi khá lớn, toàn thân tuyết trắng.</Desc>
+    </Text>
+    <Text Name="Fish_r6" sParam="Item">
+      <ThingName>Hồng Kỳ Thanh Thu</ThingName>
+      <Desc>Rét lạnh địa phương hi hữu cá chạch, có nghe đồn chỉ ở mùa đông ẩn hiện, màu đỏ vây cá phi thường sắc bén.</Desc>
+    </Text>
+    <Text Name="Fish_QingHei" sParam="Item">
+      <ThingName>Thanh Đầu Ngư</ThingName>
+      <Desc>Đầu xanh biếc hắc ngư, không dễ dàng mắc câu.</Desc>
+    </Text>
+    <Text Name="Fish_t2" sParam="Item">
+      <ThingName>Tức Ngư</ThingName>
+      <Desc>Phổ biến loài cá, chủ yếu phân bố tại Lĩnh Nam một vùng</Desc>
+    </Text>
+    <Text Name="Fish_s2" sParam="Item">
+      <ThingName>Biên Ngư</ThingName>
+      <Desc>Lĩnh Nam một vùng giang hà trong khe nước phổ biến loài cá, thân thể bằng phẳng.</Desc>
+    </Text>
+    <Text Name="Fish_r8" sParam="Item">
+      <ThingName>Lam Kỳ Viêm Thiện</ThingName>
+      <Desc>Nghe nói chỉ có tại Thái Nhất Môn phụ cận xuất hiện, sẽ theo Vĩnh Dạ cùng một chỗ đến đây. Giàu có tinh nguyên, có trong nước tiên danh xưng.</Desc>
+    </Text>
+    <Text Name="Fish_s5" sParam="Item">
+      <ThingName>Phấn Biên</ThingName>
+      <Desc>Toàn thân màu hồng biên cá, nghe nói là cá chép cùng biên cá tạp giao sinh ra loài cá. Mùa thu sẽ từ trong biển bơi tới dòng sông bên trong sinh sôi hậu đại, thân thể cũng sẽ biến mềm đến thích ứng nước ngọt bên trong đá lởm chởm tảng đá.</Desc>
+    </Text>
+    <Text Name="Fish_t1" sParam="Item">
+      <ThingName>Nguyệt Quang Ngư</ThingName>
+      <Desc>Hi hữu loài cá, lấy chất thịt ngọt ngào lấy xưng. Sinh hoạt ở thiên trì trong nước, chỉ ở mùa thu đêm khuya ẩn hiện.</Desc>
+    </Text>
+    <Text Name="Fish_t5" sParam="Item">
+      <ThingName>Phấn Hồng Đoản Điêu</ThingName>
+      <Desc>Tại năm sen núi phụ cận thường ẩn hiện ngắn nhỏ loài cá.</Desc>
+    </Text>
+    <Text Name="Fish_r2" sParam="Item">
+      <ThingName>Nê Thu</ThingName>
+      <Desc>Một loại trường điều hình cá, khe núi trong đất bùn.</Desc>
+    </Text>
+    <Text Name="Fish_r1" sParam="Item">
+      <ThingName>Hồng Vẫn Bạch Điệp</ThingName>
+      <Desc>Tại Thục Sơn bên trong sinh hoạt điệp cá, tương đối hiếm thấy</Desc>
+    </Text>
+    <Text Name="Fish_r11" sParam="Item">
+      <ThingName>Ngọc Tủy Trường Ngư</ThingName>
+      <Desc>Tại Thục Sơn chung quanh hiếm thấy loài cá, yêu thích mã não, có lẽ là bị trong đó Thổ thuộc tính linh khí hấp dẫn</Desc>
+    </Text>
+    <Text Name="Fish_FenLi" sParam="Item">
+      <ThingName>Phấn Lý</ThingName>
+      <Desc>Toàn thân màu hồng cá chép, có người cho rằng là nhận nơi đó hoa đào ảnh hưởng</Desc>
+    </Text>
+    <Text Name="Fish_t11" sParam="Item">
+      <ThingName>Tà Linh Tương</ThingName>
+      <Desc>Sinh hoạt tại Nam Hoang trong đầm lầy tương, nghe nói là trong biển tương cá hút vào Tà Đế khí tức mà trở nên toàn thân vằn, chỉ có mùa xuân mới có thể xuất hiện.</Desc>
+    </Text>
+    <Text Name="Fish_r3" sParam="Item">
+      <ThingName>Ô Nê Thu</ThingName>
+      <Desc>Thân thể bầm đen cá chạch, hình thể khá lớn, chỉ ở Nam Hoang ẩn hiện</Desc>
+    </Text>
+    <Text Name="Fish_Black" sParam="Item">
+      <ThingName>Hắc Ngư</ThingName>
+      <Desc>Phổ biến cá nước ngọt, chủ yếu sinh hoạt tại dòng sông bên trong</Desc>
+    </Text>
+    <Text Name="Fish_BlueFish" sParam="Item">
+      <ThingName>Lam Lý</ThingName>
+      <Desc>Tương đối hiếm thấy màu lam cá chép, tồn tại ở đại giang bên trong, thân thể bởi vì trường kỳ hấp thu Thủy thuộc tính linh khí mà biến thành màu lam.</Desc>
+    </Text>
+    <Text Name="Fish_Huang" sParam="Item">
+      <ThingName>Hoàng Ngư</ThingName>
+      <Desc>Toàn thân kim hoàng cá, chủ yếu sinh hoạt tại sông lớn bên trong</Desc>
+    </Text>
+    <Text Name="Fish_HongHuang" sParam="Item">
+      <ThingName>Hồng Đầu Hoàng Ngư</ThingName>
+      <Desc>Đầu đỏ lên hoàng cá, tại sông lớn bên trong chưa có ẩn hiện</Desc>
+    </Text>
+    <Text Name="Fish_r13" sParam="Item">
+      <ThingName>Bạch Ngọc Thiện</ThingName>
+      <Desc>Đại giang bên trong đặc thù thiện cá, thân thể trắng bệch, chất thịt kình đạo</Desc>
+    </Text>
+    <Text Name="Fish_RedFish" sParam="Item">
+      <ThingName>Hồng Tỗn</ThingName>
+      <Desc>Toàn thân đỏ lên cá nước ngọt, chỉ ở Hàn Sơn trấn bên cạnh đại giang chỗ sâu nghỉ lại, mùa đông sẽ lên phù đến chỗ ấm áp</Desc>
+    </Text>
+    <Text Name="Fish_t10" sParam="Item">
+      <ThingName>Ngọc Linh Tương</ThingName>
+      <Desc>Sinh hoạt tại linh thủy bên trong tương cá.</Desc>
+    </Text>
+    <Text Name="Fish_JadeCrab" sParam="Item">
+      <ThingName>Ngọc Giải</ThingName>
+      <Desc>Phi thường hiếm thấy con cua, thân thể nhận linh thủy tác dụng mà trở nên giống ngọc, chỉ có ban ngày ẩn hiện. Một chút người tu hành tại năm sen trên núi chăn nuôi.</Desc>
+      <Item.FabaoSuffix>Mi,Xác,Thứ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Fish_s6" sParam="Item">
+      <ThingName>Khổng Tước Biên</ThingName>
+      <Desc>Sinh hoạt tại linh thủy bên trong biên cá, thân thể lộ ra lục sắc cực kì đẹp đẽ, các đại môn phái đều có nuôi dưỡng lấy dùng làm thưởng thức.</Desc>
+    </Text>
+    <Text Name="Fish_r5" sParam="Item">
+      <ThingName>Đạm Mai Thu</ThingName>
+      <Desc>Linh thủy bên trong mới có cá chạch, đặc biệt thích dùng ăn linh thạch</Desc>
+    </Text>
+    <Text Name="Fish_r12" sParam="Item">
+      <ThingName>Thiểm Linh Tiên Thiện</ThingName>
+      <Desc>Linh thủy bên trong hiếm thấy thiện cá, chỉ có thể dùng ăn trân quý linh căn, chỉ ở mùa hạ ẩn hiện.</Desc>
+    </Text>
+    <Text Name="Fish_XieLi" sParam="Item">
+      <ThingName>Tà Lý</ThingName>
+      <Desc>Huyết thủy bên trong mới có thể xuất hiện cá chép, trên thân thể có tà ác vằn</Desc>
+    </Text>
+    <Text Name="Fish_t3" sParam="Item">
+      <ThingName>Ô Đồng Ngư</ThingName>
+      <Desc>Con mắt đen nhánh lại to lớn hắc ngư, chỉ ở huyết thủy bên trong ẩn hiện</Desc>
+    </Text>
+    <Text Name="Fish_s4" sParam="Item">
+      <ThingName>Xích Biên</ThingName>
+      <Desc>Huyết thủy bên trong đặc thù biên cá, thường thường sẽ công kích đi ngang qua động vật.</Desc>
+    </Text>
+    <Text Name="Fish_s11" sParam="Item">
+      <ThingName>Ác Văn Điệp</ThingName>
+      <Desc>Huyết thủy bên trong hi hữu điệp cá, trên người có một loại hôi thối mùi, nguyên nhân chính là như thế mới lấy tại huyết thủy bên trong rời xa kẻ săn mồi, cái này khiến mùa xuân huyết thủy bình thường đều tản mát ra mùi thối.</Desc>
+    </Text>
+    <Text Name="Fish_FireCrab" sParam="Item">
+      <ThingName>Hỏa Nham Giải</ThingName>
+      <Desc>Sinh hoạt tại nóng bức địa khu con cua, xác ngoài có rất tốt khu lạnh hiệu quả</Desc>
+      <Item.FabaoSuffix>Mi,Xác,Thứ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Fish_HongGui" sParam="Item">
+      <ThingName>Hồng Khuê</ThingName>
+      <Desc>Đầu trắng bệch màu đỏ cá hồi, ẩn hiện tại đại mạc phụ cận</Desc>
+    </Text>
+    <Text Name="Fish_t4" sParam="Item">
+      <ThingName>Kim Hoàng Đoản Điêu</ThingName>
+      <Desc>Sinh hoạt trong sa mạc một loại cá. Trời sinh tương đối nhịn hạn nhịn đói, nghe nói là bởi vì nó chỉ dùng ăn Mộc thuộc tính đồ ăn.</Desc>
+    </Text>
+    <Text Name="Fish_s10" sParam="Item">
+      <ThingName>Tông Điệp</ThingName>
+      <Desc>Đại mạc bên trong ẩn hiện điệp cá.</Desc>
+    </Text>
+    <Text Name="Fish_r4" sParam="Item">
+      <ThingName>Thâm Nham Hỏa Thu</ThingName>
+      <Desc>Tại lửa mỏ đồng phụ cận sinh hoạt cá chạch, lấy lửa mỏ đồng bên trong khoáng vật làm thức ăn, thân thể sẽ phát nhiệt.</Desc>
+    </Text>
+    <Text Name="Fish_r7" sParam="Item">
+      <ThingName>Sa Thu</ThingName>
+      <Desc>Trong sa mạc sinh hoạt một loại cá chạch</Desc>
+    </Text>
+    <Text Name="Fish_t7" sParam="Item">
+      <ThingName>Hậu Vẫn Tương</ThingName>
+      <Desc>Miệng nhìn rất dày loài cá, phổ biến tại trong biển.</Desc>
+    </Text>
+    <Text Name="Fish_t9" sParam="Item">
+      <ThingName>Ô Tương</ThingName>
+      <Desc>Trong biển tương cá, tương đối hiếm thấy.</Desc>
+    </Text>
+    <Text Name="Fish_t12" sParam="Item">
+      <ThingName>Hỏa Văn Linh Tương</ThingName>
+      <Desc>Chỉ có mùa hạ mới ẩn hiện tương cá, chỉ có số ít người tại Độc Long Đàm gặp qua.</Desc>
+    </Text>
+    <Text Name="Fish_s12" sParam="Item">
+      <ThingName>Hắc Đồng Hồng Điệp</ThingName>
+      <Desc>Dưới biển sâu sinh hoạt một loại cá lớn, sẽ tại biển cạn chỗ đẻ trứng.</Desc>
+    </Text>
+    <Text Name="Fish_s8" sParam="Item">
+      <ThingName>Lam Kỳ Điệp</ThingName>
+      <Desc>Trong biển rộng phổ biến điệp cá.</Desc>
+    </Text>
+    <Text Name="Fish_r9" sParam="Item">
+      <ThingName>Hải Man</ThingName>
+      <Desc>Trong biển phổ biến con lươn</Desc>
+    </Text>
+    <Text Name="Fish_r10" sParam="Item">
+      <ThingName>Ban Điểm Man</ThingName>
+      <Desc>Trong biển hi hữu con lươn chủng loại, trên thân điểm lấm tấm theo suy đoán là trường kỳ dùng ăn đáy biển bụi núi lửa bố trí.</Desc>
+    </Text>
+    <Text Name="Shrimp1" sParam="Item">
+      <ThingName>Hà Hà</ThingName>
+      <Desc>Phổ biến tôm loại, sinh hoạt tại các loại nước ngọt bên trong.</Desc>
+    </Text>
+    <Text Name="Shrimp2" sParam="Item">
+      <ThingName>Hải Hà</ThingName>
+      <Desc>Trong biển sâu phổ biến tôm loại, hình thể thiên đại.</Desc>
+    </Text>
+    <Text Name="Shrimp3" sParam="Item">
+      <ThingName>Tử Hà</ThingName>
+      <Desc>Cực Thiên Cung phụ cận vùng núi mới có tôm loại.</Desc>
+    </Text>
+    <Text Name="Shrimp4" sParam="Item">
+      <ThingName>Xích Hà</ThingName>
+      <Desc>Đặc thù đỏ xác tôm, có thể tại nhiệt độ cao sống sót.</Desc>
+    </Text>
+    <Text Name="Shrimp5" sParam="Item">
+      <ThingName>Sa Hà</ThingName>
+      <Desc>Trong sa mạc tôm loại, hình thể nhỏ bé.</Desc>
+    </Text>
+    <Text Name="Shrimp6" sParam="Item">
+      <ThingName>Mao Hà</ThingName>
+      <Desc>Đại giang phụ cận bên trong phổ biến tôm loại, hình thể nhỏ bé.</Desc>
+    </Text>
+    <Text Name="Shrimp7" sParam="Item">
+      <ThingName>Thanh Văn Hà</ThingName>
+      <Desc>Trung Nguyên phụ cận tôm, không quá dễ dàng mắc câu.</Desc>
+    </Text>
+    <Text Name="Shrimp8" sParam="Item">
+      <ThingName>Hoàng Ban Hà</ThingName>
+      <Desc>Nam Hoang đặc thù tôm loại, thịt có chút đắng.</Desc>
+    </Text>
+    <Text Name="Shrimp9" sParam="Item">
+      <ThingName>Huyết Hà</ThingName>
+      <Desc>Huyết thủy bên trong mới có tôm, tính tình hung ác.</Desc>
+    </Text>
+    <Text Name="Shrimp10" sParam="Item">
+      <ThingName>Sơn Huyết Hà</ThingName>
+      <Desc>Trên núi huyết thủy bên trong mới có tôm, bởi vì xâm lược tính cái khác trong nước cũng có, sẽ chỉ ăn Hỏa thuộc tính đồ ăn.</Desc>
+    </Text>
+    <Text Name="Shrimp11" sParam="Item">
+      <ThingName>Huỳnh Quang Hà</ThingName>
+      <Desc>Chỉ ở ngũ long ao mùa hạ mới xuất hiện tôm, thân thể sẽ phát sáng, ban đêm nhìn huỳnh quang điểm điểm, nghe nói là bởi vì chỉ ăn Kim thuộc tính đồ ăn.</Desc>
+    </Text>
+    <Text Name="Shrimp12" sParam="Item">
+      <ThingName>Đào Hoa Hà</ThingName>
+      <Desc>Hoa đào chướng mùa xuân mới xuất hiện tôm, thân thể nhan sắc tựa hồ là bởi vì hoa đào chướng khí ảnh hưởng.</Desc>
+    </Text>
+  </List>
+</Texts>
