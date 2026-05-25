@@ -1,0 +1,16 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="ZhenSheild">
+      <DisplayName>Hộ Thuẫn</DisplayName>
+      <TargetDesc>Mời lựa chọn một cái kiến trúc hoặc là đạo cụ</TargetDesc>
+    </Text>
+    <Text Name="ZhenAddModifier">
+      <DisplayName>Gia Modifier</DisplayName>
+      <TargetDesc>Mời lựa chọn một cái kiến trúc hoặc là đạo cụ</TargetDesc>
+    </Text>
+    <Text Name="ZhenAura">
+      <DisplayName>Nhân Tạo Quang Hoàn</DisplayName>
+      <TargetDesc>Mời lựa chọn một cái kiến trúc hoặc là đạo cụ</TargetDesc>
+    </Text>
+  </List>
+</Texts>
