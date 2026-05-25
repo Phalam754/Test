@@ -1,0 +1,162 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <DisplayName>Mô Tổ Đâu Thất</DisplayName>
+    </Text>
+    <Text Name="zhuxianzhen">
+      <DisplayName>Tru Tiên Kiếm Trận</DisplayName>
+      <Description>Vũ trụ mở đến nay thứ nhất sát trận, trận đồ trải rộng ra liền hóa thành bốn tràng kỳ môn, kỳ môn phía trên các treo một kiếm, đem trung ương bao bọc vây quanh. Nguyên linh thôi động phía dưới, bốn kiếm cùng nhau chấn động, trong trận liền kiếm khí tung hoành, liền vạn kiếp Chân Tiên cũng khó tồn.</Description>
+      <NodeName.0>Tru Tiên Trận Đồ</NodeName.0>
+      <NodeName.1>Tru Tiên Kiếm</NodeName.1>
+      <NodeName.2>Lục Tiên Kiếm</NodeName.2>
+      <NodeName.3>Hãm Tiên Kiếm</NodeName.3>
+      <NodeName.4>Tuyệt Tiên Kiếm</NodeName.4>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Ổn định độ</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Ngự khí năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Mới tăng kỹ năng: Tru tiên</SuitEffect.3.Description>
+    </Text>
+    <Text Name="qixingzhen">
+      <DisplayName>Bắc Đấu Chân Vũ Lục Ma Đại Trận</DisplayName>
+      <Description>Nghe đồn chính là Cửu Trọng Thiên tiên cảnh Chân Vũ đãng ma đại đế truyền lại tiên trận, trận này nhưng dẫn thất tinh tinh tú chi lực ngưng tụ Bắc Đẩu phá vọng thần quang, lục ma đồ yêu, vạn tà lui tránh.</Description>
+      <NodeName.0>Thiên Quyền Kiếm</NodeName.0>
+      <NodeName.1>Thiên Xu Kiếm</NodeName.1>
+      <NodeName.2>Thiên Tuyền Kiếm</NodeName.2>
+      <NodeName.3>Thiên Cơ Kiếm</NodeName.3>
+      <NodeName.4>Ngọc Hành Kiếm</NodeName.4>
+      <NodeName.5>Khai Dương Kiếm</NodeName.5>
+      <NodeName.6>Dao Quang Kiếm</NodeName.6>
+      <SuitEffect.0.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Mới tăng kỹ năng: Bắc Đẩu phá vọng</SuitEffect.4.Description>
+    </Text>
+    <Text Name="wufangbumiezhen">
+      <DisplayName>Thiên Địa Ngũ Phương Bất Diệt Trận</DisplayName>
+      <Description>Lấy khai thiên tích địa sinh ra Ngũ Phương Kỳ làm gốc chân bố trí đại trận, bắc nói Chân Vũ tạo điêu, nam nói cách Địa Diễm chỉ riêng, trong đó nói mậu kỉ màu vàng hơi đỏ, tây nói màu trắng Vân Giới, đông nói Thanh Liên bảo sắc. Ngũ Hành hội tụ có thể bố thiên địa ngũ phương bất diệt giới, vạn pháp lui tránh, không gì có thể xâm.</Description>
+      <NodeName.0>Thiên Địa Ngũ Phương Bất Diệt Trận Đồ</NodeName.0>
+      <NodeName.1>Tố Sắc Vân Giới Kỳ</NodeName.1>
+      <NodeName.2>Thanh Liên Bảo Sắc Kỳ</NodeName.2>
+      <NodeName.3>Chân Vũ Tạo Điêu Kỳ</NodeName.3>
+      <NodeName.4>Ly Địa Diễm Quang Kỳ</NodeName.4>
+      <NodeName.5>Mậu Kỷ Hạnh Hoàng Kỳ</NodeName.5>
+      <SuitEffect.0.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Mới tăng kỹ năng: Thiên địa ngũ phương bất diệt giới</SuitEffect.3.Description>
+    </Text>
+    <Text Name="liuyuzhen">
+      <DisplayName>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</DisplayName>
+      <Description>Thiên Đình lục ngự hành pháp chi nghi quỹ, bày ra trận này nhưng triển khai chư thiên lục ngự thanh linh thắng cảnh, Hóa Phàm ở giữa vì tiên cảnh, khiến người tinh thần thanh minh không lo.</Description>
+      <NodeName.0>Huyền Khung Hạo Thiên Ngọc Hoàng Nghi Quỹ</NodeName.0>
+      <NodeName.1>Câu Trần Thượng Cung Thiên Hoàng Nghi Quỹ</NodeName.1>
+      <NodeName.2>Bắc Cực Tử Vi Thái Hoàng Nghi Quỹ</NodeName.2>
+      <NodeName.3>Đông Cực Thái Ất Cứu Khổ Nghi Quỹ</NodeName.3>
+      <NodeName.4>Thần Tiêu Ngọc Thanh Trường Sinh Nghi Quỹ</NodeName.4>
+      <NodeName.5>Thừa Thiên Hiệu Pháp Hậu Thổ Nghi Quỹ</NodeName.5>
+      <SuitEffect.0.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Mới tăng kỹ năng: Chư thiên lục ngự thanh linh thắng cảnh</SuitEffect.1.Description>
+    </Text>
+    <Text Name="longxingzhen">
+      <DisplayName>Cửu Ngự Phú Long Hình Trận</DisplayName>
+      <Description>Lấy giao long thân thể làm gốc chân bố trí mà ra kỳ trận, nghe đồn trận này chính là Ngự Long chi trận, bày ra có thể mượn trợ long hồn thi triển một chút uy lực mạnh mẽ trận pháp thần thông.</Description>
+      <NodeName.0>Long Chi Nghịch Lân</NodeName.0>
+      <NodeName.1>Long Chi Giác</NodeName.1>
+      <NodeName.2>Long Chi Giác</NodeName.2>
+      <NodeName.3>Long Chi Trảo</NodeName.3>
+      <NodeName.4>Long Chi Trảo</NodeName.4>
+      <NodeName.5>Long Chi Lân</NodeName.5>
+      <NodeName.6>Long Chi Trảo</NodeName.6>
+      <NodeName.7>Long Chi Trảo</NodeName.7>
+      <NodeName.8>Long Chi Nhận Vĩ</NodeName.8>
+      <SuitEffect.0.Description>Mới tăng kỹ năng: Long ngâm thần chú</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Mới tăng kỹ năng: Long hồn Kanzaki pháp</SuitEffect.2.Description>
+    </Text>
+    <Text Name="fengjianzhen">
+      <DisplayName>Chân Hoàng Vũ Kiếm Trận</DisplayName>
+      <Description>Lấy hung phượng thân thể làm gốc chân bố trí mà ra kỳ trận, nghe đồn trận này chính là ngự phượng chi trận, bày ra có thể mượn trợ phượng hồn thi triển một chút uy lực mạnh mẽ trận pháp thần thông.</Description>
+      <NodeName.0>Chân Diễm Chi Ngọc</NodeName.0>
+      <NodeName.1>Tẫn Diệt Chi Vũ</NodeName.1>
+      <NodeName.2>Tế Thiên Chi Vũ</NodeName.2>
+      <NodeName.3>Huyền Không Chi Cốt</NodeName.3>
+      <NodeName.4>Sí Liệt Chi Vũ</NodeName.4>
+      <NodeName.5>Sí Liệt Chi Vũ</NodeName.5>
+      <NodeName.6>Huyền Không Chi Cốt</NodeName.6>
+      <NodeName.7>Sí Liệt Chi Vũ</NodeName.7>
+      <NodeName.8>Sí Liệt Chi Vũ</NodeName.8>
+      <SuitEffect.0.Description>Mới tăng kỹ năng: Phượng ngự thần kiếm</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Ngự khí năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Mới tăng kỹ năng: Niết Bàn</SuitEffect.2.Description>
+    </Text>
+    <Text Name="yinyangzhen">
+      <DisplayName>Âm Dương Nhị Hành Thần Trận</DisplayName>
+      <Description>Từ thiên địa âm dương lưu chuyển bên trong tổng kết mà ra trận pháp, nghe đồn trận này khống chế đạo âm dương mà bố trí, âm dương tướng hóa, cực kỳ linh hoạt.</Description>
+      <NodeName.0>Âm Dương Hỗn Độn Thiên Đạo</NodeName.0>
+      <NodeName.1>Thiên Đạo Chi Âm Luật</NodeName.1>
+      <NodeName.2>Thiên Đạo Chi Dương Luật</NodeName.2>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.4.Description>
+    </Text>
+    <Text Name="sanyinzhen">
+      <DisplayName>Tam Âm Tam Tuyệt Trận</DisplayName>
+      <Description>Mượn nhờ Thiên Địa Nhân tam tài thuần âm chi ý bố trí trận pháp, nghe đồn trận này có thể tụ thiên hạ thuần âm chi lực, dùng cái này ngự pháp, uy lực đại tăng.</Description>
+      <NodeName.0>Thiên Âm Tuyệt Đạo</NodeName.0>
+      <NodeName.1>Địa Âm Tuyệt Mệnh</NodeName.1>
+      <NodeName.2>Nhân Âm Tuyệt Vận</NodeName.2>
+      <SuitEffect.0.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Thuật pháp năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+    </Text>
+    <Text Name="bamen_ji">
+      <DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận · Cát Triệu</DisplayName>
+      <Description>Nghe đồn trận này lấy tám môn lý lẽ thành trận, sinh môn tương ứng, có thể đề cao trận pháp hộ ngự chi lực.</Description>
+      <NodeName.0>Khai</NodeName.0>
+      <NodeName.1>Hưu</NodeName.1>
+      <NodeName.2>Sinh</NodeName.2>
+      <SuitEffect.0.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.0.Description>
+    </Text>
+    <Text Name="bamen_xiong">
+      <DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận · Hung Kiếp</DisplayName>
+      <Description>Nghe đồn trận này lấy tám môn lý lẽ thành trận, tử môn tương ứng, có thể đề cao hộ ngự khí chi lực.</Description>
+      <NodeName.0>Tử</NodeName.0>
+      <NodeName.1>Kinh</NodeName.1>
+      <NodeName.2>Thương</NodeName.2>
+      <SuitEffect.0.Description>Ngự khí năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+    </Text>
+    <Text Name="bamen_zhong">
+      <DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận · Trung Bình</DisplayName>
+      <Description>Nghe đồn trận này lấy tám môn lý lẽ thành trận, trung môn tương ứng, có thể dùng trận pháp cô đọng.</Description>
+      <NodeName.0>Đỗ</NodeName.0>
+      <NodeName.1>Cảnh</NodeName.1>
+      <SuitEffect.0.Description>Ổn định độ ngoài định mức đề cao</SuitEffect.0.Description>
+    </Text>
+    <Text Name="jiayimushenzhen">
+      <DisplayName>Tiên Thiên Giáp Ất Mộc Thần Trận</DisplayName>
+      <Description>Tụ tập tiên thiên Giáp Ất mộc chi nguyên tinh thành trận, nghe đồn trận này lấy nhưng tỉnh lại giữa thiên địa sinh sôi chi khí, khôi phục vạn vật.</Description>
+      <NodeName.0>Huyền Mộc Chi Quan</NodeName.0>
+      <NodeName.1>Huyền Mộc Chi Chi</NodeName.1>
+      <NodeName.2>Huyền Mộc Chi Diệp</NodeName.2>
+      <NodeName.3>Huyền Mộc Chi Cán</NodeName.3>
+      <NodeName.4>Huyền Mộc Chi Căn</NodeName.4>
+      <SuitEffect.0.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Vận chuyển năng lực ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Mới tăng kỹ năng: Tiên Thiên Mộc Linh giới</SuitEffect.2.Description>
+    </Text>
+    <Text Name="wuyuezhen">
+      <DisplayName>Ngũ Phong Trấn Quy Khư</DisplayName>
+      <Description>Lấy Quy Khư năm thần phong chi thần tủy thành trận, nghe đồn trận này bày ra có thể ngũ phong chi hình trấn hộ một phương, lao không thể gãy.</Description>
+      <NodeName.0>Đại Dư Chi Hình</NodeName.0>
+      <NodeName.1>Viên Kiệu Chi Hình</NodeName.1>
+      <NodeName.2>Phương Hồ Chi Hình</NodeName.2>
+      <NodeName.3>Doanh Châu Chi Hình</NodeName.3>
+      <NodeName.4>Bồng Lai Chi Hình</NodeName.4>
+      <SuitEffect.0.Description>Hộ ngự năng lực ngoài định mức đề cao</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Trận pháp hiệu suất ngoài định mức đề cao</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Mới tăng kỹ năng: Ngũ phong ngự giới</SuitEffect.2.Description>
+    </Text>
+  </List>
+</Texts>
