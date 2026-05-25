@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Item_WeaponDaoSword">
+      <List.0.Name>Thái Cực</List.0.Name>
+      <List.0.Desc>Thần binh tinh xảo, hòa quyện tâm huyết và cảm hứng của người chế tạo. Xét về uy lực pháp bảo thì Đạo Kiếm là nguyên liệu luyện bảo mạnh nhất.
+Sát thương cơ bản: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài vũ khí: 1.5
+Nhãn vật lý luyện bảo: [color=#007700]Sắc bén[/color]</List.0.Desc>
+    </Text>
+    <Text Name="Item_WeaponFuChen">
+      <List.0.Name>Vân Hành</List.0.Name>
+      <List.0.Desc>Thần binh tinh xảo, hòa quyện tâm huyết và cảm hứng của người chế tạo.
+Sát thương cơ bản: 20
+Tốc độ tấn công cơ bản: 1.1
+Chiều dài vũ khí: 1.5
+Nhãn vật lý luyện bảo: [color=#000077]Nhẹ nhàng1[/color]、[color=#000077]Mềm mại2[/color]</List.0.Desc>
+    </Text>
+  </List>
+</Texts>
