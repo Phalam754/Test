@@ -1,0 +1,12 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Panda1">
+      <DisplayName>Lười Biếng Nghịch Ngợm</DisplayName>
+      <Desc>Vừa lười biếng vừa nghịch ngợm, làm việc chậm và cẩu thả, nhưng lại được mọi người yêu quý. Tăng 10% sức hút, hệ số tốc độ làm việc toàn cục -0.2, hệ số hiệu quả điều trị dự kiến -0.2, hệ số tỷ lệ thành công điều trị -0.2, hệ số tỷ lệ thành công nấu ăn -0.2, hệ số tỷ lệ thành công xây dựng -0.2, hệ số giá trị gia tăng chất lượng chế tạo -0.2, hệ số chất lượng sản phẩm dự kiến -0.2, hệ số tỷ lệ thành công cứu trợ -0.2.</Desc>
+    </Text>
+    <Text Name="Panda2">
+      <DisplayName>Âm Dương Thể Chất</DisplayName>
+      <Desc>Cơ thể là vật tạo hóa của âm dương, tốc độ tôi luyện thể chất và tốc độ học tập đều được nâng cao. Tăng 10% ngộ tính, hệ số tốc độ học tập +0.3, hệ số tốc độ tôi luyện thể chất +0.3.</Desc>
+    </Text>
+  </List>
+</Texts>
