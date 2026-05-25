@@ -1,0 +1,147 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FacialScar">
+      <DisplayName>Sẹo Trên Mặt</DisplayName>
+      <Desc>Một vết sẹo đáng sợ trên mặt.</Desc>
+    </Text>
+    <Text Name="UglyFace1">
+      <DisplayName>Mặt Xấu Xí</DisplayName>
+      <Desc>Người này trông rất xấu, khiến người ta chán ghét. Giảm 10% sức hút.</Desc>
+    </Text>
+    <Text Name="UglyFace2">
+      <DisplayName>Cực Kỳ Xấu Xí</DisplayName>
+      <Desc>Người này trông không ra hình người, khiến người ta kinh sợ. Giảm 20% sức hút.</Desc>
+    </Text>
+    <Text Name="BeautifulFace1">
+      <DisplayName>Dung Mạo Tuấn Tú</DisplayName>
+      <Desc>Người này có khuôn mặt vô cùng tuấn tú. Tăng 10% sức hút.</Desc>
+    </Text>
+    <Text Name="BeautifulFace2">
+      <DisplayName>Sắc Đẹp Kinh Thế</DisplayName>
+      <Desc>Người này có khuôn mặt vô cùng tuấn tú. Tăng 20% sức hút.</Desc>
+    </Text>
+    <Text Name="OldViscusInjury">
+      <DisplayName>Tổn Thương Nội Tạng Cũ</DisplayName>
+      <Desc>Người này từng bị trọng thương nội tạng, mãi không lành.</Desc>
+    </Text>
+    <Text Name="CrippleLeft">
+      <DisplayName>Chân Thọt (Trái)</DisplayName>
+      <Desc>Chân trái của người này không được linh hoạt do bệnh cũ.</Desc>
+    </Text>
+    <Text Name="CrippleRight">
+      <DisplayName>Chân Thọt (Phải)</DisplayName>
+      <Desc>Chân phải của người này không được linh hoạt do bệnh cũ.</Desc>
+    </Text>
+    <Text Name="BanLeftTibia">
+      <DisplayName>Gãy Chân (Trái)</DisplayName>
+      <Desc>Chân trái của người này đã bị gãy.</Desc>
+    </Text>
+    <Text Name="BanRightTibia">
+      <DisplayName>Gãy Chân (Phải)</DisplayName>
+      <Desc>Chân phải của người này đã bị gãy.</Desc>
+    </Text>
+    <Text Name="BanLeftScapula">
+      <DisplayName>Đứt Cánh Tay (Trái)</DisplayName>
+      <Desc>Cánh tay trái của người này đã bị đứt ngang vai.</Desc>
+    </Text>
+    <Text Name="BanRightScapula">
+      <DisplayName>Đứt Cánh Tay (Phải)</DisplayName>
+      <Desc>Cánh tay phải của người này đã bị đứt ngang vai.</Desc>
+    </Text>
+    <Text Name="Deaf">
+      <DisplayName>Điếc</DisplayName>
+      <Desc>Người này bị điếc bẩm sinh.</Desc>
+    </Text>
+    <Text Name="BanLeftEye">
+      <DisplayName>Mù (Trái)</DisplayName>
+      <Desc>Mắt trái bị mù.</Desc>
+    </Text>
+    <Text Name="BanRightEye">
+      <DisplayName>Mù (Phải)</DisplayName>
+      <Desc>Mắt phải bị mù.</Desc>
+    </Text>
+    <Text Name="BanLeftEar">
+      <DisplayName>Điếc Tai (Trái)</DisplayName>
+      <Desc>Tai trái bị điếc.</Desc>
+    </Text>
+    <Text Name="BanRightEar">
+      <DisplayName>Điếc Tai (Phải)</DisplayName>
+      <Desc>Tai phải bị điếc.</Desc>
+    </Text>
+    <Text Name="MeridianIncomplete">
+      <DisplayName>Kinh Mạch Khuyết Thiếu</DisplayName>
+      <Desc>Người này bẩm sinh kinh mạch khuyết thiếu.</Desc>
+    </Text>
+    <Text Name="HealthOverdraft1">
+      <DisplayName>Sức Khỏe Bị Vắt Kiệt</DisplayName>
+      <Desc>Người này đã vắt kiệt sức khỏe, thọ mệnh ngắn hơn người bình thường, giảm 15 năm tuổi thọ.</Desc>
+    </Text>
+    <Text Name="HealthOverdraft2">
+      <DisplayName>Cơ Thể Suy Kiệt</DisplayName>
+      <Desc>Người này đã vắt kiệt sức khỏe nghiêm trọng, thọ mệnh ngắn hơn người bình thường rất nhiều, giảm 25 năm tuổi thọ.</Desc>
+    </Text>
+    <Text Name="HealthMaintain1">
+      <DisplayName>Bảo Dưỡng Tốt</DisplayName>
+      <Desc>Người này rất biết cách bảo dưỡng cơ thể, thọ mệnh dài hơn người bình thường, tăng 15 năm tuổi thọ.</Desc>
+    </Text>
+    <Text Name="HealthMaintain2">
+      <DisplayName>Sống Trong Nhung Lụa</DisplayName>
+      <Desc>Người này rất biết cách bảo dưỡng cơ thể, thọ mệnh dài hơn người bình thường rất nhiều, tăng 25 năm tuổi thọ.</Desc>
+    </Text>
+    <Text Name="ColdPatience">
+      <DisplayName>Chịu Lạnh</DisplayName>
+      <Desc>Người này sống ở vùng lạnh giá quanh năm, có thể thích nghi tốt với cái lạnh, nhiệt độ thoải mái tối thiểu -10, nhiệt độ giới hạn tối thiểu -15.</Desc>
+    </Text>
+    <Text Name="HotPatience">
+      <DisplayName>Chịu Nóng</DisplayName>
+      <Desc>Người này sống ở vùng nóng quanh năm, có thể thích nghi tốt với cái nóng, nhiệt độ thoải mái tối đa +8, nhiệt độ giới hạn tối đa +12.</Desc>
+    </Text>
+    <Text Name="DarkPatience">
+      <DisplayName>Thích Bóng Tối</DisplayName>
+      <Desc>Người này thích những nơi tối tăm.</Desc>
+    </Text>
+    <Text Name="HighMan">
+      <DisplayName>Cao Lớn</DisplayName>
+      <Desc>Người này cao lớn hơn người bình thường rất nhiều, cơ thể cường tráng khiến họ quen dùng bạo lực để giải quyết vấn đề. Tăng 10% căn cốt, giảm 10% ngộ tính.</Desc>
+    </Text>
+    <Text Name="LowMan">
+      <DisplayName>Thấp Bé</DisplayName>
+      <Desc>Người này thấp bé, giống như một đứa trẻ, cơ thể yếu ớt khiến họ quen suy nghĩ và quan sát để giải quyết vấn đề. Tăng 10% thần thức, giảm 20% căn cốt, tăng 10% ngộ tính.</Desc>
+    </Text>
+    <Text Name="NoHair">
+      <DisplayName>Đầu Trọc</DisplayName>
+      <Desc>Người này không có tóc. Hệ số dao động tâm cảnh -0.3.</Desc>
+    </Text>
+    <Text Name="LeftHanded">
+      <DisplayName>Thuận Tay Trái</DisplayName>
+      <Desc>Người này quen sử dụng tay trái.</Desc>
+    </Text>
+    <Text Name="Mute">
+      <DisplayName>Câm</DisplayName>
+      <Desc>Người này không thể giao tiếp với người khác.</Desc>
+    </Text>
+    <Text Name="BanRightMiddleFinger">
+      <DisplayName>Đứt Ngón Tay</DisplayName>
+    </Text>
+    <Text Name="RunFast">
+      <DisplayName>Bước Chân Như Bay</DisplayName>
+      <Desc>Người này đi lại nhanh nhẹn, bước chân như bay. Hệ số tốc độ di chuyển +0.4.</Desc>
+    </Text>
+    <Text Name="Indigestion">
+      <DisplayName>Tiêu Hóa Kém</DisplayName>
+      <Desc>Dạ dày người này không tốt, hấp thu thức ăn kém. Hệ số thu hoạch tinh nguyên -0.3.</Desc>
+    </Text>
+    <Text Name="IronStomach">
+      <DisplayName>Dạ Dày Sắt</DisplayName>
+      <Desc>Người này có thể chất bẩm sinh khác thường, hấp thu thức ăn rất tốt. Hệ số thu hoạch tinh nguyên +0.3.</Desc>
+    </Text>
+    <Text Name="GoodEyesight">
+      <DisplayName>Thị Lực Tốt</DisplayName>
+      <Desc>Người này có thị lực rất tốt, có thể nhìn rất xa. Hệ số phạm vi cảm nhận +1.</Desc>
+    </Text>
+    <Text Name="ShallowSleep">
+      <DisplayName>Ngủ Nông</DisplayName>
+      <Desc>Người này ngủ không sâu giấc. Hệ số phục hồi thể lực -0.4.</Desc>
+    </Text>
+  </List>
+</Texts>
