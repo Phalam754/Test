@@ -1,0 +1,96 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_WeaponBow" sParam="Item">
+      <ThingName>Cung</ThingName>
+      <Desc>Một cây cung, có thể dùng để săn bắn mục tiêu ở xa.
+Sát thương cơ bản vũ khí: 15
+Tốc độ tấn công cơ bản: 0.5
+Tầm bắn: 10</Desc>
+      <Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponWoodBow" sParam="Item">
+      <ThingName>Cung thô</ThingName>
+      <Desc>Một cây cung được làm mà không dùng công cụ rèn, có thể dùng để săn bắn mục tiêu ở xa.
+Sát thương cơ bản vũ khí: 10
+Tốc độ tấn công cơ bản: 0.5
+Tầm bắn: 10</Desc>
+      <Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponKnife" sParam="Item">
+      <ThingName>Đao</ThingName>
+      <Desc>Một cây đao, chuyên về chém.
+Sát thương cơ bản vũ khí: 20
+Tốc độ tấn công cơ bản: 1.1
+Chiều dài cơ bản: 1.5</Desc>
+      <Item.FabaoSuffix>Đao</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponLance" sParam="Item">
+      <ThingName>Thương dài</ThingName>
+      <Desc>Một cây thương dài, có thể gây ra vết thương xuyên thấu hiệu quả cho nội tạng.
+Sát thương cơ bản vũ khí: 20
+Tốc độ tấn công cơ bản: 0.9
+Chiều dài cơ bản: 1.5</Desc>
+      <Item.FabaoSuffix>Thương</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponSword" sParam="Item">
+      <ThingName>Kiếm</ThingName>
+      <Desc>Một thanh kiếm, nhẹ nhàng và nhanh nhẹn.
+Sát thương cơ bản vũ khí: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài cơ bản: 1.5</Desc>
+      <Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponHalbert" sParam="Item">
+      <ThingName>Búa</ThingName>
+      <Desc>Một cây búa nặng, trọng lượng nặng có thể làm gãy xương kẻ thù.
+Sát thương cơ bản vũ khí: 30
+Tốc độ tấn công cơ bản: 0.6
+Chiều dài cơ bản: 1.5</Desc>
+      <Item.FabaoSuffix>Búa</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponAxeRing" sParam="Item">
+      <ThingName>Vòng</ThingName>
+      <Desc>Binh khí độc lạ, đeo ở găng tay, có thể nhanh chóng và linh hoạt gây ra nhiều vết thương trên cơ thể đối thủ.
+Sát thương cơ bản vũ khí: 8
+Tốc độ tấn công cơ bản: 2
+Chiều dài cơ bản: 1.5</Desc>
+      <Item.FabaoSuffix>Vòng</Item.FabaoSuffix>
+    </Text>
+    <Text Name="SP_Sword1" sParam="Item">
+      <ThingName>Đạt Lạp Băng Ba</ThingName>
+      <Desc>Tương truyền ở phương Tây xa xôi, có một dũng sĩ tên Đạt Lạp Băng Ba đã dùng thanh bảo kiếm này để tiêu diệt một sinh vật mạnh mẽ được gọi là "Rồng", thân kiếm đỏ tươi như đã được tắm trong máu rồng. Thanh kiếm này có xác suất gây ra vết thương thiêu đốt cho kẻ địch.
+Sát thương cơ bản vũ khí: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài cơ bản: 1.5</Desc>
+    </Text>
+    <Text Name="SP_Sword2" sParam="Item">
+      <ThingName>Kiếm Mộc Vũ</ThingName>
+      <Desc>Kiếm gỗ bình thường do Mộc Bạch tiên nhân để lại, trông có vẻ bình thường nhưng lại có sức mạnh thần diệu hô phong hoán vũ.
+Sát thương cơ bản vũ khí: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài cơ bản: 1.5</Desc>
+    </Text>
+    <Text Name="SP_Sword3" sParam="Item">
+      <ThingName>Kiếm công nghệ tương lai</ThingName>
+      <Desc>Thanh kiếm này là vật tượng trưng của chưởng môn Công Nghệ Tương Lai, nhìn thấy kiếm này như thấy lão Cúc. Người cầm có thể nâng cao tinh thần làm việc của toàn thể nhân viên.
+Sát thương cơ bản vũ khí: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài cơ bản: 1.5</Desc>
+    </Text>
+    <Text Name="SP_Sword4" sParam="Item">
+      <ThingName>Song Long Ma Ảnh Kiếm</ThingName>
+      <Desc>Thanh kiếm này là kiếm của Hắc Quang Kiếm Thánh ngày xưa, uy lực vô song.
+Sát thương cơ bản vũ khí: 12
+Tốc độ tấn công cơ bản: 1.5
+Chiều dài cơ bản: 1.5</Desc>
+    </Text>
+    <Text Name="SP_Bow1" sParam="Item">
+      <ThingName>Cung săn thú</ThingName>
+      <Desc>Cây cung chuyên dùng để săn thú, sử dụng mũi tên tẩm thuốc mê đặc chế không thể xuyên sâu vào da thịt, nên thường không gây ra sát thương chí mạng.
+Sát thương cơ bản vũ khí: 15
+Tốc độ tấn công cơ bản: 0.5
+Tầm bắn: 10
+Tấn công có 60% xác suất gây ra mê man</Desc>
+    </Text>
+  </List>
+</Texts>
