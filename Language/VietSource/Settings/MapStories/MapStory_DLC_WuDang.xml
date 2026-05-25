@@ -1,0 +1,53 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="System_FightMap_RedWall">
+      <DisplayName>Quan Ma</DisplayName>
+      <Desc>[NAME] Thử giải nên kiến trúc kiến tạo phương pháp.</Desc>
+      <Selections.0.Display>Quan Ma</Selections.0.Display>
+    </Text>
+    <Text Name="System_FightMap_DragonIncense">
+      <DisplayName>Quan Ma</DisplayName>
+      <Desc>[NAME] Thử giải nên kiến trúc kiến tạo phương pháp.</Desc>
+      <Selections.0.Display>Quan Ma</Selections.0.Display>
+    </Text>
+    <Text Name="System_FightMap_DragonIncense">
+      <DisplayName>Hứa Nguyện</DisplayName>
+      <Desc>[NAME] Nếm thử hướng long đầu hương cầu nguyện.</Desc>
+      <Selections.0.Display>Cầu nguyện tâm cảnh trong suốt</Selections.0.Display>
+      <Selections.1.Display>Cầu nguyện cao hơn một tầng</Selections.1.Display>
+      <Selections.2.Display>Cầu nguyện gặp dữ hóa lành</Selections.2.Display>
+      <Selections.3.Display>Cầu nguyện hiểu thấu đáo đại đạo</Selections.3.Display>
+      <Selections.4.Display>Ta tất cả đều muốn</Selections.4.Display>
+      <Selections.5.Display>Từ bỏ</Selections.5.Display>
+    </Text>
+    <Text Name="Story_Building_TaiZiDian">
+      <DisplayName>Tiếp Xúc</DisplayName>
+      <Desc>[NAME] Tại bên cạnh bàn tọa hạ, nếm thử sử dụng thần thức tới giao lưu.</Desc>
+      <Selections.0.Display>Tiếp Xúc</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Building_ZiXiaoJianZhen">
+      <DisplayName>Tiếp Xúc</DisplayName>
+      <Desc>[NAME] Tại kiếm trận bên cạnh tọa hạ, nếm thử sử dụng thần thức tới giao lưu.</Desc>
+      <Selections.0.Display>Tiếp Xúc</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Building_ZiXiaoDanLu">
+      <DisplayName>Tiếp Xúc</DisplayName>
+      <Desc>[NAME] Tại đan lô bên cạnh tọa hạ, nếm thử sử dụng thần thức tới giao lưu.</Desc>
+      <Selections.0.Display>Tiếp Xúc</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Ls_CallXuanWu">
+      <DisplayName>Phủ Mạc</DisplayName>
+      <Desc>Cái này linh ngọc bên trong lóe ra hai loại quang trạch, rất có Huyền Vũ khí tức.</Desc>
+      <Selections.0.Display>Phủ Mạc</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Building_ZiXiaoShiBei">
+      <DisplayName>Xúc Bính</DisplayName>
+      <Desc>[NAME] Dùng tay đụng vào trên tấm bia văn tự.</Desc>
+      <Selections.0.Display>Xúc Bính</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+  </List>
+</Texts>
