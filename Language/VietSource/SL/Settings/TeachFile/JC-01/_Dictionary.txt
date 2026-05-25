@@ -1,0 +1,44 @@
+野猪皮薄衣衫	dã trư bì bạc y sam
+黑布薄下裳	hắc bố bạc hạ thường
+火铜伐木斧	hỏa đồng phạt mộc phủ
+钟	chung
+心	tâm
+惊魂初定	kinh hồn sơ định
+思淼	tư miểu
+公西	công tây
+莲	liên
+食物储量不足	thực vật trữ lượng bất túc
+药物储量不足	dược vật trữ lượng bất túc
+存档写入完成	tồn đương tả nhập hoàn thành
+有版本更新	hữu bản bản canh tân
+游戏版本更新0.9736	du hí bản bản canh tân 0.9736
+天岭神视纪要	thiên lĩnh thần thị kỷ yếu
+蜀山十二都天	thục sơn thập nhị đô thiên
+阴阳不朽诀	âm dương bất hủ quyết
+冷月不坏诀	lãnh nguyệt bất phôi quyết
+戊土不坏咒	mậu thổ bất phôi chú
+金刚密卷	kim cương mật quyển
+少量的	thiếu lượng đích
+奠基经	điện cơ kinh
+戊己奠基秘册	mậu kỷ điện cơ bí sách
+中量的	trung lượng đích
+坤元奠基密卷	khôn nguyên điện cơ mật quyển
+东华金刚秘册	đông hoa kim cương bí sách
+五内金刚宝典	ngũ nội kim cương bảo điển
+入道奠基密卷	nhập đạo điện cơ mật quyển
+大量的	đại lượng đích
+长生金刚秘册	trường sinh kim cương bí sách
+五内摄神	ngũ nội nhiếp thần
+万里摄神典	vạn lý nhiếp thần điển
+御气神农宝册	ngự khí thần nông bảo sách
+冷月合一书	lãnh nguyệt hợp nhất thư
+坤元神佑要诀	khôn nguyên thần hữu yếu quyết
+海量的	hải lượng đích
+本源决意要诀	bản nguyên quyết ý yếu quyết
+归真沃野要诀	quy chân ốc dã yếu quyết
+麒麟流光神雷	kỳ lân lưu quang thần lôi
+御灵术	ngự linh thuật
+求雨术	cầu vũ thuật
+他化自在大法	tha hóa tự tại đại pháp
+摄神御鬼大法	nhiếp thần ngự quỷ đại pháp
+东海气摄纪要	đông hải khí nhiếp kỷ yếu
