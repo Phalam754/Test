@@ -1,0 +1,69 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Zhulong">
+      <DisplayName>Chúc Long</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongFight">
+      <DisplayName>Chúc Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_ShadowFight">
+      <DisplayName>Phóng đại chiến đấu Ảo Ảnh</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YangShadow">
+      <DisplayName>Ảo Ảnh Ánh Sáng</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YinShadow">
+      <DisplayName>Ảo Ảnh Bóng Tối</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_LongPuFix">
+      <DisplayName>Hiệu chỉnh Long Bộc</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhuLong_Part">
+      <DisplayName>Bộ vị Chúc Long</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongShadow">
+      <DisplayName>Bóng của Chúc Long</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_NightGod">
+      <DisplayName>Thần Vĩnh Dạ</DisplayName>
+      <Desc>Cứ mỗi 6 giây nhận 1 tầng [Huyền Âm Chi Tức], chỉ có Pháp Bảo và Kỹ năng thuộc tính Dương (Hỏa, Mộc) mới có thể gây toàn bộ sát thương. Pháp Bảo thuộc tính Thổ có thể gây sát thương ít hơn. Sát thương do Pháp Bảo thuộc tính Âm gây ra sẽ bị hấp thụ.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Night">
+      <DisplayName>Huyền Âm Chi Tức</DisplayName>
+      <Desc>100 tầng Huyền Âm Chi Tức sẽ phóng thích Tâm Ma Hóa Hình.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_DayGod">
+      <DisplayName>Thần Ban Ngày</DisplayName>
+      <Desc>Cứ mỗi 6 giây nhận 1 tầng [Chí Dương Chi Tức], chỉ có Pháp Bảo và Kỹ năng thuộc tính Âm (Kim, Thủy) mới có thể gây toàn bộ sát thương. Pháp Bảo thuộc tính Thổ có thể gây sát thương ít hơn. Sát thương do Pháp Bảo thuộc tính Dương gây ra sẽ bị hấp thụ.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Day">
+      <DisplayName>Chí Dương Chi Tức</DisplayName>
+      <Desc>100 tầng Chí Dương Chi Tức sẽ phóng thích Nghiệp Lực Hóa Hình.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Shennian">
+      <DisplayName>Thần Niệm Chấn Đãng</DisplayName>
+      <Desc>Mỗi tầng làm giảm 2 điểm Tâm Cảnh, sẽ bị xóa bỏ khi Chúc Long chuyển đổi giai đoạn.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Zuinie">
+      <DisplayName>Tội Nghiệt Triền Thân</DisplayName>
+      <Desc>Mỗi tầng làm tăng 2 điểm Thiên Khiển, sẽ bị xóa bỏ khi Chúc Long chuyển đổi giai đoạn.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen">
+      <DisplayName>Nghiệp Hỏa Triền Thân</DisplayName>
+      <Desc>Thiên Khiển tăng 1000 điểm, khi kết thúc vĩnh viễn giảm 200 điểm.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen_end">
+      <DisplayName>Nghiệp Hỏa Triền Thân</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao">
+      <DisplayName>Che Chắn Tâm Linh</DisplayName>
+      <Desc>Tâm Cảnh giảm 100 điểm, khi kết thúc vĩnh viễn tăng 20 điểm.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao_end">
+      <DisplayName>Che Chắn Tâm Linh</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongIdleEffect">
+      <DisplayName>Hiệu ứng đặc biệt Chúc Long</DisplayName>
+    </Text>
+  </List>
+</Texts>
