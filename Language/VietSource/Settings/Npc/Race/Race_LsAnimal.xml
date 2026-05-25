@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsDog">
+      <DisplayName>Thần Khuyển Hoa Quyển</DisplayName>
+      <Desc>Thần khuyển bánh bột mì chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Gâu gâu,</TalkBefore>
+      <TalkAfter>, uông!</TalkAfter>
+    </Text>
+    <Text Name="LsFox">
+      <DisplayName>Linh Hồ Tần Mộ Tuyết</DisplayName>
+      <Desc>Linh Hồ Tần Mộ Tuyết chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Ô ô,</TalkBefore>
+      <TalkAfter>, ô!</TalkAfter>
+    </Text>
+    <Text Name="LsDragon">
+      <DisplayName>Phù Long Trường Hải</DisplayName>
+      <Desc>Phù rồng dài biển chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Rống rống,</TalkBefore>
+      <TalkAfter>, rống!</TalkAfter>
+    </Text>
+    <Text Name="LsPhoenix">
+      <DisplayName>Huyền Phượng Diệc Minh</DisplayName>
+      <Desc>Huyền Phượng cũng minh chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Chít chít,</TalkBefore>
+      <TalkAfter>, kít!</TalkAfter>
+    </Text>
+  </List>
+</Texts>
