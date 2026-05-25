@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Extent_Shallow">
+			<DisplayName>Biến Động</DisplayName>
+			<Desc>Hiệu ứng Hỗn Độn biến mất sau khi số lần kích hoạt của nó đã hết.</Desc>
+			<ExpireDesc>{0} lần.</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Middle">
+			<DisplayName>Âm Dương</DisplayName>
+			<Desc>Hiệu ứng Hỗn Độn phai nhạt sau 112 ngày.</Desc>
+			<ExpireDesc>{0} ngày.</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Deep">
+			<DisplayName>Vĩnh Hằng</DisplayName>
+			<Desc>Hiệu ứng Hỗn Độn có hiệu lực vĩnh viễn trong thế giới này.</Desc>
+			<ExpireDesc>Vĩnh viễn</ExpireDesc>
+		</Text>
+	</List>
+</Texts>
