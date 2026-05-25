@@ -1,0 +1,222 @@
+<Texts Type="Story">
+  <List>
+    <Text Name="Story_BoxFind1">
+      <DisplayName>Sưu Tác Tương Tử</DisplayName>
+      <Desc>[NAME] Phát hiện một cái cổ xưa hàng rương, hắn tìm tòi tỉ mỉ cái rương, phát hiện không ít vật hữu dụng.</Desc>
+    </Text>
+    <Text Name="Story_BoxFind2">
+      <DisplayName>Sưu Tác Thi Thể</DisplayName>
+      <Desc>[NAME] Tìm tòi tỉ mỉ thi thể, phát hiện đại bộ phận vật đều đã mục nát, chỉ có tùy thân binh khí còn có thể sử dụng.</Desc>
+    </Text>
+    <Text Name="Story_BoxFind3">
+      <DisplayName>Sưu Tác Thi Thể</DisplayName>
+      <Desc>    [NAME] Tìm tòi tỉ mỉ thi thể, trên thi thể vậy mà bắn ra một đạo quang hoa chui vào [NAME] Trong óc.[NAME] Kinh ngạc phát hiện, trong trí nhớ mình nhiều hơn rất nhiều phương pháp tu hành.\n\n   [color=#000000] Nơi này đến cùng chuyện gì xảy ra? Những công pháp này từ đâu mà đến? Thi thể khi còn sống có kinh nghiệm như thế nào?[/color]\n    [NAME] Kinh hỉ sau khi không khỏi nghi vấn mọc thành bụi.\n\n    Đáng tiếc chính là, những này chuyện cũ trước kia, không người nào có thể trả lời......</Desc>
+    </Text>
+    <Text Name="Story_BoxFind4">
+      <DisplayName>Sưu Tác Thi Thể</DisplayName>
+      <Desc>[NAME] Tìm tòi tỉ mỉ thi thể, phát hiện đại bộ phận vật đều đã mục nát, chỉ có tùy thân binh khí còn có thể sử dụng.</Desc>
+    </Text>
+    <Text Name="Story_Item_StoneBox">
+      <DisplayName>Thạch Hạp</DisplayName>
+      <Desc>Thần bí nói sĩ ban cho các ngươi hộp đá, ước chừng một thước vuông, thủy hỏa bất xâm, mười phần linh dị. Bề ngoài xác bên trên thỉnh thoảng lấp lóe hào quang, không giống phàm vật.</Desc>
+      <Selections.0.Display>Tay không mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_StoneBox1">
+      <DisplayName>Thạch Hạp</DisplayName>
+      <Desc>Nam bình phong thôn thợ săn trương Nhị Oa từ trăng tròn chân núi một cỗ thi thể bên trên lấy được hộp, chính là Thái Nhất Môn chế thức bảo hộp. Bề ngoài xác bên trên ấn có một thanh trường kiếm cùng hồ lô rượu giao nhau tiêu ký, lại là Nhị sư huynh độc môn ấn ký.[NAME] Trong đầu nhớ tới Nhị sư huynh âm dung tiếu mạo, cảm thấy rầu rĩ.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_StoneBox2">
+      <DisplayName>Cổ Cựu Thạch Hạp</DisplayName>
+      <Desc>Từ trong núi đá khai quật ra hộp đá, nhìn qua có chút niên đại, không biết bên trong có đồ vật gì.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_E_FaBaoBox">
+      <DisplayName>Thái Nhất Bảo Hạp</DisplayName>
+      <Desc>Tại diệt môn chi dạ, ngươi phát hiện khí lư cấm pháp bị phá, ngươi không đành lòng trong phái chí bảo đều bị cướp sạch, thế là liều chết xâm nhập trong đó, đem mấy món trân quý pháp bảo chứa vào trong hộp mang đi.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_E_DanBox">
+      <DisplayName>Thái Nhất Bảo Hạp</DisplayName>
+      <Desc>Tại diệt môn chi dạ, ngươi phát hiện thuốc lư cấm pháp bị phá, ngươi không đành lòng trong phái chí bảo đều bị cướp sạch, thế là liều chết xâm nhập trong đó, đem mấy bình trân quý đan dược chứa vào trong hộp mang đi.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_E_MiJiBox">
+      <DisplayName>Thái Nhất Bảo Hạp</DisplayName>
+      <Desc>Tại diệt môn chi dạ, ngươi phát hiện Tàng Kinh Lâu cấm pháp bị phá, ngươi không đành lòng trong phái chí bảo đều bị cướp sạch, thế là liều chết xâm nhập trong đó, đem mấy sách trân quý bí tịch chứa vào trong hộp mang đi.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_E_FuBox">
+      <DisplayName>Thái Nhất Bảo Hạp</DisplayName>
+      <Desc>Tại diệt môn chi dạ, ngươi phát hiện mây lục phòng cấm pháp bị phá, ngươi không đành lòng trong phái chí bảo đều bị cướp sạch, thế là liều chết xâm nhập trong đó, đem mấy trương trân quý phù lục chứa vào trong hộp mang đi.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_LunHui_Box1">
+      <DisplayName>Thần Kỳ Phù Chú Hạp</DisplayName>
+      <Desc>Lục phu nhân mang theo người thần kỳ phù chú hộp, trong đó chứa có ba tấm thần kỳ phù chú.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_LunHui_Box2">
+      <DisplayName>Thần Phù Hạp</DisplayName>
+      <Desc>Dương Thụ mang theo người thần phù hộp, trong đó có giấu một trương tuyệt phẩm phù chú.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_ZuShiZhiCi">
+      <DisplayName>Tổ Sư Chi Tứ</DisplayName>
+      <Desc>Tổ sư chi ban thưởng, trong đó có giấu trân quý chi bảo vật.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_BenYuan">
+      <DisplayName>Luyện Hóa Thiên Đạo Bản Nguyên</DisplayName>
+      <Desc>Luyện hóa thiên đạo bản nguyên nhất định phải tu tập cùng hệ công pháp đến cảnh giới tối cao mới có thể thành công. Đạo hạnh càng cao, luyện hóa thành công khả năng càng cao. Nhưng mà cử động lần này làm trời nổi giận, một khi thất bại đem người bị thương nặng, gia tăng Thiên Khiển. Phải chăng muốn luyện hóa thiên đạo bản nguyên?</Desc>
+      <Selections.0.Display>Luyện Hóa</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Item_SuoYingZhiJuan">
+      <DisplayName>Súc Ảnh Chi Quyển</DisplayName>
+      <Desc>Ghi chép có thiên địa sinh ra đến nay tất cả sinh linh triều đại chi ảnh thu nhỏ. Như có thể biết được đối ứng sinh linh chi tên thật, có thể đem từ đồ quyển bên trong triệu hoán cụ hiện mà ra. Chính là khai thiên tích địa lúc sinh ra mười hai kiện Hỗn Độn Linh Bảo một trong.</Desc>
+      <Selections.0.Display>Từ bỏ</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_BossSoulItem">
+      <DisplayName>Tham Ngộ</DisplayName>
+      <Desc>[NAME] Ý đồ từ đó thu hoạch một chút tin tức hữu dụng.</Desc>
+      <Selections.0.Display>Vận chuyển Nguyên Thần</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_OldSchool_Letter">
+      <DisplayName>Thần Bí Tín Tiên</DisplayName>
+      <Desc>Tại diệt môn đào vong trên đường, đem các ngươi cứu ra hiểm cảnh thần bí tu sĩ lưu lại thư.</Desc>
+      <Selections.0.Display>Duyệt Độc</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Boss_FengYin">
+      <DisplayName>Tra Khán</DisplayName>
+      <Desc>Vật này nhìn qua không có cái gì chỗ khác thường, không biết có huyền cơ gì ở trong đó.</Desc>
+      <Selections.0.Display>Tra Khán</Selections.0.Display>
+      <Selections.1.Display>Phá Phôi</Selections.1.Display>
+      <Selections.2.Display>Từ bỏ</Selections.2.Display>
+    </Text>
+    <Text Name="Story_Item_Boss_FengYin1">
+      <DisplayName>Phá Phôi</DisplayName>
+      <Desc>[NAME] Mặc dù không cách nào phát giác vật này có cái gì hung hiểm chỗ, nhưng khi ý đồ phá hư vật này lúc, lại bản năng phát giác khó mà nói rõ đại khủng bố... Tựa hồ sẽ mang đến hậu quả đáng sợ gì. Thật muốn phá hư nó a?( Phá hư vật này sẽ triệu hồi ra thượng cổ chi thú, nếu như không có chuẩn bị sẵn sàng, sẽ có khả năng dẫn đến diệt môn, làm ơn tất nghĩ lại.)</Desc>
+      <Selections.0.Display>Phá Phôi</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Item_Boss_FengYin2">
+      <DisplayName>Phá Phôi</DisplayName>
+      <Desc>[NAME] Phá hủy vật này, cái gì cũng không có phát sinh.</Desc>
+      <Selections.0.Display>Biết</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Eat_StrangeMush">
+      <DisplayName>Thường Nhất Thường</DisplayName>
+      <Desc>[NAME] Tràn ngập tò mò nếm nếm cái này kỳ quái cây nấm.</Desc>
+      <Selections.0.Display>Mạo hiểm dùng ăn</Selections.0.Display>
+      <Selections.1.Display>Từ bỏ</Selections.1.Display>
+    </Text>
+    <Text Name="Story_Item_ZhenTu">
+      <DisplayName>Tham Ngộ</DisplayName>
+      <Desc>[NAME] Ý đồ lĩnh hội trương này huyền ảo trận đồ.</Desc>
+      <Selections.0.Display>Lĩnh hội trận đồ</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Portia_YijieZhiWu">
+      <DisplayName>Tra Khán Thử Vật</DisplayName>
+      <Desc>[NAME] Nếm thử xem xét vật này.</Desc>
+      <Selections.0.Display>Tra Khán Thử Vật</Selections.0.Display>
+      <Selections.1.Display>Giải Khai Phong Ấn</Selections.1.Display>
+      <Selections.2.Display>Từ bỏ</Selections.2.Display>
+    </Text>
+    <Text Name="Story_Item_Portia_YijieZhiWu1">
+      <DisplayName>Tra Khán Thử Vật</DisplayName>
+      <Desc>[NAME] Cảm nhận được vật này phong ấn tựa hồ hết sức quen thuộc, mình trước đó tựa hồ tiếp xúc qua loại thủ pháp này.</Desc>
+      <Selections.0.Display>Cẩn thận xem xét</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Portia_YijieZhiWu2">
+      <DisplayName>Tiêu Tán Đãi Tận</DisplayName>
+      <Desc>Tại thần niệm tin tức phát ra hoàn tất sau, trong đó đến từ dị giới vật bắt đầu thụ giới này thiên đạo bài xích mà dần dần hóa thành tro bụi tiêu tán.</Desc>
+      <Selections.0.Display>Cẩn thận xem xét</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_GodPractice_MiJuan">
+      <DisplayName>Cổ Đại Mật Quyển</DisplayName>
+      <Desc>Đây là một bản lưu truyền từ Thượng Cổ mật quyển, không biết trong đó ghi lại cái gì nội dung.</Desc>
+      <Selections.0.Display>Duyệt Độc</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_GodPractice_MiJuan_1">
+      <DisplayName>Học Tập</DisplayName>
+      <Desc>Ghi chép có cổ đại thần tu cô đọng đặc thù nào đó thần tích trang sách.</Desc>
+      <Selections.0.Display>Duyệt Độc</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_God_Guard">
+      <DisplayName>Luyện Hóa</DisplayName>
+      <Desc>[NAME] Nếm thử luyện hóa vật này.</Desc>
+      <Selections.0.Display>Duyệt Độc</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_GodPractice_MiJuan_2">
+      <DisplayName>Giải Khai Phong Ấn</DisplayName>
+      <Desc>[NAME] Nếm thử giải khai vật này phong ấn.</Desc>
+      <Selections.0.Display>Giải Khai Phong Ấn</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Gong12">
+      <DisplayName>Tra Duyệt Mật Quyển</DisplayName>
+      <Desc>[NAME] Cẩn thận nghiên cứu mật quyển.</Desc>
+      <Selections.0.Display>Thu hoạch được công pháp</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Body_Gong_2">
+      <DisplayName>Tra Duyệt Mật Quyển</DisplayName>
+      <Desc>[NAME] Cẩn thận nghiên cứu mật quyển.</Desc>
+      <Selections.0.Display>Thu hoạch được công pháp</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_Body_Gong_5">
+      <DisplayName>Tra Duyệt Mật Quyển</DisplayName>
+      <Desc>[NAME] Cẩn thận nghiên cứu mật quyển.</Desc>
+      <Selections.0.Display>Thu hoạch được công pháp</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_God_GongAll">
+      <DisplayName>Tra Duyệt Bảo Lục</DisplayName>
+      <Desc>[NAME] Tìm đọc bảo lục.</Desc>
+      <Selections.0.Display>Thu hoạch được công pháp</Selections.0.Display>
+    </Text>
+    <Text Name="Story_Item_SpringBox">
+      <DisplayName>Niên Hóa</DisplayName>
+      <Desc>Nếm thử mở ra vật này.</Desc>
+      <Selections.0.Display>Mở ra</Selections.0.Display>
+    </Text>
+    <Text Name="Story_ZhuLongXuYuan_1">
+      <DisplayName>Hứa Nguyện Nhất Tràng Phú Quý</DisplayName>
+      <Desc>Thụ dị giới thiên đạo ảnh hưởng, bản phương thế giới thiên đạo cũng phát sinh một chút lâm thời tính cải biến. Thậm chí đạo âm dương hóa thân Chúc Long đều trở nên không còn nóng nảy, lại đối đến từ dị giới một loại gọi tiền xu kim loại tròn phiến hết sức cảm thấy hứng thú. Cái này mai tiền xu ngưng tụ rất nhiều đối phú quý khát vọng, Chúc Long có thể mượn vật này bên trên tâm nguyện chi lực vì ngươi cụ hiện ra một trận phú quý.</Desc>
+      <Selections.0.Display>Đại lượng linh thạch</Selections.0.Display>
+      <Selections.1.Display>Đại lượng nguyên liệu nấu ăn</Selections.1.Display>
+      <Selections.2.Display>Đại lượng vật liệu gỗ</Selections.2.Display>
+      <Selections.3.Display>Đại lượng khoáng thạch</Selections.3.Display>
+      <Selections.4.Display>Đại lượng quặng sắt</Selections.4.Display>
+      <Selections.5.Display>Từ bỏ, ta hiếu kính thiên đạo không cầu hồi báo!</Selections.5.Display>
+    </Text>
+    <Text Name="Story_ZhuLongXuYuan_2">
+      <DisplayName>Hứa Nguyện Linh Đan Diệu Dược</DisplayName>
+      <Desc>Thụ dị giới thiên đạo ảnh hưởng, bản phương thế giới thiên đạo cũng phát sinh một chút lâm thời tính cải biến. Thậm chí đạo âm dương hóa thân Chúc Long đều trở nên không còn nóng nảy, lại đối đến từ dị giới một loại gọi tiền xu kim loại tròn phiến hết sức cảm thấy hứng thú. Cái này mai tiền xu ngưng tụ rất nhiều đối khỏe mạnh khát vọng, Chúc Long có thể mượn vật này bên trên tâm nguyện chi lực vì ngươi cụ hiện một ít linh đan diệu dược.</Desc>
+      <Selections.0.Display>Kim linh thần dược một viên</Selections.0.Display>
+      <Selections.1.Display>Mộc linh thần dược một viên</Selections.1.Display>
+      <Selections.2.Display>Thủy linh thần dược một viên</Selections.2.Display>
+      <Selections.3.Display>Hỏa linh thần dược một viên</Selections.3.Display>
+      <Selections.4.Display>Thổ Linh thần dược một viên</Selections.4.Display>
+      <Selections.5.Display>Linh mộc máu kiệt mười lăm phần</Selections.5.Display>
+      <Selections.6.Display>Địa Mẫu linh dịch ba phần</Selections.6.Display>
+      <Selections.7.Display>Tạo Hóa Thần Đan một viên</Selections.7.Display>
+      <Selections.8.Display>Duyên thọ thần đan một bộ</Selections.8.Display>
+      <Selections.9.Display>Thiên đạo thần đan một viên</Selections.9.Display>
+      <Selections.10.Display>Từ bỏ, ta hiếu kính thiên đạo không cầu hồi báo!</Selections.10.Display>
+    </Text>
+    <Text Name="Story_ZhuLongXuYuan_3">
+      <DisplayName>Hứa Nguyện Tiên Giáp Linh Thường</DisplayName>
+      <Desc>Thụ dị giới thiên đạo ảnh hưởng, bản phương thế giới thiên đạo cũng phát sinh một chút lâm thời tính cải biến. Thậm chí đạo âm dương hóa thân Chúc Long đều trở nên không còn nóng nảy, lại đối đến từ dị giới một loại gọi tiền xu kim loại tròn phiến hết sức cảm thấy hứng thú. Cái này mai tiền xu ngưng tụ rất nhiều đối tươi áo tân phục khát vọng, Chúc Long có thể mượn vật này bên trên tâm nguyện chi lực vì ngươi cụ hiện một bộ tiên giáp linh váy.</Desc>
+      <Selections.0.Display>Có thể trợ hộ ngự quanh thân chi y giáp</Selections.0.Display>
+      <Selections.1.Display>Có thể trợ ngưng pháp thi thuật chi y giáp</Selections.1.Display>
+      <Selections.2.Display>Có thể trợ ngự vật hợp khí chi y giáp</Selections.2.Display>
+      <Selections.3.Display>Có thể trợ che lấp thiên đạo chi y giáp</Selections.3.Display>
+      <Selections.4.Display>Có thể trợ trừ ma thanh tâm chi y giáp</Selections.4.Display>
+      <Selections.5.Display>Có thể trợ hộ ngự quanh thân chi váy</Selections.5.Display>
+      <Selections.6.Display>Có thể trợ ngưng pháp thi thuật chi váy</Selections.6.Display>
+      <Selections.7.Display>Có thể trợ ngự vật hợp khí chi váy</Selections.7.Display>
+      <Selections.8.Display>Có thể trợ che lấp thiên đạo chi váy</Selections.8.Display>
+      <Selections.9.Display>Có thể trợ trừ ma thanh tâm chi váy</Selections.9.Display>
+      <Selections.10.Display>Từ bỏ, ta hiếu kính thiên đạo không cầu hồi báo!</Selections.10.Display>
+    </Text>
+  </List>
+</Texts>
