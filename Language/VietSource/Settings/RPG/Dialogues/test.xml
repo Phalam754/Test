@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="rpgDlg_test1">
+      <Nodes.0.Text>Bắt đầu</Nodes.0.Text>
+      <Nodes.1.Text>000001_1 Người chơi nhân vật [HIM] Ngươi tốt [LUA=XXXXX]!</Nodes.1.Text>
+      <Nodes.2.Text>000001_2 Người chơi nhân vật [HIM] Ngươi tốt [LUA=XXXXX]!</Nodes.2.Text>
+      <Nodes.3.Text>Tuyển hạng A|| Tuyển hạng A1|| Tuyển hạng A2|| Tuyển hạng A3</Nodes.3.Text>
+      <Nodes.4.Text>Tuyển hạng B</Nodes.4.Text>
+      <Nodes.5.Text>Tuyển hạng C</Nodes.5.Text>
+      <Nodes.6.Text>Tuyển hạng D</Nodes.6.Text>
+      <Nodes.7.Npc>Người giả</Nodes.7.Npc>
+      <Nodes.7.Text>Ngươi lựa chọn tuyển hạng A|| Ngươi lựa chọn tuyển hạng A1|| Ngươi lựa chọn tuyển hạng A2</Nodes.7.Text>
+      <Nodes.8.Text>Ngươi lựa chọn tuyển hạng B</Nodes.8.Text>
+      <Nodes.9.Text>Ngươi lựa chọn tuyển hạng A</Nodes.9.Text>
+      <Nodes.10.Text>Ngươi lựa chọn tuyển hạng B</Nodes.10.Text>
+      <Nodes.11.Text>Ngươi lựa chọn tuyển hạng A</Nodes.11.Text>
+      <Nodes.12.Text>Ngươi lựa chọn tuyển hạng B</Nodes.12.Text>
+    </Text>
+  </List>
+</Texts>
