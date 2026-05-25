@@ -1,0 +1,143 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Gong_5_1">
+      <Prefix>Vô Hình</Prefix>
+      <Suffix>Thủ trái</Suffix>
+      <Desc>Bí thể được tu luyện với tinh hoa vô hình làm trọng tâm. Khi đạt đến cảnh giới cao nhất, chỉ cần vận chuyển Chân Khí, cánh tay có thể trở nên vô hình, khiến kẻ địch khó lòng phòng bị.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +20%
+Tỉ lệ phòng thủ thành công của bí thể +20%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản sức mạnh bí thể +400
+Giá trị cơ bản độ dẻo dai bí thể +400</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%
+Tỉ lệ trấn áp pháp bảo của bí thể +10%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_1_1">
+      <Prefix>Vô Hình</Prefix>
+      <Suffix>Thủ phải</Suffix>
+      <Desc>Bí thể nhập môn của người luyện thể, rất dễ luyện thành, các mặt tương đối cân bằng và có tiềm năng phát triển lớn.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +20%
+Tỉ lệ phòng thủ thành công của bí thể +20%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản sức mạnh bí thể +400
+Giá trị cơ bản độ dẻo dai bí thể +400</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%
+Tỉ lệ trấn áp pháp bảo của bí thể +10%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_2">
+      <Prefix>Phần Thần</Prefix>
+      <Suffix>Chưởng trái</Suffix>
+      <Desc>Một bí thể có thể mượn sức mạnh tâm hỏa, phát ra Chân Khí cực kỳ nóng rực. Lá chắn linh khí thông thường hoàn toàn không thể phòng thủ hiệu quả.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +500
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản sức mạnh bí thể +1000
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +40%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_3">
+      <Prefix>Đống Phách</Prefix>
+      <Suffix>Chưởng phải</Suffix>
+      <Desc>Một bí thể có thể mượn sức mạnh thận thủy, phát ra Chân Khí cực kỳ lạnh lẽo, rất giỏi trấn áp pháp bảo.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +500
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản sức mạnh bí thể +1000
+Tỉ lệ trấn áp pháp bảo của bí thể +40%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_4">
+      <Prefix>Tróc Nguyệt</Prefix>
+      <Suffix>Thủ</Suffix>
+      <Desc>Tôi luyện cơ bắp đôi tay bằng tinh hoa Thái Âm, khiến chúng linh hoạt như quỷ mị, đôi tay liên tục chuyển động, khiến nước không thể lọt vào.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản độ dẻo dai bí thể +500
+Tỉ lệ phòng thủ thành công của bí thể +10%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản độ dẻo dai bí thể +500
+Tỉ lệ phòng thủ thành công của bí thể +10%
+Tỉ lệ trấn áp pháp bảo của bí thể +10%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_5">
+      <Prefix>Trục Nhật</Prefix>
+      <Suffix>Thối</Suffix>
+      <Desc>Bí thể được truyền lại từ một Luyện Thể Giả Đại Thánh thời thượng cổ. Tương truyền sau khi luyện thành bí thể này, vị Đại Thánh đó có thân pháp nhanh như điện, đuổi theo mặt trời mà chạy.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +10%
+Tỉ lệ phòng thủ thành công của bí thể +10%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ né tránh trong chiến đấu +4%
+Tỉ lệ tấn công trúng mục tiêu của bí thể +20%
+Tỉ lệ phòng thủ thành công của bí thể +20%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_6">
+      <Prefix>Hư Hóa</Prefix>
+      <Suffix>Chi Thể</Suffix>
+      <Desc>Dùng tinh hoa vô hình tôi luyện cơ thể, có thể làm nhiễu loạn ý đồ của kẻ tấn công một cách đáng kể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ phòng thủ thành công của bí thể +20%
+Tỉ lệ trấn áp pháp bảo của bí thể +20%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ né tránh trong chiến đấu +10%
+Tỉ lệ tấn công trúng mục tiêu của bí thể +10%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_7">
+      <Prefix>Thiên Xúc Tà</Prefix>
+      <Suffix>Tý</Suffix>
+      <Desc>Tôi luyện huyết nhục ở cánh tay thành một thể đột biến, có thể biến ra những sợi thịt để quấn lấy dị vật gần đó. Rất tà dị.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ phòng thủ thành công của bí thể +10%
+Tỉ lệ trấn áp pháp bảo của bí thể +20%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị gia tăng tỉ lệ trấn áp pháp bảo tổng thể của bí thể +10%
+Tỉ lệ phòng thủ thành công của bí thể +20%
+Tỉ lệ trấn áp pháp bảo của bí thể +30%
+Giảm 20% mị lực</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_8">
+      <Prefix>Đỗng Chân</Prefix>
+      <Suffix>Chi Thể</Suffix>
+      <Desc>Tôi luyện huyết nhục cơ thể thành một thể đột biến, mọc ra vô số con mắt kỳ dị, có thể nhìn thấu mọi biến hóa xung quanh, khiến kẻ địch không có cơ hội tấn công.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị gia tăng tỉ lệ tấn công trúng mục tiêu tổng thể của bí thể +2%
+Giá trị gia tăng tỉ lệ phòng thủ thành công tổng thể của bí thể +2%
+Giá trị gia tăng tỉ lệ trấn áp pháp bảo tổng thể của bí thể +2%
+Giảm 30% mị lực</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị gia tăng tỉ lệ tấn công trúng mục tiêu tổng thể của bí thể +5%
+Giá trị gia tăng tỉ lệ phòng thủ thành công tổng thể của bí thể +5%
+Giá trị gia tăng tỉ lệ trấn áp pháp bảo tổng thể của bí thể +5%
+Giảm 50% mị lực</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_9">
+      <Prefix>Ngoại Cốt</Prefix>
+      <Suffix>Tà Giáp</Suffix>
+      <Desc>Biến đổi toàn bộ xương cốt, khi cần thiết có thể xuyên qua da bao phủ toàn thân, tạo thành giáp xương để chống lại sát thương.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản độ dẻo dai bí thể +500
+Tỉ lệ phòng thủ thành công của bí thể +50%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_10">
+      <Prefix>Siêu Việt</Prefix>
+      <Suffix>Chi Tâm</Suffix>
+      <Desc>Dùng vật chí tà tôi luyện tim, khiến nó sản sinh ra Chân Khí kỳ lạ. Dùng bí thể này để tôi luyện có thể nâng cao hiệu quả tôi luyện. Nếu tôi luyện tim, còn có thể khiến tim xảy ra dị biến, phát triển tiềm năng tiến hóa của toàn bộ huyết nhục trên cơ thể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Học được pháp tôi luyện: Xích Dị Tôi Thể Pháp</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_5_11">
+      <Prefix>Xích Dị</Prefix>
+      <Suffix>Chi Thể</Suffix>
+      <Desc>Dùng vật chí tà tôi luyện cột sống, khiến nó sản sinh ra Chân Khí kỳ lạ. Nếu vận chuyển Chân Khí này có thể tăng tốc độ trao đổi chất của toàn thân, làm tăng đáng kể tốc độ tiêu hao sinh mệnh, đồng thời nhận được một số năng lực đặc biệt.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Học được thần thông: Thử Sinh Thúc Hốt</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Học được thần thông: Thử Sinh Hư Vọng</Levels.1.Desc>
+    </Text>
+  </List>
+</Texts>
