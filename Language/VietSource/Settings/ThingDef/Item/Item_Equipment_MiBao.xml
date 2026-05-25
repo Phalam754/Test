@@ -1,0 +1,284 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
+      <ThingName>Ngũ Độc Tru Tiên Kiếm</ThingName>
+      <Desc>Tà môn phi kiếm được ghi lại trong Bách Độc Chân Kinh. Kiếm thai được luyện từ chín cành ngô đồng thần mộc trộn lẫn với máu yêu linh có số lượng 66, sau đó dùng kịch độc nguyên thần của năm con rắn yêu để tạo thành. Khi dùng kiếm này để tấn công, độc khí kịch độc thậm chí có thể xuyên qua linh khí hộ thuẫn để trực tiếp làm bị thương bản thể. Mỗi 15 lần tấn công vào bản thể tu sĩ, sẽ xuyên qua hộ thuẫn gây thêm sát thương.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai và tiêu diệt 5 con rắn yêu nguyên thần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi 15 lần tấn công vào bản thể tu sĩ, sẽ xuyên qua hộ thuẫn gây thêm sát thương.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
+      <ThingName>Bách Linh Trảm Tiên Kiếm</ThingName>
+      <Desc>Phương pháp luyện kiếm cổ xưa của Ngũ Đài Kiếm Phái. Kiếm thai được luyện từ mười linh tinh và huyền tẫn châu, sau đó tế kiếm bằng linh tính của một trăm sinh linh. Mỗi lần phi kiếm xuất ra, linh tính sẽ dần dần tăng cường, uy lực cũng sẽ tăng theo, cho đến khi được bổ sung linh khí. Phi kiếm bay 1 giây, uy lực cơ bản tăng 1%, trở về sẽ bị xóa bỏ.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu diệt 100 sinh linh</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Phi kiếm bay 1 giây, uy lực cơ bản tăng 1%, trở về sẽ bị xóa bỏ.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
+      <ThingName>Thập Nhị Sát Thần Ma Linh Sa</ThingName>
+      <Desc>Pháp bảo độc ác được ghi lại trong Bách Độc Chân Kinh. Dùng hàng nghìn cân Hỏa đồng sa và Hàn tinh sa trộn với năm loại linh dịch của trời đất, luyện thành một túi linh sa nhỏ, sau đó dùng mười hai sinh linh cấp Nguyên thần làm vật tế để kích phát hung tính. Khi ngự vật này có thể làm ô uế pháp bảo của đối phương, khiến chúng không thể sử dụng trong một khoảng thời gian. Mỗi khi tấn công cùng một pháp bảo 12 lần, có thể làm nó mất hiệu lực, thời gian duy trì liên quan đến phẩm cấp của nó.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu diệt 12 sinh linh cấp Nguyên thần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi khi tấn công cùng một pháp bảo 12 lần, có thể làm nó mất hiệu lực, thời gian duy trì liên quan đến phẩm cấp của nó.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
+      <ThingName>Thiên Ma Hóa Huyết Thần Đao</ThingName>
+      <Desc>Pháp bảo tà môn truyền từ Ma giới. Cần phải chiết xuất hàng nghìn cân Hỏa đồng tinh luyện thành phôi thai, sau đó trộn với Nguyên dương của 27 sinh linh nam giới để tôi luyện thành linh. Khi ngự vật này, bản thân càng có sức khỏe xấu, uy lực của pháp bảo càng cao. Mỗi khi giá trị sức khỏe thấp hơn 1%, uy lực pháp bảo tăng 5%.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu diệt 27 sinh linh nam giới</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi khi giá trị sức khỏe thấp hơn 1%, uy lực pháp bảo tăng 5%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_YinHunZhu" sParam="Item">
+      <ThingName>Ẩm Hồn Châu</ThingName>
+      <Desc>Bí bảo được truyền lại từ Huyết Hồn Tông của Ma Môn cổ đại. Đầu tiên, dùng 9 Huyền tẫn châu làm nền, lấy oán niệm làm vật dẫn để luyện thành một quả cầu nhỏ, sau đó dùng sinh mệnh của 36 sinh linh cấp Nguyên thần để tôi luyện thành linh. Khi dùng châu này để tiêu diệt sinh linh có thể dần dần đánh thức hung tính của nó. Mỗi lần giết một người sẽ tăng một thành uy lực, tối đa 36 tầng. Tuy nhiên, nếu một ngày không uống máu sẽ lại rơi vào trạng thái ngủ say.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu diệt 36 sinh linh cấp Nguyên thần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi khi tiêu diệt một sinh linh uy lực tăng một thành, tối đa 36 tầng. Nếu một ngày không uống máu thì hiệu quả sẽ bị xóa về 0.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
+      <ThingName>Cửu Thiên Nguyên Dương Xích</ThingName>
+      <Desc>Bảo vật hộ đạo do Kim Tiên Quảng Thành Tử của Xiển giáo truyền lại. Bên trên có chứa chín đóa kim hoa và một luồng tử khí. Mỗi đóa kim hoa được luyện từ một tinh hoa Tinh tủy, còn luồng tử khí được luyện từ Thiên kiếp chi tức. Mỗi chín lần ngự vật này tấn công sẽ phát động một luồng Nguyên dương chân khí tấn công vào bản thể đối phương, uy lực kinh người. Mỗi 9 lần tấn công sẽ phát động một lần pháp thuật vào kẻ địch.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Tẩy luyện linh khí bảo vật 9 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi 9 lần tấn công sẽ phát động một lần pháp thuật vào kẻ địch.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
+      <ThingName>Long Tâm Âm Dương Khuê</ThingName>
+      <Desc>Bí bảo được lĩnh ngộ từ tàn dư Nguyên thần của Chúc Long. Bản thể được ngưng luyện từ hàng trăm cân Ngọc tủy cùng với bản nguyên Âm dương của Chúc Long, sau đó cần nhờ vào sự biến hóa linh cơ vào giờ Ngọ Tý liên tục trong chín ngày mới có thể thành linh. Có thể nâng cao đáng kể sự lĩnh ngộ về hộ thể chi đạo. Kỹ năng Hộ thể tăng 10.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Vô Tẩy thành công vào giữa trưa hoặc nửa đêm và duy trì 9 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Kỹ năng Hộ thể tăng 10.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
+      <ThingName>Đại Thân Châu</ThingName>
+      <Desc>Bí bảo được truyền lại trong Bách Độc Chân Kinh. Lấy một viên Huyền tẫn châu của yêu thú làm cơ sở, trộn lẫn với ngũ hành linh dược để luyện thành bản thể, sau đó dùng thuật linh tẩy để tuần tự tôi luyện ngũ hành linh dược vào châu. Mặc dù sau khi luyện thành vật này không có khả năng công kích hay phòng ngự, nhưng có thể chịu một lần chết và khôi phục tất cả sát thương với cái giá phải vỡ vụn, vô cùng huyền diệu.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Thử tẩy luyện bảo vật 25 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Với cái giá phải vỡ vụn, chịu một lần chết và khôi phục tất cả sát thương.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
+      <ThingName>Thâu Thiên Thất Tuyệt Châm</ThingName>
+      <Desc>Pháp bảo được các tu sĩ cổ đại luyện chế để đối đầu với trời. Dùng bảy loại thiên tài địa bảo khác nhau để luyện thành bảy cây thần châm, tôi luyện đi tôi luyện lại cho đến khi chúng ở giữa hữu hình và vô hình, hợp nhất thành một cây châm thai. Lúc này, do vật tính tương xung và bị triệt tiêu, thần châm lại trở nên giống như vật phàm tục. Cần phải dùng phương pháp vô tẩy để dần dần kích hoạt lại uy lực của nó, cuối cùng mới thành phẩm. Khi ngự vật này, càng gần giới hạn tuổi thọ, uy lực càng mạnh. Người sử dụng càng gần giới hạn tuổi thọ, uy lực pháp bảo càng lớn, tối đa đạt 350%.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Vô Tẩy thành công bảo vật 11 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Người sử dụng càng gần giới hạn tuổi thọ, uy lực pháp bảo càng lớn, tối đa đạt 350%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
+      <ThingName>Hấp Tinh Thần Thoa</ThingName>
+      <Desc>Bí bảo được bí truyền của Thái Âm Giáo cổ đại. Dùng tinh hoa của hàn tinh kết hợp với kinh lạc ở đuôi Giao Long để tạo thành phôi thai, sau đó dùng khí tiên thiên của thiếu nữ để nuôi dưỡng thành linh. Khi dùng bảo vật này tấn công, 10% sát thương gây ra sẽ được chuyển hóa thành linh khí của pháp bảo.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Thiếu nữ mang theo nuôi dưỡng một năm</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>10% sát thương gây ra sẽ được bổ sung thành linh khí của pháp bảo.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
+      <ThingName>Thái Ất Phân Quang Kiếm</ThingName>
+      <Desc>Thần kiếm được truyền lại từ Đạo môn cổ đại. Luyện kiếm thai từ hàng nghìn cân ngọc thạch và hàng trăm lạng ngọc tủy, sau đó dùng Thiên kiếp chi lực để tôi luyện kiếm linh phân hóa. Sau khi xuất ra, kiếm quang sẽ phân hóa thành nhiều luồng, vô cùng huyền diệu. Mỗi 7 lần tấn công, sẽ tạo ra 1 luồng kiếm quang phân hóa, kéo dài 7 giây.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai vượt qua 7 lần Thiên kiếp Phi thăng</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi 7 lần tấn công, sẽ tạo ra 1 luồng kiếm quang phân hóa, kéo dài 7 giây.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
+      <ThingName>Ngũ Khí Lôi Phù</ThingName>
+      <Desc>Bí bảo cổ xưa của Huyền Nhất Đạo. Dùng thần niệm tiên thức để vẽ phù ấn, sau đó nhờ vào Ngũ hành Thiên kiếp chi lực để thành linh. Có thể nâng cao đáng kể sự lĩnh ngộ về thuật pháp chi đạo. Kỹ năng Thuật pháp tăng 10.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai vượt qua Thiên kiếp thuộc tính Kim</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.ActiveCondition.1.des>Mang theo phôi thai vượt qua Thiên kiếp thuộc tính Mộc</Item.Fabao.ActiveCondition.1.des>
+      <Item.Fabao.ActiveCondition.2.des>Mang theo phôi thai vượt qua Thiên kiếp thuộc tính Thủy</Item.Fabao.ActiveCondition.2.des>
+      <Item.Fabao.ActiveCondition.3.des>Mang theo phôi thai vượt qua Thiên kiếp thuộc tính Hỏa</Item.Fabao.ActiveCondition.3.des>
+      <Item.Fabao.ActiveCondition.4.des>Mang theo phôi thai vượt qua Thiên kiếp thuộc tính Thổ</Item.Fabao.ActiveCondition.4.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Kỹ năng Thuật pháp tăng 10.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_JinFabao" sParam="Item">
+      <ThingName>Tố Sắc Vân Giới Kỳ</ThingName>
+      <Desc>Một trong Ngũ phương Kỳ của trời đất. Lấy xương cứng của hung phượng làm cán, da dai của yêu thú và tinh hoa của Lang Nha Quả làm mặt cờ, sau đó nhờ vào Thiên địa chi lực khi Kim Đan Thổ hệ Nhất phẩm thành đan để thành linh. Mặc dù là đồ mô phỏng, nhưng vẫn vô cùng huyền diệu. Bảo vật này có thể gây sát thương gấp đôi cho thuộc tính Mộc.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai kết Kim Đan Thổ phẩm 1</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Sát thương gây ra cho mục tiêu thuộc tính Mộc tăng 100%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_MuFabao" sParam="Item">
+      <ThingName>Thanh Liên Bảo Sắc Kỳ</ThingName>
+      <Desc>Một trong Ngũ phương Kỳ của trời đất. Lấy xương cứng của hung phượng làm cán, da dai của yêu thú và tinh hoa của Mộc Khô đằng làm mặt cờ, sau đó nhờ vào Thiên địa chi lực khi Kim Đan Thủy hệ Nhất phẩm thành đan để thành linh. Mặc dù là đồ mô phỏng, nhưng vẫn vô cùng huyền diệu. Bảo vật này có thể gây sát thương gấp đôi cho thuộc tính Thổ.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai kết Kim Đan Thủy phẩm 1</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Sát thương gây ra cho mục tiêu thuộc tính Thổ tăng 100%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ShuiFabao" sParam="Item">
+      <ThingName>Chân Võ Táo Điêu Kỳ</ThingName>
+      <Desc>Một trong Ngũ phương Kỳ của trời đất. Lấy xương cứng của hung phượng làm cán, da dai của yêu thú và tinh hoa của Ngũ Sắc Kim Liên làm mặt cờ, sau đó nhờ vào Thiên địa chi lực khi Kim Đan Kim hệ Nhất phẩm thành đan để thành linh. Mặc dù là đồ mô phỏng, nhưng vẫn vô cùng huyền diệu. Bảo vật này có thể gây sát thương gấp đôi cho thuộc tính Hỏa.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai kết Kim Đan Kim phẩm 1</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Sát thương gây ra cho mục tiêu thuộc tính Hỏa tăng 100%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_HuoFabao" sParam="Item">
+      <ThingName>Li Địa Diễm Quang Kỳ</ThingName>
+      <Desc>Một trong Ngũ phương Kỳ của trời đất. Lấy xương cứng của hung phượng làm cán, da dai của yêu thú và tinh hoa của Chu Quả làm mặt cờ, sau đó nhờ vào Thiên địa chi lực khi Kim Đan Mộc hệ Nhất phẩm thành đan để thành linh. Mặc dù là đồ mô phỏng, nhưng vẫn vô cùng huyền diệu. Bảo vật này có thể gây sát thương gấp đôi cho thuộc tính Kim.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai kết Kim Đan Mộc phẩm 1</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Sát thương gây ra cho mục tiêu thuộc tính Kim tăng 100%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TuFabao" sParam="Item">
+      <ThingName>Mậu Kỷ Hạnh Hoàng Kỳ</ThingName>
+      <Desc>Một trong Ngũ phương Kỳ của trời đất. Lấy xương cứng của hung phượng làm cán, da dai của yêu thú và tinh hoa của Chiết Hoàng Tinh làm mặt cờ, sau đó nhờ vào Thiên địa chi lực khi Kim Đan Hỏa hệ Nhất phẩm thành đan để thành linh. Mặc dù là đồ mô phỏng, nhưng vẫn vô cùng huyền diệu. Bảo vật này có thể gây sát thương gấp đôi cho thuộc tính Thủy.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai kết Kim Đan Hỏa phẩm 1</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Sát thương gây ra cho mục tiêu thuộc tính Thủy tăng 100%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
+      <ThingName>Kim Liên Thần Tọa</ThingName>
+      <Desc>Bí bảo hộ thân của Phật Tông đã bị thất lạc từ lâu. Lấy Ngũ Sắc Kim Liên làm thai, luyện vào 66 vảy huyền lân của Giao Long, sau đó dùng tinh nguyên của bản thân để nuôi dưỡng linh tính. Bảo vật này có dung lượng linh khí vô cùng dồi dào, mặc dù xuất ra không có khả năng sát thương, nhưng có thể bảo vệ toàn thân khỏi phi kiếm của kẻ địch. Bao quanh cơ thể và không tấn công chủ động, chỉ tập trung phòng ngự.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu hao 10 vạn tinh nguyên</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Bao quanh cơ thể và không tấn công chủ động, chỉ tập trung phòng ngự.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
+      <ThingName>Thôn Linh Thần Tiễn</ThingName>
+      <Desc>Kỳ bảo được Đạo môn cổ đại mô phỏng theo Thôn Linh Thú. Lấy hai chiếc Thiên giác của Giao Long làm nền, luyện với vạn cân linh thạch để tôi luyện thành. Khi ngự vật này, càng tiêu hao nhiều linh khí, uy lực càng mạnh. Mỗi khi tiêu hao 10000 điểm linh khí, sát thương tăng 10%, tối đa tăng 1000%. Khi pháp bảo được bổ sung linh khí sẽ được đặt lại.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai tiêu hao tổng cộng 100.000.000 điểm linh khí</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi khi tiêu hao 10000 điểm linh khí, sát thương tăng 10%, tối đa tăng 1000%. Pháp bảo được bổ sung linh khí sẽ được đặt lại.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ShenNongDing" sParam="Item">
+      <ThingName>Thần Nông Đỉnh</ThingName>
+      <Desc>Tương truyền là được chế tạo dựa theo đỉnh luyện thuốc của Thần Nông cổ đại. Dùng Thiên Lăng Thần Ngọc để điêu khắc thân đỉnh, Chân Diệm Ngọc của hung phượng làm lửa, sau đó hòa tan vạn cân Linh Tiên Thảo có dược tính dồi dào để luyện thành. Khi ngự vật này, người đã dùng càng nhiều loại đan dược, càng có thể kích hoạt uy lực của đỉnh. Mỗi khi đã dùng một loại đan dược, uy lực tăng 5%.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai luyện chế 36 lò đan dược</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi khi đã dùng một loại đan dược, uy lực tăng 5%.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
+      <ThingName>Thanh Ninh Phi Vũ</ThingName>
+      <Desc>Bảo vật được lưu truyền từ dị giới. Luyện từ cánh tro tàn và cánh che trời của hung phượng, sau đó dùng tinh hoa của vạn cân Thanh tâm thảo để trung hòa hỏa khí cuối cùng thành phôi. Sau đó cần phải bế quan ở nơi hẻo lánh, khí tức thanh tịnh để tôi luyện thành linh. Mỗi 2 lần tấn công có thể kích phát Thanh Ninh chi tức phản hồi về bản thân, giảm 1 giây thời gian điều tức.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai trú ngụ tại Thiên Cực Phong 36 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi 2 lần tấn công sẽ giảm 1 giây thời gian hồi chiêu.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
+      <ThingName>Nguyên Thần Tâm Kiếm</ThingName>
+      <Desc>Tương truyền là bí bảo của Phật môn. Lấy hài cốt còn sót lại của tiên nhân phi thăng làm lõi, dung hợp với 99 món kiếm khí, sau đó dùng một viên kiếm tâm nhập định hơn trăm năm mới thành linh. Có thể nâng cao đáng kể sự lĩnh ngộ về ngự kiếm chi đạo. Kỹ năng Ngự kiếm tăng 10.</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Mang theo phôi thai nhập định cho đến khi tuổi tăng 360 tuổi</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Kỹ năng Ngự khí tăng 10.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
+      <ThingName>Tru Tiên Kiếm</ThingName>
+      <Desc>Thần kiếm truyền từ thượng cổ. Mặc dù là đồ mô phỏng, nhưng vẫn có sát khí vô cùng sắc bén. Kiếm này lấy Thiên giác của Giao Long làm lõi, ngưng luyện kiếm thai từ chín viên Tinh tủy, ngũ hành thuộc Kim, hấp thu Thiên lôi thành linh. Khi đối đầu với phi kiếm pháp bảo của kẻ địch có thể gây ra 150% sát thương. (Sau khi trang bị, nhấp chuột phải để thử hấp thu thời tiết bão sét)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu thời tiết bão sét 9 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Khi đối đầu với pháp bảo, gây 1.5 lần sát thương.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_LuXianJian" sParam="Item">
+      <ThingName>Lục Tiên Kiếm</ThingName>
+      <Desc>Thần kiếm truyền từ thượng cổ. Mặc dù là đồ mô phỏng, nhưng vẫn có sát khí vô cùng sắc bén. Kiếm này lấy Thiên giác của Giao Long làm lõi, ngưng luyện kiếm thai từ hàng trăm cân khoáng Hỏa tinh, ngũ hành thuộc Hỏa, hấp thu gió đốt thành linh. Khi gây sát thương, có 10% cơ hội gây ra 5 lần sát thương. (Sau khi trang bị, nhấp chuột phải để thử hấp thu thời tiết gió đốt)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu thời tiết gió đốt 9 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Khi gây sát thương, có 10% cơ hội gây ra 5 lần sát thương.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_XianXianJian" sParam="Item">
+      <ThingName>Hãm Tiên Kiếm</ThingName>
+      <Desc>Thần kiếm truyền từ thượng cổ. Mặc dù là đồ mô phỏng, nhưng vẫn có sát khí vô cùng sắc bén. Kiếm này lấy Thiên giác của Giao Long làm lõi, ngưng luyện kiếm thai từ chín cành Ngô đồng thần mộc, ngũ hành thuộc Mộc, hấp thu chướng khí thành linh. Khi phát động tấn công có chứa lực ăn mòn, có thể gây thêm sát thương cho linh khí hộ thuẫn. Khi tấn công vào bản thể kẻ địch, gây 1.5 lần sát thương. (Sau khi trang bị, nhấp chuột phải để thử hấp thu thời tiết chướng khí)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu thời tiết chướng khí 9 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Khi tấn công vào bản thể kẻ địch, gây 1.5 lần sát thương.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_JueXianJian" sParam="Item">
+      <ThingName>Tuyệt Tiên Kiếm</ThingName>
+      <Desc>Thần kiếm truyền từ thượng cổ. Mặc dù là đồ mô phỏng, nhưng vẫn có sát khí vô cùng sắc bén. Kiếm này lấy Thiên giác của Giao Long làm lõi, ngưng luyện kiếm thai từ chín viên Thiên trụ thạch, ngũ hành thuộc Thổ, hấp thu bão cát thành linh. Khi phát động tấn công có khả năng gây sát thương dựa trên số lượng linh khí của đối phương. Khi tấn công vào bản thể kẻ địch có 1% cơ hội gây thêm sát thương phụ là 30% linh khí hiện tại của mục tiêu. (Sau khi trang bị, nhấp chuột phải để thử hấp thu thời tiết bão cát)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu thời tiết bão bụi 9 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Khi tấn công vào bản thể kẻ địch có 1% cơ hội gây thêm sát thương phụ là 30% linh khí hiện tại của mục tiêu.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianLangDing" sParam="Item">
+      <ThingName>Thiên Lang Văn Tu Đinh</ThingName>
+      <Desc>Pháp bảo tà môn truyền từ ngoại vực. Lấy tà niệm còn sót lại của tiên nhân phi thăng làm vật dẫn, ngưng luyện tinh hoa của Mộc Khô đằng trên răng nanh của yêu lang, sau đó dùng tinh huyết của bản thân để nuôi dưỡng linh tính. Khi ngự bảo vật này đối địch, sẽ nhỏ như râu muỗi, một khi kích hoạt sẽ phân thành 9 luồng tấn công kẻ địch, vô cùng độc ác. Mỗi 3 lần tấn công, sẽ tạo ra 9 luồng phân thân Văn Tu, kéo dài 3 giây. (Sau khi trang bị, nhấp chuột phải để thử cho ăn tinh huyết)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Dùng tinh huyết nuôi dưỡng bảo vật 18 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Mỗi 3 lần tấn công, sẽ tạo ra 9 luồng phân thân Văn Tu, kéo dài 3 giây.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianShu" sParam="Item">
+      <ThingName>Thiên Xu Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% uy lực pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% uy lực pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianQuan" sParam="Item">
+      <ThingName>Thiên Quyền Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% linh khí pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% linh khí pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianJi" sParam="Item">
+      <ThingName>Thiên Cơ Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% khả năng chống đẩy lùi của pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% khả năng chống đẩy lùi của pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianXuan" sParam="Item">
+      <ThingName>Thiên Toàn Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% tốc độ rẽ hướng của pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% tốc độ rẽ hướng của pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_YuHeng" sParam="Item">
+      <ThingName>Ngọc Hành Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% tốc độ hồi phục linh khí của pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% tốc độ hồi phục linh khí của pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_KaiYang" sParam="Item">
+      <ThingName>Khai Dương Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% khoảng cách đẩy lùi của pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% khoảng cách đẩy lùi của pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_YaoGuang" sParam="Item">
+      <ThingName>Dao Quang Kiếm</ThingName>
+      <Desc>Một trong Bắc Đẩu Thần Binh được truyền lại từ thượng cổ. Dùng vuốt của Giao Long kết hợp với 77 Huyền thiết để luyện thành kiếm thai, sau đó nhờ vào Bắc Đẩu Tinh lực để ngưng luyện thành linh, có thể tăng 30% tốc độ bay của pháp bảo một cách căn bản. (Sau khi trang bị, nhấp chuột phải để thử hấp thu ánh sao Bắc Đẩu)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu liên tục ánh sao Bắc Đẩu 7 ngày</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Nâng cao 30% tốc độ bay của pháp bảo một cách căn bản.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
+      <ThingName>Nhất Kiếm</ThingName>
+      <Desc>Bí kiếm được truyền lại từ Quỳ Hoa Luyện Thần Đại Pháp. Dùng 3 viên Thiên Lăng Thần Ngọc điêu khắc và ghép lại, sau đó khảm một hạt Tạo Hóa Ngọc Tử, hấp thu Vĩnh Dạ Vị Ương chi tức để thành linh. Khi dùng kiếm này đối địch, đòn tấn công đầu tiên có thể phát huy uy lực gấp nhiều lần. Uy lực của nhát kiếm đầu tiên tăng 500%, sẽ được đặt lại sau khi bổ sung linh khí. (Sau khi trang bị, nhấp chuột phải để thử hấp thu Vĩnh Dạ chi tức)</Desc>
+      <Item.Fabao.ActiveCondition.0.des>Hấp thu Vĩnh Dạ chi tức 12 lần</Item.Fabao.ActiveCondition.0.des>
+      <Item.Fabao.SpecialAbility.0.Desc>Uy lực của nhát kiếm đầu tiên tăng 500%, bổ sung linh khí pháp bảo sẽ đặt lại.</Item.Fabao.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
+      <ThingName>Tru Tiên Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Tru Tiên Kiếm Trận. Tương truyền trận này là sát trận đứng đầu thượng cổ, không gì không diệt, không gì không phá.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
+      <ThingName>Bắc Đẩu Chân Võ Lục Ma Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Bắc Đẩu Chân Võ Lục Ma Trận. Tương truyền trận này có thể dẫn Bắc Đẩu Phá Vọng Thần Quang, có sức mạnh diệt ma thấu suốt tất cả.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
+      <ThingName>Thiên Địa Ngũ Phương Bất Diệt Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Thiên Địa Ngũ Phương Bất Diệt Trận. Tương truyền trận này có thể dùng Thiên Địa Ngũ Phương Kỳ để bày ra kết giới bất diệt, bảo vệ vạn giới khắp nơi.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
+      <ThingName>Chư Thiên Lục Ngự Nghi Quỹ Tổng Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Chư Thiên Lục Ngự Nghi Quỹ Tổng Đồ. Tương truyền trận này là trận pháp của Lục Ngự Đình Cung trên thiên đình, sau khi bày ra có thể hóa nhân gian thành tiên cảnh, khiến người ta thần trí thanh tỉnh vô ưu.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
+      <ThingName>Cửu Ngự Phú Long Hình Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Cửu Ngự Phú Long Hình Trận. Tương truyền trận này là trận ngự long, sau khi bày ra có thể nhờ vào Long hồn để thi triển một số trận pháp thần thông có uy lực mạnh mẽ.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
+      <ThingName>Chân Hoàng Vũ Kiếm Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Chân Hoàng Vũ Kiếm Trận. Tương truyền trận này là trận ngự phượng, sau khi bày ra có thể nhờ vào Phượng hồn để thi triển một số trận pháp thần thông có uy lực mạnh mẽ.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
+      <ThingName>Âm Dương Nhị Hành Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Âm Dương Nhị Hành Thần Trận. Tương truyền trận này được bố trí bằng cách vận dụng đạo lý Âm dương, Âm dương hóa lẫn nhau, vô cùng linh hoạt.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
+      <ThingName>Tam Âm Tam Tuyệt Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Tam Âm Tam Tuyệt Trận. Tương truyền trận này tụ lực lượng thuần âm mà thành, dùng để ngự pháp, uy lực tăng lên rất nhiều.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
+      <ThingName>Bát Môn Thiên Kiếp Kiếm Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Bát Môn Thiên Kiếp Kiếm Trận. Tương truyền trận này được bố trí theo nguyên lý Bát môn, tiến có thể giết chóc, lùi có thể hộ thân, vô cùng huyền diệu.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
+      <ThingName>Tiên Thiên Giáp Ất Mộc Thần Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Tiên Thiên Giáp Ất Mộc Thần Trận. Tương truyền trận này có thể đánh thức sinh khí của trời đất, hồi sinh vạn vật.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_MiBao_WuYueZhenTu" sParam="Item">
+      <ThingName>Ngũ Phong Trấn Quy Khư Trận Đồ</ThingName>
+      <Desc>Bí phổ trận đồ ghi lại Ngũ Phong Trấn Quy Khư. Tương truyền trận này có thể dùng hình dạng của năm ngọn núi để trấn giữ một vùng, vô cùng kiên cố.</Desc>
+      <StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng tham ngộ trận đồ.</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>
