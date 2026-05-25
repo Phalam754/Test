@@ -1,0 +1,434 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="SYS_LOASITEM" sParam="Item">
+      <ThingName>Vật thất lạc</ThingName>
+      <Desc>Một vật phẩm bị thất lạc, không ai biết nó là gì.\n(Thiếu mô-đun)</Desc>
+    </Text>
+    <Text Name="Item_HorribleMeal" sParam="Item">
+      <ThingName>Món ăn hỏng</ThingName>
+      <Desc>Một món ăn nấu thất bại, hương vị rất tệ, chỉ có thể ăn để lấp đầy bụng.
+</Desc>
+    </Text>
+    <Text Name="Item_HomeFood" sParam="Item">
+      <ThingName>Món ăn gia đình</ThingName>
+      <Desc>Một món ăn gia đình đơn giản, hương vị mộc mạc nhưng rất đậm đà.
+</Desc>
+    </Text>
+    <Text Name="Item_DeliciousFood" sParam="Item">
+      <ThingName>Mỹ vị</ThingName>
+      <Desc>Một món ăn ngon, từ nguyên liệu đến kỹ thuật đều rất tinh xảo. Hương vị rất tuyệt.
+</Desc>
+    </Text>
+    <Text Name="Item_DelicacyFood" sParam="Item">
+      <ThingName>Món ngon vật lạ</ThingName>
+      <Desc>Một món ngon hiếm có, chỉ có thể hoàn thành với tay nghề nấu nướng siêu phàm và nguyên liệu tinh tế, hương vị tuyệt vời.
+	</Desc>
+	<Text Name="Item_WuHuangDan" sParam="Item">
+      <ThingName>Vô Hoàng Đản</ThingName>
+      <Desc>Một món ăn có nguồn gốc bí ẩn, rất ngon, được cho là món quà tốt để tặng cho người thân và bạn bè ở một số nơi. Uống vào có thể trực tiếp Trúc Cơ (Giá trị trúc cơ +25000), và vĩnh viễn tăng hai phần gốc cốt, hiệu quả này chỉ có tác dụng khi uống lần đầu tiên.
+</Desc>
+    </Text>
+    <Text Name="Item_GuanyinMud" sParam="Item">
+      <ThingName>Quan Âm Thổ</ThingName>
+      <Desc>Thật sự không có gì để ăn, đành phải ăn đất.
+</Desc>
+    </Text>
+    <Text Name="Item_Water" sParam="Item">
+      <ThingName>Nước</ThingName>
+      <Desc>Một phần nước sạch.
+</Desc>
+      <Item.FabaoSuffix>nước</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DirtyWater" sParam="Item">
+      <ThingName>Nước ngoài hoang dã</ThingName>
+      <Desc>Nước không sạch, có thứ gì đó đang bơi bên trong.
+</Desc>
+      <Item.FabaoSuffix>nước</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Garbage" sParam="Item">
+      <ThingName>Rác</ThingName>
+      <Desc>Rác vô dụng, nhưng một số người có thể thích. Xuất hiện khi vật phẩm bị hư hỏng và sẽ phân hủy nhanh chóng.
+</Desc>
+      <Item.FabaoSuffix>tản, độc, xỉ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Shit" sParam="Item">
+      <ThingName>Phân</ThingName>
+      <Desc>Phân của sinh vật, có thể dùng để cải tạo đất đai.
+</Desc>
+      <Item.FabaoSuffix>di, sa, phì</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DragonShit" sParam="Item">
+      <ThingName>Thiên Long Sa</ThingName>
+      <Desc>Phân của rồng, có hiệu ứng tụ linh mạnh mẽ.
+</Desc>
+      <Item.FabaoSuffix>di, sa, ha</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPainting" sParam="Item">
+      <ThingName>Bức họa</ThingName>
+      <Desc>Một bức họa.
+</Desc>
+      <Item.FabaoSuffix>cuộn, đồ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPoem" sParam="Item">
+      <ThingName>Sách</ThingName>
+      <Desc>Một tác phẩm văn học.
+</Desc>
+      <Item.FabaoSuffix>tập, sách, giản, cuộn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunMusic" sParam="Item">
+      <ThingName>Phổ đàn</ThingName>
+      <Desc>Một bản nhạc cho đàn.
+</Desc>
+      <Item.FabaoSuffix>phổ, cuộn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunChess" sParam="Item">
+      <ThingName>Ván cờ</ThingName>
+      <Desc>Một ván cờ vây, ghi lại một trận đấu.
+</Desc>
+      <Item.FabaoSuffix>phổ, cuộn, cục</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAxe" sParam="Item">
+      <ThingName>Rìu đốn củi</ThingName>
+      <Desc>Một chiếc rìu, có thể tăng đáng kể hiệu quả đốn củi (tốc độ chặt +2). Đương nhiên cũng có thể dùng làm vũ khí.
+Sát thương cơ bản của vũ khí: 20
+Tốc độ tấn công cơ bản: 0.8
+Chiều dài cơ bản: 2</Desc>
+      <Item.FabaoSuffix>rìu</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysPickaxe" sParam="Item">
+      <ThingName>Cuốc chim</ThingName>
+      <Desc>Một chiếc cuốc chim, có thể tăng đáng kể tốc độ khai thác (tốc độ khai thác +2). Đương nhiên cũng có thể dùng làm vũ khí.
+Sát thương cơ bản của vũ khí: 20
+Tốc độ tấn công cơ bản: 0.8
+Chiều dài cơ bản: 2</Desc>
+      <Item.FabaoSuffix>cuốc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysSickle" sParam="Item">
+      <ThingName>Nông cụ</ThingName>
+      <Desc>Một bộ nông cụ, có thể tăng đáng kể tốc độ trồng trọt và thu hoạch (tốc độ trồng +2, tốc độ thu hoạch +1).
+</Desc>
+      <Item.FabaoSuffix>cuốc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAcupuncture" sParam="Item">
+      <ThingName>Châm cứu</ThingName>
+      <Desc>Một bộ châm cứu, có thể cải thiện chất lượng và tỷ lệ thành công của việc điều trị (tỷ lệ thành công điều trị +1, hiệu quả điều trị dự kiến +1, giới hạn dưới chất lượng hiệu quả điều trị +1, giới hạn trên chất lượng hiệu quả điều trị +1).
+</Desc>
+      <Item.FabaoSuffix>châm, thích</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Umbrella" sParam="Item">
+      <ThingName>Ô</ThingName>
+      <Desc>Một chiếc ô, có thể ngăn bản thân bị ướt.
+</Desc>
+      <Item.FabaoSuffix>ô</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Esoterica" sParam="Item">
+      <ThingName>Bí kíp</ThingName>
+      <Desc>Một cuốn bí kíp.
+</Desc>
+      <Item.FabaoSuffix>sách, tập, cuộn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_StoneBox" sParam="Item">
+      <ThingName>Hộp đá</ThingName>
+      <Desc>Hộp đá bí ẩn, khoảng một thước vuông. Vỏ của nó liền một khối, không giống đồ vật bình thường.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử mở chiếc hộp này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox1" sParam="Item">
+      <ThingName>Hộp đá</ThingName>
+      <Desc>Hộp đá mà thợ săn Trương Nhị Oa ở thôn Nam Bình có được từ một thi thể, không sợ nước và lửa, rất linh dị.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử mở chiếc hộp này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FaBaoBox" sParam="Item">
+      <ThingName>Thái Nhất Bảo Hạp</ThingName>
+      <Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Khí Lư đã bị phá, ngươi không đành lòng nhìn bảo vật quý giá của môn phái bị cướp sạch, liền liều mạng xông vào, lấy đi mấy món pháp bảo quý giá và cho vào hộp. </Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_DanBox" sParam="Item">
+      <ThingName>Thái Nhất Bảo Hạp</ThingName>
+      <Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Dược Lư đã bị phá, ngươi không đành lòng nhìn bảo vật quý giá của môn phái bị cướp sạch, liền liều mạng xông vào, lấy đi mấy bình đan dược quý giá và cho vào hộp.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_MiJiBox" sParam="Item">
+      <ThingName>Thái Nhất Bảo Hạp</ThingName>
+      <Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Tàng Kinh Lâu đã bị phá, ngươi không đành lòng nhìn bảo vật quý giá của môn phái bị cướp sạch, liền liều mạng xông vào, lấy đi mấy cuốn bí kíp quý giá và cho vào hộp.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FuBox" sParam="Item">
+      <ThingName>Thái Nhất Bảo Hạp</ThingName>
+      <Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của Vân Lục Phòng đã bị phá, ngươi không đành lòng nhìn bảo vật quý giá của môn phái bị cướp sạch, liền liều mạng xông vào, lấy đi mấy tấm phù lục quý giá và cho vào hộp.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox2" sParam="Item">
+      <ThingName>Hộp đá cũ</ThingName>
+      <Desc>Một chiếc hộp đá được chôn sâu trong núi, trông có vẻ cổ xưa, không biết bên trong có gì.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử mở chiếc hộp này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BuildingBox" sParam="Item">
+      <ThingName>Gói kiến trúc</ThingName>
+      <Desc>Một gói kiến trúc, có thể đặt lại ở một nơi nào đó.
+</Desc>
+    </Text>
+    <Text Name="Item_Baobeier" sParam="Item">
+      <ThingName>Dương căn</ThingName>
+      <Desc>Dương căn còn lại sau khi tu luyện Thái Âm Đoán Thể, đáng để ghi nhớ.</Desc>
+      <Item.FabaoSuffix>căn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_Box1" sParam="Item">
+      <ThingName>Hộp bùa chú thần kỳ</ThingName>
+      <Desc>Một hộp bùa chú thần kỳ mà Lục phu nhân mang theo, bên trong chứa ba tấm bùa chú thần kỳ.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_LunHui_Box2" sParam="Item">
+      <ThingName>Hộp thần phù</ThingName>
+      <Desc>Hộp thần phù mà Dương Thụ mang theo, bên trong chứa một tấm bùa chú tuyệt phẩm.</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Thái Nhất Bảo Hạp.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_ZuShiZhiCi" sParam="Item">
+      <ThingName>Tổ Sư Chi Tứ</ThingName>
+      <Desc>Tổ Sư Chi Tứ, bên trong ẩn chứa những bảo vật quý hiếm.
+</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở Tổ Sư Chi Tứ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SuoYingZhiJuan" sParam="Item">
+      <ThingName>Vạn Tượng Súc Ảnh Đồ</ThingName>
+      <Desc>Ghi lại tóm tắt tất cả sinh linh từ khi trời đất sinh ra cho đến nay. Nếu biết được tên thật của sinh linh tương ứng, có thể triệu hồi và hiện thực hóa chúng từ cuộn tranh. Đây là một trong mười hai món Hỗn Độn Linh Bảo được sinh ra khi trời đất mở ra.
+</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Mở cuộn súc ảnh.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_XiangHuo1" sParam="Item">
+      <ThingName>Tam Tài Tế</ThingName>
+      <Desc>Lễ tế cơ bản, quy trình khá đơn giản. Tạo ra 1 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo2" sParam="Item">
+      <ThingName>Ngũ Hành Tế</ThingName>
+      <Desc>Lễ tế cấp trung, cần một số dụng cụ hỗ trợ. Tạo ra 4 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo3" sParam="Item">
+      <ThingName>Thất Tinh Tế</ThingName>
+      <Desc>Lễ tế cao cấp nhất, cần dụng cụ phức tạp và thời gian cầu nguyện dài. Tạo ra 9 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo4" sParam="Item">
+      <ThingName>Linh Thần Tế</ThingName>
+      <Desc>Lễ tế thần linh cơ bản, quy trình khá đơn giản. Tạo ra 1 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo5" sParam="Item">
+      <ThingName>Thiên Thần Tế</ThingName>
+      <Desc>Lễ tế thần linh cấp trung, cần một số dụng cụ hỗ trợ. Tạo ra 4 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo6" sParam="Item">
+      <ThingName>Tôn Thần Tế</ThingName>
+      <Desc>Lễ tế thần linh cao cấp nhất, cần dụng cụ phức tạp và thời gian cầu nguyện dài. Tạo ra 9 điểm hương hỏa. Nếu tế lễ bằng thức ăn cao cấp, sẽ tạo thêm hương hỏa.</Desc>
+    </Text>
+    <Text Name="Item_OldSchool_Letter" sParam="Item">
+      <ThingName>Bức thư bí ẩn</ThingName>
+      <Desc>Trong lúc chạy trốn khỏi cuộc diệt môn, vị tu sĩ bí ẩn đã cứu các ngươi và để lại bức thư này.</Desc>
+      <Item.FabaoSuffix>tín</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Đọc</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Đọc bức thư.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StrangeMush" sParam="Item">
+      <ThingName>Cây nấm kỳ lạ</ThingName>
+      <Desc>Một cây nấm kỳ lạ, ăn vào có thể bị ảo giác. Nhưng người ta nói rằng sau khi ăn, đi đến nơi sinh ra linh căn ngũ hành ở nơi hoang dã, chạm vào cây linh căn, rồi chạm vào bia đá ở rừng mưa Mộc Bạch, có thể nhận được một bản đồ trận pháp.</Desc>
+      <Item.FabaoSuffix>giỏ, nấm</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Thử ăn</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử ăn vật phẩm này.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_AuctionPaper" sParam="Item">
+      <ThingName>Thư mời đấu giá</ThingName>
+      <Desc>Thư mời tham gia buổi đấu giá do Diệp Huyền tổ chức tại bãi cát đen, cần xem để kích hoạt. Buổi đấu giá tiếp theo sẽ được tổ chức vào ngày thứ mười sau khi buổi đấu giá trước kết thúc.</Desc>
+      <StoryBnts.0.Name>Xem</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Xem vật phẩm này.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan" sParam="Item">
+      <ThingName>Bí quyển cổ đại</ThingName>
+      <Desc>Một trong những bí quyển được lưu truyền từ thời thượng cổ, có lẽ ghi lại văn tự liên quan đến tu luyện thần đạo. Chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_1" sParam="Item">
+      <ThingName>Thần tích: Ngự Thiên Điện</ThingName>
+      <Desc>Một tờ giấy ghi lại cách ngưng tụ Thần Tích: Ngự Thiên Điện, chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_2" sParam="Item">
+      <ThingName>Bí quyển thần tích</ThingName>
+      <Desc>Một tờ giấy ghi lại cách ngưng tụ Thần Tích: Phong Thần Đài, chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_3" sParam="Item">
+      <ThingName>Bí quyển thần tích</ThingName>
+      <Desc>Một tờ giấy ghi lại cách ngưng tụ Thần Tích: Hồng Trần Khổ Hải, chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_4" sParam="Item">
+      <ThingName>Bí quyển thần tích</ThingName>
+      <Desc>Một tờ giấy ghi lại cách ngưng tụ Thần Tích: Phổ Hóa Cư; Thần Tích: Thông Hóa Cư, chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_6" sParam="Item">
+      <ThingName>Thần tích tàn quyển: Thánh Bảo Các</ThingName>
+      <Desc>Một tàn quyển ghi lại phương pháp xây dựng đặc biệt nào đó của Thánh Bảo Các, chỉ tu sĩ thần đạo mới có thể lĩnh ngộ.</Desc>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu bí quyển</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_5" sParam="Item">
+      <ThingName>Thái Nhất Di Vật</ThingName>
+      <Desc>Một quả cầu kỳ lạ, được phong ấn bằng sức mạnh của thiên kiếp. Bên trong có một cuốn Thái Nhất Bí Điển và một viên Càn Khôn Linh Tinh, đều là vật phẩm duy nhất trên đời, nếu mất đi sẽ không tìm lại được. Tu sĩ Kim Đan kỳ có thể mở phong ấn.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Giải trừ phong ấn</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử giải trừ phong ấn</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Gong12" sParam="Item">
+      <ThingName>Thái Nguyên Ngũ Phù Vân Lục</ThingName>
+      <Desc>Tương truyền là đạo thống của Kim Tiên Vân Trung Tử, trong hệ thống tu luyện Kim Đan truyền thống đã đi một con đường riêng, có thể ngưng kết năm đạo bản mệnh chân phù nhân cơ hội phá quan, có huyền diệu riêng.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu công pháp</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Body_Gong_2" sParam="Item">
+      <ThingName>Man Cực Kim Thân</ThingName>
+      <Desc>Thuật luyện thể mà luyện thể giả nhân loại dựa trên yêu thân bẩm sinh của đại yêu thời Thái Cổ mà sáng tạo ra. Pháp này nổi tiếng với sự cuồng bạo, cực kỳ giỏi trong việc rèn luyện xương cốt, cuối cùng có thể đúc thành Man Cực chi thân, nhục thân thành thánh, phá toái hư không.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu công pháp</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Body_Gong_5" sParam="Item">
+      <ThingName>Bại Diệt Tà Thể</ThingName>
+      <Desc>Một bộ phận luyện thể giả thời cổ đại cho rằng thế giới này là một nhà tù, và Vĩnh Dạ chính là ánh sáng chiếu vào từ bên ngoài nhà tù. Họ hấp thụ một loại tinh hoa kỳ lạ từ Vĩnh Dạ để rèn luyện cơ thể, tin rằng cuối cùng sẽ tu thành một chiếc bè cứu độ phá vỡ nhà tù và vượt qua biển khổ. Phái luyện thể này rất sùng bái Vĩnh Dạ, từng bị thế gian không dung thứ, bị gọi là Bại Diệt Tà Giáo. Và pháp căn bản của nó cũng được gọi là "Bại Diệt Tà Thể".</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu công pháp</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_GongAll" sParam="Item">
+      <ThingName>Thần Đạo Bảo Lục</ThingName>
+      <Desc>Cuốn sách này ghi lại một số pháp môn tu luyện thần đạo thời thượng cổ, được Ma Đế thu thập và biên soạn trong quá trình thống nhất thiên hạ.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu công pháp</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_Guard1" sParam="Item">
+      <ThingName>Thất Sát Tinh Tủy</ThingName>
+      <Desc>Tinh tủy chứa tinh lực của sao Thất Sát, nếu cảm ứng bằng bí pháp thần đạo, có thể dẫn sức mạnh của sao Thất Sát làm hộ pháp.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Tra cứu công pháp</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_Guard2" sParam="Item">
+      <ThingName>Phá Quân Tinh Tủy</ThingName>
+      <Desc>Tinh tủy chứa tinh lực của sao Phá Quân, nếu cảm ứng bằng bí pháp thần đạo, có thể dẫn sức mạnh của sao Phá Quân làm hộ pháp.</Desc>
+    </Text>
+    <Text Name="Item_God_Guard3" sParam="Item">
+      <ThingName>Tham Lang Tinh Tủy</ThingName>
+      <Desc>Tinh tủy chứa tinh lực của sao Tham Lang, nếu cảm ứng bằng bí pháp thần đạo, có thể dẫn sức mạnh của sao Tham Lang làm hộ pháp.</Desc>
+    </Text>
+    <Text Name="Item_Sys_Gong" sParam="Item">
+      <ThingName>Công pháp</ThingName>
+      <Desc>Một bộ công pháp.
+</Desc>
+      <Item.FabaoSuffix>sách, tập, cuộn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Firecracker" sParam="Item">
+      <ThingName>Pháo</ThingName>
+      <Desc>Một món đồ chơi kỳ lạ từ thế giới khác, đốt ở một nơi nào đó rất dễ thu hút người xung quanh đến xem. Vật này rất có uy lực đối với một số kẻ nhát gan, ví dụ như tiểu yêu mùa xuân mang theo hộp quà.</Desc>
+      <Item.FabaoSuffix>pháo</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Đốt</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Đốt vật phẩm này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_FirecrackerShit" sParam="Item">
+      <ThingName>Pháo đã qua xử lý</ThingName>
+      <Desc>Một quả pháo đã được xử lý đặc biệt, rất đáng sợ.</Desc>
+      <Item.FabaoSuffix>pháo</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Đốt</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Đốt vật phẩm này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Jiaozi" sParam="Item">
+      <ThingName>Bánh bao</ThingName>
+      <Desc>Một món ăn từ thế giới khác, tràn ngập những lời chúc tốt đẹp và không khí lễ hội. Đôi khi ăn vào sẽ có bất ngờ!
+</Desc>
+      <Item.FabaoSuffix>bánh</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yingbi1" sParam="Item">
+      <ThingName>Tiền xu cầu phúc: Tài</ThingName>
+      <Desc>Một đồng xu kim loại cứng ăn được từ trong bánh bao, ngưng tụ ước nguyện giàu có của nhiều sinh linh từ thế giới khác. Gần đây, Chúc Long, hiện thân của Âm Dương, đã trở nên kỳ lạ do ảnh hưởng của khí tức từ thế giới khác. Nó dường như rất quan tâm đến vật này.</Desc>
+      <Item.FabaoSuffix>xu</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Xoa</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử xoa xem?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Yingbi2" sParam="Item">
+      <ThingName>Tiền xu cầu phúc: Thọ</ThingName>
+      <Desc>Một đồng xu kim loại cứng ăn được từ trong bánh bao, ngưng tụ ước nguyện sức khỏe và trường thọ của nhiều sinh linh từ thế giới khác. Gần đây, Chúc Long, hiện thân của Âm Dương, đã trở nên kỳ lạ do ảnh hưởng của khí tức từ thế giới khác. Nó dường như rất quan tâm đến vật này.</Desc>
+      <Item.FabaoSuffix>xu</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Xoa</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử xoa xem?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Yingbi3" sParam="Item">
+      <ThingName>Tiền xu cầu phúc: Vinh</ThingName>
+      <Desc>Một đồng xu kim loại cứng ăn được từ trong bánh bao, ngưng tụ ước nguyện về quần áo mới của nhiều sinh linh từ thế giới khác. Gần đây, Chúc Long, hiện thân của Âm Dương, đã trở nên kỳ lạ do ảnh hưởng của khí tức từ thế giới khác. Nó dường như rất quan tâm đến vật này.</Desc>
+      <Item.FabaoSuffix>xu</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Xoa</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử xoa xem?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SpringBox" sParam="Item">
+      <ThingName>Năm mới</ThingName>
+      <Desc>Một món quà bí ẩn từ thế giới khác, được những người ở thế giới đó gọi là quà năm mới!</Desc>
+      <Item.FabaoSuffix>hộp</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Mở</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Thử mở chiếc hộp này</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SuperPartItem" sParam="Item">
+      <ThingName>Áo nghĩa Đoán Thể</ThingName>
+      <Desc>Tu sĩ luyện thể có thể lĩnh ngộ và học hỏi từ nó để có được kiến thức về bí thể mới.</Desc>
+      <Item.FabaoSuffix>cuộn</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Lĩnh ngộ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Lĩnh ngộ áo nghĩa</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_AnimalBox" sParam="Item">
+      <ThingName>Lồng tinh xảo</ThingName>
+      <Desc>Một chiếc lồng, bên trong chứa một con vật đã được nuôi dưỡng cẩn thận ở giai đoạn Khai Trí.</Desc>
+      <Item.FabaoSuffix>lồng</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_NormalAnimalBox" sParam="Item">
+      <ThingName>Lồng đơn giản</ThingName>
+      <Desc>Một chiếc lồng đơn giản, bên trong chứa một con vật ở giai đoạn Khai Trí chưa được nuôi dưỡng hoàn toàn.</Desc>
+      <Item.FabaoSuffix>lồng</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BodyAnimalBox" sParam="Item">
+      <ThingName>Lồng</ThingName>
+      <Desc>Một chiếc lồng, bên trong chứa một con vật ở giai đoạn Khai Trí.</Desc>
+      <Item.FabaoSuffix>lồng</Item.FabaoSuffix>
+    </Text>
+	<Text Name="Item_ChunYangWuJiGong" sParam="Item">
+      <ThingName>Thuần Dương Vô Cực Công</ThingName>
+      <Desc>Bí mật không truyền ra ngoài của phái Võ Đang, là tâm pháp nội công cao nhất của phái. Bí kíp này có hai cách luyện: luyện chính có thể tăng giới hạn linh khí về căn bản, làm cho giá trị cơ bản của linh khí tối đa +64; luyện ngược có thể giảm đạo hạnh, làm cho giá trị đạo hạnh +15, nhưng sẽ gây ra vết thương nội tức rối loạn ở đan điền. Tu sĩ có thể chọn một trong hai cách để tu luyện.
+Không thể trực tiếp ghi vào Tàng Kinh Các, cần để các nhân vật khác nhau lĩnh ngộ hai bí kíp này thông qua cuốn sách này, sau đó ghi vào Tàng Kinh Các những gì đã học.
+</Desc>
+      <Item.FabaoSuffix>tập</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>
