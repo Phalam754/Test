@@ -1,0 +1,298 @@
+﻿ID	Name	Desc	sParam1	sParam2
+ID	名字	介绍	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
+1	Trời nắng	Thời tiết biến mười phần sáng sủa, không biết cái này thời tiết tốt sẽ kéo dài bao lâu.	SunnyDay	
+2	Trời đầy mây	Bầu trời biến âm u, không biết cái này trời đầy mây sẽ kéo dài bao lâu.	Overcast	
+3	Mưa nhỏ	Một cơn mưa nhỏ tiến đến.	LightRain	
+4	Mưa to	Một trận mưa lớn tiến đến.	HeavyRain	
+5	Sương mù	Đột nhiên lên một trận sương mù.	DenseFog	
+6	Vẻ u sầu tràn ngập	Một trận không hiểu vẻ u sầu ở bên trong môn phái lan tràn ra.	Melancholy	
+7	Mập mờ khí tức	Một cỗ mập mờ khí tức ở bên trong môn phái lan tràn ra.	Ambiguous	
+8	Táo bạo chi phong	Một cỗ táo bạo tập tục đột nhiên ở bên trong môn phái lan tràn.	Impetuous	
+9	Mưa đá	Một trận mưa đá đánh tới.( Chưa thực trang )	Impetuous	
+10	Mưa dầm	Một trận mưa dầm tiến đến.	MouldRains	
+11	Khô hạn	Một trận khô hạn tiến đến.	Drought	
+12	Mưa to	Một trận mãnh liệt bão tố đánh tới, giữa thiên địa Thủy thuộc tính dị thường sinh động.	Rainstorm	
+13	Gió phơn	Một trận nóng bức gió phơn phá đến, giữa thiên địa Hỏa thuộc tính dị thường sinh động.	Fohn	
+14	Bão cát	Một trận bão cát cuốn tới, giữa thiên địa Thổ thuộc tính dị thường sinh động.	DustStorm	
+15	Linh khí khô triều	Không biết nguyên nhân gì, linh khí trong thiên địa tiến vào ngắn ngủi cơn sóng nhỏ.	LingRarefiedWave	
+16	Nóng bức	Nóng bức tiến đến, cái này mùa hè sẽ phá lệ nóng bức, chú ý nghỉ mát.	HeatWave	
+17	Lẫm đông	Lẫm đông sắp tới, mùa đông này sẽ cách ngoại hàn lãnh, chú ý giữ ấm.	ColdWave	
+18	Vĩnh Dạ	Một cỗ yêu vân che khuất bầu trời, đem tiếp tục một đoạn thời gian không gặp ánh nắng.	PermanentNight	
+19	Ôn khí	Một trận chướng khí bao phủ toàn bộ địa khu, giữa thiên địa Mộc thuộc tính dị thường sinh động.	Miasma	
+20	Lôi bạo	Một trận lôi bạo giáng lâm, giữa thiên địa Kim thuộc tính dị thường sinh động.	LightningStorm	
+21	Yêu thú	Một con phỉ xuất hiện tại phụ cận, mang đến tiếp tục mưa dầm cùng tật bệnh.	Fei	
+22	Yêu thú	Một con Lộc Thục xuất hiện tại phụ cận, mang đến sáng sủa thời tiết cùng tường thụy chi không khí.	Lushu	
+23	Kỳ quái tiểu yêu tinh	Một đám đến từ dị giới tiểu yêu mang theo đến một chút tài bảo bốn phía du đãng, đi ngang qua môn phái của ngươi. Những này tiểu yêu mặc dù mười phần nhát gan, nhưng tựa hồ là lưỡng giới pháp tắc khác biệt, tu tiên giới thường dùng thủ đoạn không cách nào ảnh hưởng đến bọn chúng, bởi vậy bọn gia hỏa này thường thường không chút kiêng kỵ bốn phía du đãng. Như nghĩ từ trong tay bọn họ đạt được những bảo vật này, còn cần nghĩ một chút biện pháp.	Lushu	
+24	Yêu thú	Yêu thú D Xuất hiện tại phụ cận.	Null	
+25	Bảo vật	Chân trời bay tới một đạo quang hoa rơi vào phụ cận, không biết là cái gì.	FightFabao	
+26	Bảo vật	Cách đó không xa bầu trời phát sinh một trận kịch liệt đấu pháp, có đồ vật gì rơi xuống phụ cận.	FightFabao	
+27	Bảo vật	Phụ cận đột nhiên có một đạo bảo quang bay thẳng đấu bò, tựa hồ có bảo vật gì hiện thế.	FightFabao	
+28	Nạn dân đi ngang qua	Một trốn tránh chiến loạn nạn dân đi ngang qua nơi đây, [IT] Hi vọng gia nhập các ngươi.	Human	
+29	Bí văn		1	
+30	Bí văn		2	
+31	Bí văn		3	
+32	Bí văn		4	
+33	Bí văn		5	
+34	Tiến công	Một đám đến từ Nam Hoang rừng cây man nhân đối ngươi phát động tập kích.	Poorest	Human
+35	Tiến công	Một đám trong giang hồ bốn phía lưu thoán, lấy cướp bóc mà sống cường đạo đối ngươi phát động tập kích.	Poor	Human
+36	Tiến công	Một đám đến từ Đông Hải tán tu ngấp nghé tài sản của ngươi, đối ngươi phát động tập kích.	Normal	Human
+37	Cường lực tiến công	Một đám Tây Vực tà phái người tu hành đối ngươi phát động tập kích.	Rich	Human
+38	Cường lực tiến công	Một chút bốn phía du đãng tà phái đệ tử tiến đánh môn phái của ngươi.	Richest	Human
+39	Cường lực tiến công	Một đám cường đại người tu hành đến đây công kích môn phái của ngươi.	Normal	Human
+40	Cường lực tiến công	Một đám hung danh chiêu lấy tà phái người tu hành đến tập kích môn phái của ngươi.	Normal	Human
+41	Thời đại mở ra	Gần nhất Nam Hoang phát sinh nứt tai ương, đại lượng Nam Hoang man nhân cùng cường đạo lưu thoán ra.	33|34	
+42	Tiên hữu tới chơi	Một tiên hữu tới bái phỏng môn phái của ngươi, hắn đại khái là nghĩ ở vài ngày.	Tiên hữu tới chơi	Human
+43	Lạc đường người đi đường	Một người qua đường tại phụ cận lạc đường, [IT] Hi vọng đạt được trợ giúp của chúng ta.	Lạc đường người đi đường	
+44	Hiếu kì người đi đường	Một đầy hiếu kỳ người qua đường ngẫu nhiên đến nơi này, [IT] Đặc biệt muốn biết chúng ta đến cùng đang làm gì.	Hiếu kì người đi đường	
+45	Thụ thương người đi đường	Một người qua đường thụ thương, [IT] Hi vọng lâm thời lưu lại nghỉ ngơi cũng đạt được trợ giúp của chúng ta.	Thụ thương người đi đường	RandomDamage
+46	Tiểu Tuyết	Một trận tiểu Tuyết tiến đến.	LightSnow	
+47	Tuyết lớn	Một trận tuyết lớn tiến đến.	HeavySnow	
+48	Người quan sát	Một người tu hành ngay tại quan sát các ngươi, tựa hồ cũng không có ác ý.	观察者	Human
+49	Dã thú đột kích	Một đám đói sói xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Wolf	
+50	Dã thú đột kích	Một đám phát cuồng con thỏ xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Rabbit	
+51	Dã thú đột kích	Một đám tràn ngập tính công kích rắn xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Snake	
+52	Dã thú đột kích	Một đám cuồng bạo lợn rừng xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Boar	
+53	Bí văn		6	
+54	Bí văn		7	
+55	Bí văn		8	
+56	Bí văn		9	
+57	Bí văn		10	
+58	Bí văn		11	
+59	Bí văn		11	
+61	Bí văn		14	
+62	Bí văn		15	
+63	Bí văn		16	
+64	Bí văn		17	
+65	Bí văn		18	
+66	Bí văn		19	
+67	Bí văn		20	
+68	Bí văn		21	
+69	Bí văn		22	
+70	Bí văn		29	
+71	Bí văn		30	
+72	Bí văn		31	
+73	Bí văn		32	
+74	Bí văn		33	
+75	Bí văn		34	
+80	Dòng nước ấm	Trong ngày mùa đông, một dòng nước ấm trải qua nơi đây, mùa đông này sẽ ôn hòa rất nhiều.	HeatWaveInWinter	
+81	Gió mát	Trong ngày mùa hè, một cỗ hàn lưu trải qua nơi đây, cái này mùa hè sẽ mát mẻ rất nhiều.	ColdWaveInSummer	
+82	Bội thu khí tức	Bội thu khí tức tràn ngập ra.	HarvestAir	
+83	Linh khí bộc phát	Không biết nguyên nhân gì, linh khí trong thiên địa đột nhiên bạo phát. Bộ phận thực vật thụ này xâm nhiễm, hóa thành linh mộc.	LingUpWave	
+84	Bí văn		49	
+85	Mùa xuân khí tức	Mùa xuân khí tức tràn ngập ra.	SpringAir	
+86	Yêu thú xâm lấn	Một chút thỏ yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYRabbit	TongYong_DropList
+87	Yêu thú xâm lấn	Một chút lang yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYWolf	TongYong_DropList
+88	Yêu thú xâm lấn	Một chút xà yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYSnake	TongYong_DropList
+89	Yêu thú xâm lấn	Một chút Trư yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYBoar	TongYong_DropList
+90	Yêu thú xâm lấn	Một chút gấu yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYBear	TongYong_DropList
+91	Yêu thú xâm lấn	Một chút cự con ếch xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYFrog	TongYong_DropList
+92	Yêu thú xâm lấn	Một chút cự quy xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYTurtle	TongYong_DropList
+93	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		TongYong_DropList
+94	Yêu Long tung tích		53	
+95	Hung phượng tung tích		54	
+96	Chúc Long tung tích		55	
+97	Thượng cổ người tu hành		56	
+98	Bí văn		59	
+99	Bí văn		60	
+100	Bí văn		61	
+101	Bí văn		62	
+102	Tiên hữu tới chơi	Một tiên hữu được mời tới bái phỏng môn phái của ngươi, hắn sẽ ở vài ngày.	Tiên hữu tới chơi	
+103	Phát hiện tung tích			
+104	Bí văn		64	
+105	Tinh quái đi ngang qua	Một cái thông linh [NAME] Xuất hiện tại phụ cận, nó tràn ngập hiếu kì.		
+106	Tinh quái đi ngang qua	Một cái thông linh [NAME] Xuất hiện tại phụ cận, nó tràn ngập hiếu kì.	Building	
+107	Yêu thú xâm lấn	Một chút Kê Yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYChicken	TongYong_DropList
+108	Yêu thú xâm lấn	Một chút miêu yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYCat	TongYong_DropList
+109	Yêu thú xâm lấn	Một chút ngưu yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYCattle	TongYong_DropList
+110	Yêu thú xâm lấn	Một chút hổ yêu xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.	JYTiger	TongYong_DropList
+111	Dã thú đột kích	Một đám phát cuồng gà xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Chicken	
+112	Dã thú đột kích	Một con tràn ngập tính công kích gấu xuất hiện tại phụ cận, nó tràn đầy địch ý.	Bear	
+113	Dã thú đột kích	Một đám cuồng bạo rùa đen xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Turtle	
+114	Dã thú đột kích	Một đám phát cuồng ếch xanh xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Frog	
+115	Dã thú đột kích	Một con tràn ngập tính công kích mèo xuất hiện tại phụ cận, nó tràn đầy địch ý.	Cat	
+116	Dã thú đột kích	Một đám điên cuồng trâu xuất hiện tại phụ cận, bọn chúng tràn đầy địch ý.	Cattle	
+117	Dã thú đột kích	Một con tràn ngập tính công kích lão hổ xuất hiện tại phụ cận, nó tràn đầy địch ý.	Tiger	
+118	Tiến công	Một đám yêu tộc người tu hành ngấp nghé ngươi môn phái tài sản, bọn hắn đầy cõi lòng địch ý xuất hiện tại phụ cận.	Poorest	RANDOMYAOGUAI
+119	Tiến công	Một đám yêu tộc người tu hành ý đồ phá vỡ môn phái của ngươi, bọn hắn mang theo khát máu ánh mắt tại phụ cận bồi hồi.	Poor	RANDOMYAOGUAI
+120	Tiến công	Một đám yêu tộc người tu hành chẳng biết tại sao đối ngươi môn phái đầy cõi lòng cừu hận, bọn hắn sắp phát động tập kích.	Normal	RANDOMYAOGUAI
+121	Cường lực tiến công	Một đám cường đại yêu tộc người tu hành ý đồ cướp đoạt ngươi môn phái nội tình đến phong phú tự thân.	Rich	RANDOMYAOGUAI
+122	Cường lực tiến công	Một đám cường đại yêu tộc người tu hành ý đồ huyết tẩy môn phái của ngươi.	Richest	RANDOMYAOGUAI
+123	Cường lực tiến công	Một đám điên cuồng yêu tộc người tu hành ý đồ công kích môn phái của ngươi.	Normal	RANDOMYAOGUAI
+124	Thỉnh cầu che chở	Một vừa mới biến hóa yêu tộc thỉnh cầu ngươi che chở, hi vọng có thể dựa vào sự giúp đỡ của ngươi vượt qua Hóa Hình Thiên Kiếp.	RANDOMYAOGUAI	
+125	Động vật gia nhập	Một con mèo đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Cat	
+126	Động vật gia nhập	Một con gà đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Chicken	
+127	Động vật gia nhập	Một con trâu đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Cattle	
+128	Động vật gia nhập	Một con rùa đen đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Turtle	
+129	Động vật gia nhập	Một con con thỏ đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Rabbit	
+130	Động vật gia nhập	Một con ếch xanh đi vào môn phái của ngươi, nó tựa hồ rất thích nơi này.	Frog	
+1000	Rồng đi ngang qua			Item_DragonShit|Item_DragonScale
+1001	Linh khí bộc phát			
+1002	Phượng đi ngang qua			Item_BossFeng_HuoYu
+10000	Thành lập môn phái	Chúng ta ẩn cư ở này, trùng nhập tiên môn, hơn nữa còn một lần nữa thành lập mình tiểu môn phái. Này lại là một cái mới tinh truyền kỳ bắt đầu a?\n\n[color=#D06508] Giải tỏa trang trí loại kiến trúc \n Giải tỏa càng nhiều tu luyện kiến trúc [/color]	FoundOrganization1	
+10001	Thanh danh đại chấn	Chúng ta môn phái cũng dần dần hiển lộ ra thanh danh, cái này thật rất không dễ dàng. Để chúng ta đem hắn tiếp tục kinh doanh lớn mạnh.\n\n[color=#D06508] Môn phái nhân khẩu hạn mức cao nhất tăng lên![/color]	FoundOrganization2	
+10002	Uy danh hiển hách	Chúng ta môn phái tại tu hành giới cũng đã có uy danh hiển hách, thành người người hướng tới thánh địa tu hành.\n\n[color=#D06508] Môn phái nhân khẩu hạn mức cao nhất tăng lên!\n Có thể thông qua môn phái kết cấu công năng mở phân đường![/color]	FoundOrganization3	
+10003	Chưởng môn tiền nhiệm	[NAME] Trở thành chưởng môn của chúng ta, [IT] Nhất định có thể dẫn mọi người đi hướng tiên đồ.		
+10004	Thiếu Thiếu chưởng môn	Chúng ta cần phải có người tới đảm nhiệm chưởng môn.\n[color=#D06508] Có thể tại môn phái bảng [ Môn phái kết cấu bên trong ] Thiết trí chưởng môn [/color]		
+10005	Dẫn tiến đệ tử	Bị dẫn tiến đệ tử sắp đến.		
+10006	Thoát đi loạn thế	Bởi vì vội vàng trốn đi, cũng không có mang theo quá nhiều vật tư. Mấy ngày liền bôn ba cơ hồ hết sạch tinh lực của các ngươi.\n Không có lựa chọn khác, các ngươi chỉ có thể tạm thời nơi này chỉnh đốn, mà đối đãi nói sau.	BaseExpect1	
+10007	Kinh hồn sơ định	Ấm áp đống lửa thoáng xua tán đi mệt nhọc cùng bất an. Ngắn ngủi thảo luận sau, các ngươi cảm thấy cũng đã thoát đi nguy hiểm, thế là quyết định ở đây thành lập một cái nơi ở tạm thời.\n\n[color=#D06508] Giải tỏa kết cấu kiến trúc \n Giải tỏa cơ sở đồ dùng trong nhà \n Giải tỏa cơ sở bàn làm việc \n Giải tỏa sàn nhà cùng nóc nhà [/color]	BaseExpect2	
+10008	An cư nơi này	Trong khoảng thời gian này, mặc dù mất đi sư huynh trưởng bối bi thống y nguyên dây dưa, nhưng các ngươi dần dần trầm tĩnh lại. Phát giác được nơi đây ít ai lui tới, truy binh tựa hồ đã bỏ đi truy tìm, các ngươi thương lượng một chút, quyết định lại nơi này sinh hoạt.\n\n[color=#D06508][/color]		
+10009	Gia viên mới	Các ngươi tựa hồ cũng quen thuộc cuộc sống ở nơi này: Mặc dù không bằng sư môn càng tại lúc an lòng, nhưng cũng có thể tự cấp tự túc. Cái này chưa chắc không phải một loại tu hành?\n Đây là trong loạn thế gia viên mới, nó sẽ là một cái không tệ bắt đầu sao? Tất cả mọi người bao hàm chờ mong.\n\n[color=#D06508] Giải tỏa tiến giai đồ dùng trong nhà \n Giải tỏa tiến giai bàn làm việc [/color]	BaseExpect3	
+10010	Ngoại môn đệ tử phản bội chạy trốn	Ngươi ngoại môn đệ tử [NAME] Bởi vì không thể chịu đựng được cuộc sống bây giờ mà tại đêm khuya phản bội chạy trốn.		
+10011	Trùng nhập tiên môn	Trong chúng ta có người đột phá tầng kia hạn chế!\n [IT] Lập tức cảm nhận được giữa thiên địa kia cỗ cường đại năng lượng: \n Linh khí!\n Tu tiên chi môn hướng chúng ta mở rộng!\n\n[color=#D06508] Linh khí trở nên có thể thấy được!\n Có thể thành lập môn phái![/color]		
+10012	Ly biệt	Ta không biết ta đã làm sai điều gì, nhưng đã các ngươi yêu cầu, vậy ta liền rời đi. Cảm ơn mọi người khoảng thời gian này chiếu cố!\n[TXT] Cùng các ngươi cùng một chỗ, ta rất vui vẻ.		
+10013	Dự đoán	[NAME] Đối tương lai dự đoán kết quả là: \n[TXT]		
+10014	Hộp đá phát sáng	Tối nay là đêm trăng tròn, lúc trước đạo sĩ ban cho các ngươi hộp đá tại nửa đêm giờ Tý đột nhiên phát ra quang mang, sau đó nứt ra một cái lỗ khe hở, tựa hồ có thể nhẹ nhõm mở ra.		
+10015	Thu hoạch được pháp quyết tu luyện	Thu được mới pháp quyết tu luyện: [TXT]		
+10016	Mở ra tu luyện hệ thống	Các ngươi thu được đệ nhất bản tu hành pháp quyết, thu hoạch đạp lên tiên lộ tư cách. Tiên lộ gian nan, nhưng loạn thế như bể khổ, nhân sinh giống như lục bình, chứng thực phi thăng chi đạo có lẽ là duy nhất siêu thoát đường tắt.\n\n[color=#D06508] Giải tỏa tu luyện hệ thống!\n Giải tỏa tu luyện kiến trúc!\n ( Môn phái bảng có thể tùy thời xem xét tất cả công pháp )[/color]		
+10017	Địch nhân xâm lấn	Một đợt tràn ngập địch ý gia hỏa xuất hiện ở phụ cận.		
+10018	Phi thăng	[NAME] Trải qua kiếp nạn, rốt cục siêu thoát giới này, phi thăng thành tiên. Chỉ để lại tiên nhân lột xác, cung cấp người hậu thế chiêm ngưỡng.\n Có thơ làm chứng: \n[color=#D06508] Hỗn độn sơ phân Bàn Cổ trước, Thái Cực Lưỡng Nghi Tứ Tượng treo.\n Nữ Oa đoàn thổ vạn linh ra, Phục Hi họa quẻ âm dương trước.\n Trăm năm tu hành đao binh họa, định bên trong chưa phát giác đã ngàn năm.\n Cướp đến tan hết hoàn toàn nói, phàm trần lần này đi tận như khói.[/color]	SeeGod	
+10019	Cường lực tiến công	[TXT] Phái ra một đội đệ tử tinh anh đến đây trả thù.	Rich	Human
+10020	Cường lực tiến công	[TXT] Phái ra trong môn cao thủ đến đây trả thù.	Rich	Human
+10021	Cường lực tiến công	[TXT] Phái ra trong phái trưởng lão đến đây trả thù.	Rich	Human
+10022	Lửa giận	Hành vi của ngươi chọc giận [TXT], bọn hắn sắp khai thác biện pháp.		
+10023	Thiên kiếp sắp tới	[NAME] Tu vi đạt đến bình cảnh, thiên kiếp sắp giáng lâm!		
+10024	Thần bí tiên nhân	Mấy ngày bên trong, các ngươi ban ngày nằm đêm ra, rốt cục chạy trốn tới một chỗ bí ẩn khe núi. Ngay tại vừa rồi buông lỏng lúc, một đạo độn quang đột nhiên rơi xuống, hiện ra một người tu hành thân hình.		
+10025	Thần bí tiên nhân	Thần bí người tu hành thật sâu nhìn thoáng qua bốn phía, hóa thành một đạo độn quang biến mất tại phương xa.		
+10026	Tân thủ hình thức	Chúc mừng ngươi, ngươi đã nắm giữ cơ bản 《 Không tầm thường tu tiên máy mô phỏng 》 Cách chơi nội dung.\n Tiếp xuống ngươi có thể thông qua kinh điển hình thức, thành lập mình nhân vật, bắt đầu chân chính tu hành hành trình. Đương nhiên ngươi cũng có thể tại tân thủ hình thức bên trong tiếp tục du ngoạn.\n Chúc ngài trò chơi vui sướng.		
+10027	Chết	Thế sự gian nan, các ngươi tiên lộ chưa mở ra không ngờ đoạn tuyệt. Chỉ lưu thiên địa ung dung, khiến người bi thương mà khóc.		
+10028	Diệt môn	[TXT] Chỉ lưu thiên địa ung dung, khiến người bi thương mà khóc.		
+10029	Khởi đầu mới	Một tị nạn trong núi lữ nhân phát hiện khu di tích này, không đường có thể đi phía dưới, [IT] Quyết định tạm thời ở nơi này xuống tới.		
+10030	Thần bí tiên nhân	Các ngươi cảm giác được một đạo ôn hòa khí tức ở bên người dừng lại một lát, sau đó dần dần biến yếu cũng biến mất, giống như cho tới bây giờ không có xuất hiện qua......		
+10031	Tiên gia động thiên	[TXT] Trở thành Tiên gia động thiên, nhất thời muôn hình vạn trạng, thanh danh tăng nhiều.		
+10032	Tĩnh tu	[NAME] Bởi vì trú đóng ở bên ngoài thời gian quá dài, sắp trở về môn phái tĩnh tu.		
+10033	Đóng quân thụ thương	[NAME] Bởi vì đóng quân trong lúc đó thụ thương, sắp trở về môn phái tu dưỡng.		
+10034	Dung nhập môn phái	Trải qua một đoạn thời gian ở chung, [NAME] Triệt để dung nhập môn phái.		
+10035	Ngo ngoe muốn động	Cảm ứng được tu sĩ Kim Đan khí tức, sinh tồn ở này [NAME] Tựa hồ cảm nhận được bất an......		
+10036	Tiến công	Vì phòng ngừa các ngươi tiếp tục lớn mạnh, sinh tồn ở này [NAME] Phát động tập kích!		
+10037	Ngo ngoe muốn động	Cảm nhận được các ngươi môn phái tựa hồ cũng không có cái gì tiềm ẩn uy hiếp, sinh tồn ở này [NAME] Dần dần lên ác ý......		
+10038	Tiến công	Không thể chịu đựng được huyết thực dụ hoặc, sinh tồn ở này [NAME] Phát động tập kích!		
+10039	Tiến hóa yêu thú	Thụ thời tiết linh khí ảnh hưởng, một con [NAME] Phúc chí tâm linh, biến thành yêu thú.		
+10040	Hung sát chi khí	[NAME] Đi tới nơi đây, đột nhiên cảm thấy một trận khí tức nguy hiểm, tựa hồ có cái gì hung vật chiếm cứ tại phụ cận. Tại [NAME] Cảm ứng bên trong, cỗ khí tức này thậm chí không thua gì Kim Đan kỳ tu sĩ, vẫn là rời xa nơi đây vi diệu.		
+10041	Thần bí hang động	Gần đây, môn phái dưới mặt đất ngày càng tấp nập chấn động bỗng nhiên ngừng lại, ngay tại lúc đó, một cái thần bí hang động xuất hiện trên mặt đất. Từ trong huyệt động truyền ra tối nghĩa mà cường đại ý niệm, không biết là lai lịch ra sao.\n Gần đây nhiều lần có thượng cổ người tu hành xuất thế, có lẽ có thể hướng bọn hắn tìm hiểu một chút tin tức.		
+10042	Nhu cầu tế tự	Thần bí trong huyệt động bỗng nhiên truyền lại ra bao hàm uy hiếp ý niệm, nó muốn ngươi [TXT].		
+10043	Hoàn thành tế tự	Ngươi tại hang động trước hoàn thành tế tự, thần bí ý niệm rất thỏa mãn.		
+10044	Mưa to tai ương	Thần bí ý niệm mười phần tức giận, một trận mưa to ứng thanh mà đến.	Rainstorm_AllSeason	
+10045	Linh khí khô triều	Thần bí ý niệm mười phần tức giận, huyệt động cửa vào truyền ra hấp lực cường đại, đem bốn phía linh khí cướp đoạt không còn.	LingRarefiedWave	
+10046	Vĩnh Dạ tai ương	Thần bí ý niệm mười phần tức giận, lửa giận phía dưới, một trận Vĩnh Dạ giáng lâm.	PermanentNight	
+10047	Yêu thú xâm lấn	Thần bí ý niệm mười phần tức giận, đưa tới một chút yêu thú xâm lấn.		
+10048	Lửa giận giáng lâm	Thần bí ý niệm mười phần tức giận, phun ra mấy đạo phẫn nộ dòng lũ, phá hủy mặt đất.		
+10049	Rồng đào được	Thần bí ý niệm bất mãn đạt đến cực hạn, nương theo lấy một trận thiên băng địa liệt tiếng vang, một con to lớn cự vật phá đất mà lên.		
+10050	Dị thường nhiệt độ cao	Không biết nguyên nhân gì, giữa thiên địa nhiệt độ đột nhiên đề cao rất nhiều, loại khí trời này biến hóa vượt xa bình thường thời tiết phạm trù, tựa hồ ẩn chứa cái gì không tầm thường tình huống.	Weather_Boss_Drought	
+10051	Bạo loạn dã thú	Dị thường khô hạn khí hậu làm xung quanh dã thú lâm vào điên cuồng, một đám bạo loạn dã thú xuất hiện tại môn phái phụ cận!	Wolf|Rabbit|Snake|Boar	
+10052	Trời rơi Hỏa Vũ	Một cỗ sóng nhiệt xẹt qua bầu trời, tựa hồ có đồ vật gì rơi xuống.		Item_BossFeng_HuoYu
+10053	Tăng lên khô hạn	Tiếp tục nhiệt độ cao mang đến một trận khô hạn, không biết có phải hay không ảo giác, nhiệt độ tựa hồ càng ngày càng cao, nếu như không khai thác cái gì đối sách, tình huống có lẽ sẽ trở nên càng thêm ác liệt.	Weather_Boss_HighTemp	
+10054	Phát cuồng yêu thú	Một chút yêu thú tựa hồ bởi vì sợ hãi mà phát cuồng, vậy mà rời đi lãnh địa của mình bắt đầu bốn phía phá hư!		
+10055	Trời rơi Hỏa Vũ	Một cỗ sóng nhiệt xẹt qua bầu trời, tựa hồ có đồ vật gì rơi xuống.		Item_BossFeng_HuoYu
+10056	Thê lương hung minh	Tại thi pháp xua tan ngày hôm đó ích tăng lên khô hạn sau, giữa thiên địa tựa hồ an tĩnh quỷ dị thời gian nửa nén hương. Ngắn ngủi yên tĩnh qua đi, nơi xa dãy núi đột nhiên hù dọa mảng lớn chim bay, một trận thê lương hung vang lên triệt cửu tiêu!		
+10057	Hung hoàng giáng lâm	Hung hoàng giáng lâm.		
+10058	Vĩnh Dạ bắt đầu	Không biết sao, giữa thiên địa âm dương chi lực đột nhiên lâm vào hỗn loạn, môn phái phụ cận trăm dặm vậy mà lâm vào đêm khuya đen nhánh.		
+10059	Âm chi noãn xuất hiện	Trong đêm khuya, một chút kì lạ trứng đột nhiên xuất hiện tại phụ cận, trong đó tựa hồ dựng dục cái gì......		
+10060	Cực trú bắt đầu	Không biết sao, giữa thiên địa âm dương chi lực đột nhiên lâm vào hỗn loạn, môn phái phụ cận trăm dặm đột nhiên chuyển thành vào lúc giữa trưa...... Không biết lần này âm dương hỗn loạn sẽ kéo dài bao lâu?		
+10061	Dương chi noãn xuất hiện	Ban ngày bên trong, một chút kì lạ trứng đột nhiên xuất hiện tại phụ cận, trong đó tựa hồ dựng dục cái gì......		
+10062	Chúc Long đăng tràng	Tiếp tục hỗn loạn âm dương chi tức rốt cục đến cực hạn, nương theo một trận kéo dài thở dài, một đầu thân ảnh khổng lồ từ giữa thiên địa hiển hiện ra!		
+10063	Chúc Long xuất hiện	Theo kì lạ trứng nở, giữa thiên địa âm dương chi tức bắt đầu lâm vào hỗn loạn!		
+10064	Chúc Long xuất hiện	Theo kì lạ trứng bị phá hư, giữa thiên địa âm dương chi tức bắt đầu lâm vào hỗn loạn!		
+10065	Thiên địa dị biến	Gần đây, Trung Nguyên nội địa đột nhiên phát sinh một lần linh khí bộc phát. Ban sơ cũng không người coi trọng, chỉ cho rằng đây là bình thường linh mạch dị động. Nhưng mà theo thời gian chuyển dời, mọi người mới phát hiện lần này linh khí bộc phát quy mô cùng cường độ đồng đều viễn siêu mong muốn, lấy bộc phát điểm làm tâm điểm một đường lan tràn, đã tiếp tục hơn tháng, lại là một trận tác động đến toàn bộ tu hành giới kịch biến.\n Bây giờ, linh khí bộc phát dư ba đã lan tràn đến ngươi môn phái, mọi người tại hưởng thụ đầy đủ linh khí đồng thời cũng không nhịn được nghi hoặc trận này kịch biến ý vị như thế nào......	LingUpWave_Sp	
+10066	Ngàn năm linh triều	Từ linh khí triều dâng càn quét tu hành giới đã qua mấy ngày, tu hành giới các đại môn phái cũng từ môn phái trong điển tịch dần dần xác định, lần này dị biến nên là ba ngàn năm một lần luân hồi linh khí triều tịch lại lần nữa tiến đến. Thụ này ngàn năm linh triều ảnh hưởng, một chút bởi vì các loại nguyên nhân ngủ say thượng cổ người tu hành cũng lần lượt thức tỉnh.\n Thời đại thượng cổ, tu hành giới còn tiếc rằng nay trật tự, chỉ là thừa hành nhược nhục cường thực lý niệm. Những này thừa hành thượng cổ chi đạo người tu hành lấy cường hoành tu vi, tại ngắn ngủi mấy ngày, đã ở tu hành giới nhấc lên gợn sóng......		
+10067	Nam Hoang dị biến	Gần đây, Bắc Cương dãy núi bên trong phát sinh một trận thần bí thiên tai. Nghe nói lúc ấy núi dao động mấy chục giây, âm thanh chấn ngàn dặm. Chờ phụ cận người tu hành lúc chạy đến, chỉ phát hiện trăm dặm sông núi đều hóa thành trạch quốc, hiện trường chỉ cảm thấy nhận khổng lồ yêu khí tràn ngập.\n Xem ra thụ ngàn năm linh triều ảnh hưởng, một chút ngày thường ẩn tàng tại thâm sơn đại trạch khó gặp thượng cổ yêu thú tựa hồ cũng bắt đầu trở nên sinh động.		
+10068	Dưới mặt đất dị thanh	Ngàn năm linh triều đã sắp trôi qua, ngắn ngủi hơn tháng thời gian, cổ đại người tu hành xuất thế, thượng cổ yêu thú một lần nữa sinh động...... Tu hành giới cách cục đã phát sinh biến đổi lớn. Bất quá theo thời gian trôi qua, tu hành giới cũng dần dần một lần nữa đạt thành mới ổn định, hết thảy tựa hồ cũng một lần nữa đi hướng quỹ đạo.\n Bất quá gần đây, môn phái dưới mặt đất tựa hồ chấn động tấp nập, không biết là nguyên nhân gì......		
+10069	Cổ tu xâm lấn	Một đường truy tung phía dưới, tên này cổ đại người tu hành thành công tìm tới ngươi sơn môn.		
+10070	Hung thú thức tỉnh	Chiếm cứ ở chỗ này yêu thú thức tỉnh.		
+10071	Thiên uy đồ long	Thiên kiếp chi lực đem chưa hoàn toàn nở giao long chi sinh cơ đều chôn vùi......		
+10072	Dị giới rung chuyển	Giang hồ truyền ngôn, gần đây dị giới khe hở đột nhiên mở ra, đếm tới quang hoa từ trong cái khe bắn ra, rơi vào các nơi trên thế giới. Từ nơi sâu xa ngươi sinh ra cảm ứng, tựa hồ những vật phẩm này cùng mình rất có duyên phận, xem ra có cần phải tìm kiếm một phen.		
+10073	Dị giới rung chuyển	Giang hồ truyền ngôn, gần đây dị giới khe hở đột nhiên mở ra, đếm tới quang hoa từ trong cái khe bắn ra, rơi vào các nơi trên thế giới. Từ nơi sâu xa ngươi sinh ra cảm ứng, tựa hồ những vật phẩm này cùng mình rất có duyên phận, xem ra có cần phải tìm kiếm một phen.		
+10074	Dị giới rung chuyển	Giang hồ truyền ngôn, gần đây dị giới khe hở đột nhiên mở ra, đếm tới quang hoa từ trong cái khe bắn ra, rơi vào các nơi trên thế giới. Từ nơi sâu xa ngươi sinh ra cảm ứng, tựa hồ những vật phẩm này cùng mình rất có duyên phận, xem ra có cần phải tìm kiếm một phen.		
+10075	Dị giới rung chuyển	Giang hồ truyền ngôn, gần đây dị giới khe hở đột nhiên mở ra, đếm tới quang hoa từ trong cái khe bắn ra, rơi vào các nơi trên thế giới. Từ nơi sâu xa ngươi sinh ra cảm ứng, tựa hồ những vật phẩm này cùng mình rất có duyên phận, xem ra có cần phải tìm kiếm một phen.		
+10076	Ly biệt	Vì sao muốn đem ta đưa tặng cho [TXT]?		
+10077	Phi thăng	[NAME] Thần tính viên mãn, mất đi hết thảy phàm nhân tình cảm, chặt đứt hết thảy thế gian nhân quả duyên phận, triệt để thần hóa, trở thành nơi đây thế giới một phương thần linh.	SeeGod	
+10078	Hành thương nghiệp đoàn khiển trách	Bởi vì ngươi dã man hành vi, hành thương nghiệp đoàn quyết định vĩnh cửu sẽ không tiếp tục cùng ngươi giao dịch		
+10079	Báo thù	[TXT] Thân hữu sư trưởng khí thế hung hăng đi vào môn phái của ngươi, đến đây đòi một lời giải thích.	Rich	
+10080	Báo thù	[TXT] Bởi vì ngươi mà phản bội sư môn, nguyên lai thân hữu sư trưởng mười phần tức giận, bọn hắn sắp đến đây đòi một lời giải thích.		
+10081	Ân tình	[TXT] Đệ tử bởi vì ngươi mà mưu phản môn phái, nhưng bởi vì song phương ân tình vãng lai, bọn hắn môn phái cao tầng tạo áp lực, ngăn trở tình thế chuyển biến xấu.\n( Khấu trừ ân tình )		
+10082	Ân tình	[TXT] Đệ tử bởi vì ngươi mà mưu phản môn phái, nhưng bởi vì song phương ân tình vãng lai, bọn hắn hết sức ngăn trở tình thế chuyển biến xấu. Bất quá bọn hắn thiếu ngươi ân tình tựa hồ không đủ để hoàn toàn đè xuống việc này.\n( Khấu trừ ân tình )		
+10083	Hành thương nghiệp đoàn bái phỏng	Đến tự hành thương thương hội [NAME] Đến đây bái phỏng, hắn sẽ tại nơi đây dừng lại một ngày.		
+10084	Dị giới người về	Trước đó vài ngày, hành thương kiểu gì cũng sẽ một đợt thương nhân tại dị giới khe hở thăm dò lúc mất tích. Mọi người ở đây coi là những người này đã gặp bất trắc lúc, dị giới khe hở lại lần nữa mở ra, những này hành thương vậy mà toàn bộ an toàn quay trở về, thậm chí còn từ dị giới mang đến rất nhiều kỳ quái hàng hóa.\n Nhưng mà, đại lượng đến từ dị giới vật phẩm mang theo dị giới thiên đạo chi khí, thụ dị giới thiên đạo ảnh hưởng, bản phương thế giới thiên đạo cũng phát sinh một chút lâm thời tính cải biến. Thậm chí đạo âm dương hóa thân Chúc Long đều trở nên có chút kỳ quái......		
+10085	Khải trí gấu		Bear,10,10,10,10,10,3,Target,,3	Tại [TXT], một con gấu cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10086	Khải trí con thỏ		Rabbit,10,10,10,10,10,3,Target,,3	Tại [TXT], một con con thỏ cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10087	Khải trí gà		Chicken,10,10,10,10,10,3,Target,,3	Tại [TXT], một con gà cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10088	Khải trí sói		Wolf,10,10,10,10,10,3,Target,,3	Tại [TXT], một con sói cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10089	Khải trí rắn		Snake,10,10,10,10,10,3,Target,,3	Tại [TXT], một con rắn cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10090	Khải trí lợn rừng		Boar,10,10,10,10,10,3,Target,,3	Tại [TXT], một con lợn rừng cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10091	Khải trí con ếch		Frog,10,10,10,10,10,3,Target,,3	Tại [TXT], một con con ếch cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10092	Khải trí rùa đen		Turtle,10,10,10,10,10,3,Target,,3	Tại [TXT], một con rùa đen cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10093	Khải trí mèo		Cat,10,10,10,10,10,3,Target,,3	Tại [TXT], một con mèo cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10094	Khải trí hổ		Tiger,10,10,10,10,10,3,Target,,3	Tại [TXT], một con hổ cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10095	Khải trí trâu		Cattle,10,10,10,10,10,3,Target,,3	Tại [TXT], một con máy móc trâu bò duyên trùng hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10096	Đại năng điểm hóa	[NAME] Cơ duyên trời tạo, tại [TIME], thụ [TNAME] Điểm hóa mà thông linh, trở thành tinh quái.		
+10097	Thiên địa thông linh	[NAME] Cơ duyên trời tạo, tại [TIME], tại [WEATHER] Bên trong ngẫu lấy được thiên địa linh cơ, vậy mà thức tỉnh bản thân ý thức, trở thành tinh quái.		
+10098	Thức tỉnh linh cơ	[NAME] Cơ duyên trời tạo, tại [TNAME] Bên người thâm niên lâu ngày, lắng nghe huyền diệu, linh tính chậm rãi tích lũy, vậy mà tại [TIME] Ngẫu nhiên thức tỉnh bản thân ý thức, trở thành tinh quái.		
+10099	Khải trí gấu		Bear,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con gấu không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10100	Khải trí con thỏ		Rabbit,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con con thỏ không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10101	Khải trí gà		Chicken,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con gà không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10102	Khải trí sói		Wolf,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con sói không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10103	Khải trí rắn		Snake,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con rắn cơ duyên xảo hợp, tự hành nhận biết [FRAG], sinh ra linh trí.
+10104	Khải trí lợn rừng		Boar,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con lợn rừng không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10105	Khải trí con ếch		Frog,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con con ếch không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10106	Khải trí rùa đen		Turtle,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con rùa đen không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10107	Khải trí mèo		Cat,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con mèo không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10108	Khải trí hổ		Tiger,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con hổ không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10109	Khải trí trâu		Cattle,10,10,10,10,10,3,Emotion,,3	Tại [TXT], một con trâu không biết sao, ngoài ý muốn cảm nhận được nhiều lần [FRAG], sinh ra linh trí.
+10110	Khải trí gấu		Bear,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con gấu nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10111	Khải trí con thỏ		Rabbit,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con con thỏ nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10112	Khải trí gà		Chicken,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con gà nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10113	Khải trí sói		Wolf,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con sói nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10114	Khải trí rắn		Snake,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con rắn nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10115	Khải trí lợn rừng		Boar,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con lợn rừng nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10116	Khải trí con ếch		Frog,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con con ếch nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10117	Khải trí rùa đen		Turtle,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con rùa đen nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10118	Khải trí mèo		Cat,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con mèo nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10119	Khải trí hổ		Tiger,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con hổ nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10120	Khải trí trâu		Cattle,10,10,10,10,10,3,Scene,,3	Tại [TXT], một con trâu nhiều lần [FRAG] Về sau, ý tưởng đột phát, sinh ra linh trí.
+10121	Lui bước địch nhân	Có một đợt tràn ngập địch ý tồn tại ý đồ tiến công các ngươi, nhưng nghĩ tới ngươi môn phái tại tu hành giới thanh danh, cuối cùng vẫn lựa chọn lui bước.		
+10122	Phi thăng	[NAME] Lấy nhục thân thành thánh, phá toái hư không, siêu thoát giới này, phi thăng thành tiên. Chỉ để lại truyền thuyết cung cấp hậu nhân chiêm ngưỡng.\n Có thơ làm chứng: \n[color=#D06508] Hỗn độn sơ phân Bàn Cổ trước, Thái Cực Lưỡng Nghi Tứ Tượng treo.\n Nữ Oa đoàn thổ vạn linh ra, Phục Hi họa quẻ âm dương trước.\n Trăm năm tu hành đao binh họa, định bên trong chưa phát giác đã ngàn năm.\n Cướp đến tan hết hoàn toàn nói, phàm trần lần này đi tận như khói.[/color]	SeeGod	
+10123	Dị giới hành thương	Đến tự hành thương thương hội [NAME] Bị dị giới khe hở truyền tống đến tận đây.		
+10124	Dị giới kẽ nứt	Một đám dã thú phát cuồng bị dị giới khe hở truyền tống đến tận đây.		
+10125	Dị giới kẽ nứt	Một chút yêu thú bị dị giới khe hở truyền tống đến tận đây.		
+10126	Dị giới kẽ nứt	Một đám địch nhân bị dị giới khe hở truyền tống đến tận đây.		
+10127	Khí vận ngưng kết	Tại lấy vô song thực lực chinh phạt các phái sau, toàn bộ tu hành giới khí vận ngưng tụ ngươi môn phái. Thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10128	Khí vận ngưng kết	Ngắn ngủi mấy năm ở giữa, ngươi môn phái bên trong phi thăng nhân số lại hợp Đại Diễn số lượng, khổng lồ thiên đạo khí vận bởi vậy ngưng tụ ngươi môn phái. Thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10129	Khí vận ngưng kết	Kinh lịch gian khổ tu hành, ngươi trong phái lại có Kim Đan tu giả độ cửu trọng thiên kiếp, vô thượng tu vi dẫn thiên địa khí vận hội tụ. Thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10130	Khí vận ngưng kết	Tuế nguyệt như thoi đưa, ngươi lập phái nơi này đảo mắt đã hơn mười năm, năm tháng dài đằng đẵng để ngươi môn phái khí vận dần dần cùng nơi đây thiên địa hợp nhất. Thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10131	Khí vận ngưng kết	Vì giải Thái Nhất Môn diệt môn chi mê, ngươi trải qua gian khổ dò xét, không nghĩ tới vậy mà dần dần tiếp xúc đến thế giới này cổ xưa nhất bí ẩn. Đang dò xét quá trình bên trong, đại lượng thiên đạo khí vận hội tụ. Thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10132	Khí vận ngưng kết	Gần đây, thiên đạo phát sinh kịch biến, thụ ảnh hưởng này, Tiểu Càn Khôn Giới lại ẩn ẩn phát ra quang mang, sinh ra biến hóa kỳ dị.		
+10133	Thiên thời sắp tới	Tiểu Càn Khôn Giới đột nhiên phát ra dị động, ngươi nhớ tới cùng giao tích không ước định, xem ra là thiên thời sắp tới......		
+10123	Dị giới hành thương	Đến tự hành thương thương hội [NAME] Bị dị giới khe hở truyền tống đến tận đây.		
+10124	Dị giới kẽ nứt	Một đám dã thú phát cuồng bị dị giới khe hở truyền tống đến tận đây.		
+10125	Dị giới kẽ nứt	Một chút yêu thú bị dị giới khe hở truyền tống đến tận đây.		
+10126	Dị giới kẽ nứt	Một đám địch nhân bị dị giới khe hở truyền tống đến tận đây.		
+30001	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		TongYong_DropList
+30002	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		TongYong_DropList
+30003	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		TongYong_DropList
+30004	Cường lực tiến công	Một chút thần bí sát thủ thụ mệnh đến tiến đánh môn phái của ngươi.	Richest	Human
+30005	Cường lực tiến công	Một chút thần bí sát thủ thụ mệnh đến tiến đánh môn phái của ngươi.	Richest	Human
+30006	Cường lực tiến công	Một chút thần bí sát thủ thụ mệnh đến tiến đánh môn phái của ngươi.	Richest	Human
+30008	Vĩnh Dạ	Âm dương kỳ thạch có chút thất thường, dẫn đến âm tính mất cân bằng, mặt trời từ đầu đến cuối không có dâng lên.	YinChaos	
+30009	Sóng nhiệt	Địa phế miệng không quá ổn định, dẫn đến nhiệt độ dị thường lên cao.	Hotpot_Heat	
+30010	Hàn khí	Huyền Băng Đan lô không quá ổn định, dẫn đến nhiệt độ dị thường giảm xuống.	ColdHole_Cold	
+30012	Mưa to	Một trận mãnh liệt bão tố đánh tới, giữa thiên địa Thủy thuộc tính dị thường sinh động.	Rainstorm	
+30013	Gió phơn	Một trận nóng bức gió phơn phá đến, giữa thiên địa Hỏa thuộc tính dị thường sinh động.	Fohn	
+30014	Bão cát	Một trận bão cát cuốn tới, giữa thiên địa Thổ thuộc tính dị thường sinh động.	DustStorm	
+30015	Linh khí khô triều	Không biết nguyên nhân gì, linh khí trong thiên địa tiến vào ngắn ngủi cơn sóng nhỏ.	LingRarefiedWave_Longer	
+30018	Vĩnh Dạ	Một cỗ yêu vân che khuất bầu trời, đem tiếp tục một đoạn thời gian không gặp ánh nắng.	PolarNight	
+30019	Ôn khí	Một trận chướng khí bao phủ toàn bộ địa khu, giữa thiên địa Mộc thuộc tính dị thường sinh động.	Miasma	
+30020	Lôi bạo	Một trận lôi bạo giáng lâm, giữa thiên địa Kim thuộc tính dị thường sinh động.	LightningStorm	
+30021	Cường lực tiến công	Một chút thần bí sát thủ thụ mệnh đến tiến đánh môn phái của ngươi.	Normal	Human
+30022	Lôi bạo	Thần bí hang động cùng thiên địa cảm ứng, sinh ra một trận lôi bạo.	Lightning_DragonHole	
+30028	Nạn dân đi ngang qua	Một trốn tránh chiến loạn nạn dân đi ngang qua nơi đây, [IT] Hi vọng gia nhập các ngươi.	Human	
+30043	Lạc đường người đi đường	Một người qua đường tại phụ cận lạc đường, [IT] Hi vọng đạt được trợ giúp của chúng ta.	Lạc đường người đi đường	
+30044	Hiếu kì người đi đường	Một đầy hiếu kỳ người qua đường ngẫu nhiên đến nơi này, [IT] Đặc biệt muốn biết chúng ta đến cùng đang làm gì.	Hiếu kì người đi đường	
+30045	Thụ thương người đi đường	Một người qua đường thụ thương, [IT] Hi vọng lâm thời lưu lại nghỉ ngơi cũng đạt được trợ giúp của chúng ta.	Thụ thương người đi đường	RandomDamage
+30083	Linh khí bộc phát	Không biết nguyên nhân gì, linh khí trong thiên địa đột nhiên bạo phát. Bộ phận thực vật thụ này xâm nhiễm, hóa thành linh mộc.	LingUpWave_Shorter	
+30111	Bão cát	Trên mặt đất mẫu bia đá ảnh hưởng dưới, một trận bão cát cuốn tới.	DustStorm_Dimu	
+30112	Yêu thú xâm lấn	Địa Mẫu bia đá hấp thu thổ địa chất dinh dưỡng chọc giận một chút yêu thú, bọn chúng tràn ngập địch ý!		
+30113	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		
+30114	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		
+30115	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		
+30116	Yêu thú xâm lấn	Một chút yêu thú xuất hiện tại phụ cận, bọn chúng tràn ngập địch ý.		
+30117	Ứng sân thượng	Ứng sân thượng ngưng Tụ Linh Thạch hoàn thành!		
