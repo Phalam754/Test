@@ -1,0 +1,395 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SysNpcPuppet">
+      <DisplayName>Khôi lỗi</DisplayName>
+      <Desc>Đây là một Khôi Lỗi, nó sẽ bị hao mòn trong quá trình làm việc và không thể sửa chữa.</Desc>
+    </Text>
+    <Text Name="SysInfiPuppet">
+      <DisplayName>Lục Đạo Khôi Lỗi</DisplayName>
+      <Desc>Khôi lỗi này được chế tạo từ vật liệu đặc biệt, sẽ không bị hao mòn trong công việc hàng ngày. Nhưng vẫn sẽ bị hư hỏng khi bị tấn công.</Desc>
+    </Text>
+    <Text Name="SysNewYearLink">
+      <DisplayName>Chúc mừng năm mới</DisplayName>
+    </Text>
+    <Text Name="SysNewYear">
+      <DisplayName>Chúc mừng năm mới</DisplayName>
+      <Desc>Đây là một quái vật sẽ mang lại may mắn cả năm.</Desc>
+    </Text>
+    <Text Name="SysNewYear2">
+      <DisplayName>Chúc mừng năm mới</DisplayName>
+      <Desc>Đây là một quái vật sẽ mang lại may mắn cả năm.</Desc>
+    </Text>
+    <Text Name="SysExploreModifier">
+      <DisplayName>Đang thám hiểm..</DisplayName>
+	  <Desc>Bội số tốc độ di chuyển -0.1.</Desc>
+    </Text>
+    <Text Name="SysCallUp">
+      <DisplayName>Đánh thức</DisplayName>
+      <Desc>Bị đánh thức đột ngột, hoàn toàn không ngủ được.</Desc>
+    </Text>
+    <Text Name="SysDreamCantSleep">
+      <DisplayName>Không ngủ được</DisplayName>
+      <Desc>Giấc ngủ bị gián đoạn vì một lý do nào đó, tạm thời không ngủ được nữa.</Desc>
+    </Text>
+    <Text Name="SysDemonColdDown">
+      <DisplayName>Hồi chiêu Nhập Ma</DisplayName>
+    </Text>
+    <Text Name="SysGodPractice">
+      <DisplayName>Chống cự</DisplayName>
+      <Desc>Đả tọa chống cự và làm chậm sự giáng lâm của Thiên Kiếp.</Desc>
+    </Text>
+    <Text Name="SysTeacherModifier">
+      <DisplayName>Tu hành giả thần bí</DisplayName>
+      <Desc>Tạm thời dừng lại, lát nữa sẽ rời đi. Dưới tác dụng của nhiều yếu tố khác nhau, tuổi thọ của người này +400, Giá trị cơ bản của Tâm Cảnh +100, Bội số cơ bản uy lực Pháp Bảo -0.99, Bội số cơ bản tốc độ hồi phục Linh Khí Pháp Bảo -0.99, Bội số cơ bản Linh Khí tối đa Pháp Bảo -0.99, Bội số giới hạn đau đớn +100, Giá trị gia tăng tốc độ bay Pháp Bảo +2, Giá trị gia tăng tốc độ quay Pháp Bảo +2, Giá trị cơ bản của Tâm Trạng +200, Giá trị gia tăng tiêu hao Tinh Nguyên -10, Giá trị gia tăng tốc độ tu luyện -100.</Desc>
+    </Text>
+    <Text Name="SysVistorModifier">
+      <DisplayName>Khách viếng thăm</DisplayName>
+      <Desc>Tạm thời dừng lại, lát nữa sẽ rời đi.</Desc>
+    </Text>
+    <Text Name="SysGodMonsterModifier">
+      <DisplayName>Giáng lâm</DisplayName>
+      <Desc>Tạm thời dừng lại, lát nữa sẽ rời đi.</Desc>
+    </Text>
+    <Text Name="SysFlyingModifier">
+      <DisplayName>Trạng thái phi hành..</DisplayName>
+    </Text>
+    <Text Name="SysPracticeDie">
+      <DisplayName>Đạo Cơ đã hủy</DisplayName>
+      <Desc>Đạo cơ đã bị hủy, dù tu hành thế nào cũng không thể tiến bộ được nữa.</Desc>
+    </Text>
+    <Text Name="SysExploreEatModifier">
+      <DisplayName>Thưởng thức thức ăn</DisplayName>
+	  <Desc>Bội số tốc độ di chuyển -0.5.</Desc>
+    </Text>
+    <Text Name="SysFabao_Positive">
+      <DisplayName>Pháp Bảo Tương Sinh</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Same">
+      <DisplayName>Pháp Bảo Tương Đồng</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Negative">
+      <DisplayName>Pháp Bảo Tương Khắc</DisplayName>
+    </Text>
+    <Text Name="SysEndureHunger">
+      <DisplayName>Chịu đói</DisplayName>
+      <Desc>Đã ăn lương khô, càng chịu đói hơn (Bội số tiêu hao thức ăn -0.35).</Desc>
+    </Text>
+    <Text Name="Illusion1">
+      <DisplayName>Ảo giác công việc</DisplayName>
+      <Desc>Ăn phải nấm kỳ lạ, nảy sinh ảo giác. Cực kỳ yêu thích công việc (Giá trị gia tăng tiêu hao giải trí -10, Giá trị gia tăng tiêu hao tinh lực -10, Giới hạn đau đớn +999, Bội số tốc độ làm việc chung -5).</Desc>
+    </Text>
+    <Text Name="Illusion2">
+      <DisplayName>Ảo giác chạy cuồng</DisplayName>
+      <Desc>Ăn phải nấm kỳ lạ, nảy sinh ảo giác. Cực kỳ thích chạy, cần rất nhiều giải trí (Giá trị gia tăng tiêu hao tinh lực -10, Giới hạn đau đớn +999, Bội số tốc độ làm việc chung -5, Bội số tốc độ di chuyển +4).</Desc>
+    </Text>
+    <Text Name="Illusion3">
+      <DisplayName>Ảo giác ngủ mơ</DisplayName>
+      <Desc>Ăn phải nấm kỳ lạ, nảy sinh ảo giác. Cực kỳ thích ngủ (Giá trị gia tăng tiêu hao giải trí +20, Giá trị gia tăng tiêu hao tinh lực +20, Tỷ lệ xảy ra giấc mơ đẹp +1, Tỷ lệ xảy ra ác mộng +1, Giới hạn đau đớn +999, Bội số tốc độ làm việc chung -5, Bội số tốc độ di chuyển -0.5).</Desc>
+    </Text>
+    <Text Name="Illusion4">
+      <DisplayName>Ảo giác</DisplayName>
+      <Desc>Ăn phải nấm kỳ lạ, nảy sinh ảo giác. Những gì nhìn thấy trước mắt dường như giống mà không giống, như thể đã lạc vào huyễn cảnh.
+Có thể nhân lúc thuốc chưa hết tác dụng, quan sát kỹ Linh Căn ngũ hành mỗi loại một lần tại nơi sinh trưởng của Lăng Gia Quả, Mộc Khô Đằng, Ngũ Sắc Kim Liên, Chu Quả, Chá Hoàng Tinh, sau đó tiếp xúc với bia đá ở Rừng Mộc Bạch, nhận được trận đồ "Pháp Thiên Hiệu Địa Quy Nguyên Trận Pháp Bí Lục"</Desc>
+    </Text>
+    <Text Name="NegativeTime">
+      <DisplayName>Lười biếng</DisplayName>
+      <Desc>Cuộc sống này thật là tồi tệ, không có tâm trí làm việc. [color=#D06508] (Biến mất khi cảm xúc trên 45) [/color]</Desc>
+    </Text>
+    <Text Name="NegativeTime_Hearten">
+      <DisplayName>Khích lệ tinh thần</DisplayName>
+      <Desc>Cuộc sống vẫn tiếp diễn, hãy vực dậy tinh thần thôi.</Desc>
+    </Text>
+    <Text Name="Dissatisfaction">
+      <DisplayName>Bất mãn</DisplayName>
+      <Desc>Thực sự là chịu đủ cuộc sống này rồi…</Desc>
+    </Text>
+    <Text Name="SysDoBasePractice">
+      <DisplayName>Đang luyện võ</DisplayName>
+	  <Desc>Bội số tiêu hao thức ăn +0.5, Bội số tiêu hao nước uống +1.</Desc>
+    </Text>
+    <Text Name="SysTooTired">
+      <DisplayName>Lao lực quá độ</DisplayName>
+    </Text>
+    <Text Name="Sys_JieNanShenyu">
+      <DisplayName>Thân Dục Kiếp</DisplayName>
+      <Desc>Tiêu hao cơ bản tăng gấp năm lần (Bội số tiêu hao thức ăn +5).</Desc>
+    </Text>
+    <Text Name="Sys_JieNanZhenkong">
+      <DisplayName>Chân Không Kiếp</DisplayName>
+      <Desc>Mất tất cả thần thông.</Desc>
+    </Text>
+    <Text Name="Sys_JieNanHuangu">
+      <DisplayName>Hoán Cốt Kiếp</DisplayName>
+      <Desc>Cứ sau một khoảng thời gian, xương cốt sẽ bị tổn thương</Desc>
+    </Text>
+    <Text Name="Sys_WorkBroken">
+      <DisplayName>Ngộ</DisplayName>
+      <Desc>Mất tất cả thần thông, tiến hành Tham Ngộ tại ngoại môn, cố gắng đột phá bình cảnh công pháp.</Desc>
+    </Text>
+    <Text Name="Sys_MasterHelp">
+      <DisplayName>Hộ pháp</DisplayName>
+      <Desc>Sư phụ cung cấp Hộ Pháp cho bạn, tâm cảnh của bạn được nâng cao và duy trì ổn định (Giá trị cơ bản của Tâm Cảnh +5, Bội số mức độ dao động Tâm Tình -1).</Desc>
+    </Text>
+    <Text Name="Sys_DrugTime">
+      <DisplayName>BUFF Thuốc</DisplayName>
+    </Text>
+    <Text Name="Sys_FabaoPowerAdd">
+      <DisplayName>Tăng uy lực Pháp Bảo</DisplayName>
+	  <Desc>Bội số cơ bản uy lực Pháp Bảo +0.5, Bội số cơ bản tốc độ bay Pháp Bảo +0.5, Bội số cơ bản tốc độ quay Pháp Bảo +0.5.</Desc>
+    </Text>
+    <Text Name="Sys_SkillPowerAdd">
+      <DisplayName>Tăng uy lực Thuật Pháp</DisplayName>
+	  <Desc>Bội số cơ bản uy lực Thuật Pháp +0.5.</Desc>
+    </Text>
+    <Text Name="Sys_SheildPowerAdd">
+      <DisplayName>Tăng cường độ hộ thể</DisplayName>
+	  <Desc>Giá trị gia tăng cường độ Lá Chắn +0.5.</Desc>
+    </Text>
+    <Text Name="SeeGod">
+      <DisplayName>Thiên Đạo Tẩy Luyện</DisplayName>
+      <Desc>Tận mắt chứng kiến việc phi thăng, thân tâm được Thiên Đạo tẩy luyện. Trong khoảng thời gian này, việc tu hành sẽ đạt hiệu quả gấp đôi (Bội số tốc độ tu luyện +1, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh +0.3).</Desc>
+    </Text>
+    <Text Name="BasePracticeAchievements1">
+      <DisplayName>Trúc Cơ Tiểu Thành</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements2">
+      <DisplayName>Trúc Cơ Hữu Thành</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements3">
+      <DisplayName>Trúc Cơ Thành Công</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements4">
+      <DisplayName>Trúc Cơ Thành Công (Tín Ngưỡng)</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements5">
+      <DisplayName>Trúc Cơ Thành Công (Thể Tu)</DisplayName>
+    </Text>
+    <Text Name="Sys_Demon">
+      <DisplayName>Ma([TXT])</DisplayName>
+      <Desc>Do nguyên nhân nào đó mà nhập ma</Desc>
+    </Text>
+    <Text Name="FengShui1">
+      <DisplayName>Phúc Địa</DisplayName>
+    </Text>
+    <Text Name="FengShui2">
+      <DisplayName>Đại Cát</DisplayName>
+    </Text>
+    <Text Name="FengShui3">
+      <DisplayName>Tiểu Cát</DisplayName>
+    </Text>
+    <Text Name="FengShui4">
+      <DisplayName>Tiểu Hung</DisplayName>
+    </Text>
+    <Text Name="FengShui5">
+      <DisplayName>Đại Hung</DisplayName>
+    </Text>
+    <Text Name="FengShui6">
+      <DisplayName>Tuyệt Địa</DisplayName>
+    </Text>
+    <Text Name="Sys_AbsorbGong_5">
+      <DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+      <Desc>Đối tượng này bị thi triển Tha Hóa Tự Tại Đại Pháp, dễ bị ảnh hưởng bởi cảm xúc hơn (Xử Thế -2, Bội số hệ số khuếch đại cảm xúc +0.5). Khi ở trong trạng thái cảm xúc cực đoan (trên 160 hoặc dưới 40), sẽ liên tục cung cấp tu vi và tham ngộ cho người thi pháp.</Desc>
+    </Text>
+    <Text Name="Sys_AbsorbGong_6">
+      <DisplayName>Ký Sinh</DisplayName>
+      <Desc>Đối tượng này bị thi triển Ký Sinh Hồn Thể, 0 giờ mỗi ngày tất cả giá trị Trúc Cơ sẽ được chuyển hóa thành tu vi của đối phương. Đồng thời nhân vật trở nên suy yếu, Ngũ Duy giảm, hiệu suất làm việc chung giảm (Ngũ Duy mỗi loại giảm 2 phần (20%), Bội số tốc độ làm việc chung -0.5).</Desc>
+    </Text>
+    <Text Name="Sys_ShenXiu_Magic_JingXin">
+      <DisplayName>Tĩnh Tâm</DisplayName>
+      <Desc>Tâm trạng của người này bình tĩnh hơn rất nhiều (Bội số hệ số khuếch đại cảm xúc -0.25).</Desc>
+    </Text>
+    <Text Name="Sys_DaoLv">
+      <DisplayName>Đạo Lữ Đồng Tham</DisplayName>
+      <Desc>Tôi và Đạo Lữ ở bên nhau, cảm thấy tâm đầu ý hợp, ngay cả tu luyện cũng trở nên vô cùng hiệu quả (Bội số tốc độ tu luyện +0.5, Bội số tốc độ học tập +0.5).</Desc>
+    </Text>
+    <Text Name="Sys_Zombie">
+      <DisplayName>Cương Thi</DisplayName>
+    </Text>
+    <Text Name="Sys_Jianglingfenshen">
+      <DisplayName>Phân thân Giáng lâm</DisplayName>
+      <Desc>Một phân thân của Tổ Sư, phân thân này chỉ có thể chiến đấu, lát nữa sẽ rời đi (Bội số giới hạn đau đớn +100).</Desc>
+    </Text>
+    <Text Name="Sys_Jianglingjiangdao">
+      <DisplayName>Phân thân Giáng lâm</DisplayName>
+      <Desc>Một phân thân của Tổ Sư, phân thân này đang giảng đạo, lát nữa sẽ rời đi (Bội số giới hạn đau đớn +100).</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff">
+      <DisplayName>Tạp Niệm (Chưởng Môn)</DisplayName>
+      <Desc>Gánh nặng do Chưởng Môn quản lý môn phái sinh ra, làm giảm các thuộc tính liên quan đến tu luyện như tâm cảnh, tốc độ tu luyện, tốc độ thu thập tham ngộ, tỷ lệ đột phá bình cảnh. Mỗi tầng khiến Hệ số khuếch đại thanh danh lịch luyện +0.1, Giá trị cơ bản của Tâm Cảnh -2, Bội số tốc độ tu luyện -0.1, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh -0.02, Bội số tốc độ học tập -0.02. Tối đa 99 tầng. Phân đường môn phái mở càng nhiều, gánh nặng càng lớn. Sẽ được giảm bớt tùy theo năng lực quản lý của Chưởng Môn.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff">
+      <DisplayName>Tạp Niệm (Đường Chủ)</DisplayName>
+      <Desc>Gánh nặng do Đường Chủ quản lý đệ tử phân đường sinh ra, làm giảm các thuộc tính liên quan đến tu luyện như tâm cảnh, tốc độ tu luyện, tốc độ thu thập tham ngộ, tỷ lệ đột phá bình cảnh. Mỗi tầng khiến Hệ số khuếch đại thanh danh lịch luyện +0.05, Giá trị cơ bản của Tâm Cảnh -1, Bội số tốc độ tu luyện -0.05, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh -0.01, Bội số tốc độ học tập -0.01. Tối đa 99 tầng. Đệ tử dưới quyền phân đường càng nhiều, gánh nặng càng lớn. Sẽ được giảm bớt tùy theo năng lực quản lý của Chưởng Môn.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff_Old">
+      <DisplayName>Mệt mỏi</DisplayName>
+      <Desc>Mặc dù đã từ nhiệm Chưởng Môn, nhưng áp lực nặng nề trong thời gian quản lý môn phái khiến bạn khó lòng thoát ra trong thời gian ngắn. Làm giảm các thuộc tính liên quan đến tu luyện như tâm cảnh, tốc độ tu luyện, tốc độ thu thập tham ngộ, tỷ lệ đột phá bình cảnh. Mỗi tầng khiến Giá trị cơ bản của Tâm Cảnh -2, Bội số tốc độ tu luyện -0.1, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh -0.02, Bội số tốc độ học tập -0.02. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff_Old">
+      <DisplayName>Mệt mỏi</DisplayName>
+      <Desc>Mặc dù đã từ nhiệm Đường Chủ, nhưng áp lực nặng nề trong thời gian quản lý phân đường khiến bạn khó lòng thoát ra trong thời gian ngắn. Làm giảm các thuộc tính liên quan đến tu luyện như tâm cảnh, tốc độ tu luyện, tốc độ thu thập tham ngộ, tỷ lệ đột phá bình cảnh. Mỗi tầng khiến Giá trị cơ bản của Tâm Cảnh -1, Bội số tốc độ tu luyện -0.05, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh -0.01, Bội số tốc độ học tập -0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAreaBuff">
+      <DisplayName>Không có gia tăng khu vực</DisplayName>
+      <Desc>Do Đường Chủ năng lực không đủ, đệ tử đường khẩu này không thể nhận được gia tăng khu vực.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAllBuff">
+      <DisplayName>Không có gia tăng thường trú</DisplayName>
+      <Desc>Do Đường Chủ năng lực không đủ, đệ tử đường khẩu này không thể nhận được gia tăng thường trú.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Dan">
+      <DisplayName>Chuyên Tinh Luyện Đan (Nội Môn)</DisplayName>
+      <Desc>Đệ tử nội môn trong phạm vi đường này có thể tăng tốc độ luyện đan, tỷ lệ thành công, sản lượng. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Giá trị gia tăng tốc độ luyện đan +0.01, Giá trị gia tăng tỷ lệ luyện đan thành công +0.01, Bội số sản lượng luyện đan +0.02. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Dan">
+      <DisplayName>Chuyên Tinh Luyện Đan (Ngoại Môn)</DisplayName>
+      <Desc>Đệ tử ngoại môn trong phạm vi đường này có thể nhận được sự tăng cường khả năng chế thuốc, trị liệu. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số tốc độ chế thuốc +0.01, Bội số tốc độ trị liệu +0.01, Bội số hiệu quả dự kiến trị liệu +0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Dan">
+      <DisplayName>Chuyên Tinh Luyện Đan (Thường Trú)</DisplayName>
+      <Desc>Tăng cấp độ kỹ năng Kỳ Hoàng/Luyện Đan và thuộc tính Thần Thức. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Thần Thức tăng 1 phần (10%), Kỳ Hoàng +2. Tối đa 99 tầng. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Qi">
+      <DisplayName>Chuyên Tinh Luyện Khí (Nội Môn)</DisplayName>
+      <Desc>Đệ tử nội môn trong phạm vi đường này có thể tăng tốc độ luyện khí, tỷ lệ thành công, phẩm cấp, phẩm chất. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Giá trị gia tăng tốc độ luyện khí Pháp Bảo +0.01, Giá trị gia tăng tỷ lệ luyện khí Pháp Bảo thành công +0.01, Giá trị gia tăng phẩm cấp luyện khí Pháp Bảo +0.05, Giá trị gia tăng phẩm chất luyện khí Pháp Bảo +0.005. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Qi">
+      <DisplayName>Chuyên Tinh Luyện Khí (Ngoại Môn)</DisplayName>
+      <Desc>Đệ tử ngoại môn trong phạm vi đường này có thể nhận được sự tăng cường khả năng chế tạo. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số tốc độ rèn +0.02, Bội số tốc độ thủ công +0.02, Bội số tốc độ may vá +0.02, Bội số phẩm chất dự kiến sản phẩm +0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Qi">
+      <DisplayName>Chuyên Tinh Luyện Khí (Thường Trú)</DisplayName>
+      <Desc>Tăng cấp độ kỹ năng Xảo Tượng/Luyện Khí và thuộc tính Căn Cốt. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Căn Cốt tăng 1 phần (10%), Xảo Tượng/Luyện Khí +2. Tối đa 99 tầng. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Zhan">
+      <DisplayName>Chuyên Tinh Chiến Đấu (Nội Môn)</DisplayName>
+      <Desc>Đệ tử nội môn trong phạm vi đường này có thể nhận được sự tăng cường khả năng hồi phục, giới hạn đau đớn. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số lực hồi phục tự nhiên +0.01, Bội số giới hạn đau đớn +0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Zhan">
+      <DisplayName>Chuyên Tinh Chiến Đấu (Ngoại Môn)</DisplayName>
+      <Desc>Đệ tử ngoại môn trong phạm vi đường này có thể nhận được sự tăng cường khả năng hồi phục, giới hạn đau đớn. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số lực hồi phục tự nhiên +0.01, Bội số giới hạn đau đớn +0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Zhan">
+      <DisplayName>Chuyên Tinh Chiến Đấu (Thường Trú)</DisplayName>
+      <Desc>Tăng cường khả năng liên quan đến chiến đấu, cấp độ kỹ năng chiến đấu và thuộc tính Thần Thức, Căn Cốt. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Thần Thức tăng 1 phần (10%), Căn Cốt tăng 1 phần (10%), Chiến Đấu +1, Ngự Khí +1, Thuật Pháp +1, Hộ Thể +1, Bội số cơ bản uy lực Pháp Bảo +0.1, Bội số cơ bản uy lực Thuật Pháp +0.1, Giá trị gia tăng cường độ Lá Chắn +0.1, Bội số độ chính xác chiến đấu +0.1, Bội số né tránh chiến đấu +0.1. Tối đa 99 tầng. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_XiuLian">
+      <DisplayName>Chuyên Tinh Tu Hành (Nội Môn)</DisplayName>
+      <Desc>Đệ tử nội môn trong phạm vi đường này có thể tăng tâm cảnh, tốc độ tu luyện, thu thập tham ngộ, tỷ lệ đột phá bình cảnh. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Giá trị cơ bản của Tâm Cảnh +1, Bội số tốc độ tu luyện +0.05, Bội số tốc độ học tập +0.02, Bội số hệ số gia tăng tỷ lệ đột phá bình cảnh +0.01, Bội số tỷ lệ ngộ tính lĩnh ngộ +0.01. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_XiuLian">
+      <DisplayName>Chuyên Tinh Tu Hành (Ngoại Môn)</DisplayName>
+      <Desc>Đệ tử ngoại môn trong phạm vi đường này có thể tăng tốc độ Trúc Cơ. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số tốc độ Trúc Cơ +0.02. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_XiuLian">
+      <DisplayName>Chuyên Tinh Tu Hành (Thường Trú)</DisplayName>
+      <Desc>Tăng cấp độ kỹ năng Khí Cảm và thuộc tính Ngộ Tính. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Ngộ Tính tăng 1 phần (10%), Khí Cảm +2. Tối đa 99 tầng. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_WaiShi">
+      <DisplayName>Chuyên Tinh Ngoại Sự (Nội Môn)</DisplayName>
+      <Desc>Đệ tử nội môn trong phạm vi đường này có thể nhận được sự gia tăng hiệu suất chung. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số tốc độ làm việc chung +0.015. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_WaiShi">
+      <DisplayName>Chuyên Tinh Ngoại Sự (Ngoại Môn)</DisplayName>
+      <Desc>Đệ tử ngoại môn trong phạm vi đường này có thể nhận được sự gia tăng hiệu suất chung. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Bội số tốc độ làm việc chung +0.015. Tối đa 99 tầng.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_WaiShi">
+      <DisplayName>Chuyên Tinh Ngoại Sự (Thường Trú)</DisplayName>
+      <Desc>Tăng tốc độ lịch luyện, gia tăng thu thập thanh danh, tốc độ đột phá bình cảnh lịch luyện và các thuộc tính khác, cấp độ kỹ năng Xử Thế và thuộc tính Mị Lực, Cơ Duyên. Năng lực Đường Chủ càng mạnh, gia tăng càng cao. Mỗi tầng khiến Mị Lực tăng 1 phần (10%), Cơ Duyên tăng 1 phần (10%), Xử Thế +2, Hệ số khuếch đại thanh danh lịch luyện +0.02, Giá trị gia tăng tốc độ bay lịch luyện +0.1, Bội số hệ số thời gian bình cảnh kiểu lịch luyện -0.015. Tối đa 99 tầng. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Magic_Prophesy">
+      <DisplayName>Chu Thiên Thần Toán</DisplayName>
+      <Desc>Trước khi có sự kiện xảy ra, sẽ có lời nhắc nhở trước.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CanNotExperience">
+      <DisplayName>Tĩnh Tu</DisplayName>
+      <Desc>Đệ tử này vừa từ lịch luyện lâu ngày trở về sơn môn, cần một khoảng thời gian tĩnh tu củng cố tu vi, không thể ra ngoài lịch luyện.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CanNotExperienceHide">
+      <DisplayName>Không thể lịch luyện</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_TameCD">
+      <DisplayName>Khoảng cách cho ăn</DisplayName>
+      <Desc>Động vật này vừa được cho ăn.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_GodMode">
+      <DisplayName>Vô Địch</DisplayName>
+      <Desc>Trạng thái vô địch</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CantSelect">
+      <DisplayName>Không thể chọn</DisplayName>
+    </Text>
+    <Text Name="Mini_Follow">
+      <DisplayName>Linh Thú đi theo</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_Fenshenshang">
+      <DisplayName>Thương Thần</DisplayName>
+      <Desc>Đã thi triển phân thần chi thuật, sẽ rơi vào trạng thái suy yếu trong một khoảng thời gian.</Desc>
+    </Text>
+    <Text Name="SysConcealmentModifier">
+      <DisplayName>Ẩn nấp</DisplayName>
+      <Desc>Ẩn nấp khí tức, giảm tỷ lệ bị phát hiện, nhưng hành động chậm lại (Bội số tốc độ di chuyển -0.1).\nCần năm giây để rời khỏi trạng thái ẩn nấp.</Desc>
+    </Text>
+    <Text Name="SysConcealmentRobModifier">
+      <DisplayName>Trộm cắp</DisplayName>
+      <Desc>Tỷ lệ bị phát hiện tăng lên (Giá trị Ẩn Nấp -2).</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_WinterWarm">
+      <DisplayName>Đông Trùng</DisplayName>
+      <Desc>Đã ăn Đông Trùng, khả năng chịu lạnh tăng lên (Nhiệt độ giới hạn thấp nhất -20).</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_SummerHerb">
+      <DisplayName>Hạ Thảo</DisplayName>
+      <Desc>Đã ăn Hạ Thảo, khả năng chịu nhiệt tăng lên (Nhiệt độ giới hạn cao nhất +20).</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_SuppressGodCall">
+      <DisplayName>Áp Chế</DisplayName>
+      <Desc>Cưỡng chế áp chế Thiên Kiếp</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CangJingGe">
+      <DisplayName>Nền Tảng Tu Hành</DisplayName>
+      <Desc>Nhờ vào lượng sách tàng trữ trong phái, đệ tử trong phái tu luyện, tốc độ tham ngộ nhanh hơn (Bội số tốc độ tu luyện +0.01, Bội số tốc độ học tập +0.01).</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_ShaLu">
+      <DisplayName>Sát Lục Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_ZiQi">
+      <DisplayName>Tự Kỷ Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_TanLan">
+      <DisplayName>Tham Lam Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_XiangLe">
+      <DisplayName>Hưởng Lạc Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_AoMan">
+      <DisplayName>Ngạo Mạn Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_WeiShan">
+      <DisplayName>Ngụy Thiện Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_JiaoLv">
+      <DisplayName>Lo Âu Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="Modifier_Sys_EnianHeart_YiYu">
+      <DisplayName>Trầm Uất Chi Tâm</DisplayName>
+    </Text>
+    <Text Name="SysNewYearZhulong">
+      <DisplayName>Tết Nguyên Đán</DisplayName>
+      <Desc>Chúc Long đang xem xét các ngươi, lát nữa sẽ rời đi</Desc>
+    </Text>
+    <Text Name="SysJumpingModifier">
+      <DisplayName>Trạng thái bay vọt..</DisplayName>
+    </Text>
+    <Text Name="Modifier_Dan_ColdDown">
+      <DisplayName>Hấp thu dược vật</DisplayName>
+      <Desc>Cần một khoảng thời gian nhất định để hấp thu hoàn toàn dinh dưỡng của các loại dược vật, trong thời gian này không thể tiếp tục nhận dinh dưỡng bằng cách ăn dược vật.</Desc>
+    </Text>
+    <Text Name="SysSprintModifier">
+      <DisplayName>Chạy nước rút</DisplayName>
+    </Text>
+    <Text Name="System_CGModifier">
+      <DisplayName>Biến thân đặc biệt</DisplayName>
+    </Text>
+  </List>
+</Texts>
