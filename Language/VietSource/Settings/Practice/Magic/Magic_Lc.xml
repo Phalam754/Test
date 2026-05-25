@@ -1,0 +1,70 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="MakeLingSoil">
+      <DisplayName>Tạo Hóa Linh Thổ</DisplayName>
+      <Desc>Đánh đổi bằng sự trưởng thành và dinh dưỡng của bản thân, biến một khu vực thành linh thổ.</Desc>
+      <TargetDesc>Vui lòng chọn một khoảng đất trống</TargetDesc>
+    </Text>
+    <Text Name="MakeFatSoil">
+      <DisplayName>Tạo Hóa Ốc Thổ</DisplayName>
+      <Desc>Đánh đổi bằng sự trưởng thành và dinh dưỡng của bản thân, biến một khu vực thành ốc thổ.</Desc>
+      <TargetDesc>Vui lòng chọn một khoảng đất trống</TargetDesc>
+    </Text>
+    <Text Name="LcBrokeHeartLock">
+      <DisplayName>Nũng Nịu</DisplayName>
+      <Desc>Tiêu hao Linh Trí cảm nhận nội tâm của một khách thăm hoặc người ngoài, nũng nịu với họ, làm lay động đối phương, phá vỡ tâm phòng của họ.</Desc>
+      <TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+    </Text>
+    <Text Name="LcClearHanyu">
+      <DisplayName>Hàn Ngục Hấp Trừ</DisplayName>
+      <Desc>Là đồng loại của Giao Long, hấp thụ Hàn Ngục do Giao Long để lại, có thể từ đó có được một lượng lớn dinh dưỡng.</Desc>
+      <TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+    </Text>
+    <Text Name="LcStopColdWave">
+      <DisplayName>Khí Tức Nóng Bỏng</DisplayName>
+      <Desc>Sử dụng lực Phượng Hoàng trong cơ thể, giải phóng khí tức nóng bỏng, từ đó xóa tan Cực Đông.</Desc>
+      <TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+    </Text>
+    <Text Name="LcStopHeatWave">
+      <DisplayName>Khí Tức Lạnh Giá</DisplayName>
+      <Desc>Sử dụng lực Giao Long trong cơ thể, giải phóng khí tức lạnh giá, từ đó xóa tan Khốc Thử.</Desc>
+      <TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+    </Text>
+    <Text Name="LcBaipiao">
+      <DisplayName>Nũng Nịu</DisplayName>
+      <Desc>Tiêu hao một phần Linh Trí, suy đoán nội tâm của thương nhân, nũng nịu với họ, để lấy được thiện cảm của đối phương. Có lẽ thương nhân cũng không lạnh lùng như trong tưởng tượng?</Desc>
+      <TargetDesc>Vui lòng chọn một thương nhân</TargetDesc>
+    </Text>
+    <Text Name="LcSeeUnknown">
+      <DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+      <Desc>Ban cho một đệ tử nội môn năng lực Hỏa Nhãn Kim Tinh, làm cho họ có thể nhìn thấu bộ mặt thật của một số vật phẩm trong buổi đấu giá.</Desc>
+      <TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+    </Text>
+    <Text Name="LcOutspreadAttractive">
+      <DisplayName>Tường Vân Thụy Thú</DisplayName>
+      <Desc>Phái nó đến một điểm đại lý, đánh đổi bằng sự trưởng thành và thuộc tính của bản thân để cho bách tính thấy điềm lành, từ đó tăng sức hấp dẫn của phe ta.</Desc>
+      <sParam2>Điềm Lành</sParam2>
+    </Text>
+    <Text Name="LcOutspreadStability">
+      <DisplayName>Uy Chấn Tứ Phương</DisplayName>
+      <Desc>Phái nó đến một điểm đại lý, đánh đổi bằng sự trưởng thành và thuộc tính của bản thân để cho bách tính thấy thần uy, từ đó tăng độ ổn định của địa phương đó.</Desc>
+      <sParam2>Thần Uy</sParam2>
+    </Text>
+    <Text Name="Magic_YG_RealPower">
+      <DisplayName>Nguyên Thân Chân Lực (Lực)</DisplayName>
+      <Desc>Đốt cháy nhanh chóng bản nguyên sinh mệnh, thúc đẩy lực lượng nguyên thân yêu tộc, làm tăng mạnh uy lực ngự khí, uy lực bí thể (tốc độ mất tuổi thọ +1000, uy lực pháp bảo cơ bản +0.5, uy lực bí thể toàn cục +0.5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_YG_RealRecover">
+      <DisplayName>Nguyên Thân Chân Lực (Uẩn)</DisplayName>
+      <Desc>Đốt cháy nhanh chóng bản nguyên sinh mệnh, thúc đẩy lực lượng nguyên thân yêu tộc, làm tăng mạnh lực hồi phục cơ thể, tốc độ hồi phục linh khí pháp bảo, tốc độ hồi phục chân khí bí thể (tốc độ mất tuổi thọ +1000, lực hồi phục tự nhiên +4, hồi phục tự nhiên thương tổn nội môn +1, hiệu ứng tốc độ hồi phục chân khí bí thể +0.5, tốc độ hồi phục linh khí pháp bảo cơ bản +0.5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_YG_RealWisdom">
+      <DisplayName>Nguyên Thân Chân Lực (Trí)</DisplayName>
+      <Desc>Đốt cháy nhanh chóng bản nguyên sinh mệnh, thúc đẩy lực lượng nguyên thân yêu tộc, làm tăng mạnh uy lực pháp thuật, tỷ lệ tấn công trúng đích bí thể, tỷ lệ phòng ngự thành công, tỷ lệ xuyên thấu khiên linh khí, tỷ lệ trấn áp pháp bảo (tốc độ mất tuổi thọ +1000, tỷ lệ tấn công trúng đích bí thể toàn cục +0.2, tỷ lệ phòng ngự thành công bí thể toàn cục +0.2, xuyên thấu khiên linh khí bí thể toàn cục +0.2, tỷ lệ trấn áp pháp bảo bí thể toàn cục +0.2, uy lực thuật pháp cơ bản +0.5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+    <Text Name="Magic_YG_RealShield">
+      <DisplayName>Nguyên Thân Chân Lực (Hộ)</DisplayName>
+      <Desc>Đốt cháy nhanh chóng bản nguyên sinh mệnh, thúc đẩy lực lượng nguyên thân yêu tộc, làm tăng mạnh khiên linh khí và bí thể kiên cường (tốc độ mất tuổi thọ +1000, giá trị cường độ khiên cơ bản +0.5, bí thể kiên cường toàn cục +0.5). Giải phóng lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+    </Text>
+  </List>
+</Texts>
