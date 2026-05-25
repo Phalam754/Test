@@ -1,0 +1,22 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="YinChaos">
+      <DisplayName>Vĩnh Dạ (Âm Dương Kỳ Thạch)</DisplayName>
+	  <StoryDesc>Vĩnh dạ do Âm Dương Kỳ Thạch gây ra.</StoryDesc>
+    </Text>
+    <Text Name="Hotpot_Heat">
+      <DisplayName>Nhiệt Lãng (Địa Phế Chi Khẩu)</DisplayName>
+      <StoryDesc>Địa Phế Chi Khẩu gần đây không ổn định, liên tục phun ra nhiệt lãng. Nhiệt độ +12℃, xu thế hỏa -0.8, gia tăng đột phá bình cảnh thuộc tính mộc, thổ +0.04.</StoryDesc>
+    </Text>
+    <Text Name="ColdHole_Cold">
+      <DisplayName>Hàn Khí (Huyền Băng Đan Lô)</DisplayName>
+      <StoryDesc>Huyền Băng Đan Lô không ổn định, hàn khí liên tục phun ra từ trong đó. Nhiệt độ -10℃, xu thế hỏa -1, gia tăng đột phá bình cảnh thuộc tính kim, thủy +0.04.</StoryDesc>
+    </Text>
+    <Text Name="Lightning_DragonHole">
+      <DisplayName>Lôi Bạo (Thần Bí Động Quật)</DisplayName>
+    </Text>
+    <Text Name="DustStorm_Dimu">
+      <DisplayName>Trần Bạo (Địa Mẫu Thạch Bia)</DisplayName>
+    </Text>
+  </List>
+</Texts>
