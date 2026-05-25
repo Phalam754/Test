@@ -1,0 +1,22 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="FaBaoBase" sParam="Item">
+      <ThingName>Pháp Bảo</ThingName>
+    </Text>
+    <Text Name="FaBaoTest" sParam="Item">
+      <ThingName>Trắc Thí Pháp Bảo</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Chấn thương</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="FightFaBao" sParam="Item">
+      <Desc>Một cái pháp bảo.</Desc>
+      <ThingName>Chiến Đấu Pháp Bảo</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Chấn thương</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="TreasureFabao" sParam="Item">
+      <ThingName>Bảo Vật Pháp Bảo Mô Bản</ThingName>
+    </Text>
+    <Text Name="JieCloud" sParam="Item">
+      <ThingName>Kiếp Vân</ThingName>
+    </Text>
+  </List>
+</Texts>
