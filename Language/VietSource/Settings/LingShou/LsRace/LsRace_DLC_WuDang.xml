@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsXuanWu">
+      <PossibleMagic.0.DisplayName>Hóa Khí</PossibleMagic.0.DisplayName>
+      <PossibleMagic.0.Desc>Huyền Vũ có thể gấp đôi hấp thu trong đồ ăn dinh dưỡng, cũng đem trong đó tạp chất hóa thành linh thạch.</PossibleMagic.0.Desc>
+      <PossibleMagic.1.DisplayName>Tĩnh Tâm Nạp Khí</PossibleMagic.1.DisplayName>
+      <PossibleMagic.1.Desc>Đối một cái phe bạn nhân vật phóng thích, khiến cho trong vòng ba ngày không cần ăn uống nước, cũng sẽ không mệt nhọc, nhưng di động biến chậm chạp.\n[color=#FF0000] Cần trưởng thành độ đạt tới thành niên kỳ.[/color]</PossibleMagic.1.Desc>
+      <PossibleMagic.2.DisplayName>Già Thiên Đạo Ý</PossibleMagic.2.DisplayName>
+      <PossibleMagic.2.Desc>Trì hoãn một cái phe bạn nhân vật Hóa Hình Thiên Kiếp, nhưng cần tiêu hao thọ nguyên.\n[color=#FF0000] Cần linh trí đạt tới 50.[/color]</PossibleMagic.2.Desc>
+      <PossibleMagic.3.DisplayName>Tiên Thiên Linh Thổ</PossibleMagic.3.DisplayName>
+      <PossibleMagic.3.Desc>Lấy tự thân trưởng thành cùng dinh dưỡng làm đại giới, đem một phiến khu vực hóa thành linh thổ, nhưng chung quanh cũng sẽ hóa thành phổ thông thuỷ vực.\n[color=#FF0000] Cần linh khí đạt tới 100.[/color]</PossibleMagic.3.Desc>
+      <PossibleSkill.0.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới linh tính ẩn ẩn.[/color]</PossibleSkill.0.Desc>
+      <PossibleSkill.1.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới sát tính ẩn ẩn.[/color]</PossibleSkill.1.Desc>
+      <PossibleSkill.2.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới linh tính dồi dào.[/color]</PossibleSkill.2.Desc>
+      <PossibleSkill.3.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới sát tính cô đọng.[/color]</PossibleSkill.3.Desc>
+      <PossibleSkill.4.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới linh tính bành trướng.[/color]</PossibleSkill.4.Desc>
+      <PossibleSkill.5.Desc>[color=#FF0000] Cần linh sát khuynh hướng đạt tới sát tính lăng liệt.[/color]</PossibleSkill.5.Desc>
+    </Text>
+  </List>
+</Texts>
