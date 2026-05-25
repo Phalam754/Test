@@ -1,0 +1,146 @@
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>秘体完整度由秘体中所有部位的健康度组成完整度低于50%秘体将会失效。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>消耗三个相同关键词的思绪片段思考可以得到一个完整的思绪。不使用思绪片段不会产生任何思绪。思考后会遗忘所有未被记忆的思绪片段。记忆和思绪都会在多次思考后被遗忘。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>藏经阁容量藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>勾选将导出置物台上的物品&lt;font color=#D06508&gt;[可导出的物品类型]&lt;/font&gt;骨头丹药药物石头石料金属金属块木头木料肉类<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>我方信仰人口通过政策中的各种事件获得。吸引力越高，获得数量越多。如果没有政策，则每日损失5%信众。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>关注关注此处可提高政策事件频率，但也消耗也会加倍。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>收编收编清除此地所有其他宗教。当我方信徒人数超过总人口数的70%即可开始收编。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>信仰值在此地可以每日收集信仰。信仰人口越多，速度越快。如果稳定度陷入人心叵测，则会收集怨念。可以派遣内门弟子前来收集信仰。如果不是神道修行者，信仰会转化为等量参悟。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>总属性为此地住持属性加上所有弟子属性的10%<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>我方信仰人口通过政策中的各种事件获得。吸引力越高，获得数量越多。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>关注关注此处可提高政策事件频率，但也消耗也会加倍。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>有内门弟子身处此地时即可进入。在世真仙可以直接降临。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>[color=#ff0000]内容支持大部分UBB和HTML标签[/color]常用特殊标签：[NAME] 玩家角色全名[ITS] 玩家角色物主代词"他的 她的"[IT]  玩家角色代词"他  她"[HENAME] 对象单位的全名[HIS] 对象单位物主代词"它 他的 她的"[HE] 对象角色代词"它 他 她 "[LUA=XXXX]执行lua脚本的结果[MY_PROPERTY=属性名|格式化文本] 玩家角色属性值<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>LUA特殊变量：me:玩家角色(luahelper)meobj:玩家角色(thing)target:目标角色(thing)<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>eg：1 + 1 &gt; 1 and me:GetFlag(10000)  == 1<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>me:玩家角色(luahelper)meobj:玩家角色(thing)target:目标角色(thing)<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>真仙模式会拥有最完整的游戏体验。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>竹林深处[DLC]修行界近日发生了一件大事，修行者们发现一块古老的世外之地——大竹林。大竹林之中遍地是宝：采集可口的竹笋可以用来烹饪菜肴；砍伐竹子用来搭建风格各异的建筑；竹竿还能做成鱼竿来垂钓！当然，最重要的是隐居在其中神秘可爱的动物：貊！<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>武当仙踪[DLC]东海之上，一座飘渺的仙山突然在修行界露出仙踪。偶有修士入其中探索，竟发现此地竟然是一处早已失落的无方仙境，其中隐居有一派避世道门！此派中道统非同小可，为真武之嫡传；其门下弟子道传玄妙，得荡魔之精义。此仙境名曰：武当山！<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>正在写入存档...请不要关闭游戏<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>切换阴阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>线索类型：动：动机参：参与者证：证据<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>心防角色心防未被瓦解之前，好感度不会超过60，且无法获得对方最重要的信息。可以通过讨论对方弱点来瓦解心防。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>当角色对你警觉。这个状态下好感增加变得缓慢，减少加倍。互动的成功率会减少一半。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>该角色与玩家角色的缘分。缘分越高作为神道修行的核心信徒时初始信仰度越高。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>有内门弟子身处此地时即可进入。在世真仙可以直接降临。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>当修行者到达元神期，且获得元神分神后，可利用分神将自身与修炼的感悟寄托于装备之上。元神寄托之后，虽然本体会损失这部分记忆，但修行者也通过这种方式挖掘出更宽广的成长空间。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>契合度物品与角色的契合度越高，分神时需要的分神数量越少。契合度受以下影响。 · 物品和角色的五行属性 · 装备该物品的时间 · 元神修行的境界 · 物品品阶 · 欲寄托的属性强度<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>进入游戏<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>天谴/功德受角色行为影响。天谴值越高角色渡劫时雷劫的强度越强。功德值越高角色渡劫时雷劫的强度越弱。天谴与功德可以相互抵消。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>成长度成长度：30%以下为幼年期，30%-100%为成长期，以上为成年期。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>工作优先级优先级高建筑发布的命令会被优先执行。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>基础属性(快捷键:[keycode]AttributePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>情绪与社交(快捷键:[keycode]MoodPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>状态和健康(快捷键:[keycode]HealthPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>功法修行(快捷键:[keycode]PracticePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>道具装备(快捷键:[keycode]EquipmentPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>基础属性(快捷键:[keycode]AttributePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>食谱(快捷键:[keycode]MoodPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>行为(快捷键:[keycode]PracticePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>脱离战斗并尝试逃跑(快捷键：[keycode]RunAway[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>移动到指定地点(右击可取消)。非战斗状态下会等待当前任务完成，战斗状态下会立即移动。(快捷键：[keycode]Moveto[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>打断当前行为。(快捷键：[keycode]StopJob[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>吐纳计划<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>反应修行者的能力，道行越高，学习新的能力时面临的困难就越大，消耗的参悟也就越多。神道修行无道行<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>道行阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>道行阴学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>上传当前角色召灵，应天，集录需要入玄以后方可使用<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>勾选后，该行为将跟对话一起成为对象的默认操作行为按下交互快捷键时，如果当前选中所有物品仅有一项默认操作行为，将会默认执行<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>灵气：123灵气：123灵气：123<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>结丹的过程就是将灵气凝结为金丹的过程，结丹的过程中一旦开始，就无法补充灵气。结丹的过程中会持续消耗修行者身上的灵气，灵气全部消耗完，则结丹完成。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>结丹的过程就是将灵气凝结为金丹的过程，结丹的过程中一旦开始，就无法补充灵气。结丹的过程中会持续消耗修行者身上的灵气，灵气全部消耗完，则结丹完成。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>天劫即将来临，修行者必须在倒计时结束前做好渡劫的准备。天劫一旦开始将不会停止，失败的结果轻则道基全毁，重则粉身碎骨。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>修行的最终境界，破碎虚空，飞升成仙。每隔一定周期将会降临属性随机的雷劫，且会越来越强。渡劫成功即可滞留在人间。期间可随时选择飞升离开。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>滞留次数雷劫会随着滞留次数变得越来越强大。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>飞行法宝<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>真仙模式会拥有最完整的游戏体验。真仙模式将会固定难度配置。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>五行图[keycode]ShowElement[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>打开或者关闭小地图快捷键：[keycode]MinMap[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>循环历练剩余次数召回可以中断循环<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>门派及其代理势力范围。通过征伐门派或者获得超过总人口数四成并最多的信徒数量即可归为我方势力。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>打断当前行为。(快捷键：[keycode]StopJob[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>点击更换行走/飞行状态快捷键：[keycode]Flying[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>玄门奥义玄门正宗对天道玄妙全方位的总结，是修行者的根基所在。学习“无上大法”中的秘籍可以提高该值。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>旁门心得各家各派从各自的视角对天道玄妙的片面看法，虽有缺憾，但在玄门底蕴充足的情况下，也可作为他山之石，启迪自身。学习“江湖野法”中的秘籍可以提高该值。一般情况下，旁门心得不得超过玄门底蕴的四分之一。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>切换阴阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>优先级优先级高的仓库会被优先选择<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>在游戏中，角色与大部分物品发生交互均是采用命令指定的方式。选择对应功能后根据屏幕提示选择正确的对象即可。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>上古之兽复苏带来修行界格局的剧变，围绕古兽的一系列争斗激化了各派的矛盾。暗流汹涌，风雨欲来。蚩尤之旗划破长空，仇恨的种子已经发芽，因果纠缠之下，无人能超脱此劫。唯有举剑征伐天下，方能争得一线生机。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\Example\Language\ChineseSource\UIText.xml	>真意筛选筛选出同时满足勾选真意的阵眼。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>秘体完整度由秘体中所有部位的健康度组成完整度低于50%秘体将会失效。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>消耗三个相同关键词的思绪片段思考可以得到一个完整的思绪。不使用思绪片段不会产生任何思绪。思考后会遗忘所有未被记忆的思绪片段。记忆和思绪都会在多次思考后被遗忘。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>藏经阁容量藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>勾选将导出置物台上的物品&lt;font color=#D06508&gt;[可导出的物品类型]&lt;/font&gt;骨头丹药药物石头石料金属金属块木头木料肉类<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>我方信仰人口通过政策中的各种事件获得。吸引力越高，获得数量越多。如果没有政策，则每日损失5%信众。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>关注关注此处可提高政策事件频率，但也消耗也会加倍。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>收编收编清除此地所有其他宗教。当我方信徒人数超过总人口数的70%即可开始收编。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>信仰值在此地可以每日收集信仰。信仰人口越多，速度越快。如果稳定度陷入人心叵测，则会收集怨念。可以派遣内门弟子前来收集信仰。如果不是神道修行者，信仰会转化为等量参悟。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>总属性为此地住持属性加上所有弟子属性的10%<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>我方信仰人口通过政策中的各种事件获得。吸引力越高，获得数量越多。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>关注关注此处可提高政策事件频率，但也消耗也会加倍。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>有内门弟子身处此地时即可进入。在世真仙可以直接降临。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>[color=#ff0000]内容支持大部分UBB和HTML标签[/color]常用特殊标签：[NAME] 玩家角色全名[ITS] 玩家角色物主代词"他的 她的"[IT]  玩家角色代词"他  她"[HENAME] 对象单位的全名[HIS] 对象单位物主代词"它 他的 她的"[HE] 对象角色代词"它 他 她 "[LUA=XXXX]执行lua脚本的结果[MY_PROPERTY=属性名|格式化文本] 玩家角色属性值<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>LUA特殊变量：me:玩家角色(luahelper)meobj:玩家角色(thing)target:目标角色(thing)<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>eg：1 + 1 &gt; 1 and me:GetFlag(10000)  == 1<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>me:玩家角色(luahelper)meobj:玩家角色(thing)target:目标角色(thing)<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>真仙模式会拥有最完整的游戏体验。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>竹林深处[DLC]修行界近日发生了一件大事，修行者们发现一块古老的世外之地——大竹林。大竹林之中遍地是宝：采集可口的竹笋可以用来烹饪菜肴；砍伐竹子用来搭建风格各异的建筑；竹竿还能做成鱼竿来垂钓！当然，最重要的是隐居在其中神秘可爱的动物：貊！<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>武当仙踪[DLC]东海之上，一座飘渺的仙山突然在修行界露出仙踪。偶有修士入其中探索，竟发现此地竟然是一处早已失落的无方仙境，其中隐居有一派避世道门！此派中道统非同小可，为真武之嫡传；其门下弟子道传玄妙，得荡魔之精义。此仙境名曰：武当山！<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>正在写入存档...请不要关闭游戏<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>切换阴阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>线索类型：动：动机参：参与者证：证据<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>心防角色心防未被瓦解之前，好感度不会超过60，且无法获得对方最重要的信息。可以通过讨论对方弱点来瓦解心防。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>当角色对你警觉。这个状态下好感增加变得缓慢，减少加倍。互动的成功率会减少一半。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>该角色与玩家角色的缘分。缘分越高作为神道修行的核心信徒时初始信仰度越高。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>该地周边探索解锁程度。100%即周边地点已经全部解锁。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>有内门弟子身处此地时即可进入。在世真仙可以直接降临。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>当修行者到达元神期，且获得元神分神后，可利用分神将自身与修炼的感悟寄托于装备之上。元神寄托之后，虽然本体会损失这部分记忆，但修行者也通过这种方式挖掘出更宽广的成长空间。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>契合度物品与角色的契合度越高，分神时需要的分神数量越少。契合度受以下影响。 · 物品和角色的五行属性 · 装备该物品的时间 · 元神修行的境界 · 物品品阶 · 欲寄托的属性强度<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>进入游戏<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>天谴/功德受角色行为影响。天谴值越高角色渡劫时雷劫的强度越强。功德值越高角色渡劫时雷劫的强度越弱。天谴与功德可以相互抵消。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>成长度成长度：30%以下为幼年期，30%-100%为成长期，以上为成年期。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>工作优先级优先级高建筑发布的命令会被优先执行。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>基础属性(快捷键:[keycode]AttributePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>情绪与社交(快捷键:[keycode]MoodPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>状态和健康(快捷键:[keycode]HealthPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>功法修行(快捷键:[keycode]PracticePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>道具装备(快捷键:[keycode]EquipmentPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>基础属性(快捷键:[keycode]AttributePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>食谱(快捷键:[keycode]MoodPanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>行为(快捷键:[keycode]PracticePanel[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>脱离战斗并尝试逃跑(快捷键：[keycode]RunAway[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>移动到指定地点(右击可取消)。非战斗状态下会等待当前任务完成，战斗状态下会立即移动。(快捷键：[keycode]Moveto[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>打断当前行为。(快捷键：[keycode]StopJob[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>吐纳计划<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>反应修行者的能力，道行越高，学习新的能力时面临的困难就越大，消耗的参悟也就越多。神道修行无道行<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>道行阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>道行阴学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>上传当前角色召灵，应天，集录需要入玄以后方可使用<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>勾选后，该行为将跟对话一起成为对象的默认操作行为按下交互快捷键时，如果当前选中所有物品仅有一项默认操作行为，将会默认执行<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>灵气：123灵气：123灵气：123<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>结丹的过程就是将灵气凝结为金丹的过程，结丹的过程中一旦开始，就无法补充灵气。结丹的过程中会持续消耗修行者身上的灵气，灵气全部消耗完，则结丹完成。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>结丹的过程就是将灵气凝结为金丹的过程，结丹的过程中一旦开始，就无法补充灵气。结丹的过程中会持续消耗修行者身上的灵气，灵气全部消耗完，则结丹完成。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>天劫即将来临，修行者必须在倒计时结束前做好渡劫的准备。天劫一旦开始将不会停止，失败的结果轻则道基全毁，重则粉身碎骨。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>修行的最终境界，破碎虚空，飞升成仙。每隔一定周期将会降临属性随机的雷劫，且会越来越强。渡劫成功即可滞留在人间。期间可随时选择飞升离开。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>滞留次数雷劫会随着滞留次数变得越来越强大。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>飞行法宝<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>真仙模式会拥有最完整的游戏体验。真仙模式将会固定难度配置。真仙模式只有一个存档。真仙模式自动存档间隔固定。真仙模式会记录数据和获得成就。真仙模式会隐藏部分提示。真仙模式会考验玩家对游戏的终极理解。真仙模式只适合真的仙人。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>五行图[keycode]ShowElement[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>打开或者关闭小地图快捷键：[keycode]MinMap[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>循环历练剩余次数召回可以中断循环<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>门派及其代理势力范围。通过征伐门派或者获得超过总人口数四成并最多的信徒数量即可归为我方势力。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>打断当前行为。(快捷键：[keycode]StopJob[/keycode])<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>点击更换行走/飞行状态快捷键：[keycode]Flying[/keycode]<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>玄门奥义玄门正宗对天道玄妙全方位的总结，是修行者的根基所在。学习“无上大法”中的秘籍可以提高该值。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>旁门心得各家各派从各自的视角对天道玄妙的片面看法，虽有缺憾，但在玄门底蕴充足的情况下，也可作为他山之石，启迪自身。学习“江湖野法”中的秘籍可以提高该值。一般情况下，旁门心得不得超过玄门底蕴的四分之一。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>切换阴阳学习火，木属性秘籍，消耗参悟以阳元神道行为准。学习金，水属性秘籍，消耗参悟以阴元神道行为准。学习土，无属性秘籍以及技能，消耗参悟以较少道行为准。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>优先级优先级高的仓库会被优先选择<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>在游戏中，角色与大部分物品发生交互均是采用命令指定的方式。选择对应功能后根据屏幕提示选择正确的对象即可。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>上古之兽复苏带来修行界格局的剧变，围绕古兽的一系列争斗激化了各派的矛盾。暗流汹涌，风雨欲来。蚩尤之旗划破长空，仇恨的种子已经发芽，因果纠缠之下，无人能超脱此劫。唯有举剑征伐天下，方能争得一线生机。<
+D:\Games\Steam\steamapps\common\AmazingCultivationSimulator\Mods\VietPhrase\Language\VietSource\UIText.xml/t>真意筛选筛选出同时满足勾选真意的阵眼。<
