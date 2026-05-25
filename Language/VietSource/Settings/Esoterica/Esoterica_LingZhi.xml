@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Jin">
+			<DisplayName>Bản Nguyên Chân Pháp - Lang Gia Điển</DisplayName>
+			<Desc>Bí điển lấy linh tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của đạo hạnh -20\nCấp độ và giới hạn của Ngự Khí +5[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Mu">
+			<DisplayName>Bản Nguyên Chân Pháp - Khô Vinh Kinh</DisplayName>
+			<Desc>Bí điển lấy linh tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của đạo hạnh -20\nHệ số tốc độ trôi chảy của tuổi thọ -0.5[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Shui">
+			<DisplayName>Bản Nguyên Chân Pháp - Thanh Liên Thư</DisplayName>
+			<Desc>Bí điển lấy linh tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của đạo hạnh -20\nTỷ lệ có được tinh nguyên +0.025[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Huo">
+			<DisplayName>Bản Nguyên Chân Pháp - Minh Di Lục</DisplayName>
+			<Desc>Bí điển lấy linh tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của đạo hạnh -20\nCấp độ và giới hạn của Thuật Pháp +5[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Tu">
+			<DisplayName>Bản Nguyên Chân Pháp - Uẩn Long Quyết</DisplayName>
+			<Desc>Bí điển lấy linh tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của đạo hạnh -20\nHiệu suất Ẩm Khí +3[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Jin">
+			<DisplayName>Nghịch Nguyên Chân Pháp - Vô Vọng Tâm Ma Chú</DisplayName>
+			<Desc>Bí điển lấy sát tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của thiên khiển +200\nGiá trị cộng thêm của tiềm năng +4\nThần Thức tăng 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Mu">
+			<DisplayName>Nghịch Nguyên Chân Pháp - Đại Quá Kinh</DisplayName>
+			<Desc>Bí điển lấy sát tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của thiên khiển +200\nCấp độ và giới hạn của Luyện Khí +5\nCăn Cốt tăng 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Shui">
+			<DisplayName>Nghịch Nguyên Chân Pháp - Vị Tế Thất Tuyệt Thể</DisplayName>
+			<Desc>Bí điển lấy sát tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của thiên khiển +200\nHệ số tiêu thụ thức ăn +8\nMị Lực tăng 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Huo">
+			<DisplayName>Nghịch Nguyên Chân Pháp - Cách Thiên Lục</DisplayName>
+			<Desc>Bí điển lấy sát tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của thiên khiển +200\nCấp độ và giới hạn của Luyện Đan +5\nNgộ Tính tăng 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Tu">
+			<DisplayName>Nghịch Nguyên Chân Pháp - Bĩ Cực Vô Cữu Thư</DisplayName>
+			<Desc>Bí điển lấy sát tính của Thiên Địa Linh Căn làm môi giới, nhìn trộm Ngũ Hành Đại Đạo mà lĩnh ngộ. Cái gọi là Đạo khả Đạo, Phi Thường Đạo, đây là cảm ngộ do bản tôn của người tu hành trực diện với Đại Đạo mà sinh ra, vì thế rất khó để truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Giá trị cộng thêm của thiên khiển +200\nCấp độ và giới hạn của Hộ Thể +5\nCơ Duyên tăng 100%[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
