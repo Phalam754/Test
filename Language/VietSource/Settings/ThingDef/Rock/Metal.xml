@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="IronOre" sParam="Plant">
+      <ThingName>Mạch khoáng sắt</ThingName>
+      <Desc>Dãy núi giàu quặng sắt, có thể khai thác được quặng sắt từ đó.</Desc>
+    </Text>
+    <Text Name="CopperOre" sParam="Plant">
+      <ThingName>Mạch khoáng hỏa đồng</ThingName>
+      <Desc>Dãy núi giàu khoáng hỏa đồng, có thể khai thác được khoáng hỏa đồng.\nNhiệt độ trung tâm 7.5, phạm vi 3, nhiệt độ phòng -40 (không sai).</Desc>
+    </Text>
+    <Text Name="SilverOre" sParam="Plant">
+      <ThingName>Mạch khoáng hàn tinh</ThingName>
+      <Desc>Dãy núi giàu khoáng hàn tinh, có thể khai thác được khoáng hàn tinh.\nNhiệt độ trung tâm -7.5, phạm vi 3, nhiệt độ phòng -40.</Desc>
+    </Text>
+    <Text Name="RockLing" sParam="Plant">
+      <ThingName>Mạch khoáng linh thạch</ThingName>
+      <Desc>Dãy núi chứa linh thạch, có thể khai thác được linh thạch từ đó.</Desc>
+    </Text>
+  </List>
+</Texts>
