@@ -1,0 +1,85 @@
+<SpecialNames><List>
+<SpecialItem Name="Item_HomeFood">
+<Fish_SkyCrab>
+<li Name="Cua hấp" Desc=""/>
+<li Name="Con cua canh" Desc=""/>
+<li Name="Việc nhà xào con cua" Desc=""/>
+<li Name="Thịt cua cháo" Desc=""/>
+<li Name="Đậu hũ hầm cua" Desc=""/>
+<li Name="Cay kho cua" Desc=""/>
+<li Name="Hương kho cua" Desc=""/>
+<li Name="Thịt cua cơm chiên" Desc=""/>
+</Fish_SkyCrab>
+<Fish_SkySnake>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_SkySnake>
+<Fish_SkyFish>
+<li Name="Thịt cá quái cơm" Desc=""/>
+<li Name="Thịt cá bánh" Desc=""/>
+<li Name="Thịt cá quyển" Desc=""/>
+<li Name="Cá nướng" Desc=""/>
+<li Name="Làm nổ cá" Desc=""/>
+<li Name="Thanh thủy cá" Desc=""/>
+<li Name="Cá hấp" Desc=""/>
+<li Name="Cá kho" Desc=""/>
+</Fish_SkyFish>
+</SpecialItem>
+<SpecialItem Name="Item_DeliciousFood">
+<Fish_SkyCrab>
+<li Name="Thịt cua nấu" Desc=""/>
+<li Name="Hương cay cua" Desc=""/>
+<li Name="Hấp chân cua" Desc=""/>
+<li Name="Gạch cua fan hâm mộ nấu" Desc=""/>
+<li Name="Say cua" Desc=""/>
+<li Name="Thịt cua đậu hũ" Desc=""/>
+<li Name="Tương bạo thu cua" Desc=""/>
+</Fish_SkyCrab>
+<Fish_SkySnake>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_SkySnake>
+<Fish_SkyFish>
+<li Name="Nóng nảy dài lát cá" Desc=""/>
+<li Name="Dài cá nấu tử cơm" Desc=""/>
+<li Name="Cá luộc" Desc=""/>
+<li Name="Thịt cá viên thuốc" Desc=""/>
+<li Name="Cá bánh ngọt" Desc=""/>
+<li Name="Ba cá nồi" Desc=""/>
+<li Name="Chua canh cá" Desc=""/>
+<li Name="Rượu nhưỡng cá" Desc=""/>
+<li Name="Hương sắc lát cá" Desc=""/>
+<li Name="Canh loãng muộn cá" Desc=""/>
+<li Name="Chặt tiêu đầu cá" Desc=""/>
+</Fish_SkyFish>
+</SpecialItem>
+<SpecialItem Name="Item_DelicacyFood">
+<Fish_SkyCrab>
+<li Name="Long bào thang bao" Desc="Đem mới mẻ gạch cua cùng thịt hỗn hợp, lại dùng hơi mỏng da mặt bao khỏa làm thành bánh bao hấp dáng vẻ, chưng nấu sau toàn bộ bánh bao bên trong đều bị kim hoàng cua dầu lấp đầy, có truyền ngôn Hoàng đế liền long bào có không muốn cũng muốn hút vào một ngụm."/>
+<li Name="Hoàng tửu chưng cua" Desc="Sử dụng thượng hạng hoàng tửu chưng nấu Vãn Thu con cua, hoàng tửu có thể đi trừ thịt cua bên trong âm hàn, bổ sung dương khí. Thịt cua thơm ngon cảm giác cùng hoàng tửu cam thuần hoàn mỹ dung hợp, chính là nhân gian tuyệt phối."/>
+</Fish_SkyCrab>
+<Fish_SkySnake>
+<li Name="Vang dầu dài cá tia" Desc="Đem mới mẻ thiện cá vạch thành tơ mỏng, cùng gia vị hỗn xào mà thành, đối đao công độ chính xác cùng tốc độ đều có cực cao yêu cầu."/>
+<li Name="Cà rốt dài cá lưng" Desc="Đem mới mẻ thiện cá nấu chín, cùng cà rốt hỗn xào khứ trừ mùi tanh, thật là bổ dưỡng cùng khẩu vị cùng tồn tại mỹ thực."/>
+</Fish_SkySnake>
+<Fish_SkyFish>
+<li Name="Hóa rồng canh" Desc="Lấy ngư dược hóa rồng chi ý, này canh bí quyết tại phức tạp nấu nướng trình tự cùng hương liệu sử dụng bên trên, hương vị tươi hương viễn siêu phổ thông thịt cá xử lý."/>
+<li Name="Dê phương giấu cá" Desc="Đem cá đặt cắt khối lớn thịt dê bên trong, tăng thêm gia vị cùng nấu, vị ngon vô cùng. Bởi vì thức ăn thuỷ sản dê tươi hợp thành một thể, vị càng tươi. Thịt dê xốp giòn nát vị hương, bên trong giấu thịt cá tươi non."/>
+</Fish_SkyFish>
+</SpecialItem>
+</List></SpecialNames>
