@@ -1,0 +1,60 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Animal2HumanThinkFull">
+      <DisplayName>Đầy suy tư</DisplayName>
+      <Desc>Suy tư đã đầy</Desc>
+    </Text>
+    <Text Name="Animal2HumanFeelLing">
+      <DisplayName>Linh trí ngây thơ</DisplayName>
+      <Desc>Có cảm giác mơ hồ về linh trí.</Desc>
+    </Text>
+    <Text Name="AnimalToHuman">
+      <DisplayName>Bán hóa hình</DisplayName>
+      <Desc>Đang bán hóa hình.</Desc>
+    </Text>
+    <Text Name="LingShou_fanshi">
+      <DisplayName>Linh Thú phản phệ</DisplayName>
+      <Desc>Sau một thời gian sẽ phản phệ pháp bảo, Linh Khí pháp bảo giảm một nửa, hiệu quả pháp bảo thuộc tính Hỏa tăng gấp đôi, hiệu quả pháp bảo thuộc tính Thổ giảm một nửa.</Desc>
+    </Text>
+    <Text Name="ToHumanThunderComing">
+      <DisplayName>Thiên kiếp hóa hình</DisplayName>
+      <Desc>Thiên kiếp hóa hình đang được thai nghén</Desc>
+    </Text>
+    <Text Name="Modifier_LingChong_Heal">
+      <DisplayName>Đồng hành</DisplayName>
+      <Desc>Dưới sự đồng hành của Linh Thú, vết thương hồi phục nhanh hơn (Bội số lực hồi phục tự nhiên +3, Bội số lực hồi phục tự nhiên thương tích nội môn +3).</Desc>
+    </Text>
+    <Text Name="Modifier_LingChong_Stay">
+      <DisplayName>Đồng hành</DisplayName>
+      <Desc>Khi tu luyện có Linh Thú đồng hành, tâm cảnh càng thêm bình ổn (Giá trị cơ bản của Tâm Cảnh +15, Bội số mức độ dao động Tâm Tình -0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_GlitterEyes">
+      <DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+      <Desc>Sở hữu lực lượng Hỏa Nhãn Kim Tinh của Huyền Phượng, có thể nhìn thấu chân tướng của một số vật phẩm trong buổi đấu giá.</Desc>
+    </Text>
+    <Text Name="Modifier_Shelter">
+      <DisplayName>Che chở</DisplayName>
+      <Desc>Trong thời gian ngắn tăng mạnh độ bền của Linh Khí Hộ Thuẫn và Bí Thể (Giá trị gia tăng cường độ Lá Chắn +50, Giá trị gia tăng độ bền Bí Thể chung +10).</Desc>
+    </Text>
+    <Text Name="Modifier_YG_RealPower">
+      <DisplayName>Nguyên Thân Chân Lực (Lực)</DisplayName>
+      <Desc>Đốt cháy bản nguyên sinh mệnh cấp tốc, thôi phát sức mạnh Nguyên Thân Yêu Tộc, tăng mạnh uy lực Ngự Khí, uy lực Bí Thể (Tốc độ hao mòn tuổi thọ +1000, Bội số cơ bản uy lực Pháp Bảo +0.5, Giá trị gia tăng chung uy lực Bí Thể +0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_YG_RealRecover">
+      <DisplayName>Nguyên Thân Chân Lực (Uẩn)</DisplayName>
+      <Desc>Đốt cháy bản nguyên sinh mệnh cấp tốc, thôi phát sức mạnh Nguyên Thân Yêu Tộc, tăng mạnh lực hồi phục cơ thể, tốc độ hồi phục Linh Khí Pháp Bảo, tốc độ hồi phục Chân Khí Bí Thể (Tốc độ hao mòn tuổi thọ +1000, Bội số lực hồi phục tự nhiên +4, Lực hồi phục tự nhiên thương tích nội môn +1, Giá trị gia tăng tốc độ hồi phục Chân Khí Bí Thể +0.5, Bội số cơ bản tốc độ hồi phục Linh Khí Pháp Bảo +0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_YG_RealWisdom">
+      <DisplayName>Nguyên Thân Chân Lực (Trí)</DisplayName>
+      <Desc>Đốt cháy bản nguyên sinh mệnh cấp tốc, thôi phát sức mạnh Nguyên Thân Yêu Tộc, tăng mạnh uy lực Pháp Thuật, tỷ lệ tấn công trúng đích Bí Thể, tỷ lệ phòng thủ thành công, tỷ lệ xuyên thấu Linh Khí Hộ Thuẫn, tỷ lệ trấn áp Pháp Bảo (Tốc độ hao mòn tuổi thọ +1000, Giá trị gia tăng chung tỷ lệ tấn công trúng đích Bí Thể +0.2, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể +0.2, Giá trị gia tăng chung xuyên thấu Linh Khí Hộ Thuẫn Bí Thể +0.2, Giá trị gia tăng chung tỷ lệ trấn áp Pháp Bảo Bí Thể +0.2, Bội số cơ bản uy lực Thuật Pháp +0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_YG_RealShield">
+      <DisplayName>Nguyên Thân Chân Lực (Hộ)</DisplayName>
+      <Desc>Đốt cháy bản nguyên sinh mệnh cấp tốc, thôi phát sức mạnh Nguyên Thân Yêu Tộc, tăng mạnh uy lực Ngự Khí, uy lực Bí Thể, Linh Khí Hộ Thuẫn và độ bền Bí Thể (Tốc độ hao mòn tuổi thọ +1000, Bội số cơ bản giá trị gia tăng cường độ Lá Chắn +0.5, Giá trị gia tăng chung độ bền Bí Thể +0.5).</Desc>
+    </Text>
+    <Text Name="Modifier_YG_NormalPower">
+      <DisplayName>Yêu Thân</DisplayName>
+      <Desc>Ở trong trạng thái Yêu Thân, khả năng chiến đấu được tăng cường, Tụ Luyện Thân Thể cũng nhanh hơn. Nhưng dưới sự thúc đẩy của bản năng hoang dã, Ngộ Tính, tốc độ học tập, Tâm Cảnh của người tu hành đều bị ảnh hưởng lớn (Kỹ năng chiến đấu và cấp độ tối đa của nó +5, Kỹ năng hộ thể và cấp độ tối đa của nó +5, Giá trị gia tăng chung uy lực Bí Thể +0.1, Giá trị gia tăng chung độ bền Bí Thể +0.1, Giá trị gia tăng chung tỷ lệ tấn công trúng đích Bí Thể +0.05, Giá trị gia tăng chung tỷ lệ phòng thủ thành công Bí Thể +0.05, Giá trị gia tăng chung xuyên thấu Linh Khí Hộ Thuẫn Bí Thể +0.05, Giá trị gia tăng chung tỷ lệ trấn áp Pháp Bảo Bí Thể +0.05, Tốc độ Tụ Luyện Thân Thể +0.5, Bội số cơ bản tốc độ học tập -0.55, Giá trị cơ bản của Tâm Cảnh -40).</Desc>
+    </Text>
+  </List>
+</Texts>
