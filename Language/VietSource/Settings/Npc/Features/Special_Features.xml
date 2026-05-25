@@ -1,0 +1,441 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SonOfDestiny">
+      <DisplayName>Con Cưng Của Vận Mệnh</DisplayName>
+      <Desc>Người này sinh ra đã hội tụ khí vận của trời đất, là con cưng của vận mệnh. Chính xác chiến đấu +0.4, né tránh chiến đấu +0.2, hệ số tỷ lệ đột phá nút cổ chai +0.2, hệ số tỷ lệ ngộ tính +1, hệ số khuếch đại thời gian nút cổ chai kinh nghiệm -0.5, giá trị gia tăng tỷ lệ thành công luyện chế pháp bảo +0.25, tỷ lệ thành công luyện chế đan dược +0.25. Con cưng của vận mệnh có thể nhận được pháp bảo trong Thiên Mệnh Các khi tu luyện ở Quỳnh Lâu.</Desc>
+    </Text>
+    <Text Name="YinBody">
+      <DisplayName>Thuần Âm Chi Thể</DisplayName>
+      <Desc>Người này có thể chất thuần âm, tuổi thọ rất ngắn. Nhưng lại cực kỳ hấp dẫn và có tài năng tu luyện xuất chúng. Giảm 10% căn cốt, tăng 30% sức hút, tăng 10% ngộ tính, cảm nhận khí +6, tuổi thọ -40.</Desc>
+    </Text>
+    <Text Name="YangBody">
+      <DisplayName>Thuần Dương Chi Thể</DisplayName>
+      <Desc>Người này có thể chất thuần dương, tuổi thọ dài lâu, bẩm sinh hiếu chiến và cực kỳ hấp dẫn. Nhưng lại rất khó kiểm soát tâm cảnh của mình. Tăng 10% căn cốt, tăng 30% sức hút, giảm 10% ngộ tính, chiến đấu +6, tuổi thọ +40, hệ số dao động tâm cảnh +0.6.</Desc>
+    </Text>
+    <Text Name="Cleanliness">
+      <DisplayName>Chứng Sạch Sẽ</DisplayName>
+      <Desc>Người này bị chứng sạch sẽ. Hệ số tốc độ dọn dẹp +1.</Desc>
+    </Text>
+    <Text Name="Slovenly">
+      <DisplayName>Cẩu Thả</DisplayName>
+      <Desc>Người này rất bừa bộn. Hệ số tốc độ dọn dẹp -0.5.</Desc>
+    </Text>
+    <Text Name="DragonBlood">
+      <DisplayName>Long Huyết Giả</DisplayName>
+      <Desc>Cơ thể người này có huyết mạch rồng loãng, điều này khiến [IT] nhạy bén và mạnh mẽ hơn người khác. Nhưng sự hoang dã được thừa hưởng từ tổ tiên cũng khiến [IT] khó kiểm soát cảm xúc hơn. Tăng 10% thần thức, tăng 10% căn cốt, hệ số khuếch đại cảm xúc +0.3.
+Sau khi môn phái có được bí văn từ 《Thập Di Lục: Quyển Hạ》, có thể cử một Long Huyết Giả đến Độc Long Đàm để lấy Long Châu, thức tỉnh Long Huyết, giúp Long Huyết Giả đó tăng 20% căn cốt, tăng 20% thần thức, và tăng 25% giá trị cơ bản linh khí tối đa. Chỉ một Long Huyết Giả có cơ hội thức tỉnh Long Huyết.</Desc>
+    </Text>
+    <Text Name="DemonBlood">
+      <DisplayName>Ma Huyết Giả</DisplayName>
+      <Desc>Cơ thể người này có huyết mạch ma tộc loãng, điều này khiến [IT] nhạy cảm với nội khí. Nhưng cũng khiến tâm cảnh của [IT] dễ bị dao động. Cảm nhận khí +5, hệ số dao động tâm cảnh +1.</Desc>
+    </Text>
+    <Text Name="Realization">
+      <DisplayName>Giác Ngộ</DisplayName>
+      <Desc>Mặc dù người này không thể nhận ra sự thật rằng mình là một người luân hồi, nhưng [IT] vẫn có một loại giác ngộ bẩm sinh, điều này giúp anh ta tập trung tốt hơn vào cuộc sống hiện tại. Hệ số tốc độ làm việc toàn cục +0.2, hệ số tốc độ học tập +0.2.</Desc>
+    </Text>
+    <Text Name="Retarded">
+      <DisplayName>Thiểu Năng Trí Tuệ</DisplayName>
+      <Desc>Trí lực người này có khiếm khuyết bẩm sinh.
+Sau khi đạt Kim Đan Kỳ, khi ngộ tính, căn cốt và thần thức đều lớn hơn 6, có thể tu luyện ở Ly Hận Hải để có được pháp bảo. Người khác có thể đạt được hiệu quả tương tự bằng cách học bí kíp Bất Muội Chân Linh.</Desc>
+    </Text>
+    <Text Name="LunHui_1">
+      <DisplayName>Sáng Suốt</DisplayName>
+      <Desc>Người này mắt sáng như điện, sáng suốt. Tăng 10% thần thức.</Desc>
+    </Text>
+    <Text Name="LunHui_2">
+      <DisplayName>Linh Tính</DisplayName>
+      <Desc>Người này có linh tính sâu sắc, có ngộ tính hơn người. Tăng 30% ngộ tính.</Desc>
+    </Text>
+    <Text Name="LunHui_3">
+      <DisplayName>Có Chí Lớn</DisplayName>
+      <Desc>Người này một lòng hướng đạo, kiên trì hơn người khác trong khổ luyện.
+Giảm tâm trạng tiêu cực do kẹt ở nút cổ chai trong thời gian dài.</Desc>
+    </Text>
+    <Text Name="LunHui_4">
+      <DisplayName>Người Không Ngủ</DisplayName>
+      <Desc>Người này có tài năng phi thường, tràn đầy năng lượng, thức khuya không thành vấn đề. Tăng 10% căn cốt, giá trị gia tăng tiêu hao thể lực -0.75.</Desc>
+    </Text>
+    <Text Name="LunHui_5">
+      <DisplayName>Tốc Độ Rùa</DisplayName>
+      <Desc>Người này đi rất chậm, thực sự rất chậm. Tuổi thọ +10, hệ số tốc độ di chuyển -0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_6">
+      <DisplayName>Người Xuyên Không</DisplayName>
+      <Desc>Quá trình xuyên không khiến người này có tuổi thọ dài và thể chất đặc biệt không sợ lạnh hay nóng. Tuổi thọ +50, nhiệt độ giới hạn tối thiểu -25, nhiệt độ giới hạn tối đa +25.</Desc>
+    </Text>
+    <Text Name="LunHui_7">
+      <DisplayName>Huyết Mạch Phượng Hoàng</DisplayName>
+      <Desc>Người này sinh ra mang huyết mạch Phượng hoàng, chỉ là trong xã hội hiện đại, nơi pháp tu đã tuyệt diệt thì không có tác dụng gì. Cảm nhận khí +8, Đan khí -10, Chiến đấu -20, Xảo tượng -8, Kỳ hoàng -5, hệ số tốc độ tu luyện +0.5, hệ số tốc độ học tập +0.5, né tránh chiến đấu +0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_8">
+      <DisplayName>Người Hiện Đại</DisplayName>
+      <Desc>Kiến thức và tư duy từ thế giới hiện đại khiến [IT] vô cùng nổi bật trong thế giới này, nhưng cũng khiến [IT] không thể làm được nhiều công việc thời cổ đại. Đồng thời, tầm nhìn của người hiện đại cũng khiến [IT] không thể yêu bất cứ ai trong thế giới này.
+Công việc bị cấm: Trồng trọt, Nấu ăn, Khai khoáng, Xây dựng</Desc>
+    </Text>
+    <Text Name="LunHui_9">
+      <DisplayName>Công Đức Bẩm Sinh</DisplayName>
+      <Desc>Người này sinh ra đã mang công đức lớn, trời cao đặc biệt khoan dung với họ. Giá trị gia tăng thiên kiếp -20.</Desc>
+    </Text>
+    <Text Name="LunHui_10">
+      <DisplayName>Người Hiện Đại</DisplayName>
+      <Desc>Kiến thức và tư duy từ thế giới hiện đại khiến [IT] có kiến thức siêu phàm, nhưng sự phản đối mạnh mẽ với phong kiến mê tín khiến con đường tu luyện của [IT] thêm phần gian nan. Cảm nhận khí -10, Đấu pháp -10, Đan khí -10, hệ số tốc độ tu luyện -0.5, hệ số tốc độ học tập -0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_11">
+      <DisplayName>Người Hiện Đại</DisplayName>
+      <Desc>Cuộc sống hiện đại khiến anh ta quen che giấu sự tồn tại của mình, sự tồn tại cực kỳ thấp của [IT] thậm chí bị Thiên Đạo thế giới này phớt lờ, bẩm sinh có đạo hạnh ít. Quen với cuộc sống hiện đại nên [IT] không thể làm được nhiều công việc thời cổ đại, [IT] một lòng muốn phi thăng trở về thế giới của mình, không muốn lưu luyến ở thế giới này. Tăng 20% căn cốt, tăng 10% ngộ tính, Nhã nghệ -5, giá trị gia tăng đạo hạnh -15.
+Công việc bị cấm: Trồng trọt, Khai khoáng, Xây dựng</Desc>
+    </Text>
+    <Text Name="LunHui_12">
+      <DisplayName>Con Người Chắc Chắn Thắng Trời</DisplayName>
+      <Desc>Người này đã bù đắp thể chất trời sinh khuyết thiếu bằng 40 năm khổ luyện không ngừng nghỉ, đặt nền móng vững chắc cho tu luyện. Những trải nghiệm này cũng giúp anh ta chịu đựng được gian khổ tu luyện hơn người khác. Giảm 30% căn cốt, giảm 20% sức hút, Xử thế -5, Kỳ hoàng -5, Nấu ăn -5, Bản Trúc -5, Nông canh -5, Kim thạch -5, Nhã nghệ -5, Xảo tượng -5, giá trị cơ bản linh khí tối đa +40, giá trị cơ bản của tâm cảnh +15, hệ số tốc độ tu luyện +0.5, hệ số tốc độ học tập +0.5.
+Giảm tâm trạng tiêu cực do kẹt ở nút cổ chai trong thời gian dài.</Desc>
+    </Text>
+    <Text Name="LunHui_13">
+      <DisplayName>Câu Cá</DisplayName>
+      <Desc>[IT] làm việc không vội vã, thường xuyên lang thang trên đường.</Desc>
+    </Text>
+    <Text Name="LunHui_14">
+      <DisplayName>Nhà Kế Hoạch</DisplayName>
+      <Desc>Cuộc sống văn phòng lâu năm khiến anh ta không giỏi lao động. Tuy nhiên, trí tưởng tượng phong phú giúp anh ta nhanh chóng hòa nhập vào thế giới này. Tăng 10% ngộ tính, tăng 10% cơ duyên, Nhã nghệ +5.</Desc>
+    </Text>
+    <Text Name="LunHui_15">
+      <DisplayName>Tà Khí Nhập Thể</DisplayName>
+      <Desc>Người này từng tu luyện tà môn công pháp nên có thể chất đặc biệt, mặc dù Trúc cơ khó hơn người khác, nhưng tiềm năng của anh ta lại vượt trội. Cảm nhận khí +10, giá trị cơ bản linh khí tối đa +50, hệ số tốc độ Trúc cơ -0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_16">
+      <DisplayName>Thần Thụ</DisplayName>
+      <Desc>Người này từng được tiên nhân báo mộng, thay đổi thể chất, có tuổi thọ dài lâu. Cảm nhận khí +4, tuổi thọ +50.</Desc>
+    </Text>
+    <Text Name="LunHui_17">
+      <DisplayName>Kiếm Si</DisplayName>
+      <Desc>Người này si mê kiếm đến tận xương tủy, có thể nói là sinh ra vì kiếm. Ngự khí +8.</Desc>
+    </Text>
+    <Text Name="LunHui_18">
+      <DisplayName>Người Hiện Đại</DisplayName>
+      <Desc>Cuộc sống hiện đại lâu năm khiến thể chất anh ta yếu ớt, nhưng lại có tầm nhìn rộng và tư duy tiên tiến. Giảm 10% căn cốt, tăng 20% ngộ tính.</Desc>
+    </Text>
+    <Text Name="LunHui_19">
+      <DisplayName>Lướt Trên Tuyết Không Dấu Vết</DisplayName>
+      <Desc>Người này lĩnh ngộ được bước chân Lướt trên tuyết không dấu vết từ chồn bay, giúp tốc độ di chuyển của anh ta vượt xa người thường. Hệ số tốc độ di chuyển +1.5.</Desc>
+    </Text>
+    <Text Name="LunHui_20">
+      <DisplayName>Trượng Nghĩa</DisplayName>
+      <Desc>Người này tính tình trượng nghĩa, khiến người khác có cảm tình.</Desc>
+    </Text>
+    <Text Name="LunHui_21">
+      <DisplayName>Lỗ Mãng</DisplayName>
+      <Desc>Người này lỗ mãng, làm việc qua loa, dễ bốc đồng. Hệ số tốc độ làm việc toàn cục +0.2, hệ số hiệu quả điều trị dự kiến -0.3, hệ số tỷ lệ thành công điều trị -0.3, hệ số tỷ lệ thành công nấu ăn -0.3, hệ số tỷ lệ thành công xây dựng -0.3, hệ số giá trị gia tăng chất lượng chế tạo -0.3, hệ số chất lượng sản phẩm dự kiến -0.3, hệ số tỷ lệ thành công cứu trợ -0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_22">
+      <DisplayName>Nhát Gan</DisplayName>
+      <Desc>Người này nhát gan, làm việc rất cẩn thận. Hệ số tốc độ làm việc toàn cục -0.2, hệ số hiệu quả điều trị dự kiến +0.3, hệ số tỷ lệ thành công điều trị +0.3, hệ số tỷ lệ thành công nấu ăn +0.3, hệ số tỷ lệ thành công xây dựng +0.3, hệ số giá trị gia tăng chất lượng chế tạo +0.3, hệ số chất lượng sản phẩm dự kiến +0.3, hệ số tỷ lệ thành công cứu trợ +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_23">
+      <DisplayName>Lướt Cỏ Kinh Phong</DisplayName>
+      <Desc>Người này có thân pháp nhanh, tốc độ di chuyển cực kỳ nhanh nhẹn. Hệ số tốc độ di chuyển +1.</Desc>
+    </Text>
+    <Text Name="LunHui_24">
+      <DisplayName>Mê Ngủ</DisplayName>
+      <Desc>Người này rất thích ngủ, cứ chốc chốc lại buồn ngủ. Giá trị gia tăng tiêu hao thể lực +0.4.</Desc>
+    </Text>
+    <Text Name="LunHui_25">
+      <DisplayName>Phong Thái Nguỵ Tấn</DisplayName>
+      <Desc>Người này có phong thái Nguỵ Tấn, học thức uyên bác, có sức hút độc đáo. Tăng 10% sức hút, tăng 10% ngộ tính.</Desc>
+    </Text>
+    <Text Name="LunHui_26">
+      <DisplayName>Người Yêu Xương</DisplayName>
+      <Desc>Người này có hứng thú cuồng nhiệt với xương.</Desc>
+    </Text>
+    <Text Name="LunHui_27">
+      <DisplayName>Ngư Dân</DisplayName>
+      <Desc>Người này giỏi đánh cá, mắt tinh tay lẹ.</Desc>
+    </Text>
+    <Text Name="LunHui_28">
+      <DisplayName>Tiếng Ca Của Nàng Tiên Cá</DisplayName>
+      <Desc>Người này có giọng hát mê hoặc, ma mị như nàng tiên cá trong truyền thuyết.</Desc>
+    </Text>
+    <Text Name="LunHui_29">
+      <DisplayName>Thanh Niên Văn Nghệ</DisplayName>
+      <Desc>Người này có cảm xúc phong phú và nội tâm nhạy cảm, [IT] bẩm sinh có trí tưởng tượng siêu phàm. Giá trị gia tăng chất lượng chế tạo +0.1, hệ số tốc độ làm việc toàn cục -0.2, hệ số dao động tâm cảnh +0.4, hệ số khuếch đại cảm xúc +0.2, hệ số tốc độ thay đổi hảo cảm +0.4.</Desc>
+    </Text>
+    <Text Name="LunHui_30">
+      <DisplayName>Nhàn Nhã</DisplayName>
+      <Desc>Người này luôn tự tin, lúc nào cũng trông rất nhàn nhã, không bao giờ hoảng loạn.</Desc>
+    </Text>
+    <Text Name="LunHui_31">
+      <DisplayName>Thần Đổ Lỗi</DisplayName>
+      <Desc>Người này bị động nhận lỗi, được mọi người yêu quý.</Desc>
+    </Text>
+    <Text Name="LunHui_32">
+      <DisplayName>Người May Mắn</DisplayName>
+      <Desc>Người này là người may mắn bẩm sinh, khiến người khác phải ngưỡng mộ. Tăng 20% cơ duyên.</Desc>
+    </Text>
+    <Text Name="LunHui_33">
+      <DisplayName>Thích Bạo Hành</DisplayName>
+      <Desc>Người này thích bạo hành, emmm.</Desc>
+    </Text>
+    <Text Name="LunHui_34">
+      <DisplayName>Khí Vận Siêu Việt</DisplayName>
+      <Desc>Người này bẩm sinh có khí vận siêu việt. Tăng 10% cơ duyên, tuổi thọ +30.</Desc>
+    </Text>
+    <Text Name="LunHui_35">
+      <DisplayName>Bạn Của Động Vật</DisplayName>
+      <Desc>Người này yêu động vật, không thể làm công việc săn bắt. Tăng 20% cơ duyên.</Desc>
+    </Text>
+    <Text Name="LunHui_36">
+      <DisplayName>Khoa Học Tương Lai</DisplayName>
+      <Desc>Người này nắm giữ bí ẩn của khoa học tương lai, hiệu quả làm việc cao hơn, tốc độ di chuyển nhanh hơn. Hệ số tốc độ làm việc toàn cục +0.2, hệ số tốc độ di chuyển +0.2.</Desc>
+    </Text>
+    <Text Name="LunHui_37">
+      <DisplayName>Chủ Tịch</DisplayName>
+      <Desc>Là một chủ tịch được lòng dân, được nhân viên rất yêu mến.</Desc>
+    </Text>
+    <Text Name="LunHui_38">
+      <DisplayName>Hiệp Đạo Linh Hoạt</DisplayName>
+      <Desc>Người này là hiệp đạo, lòng mang chính nghĩa, thân pháp nhanh nhẹn. Hệ số tốc độ di chuyển +0.4.</Desc>
+    </Text>
+    <Text Name="LunHui_39">
+      <DisplayName>Người Phiêu Du Không Thể Chết</DisplayName>
+      <Desc>Người này có sức chịu đựng phi thường, chịu lạnh chịu nóng, thân thủ nhanh nhẹn, tuổi thọ dài lâu. Hệ số tốc độ di chuyển +0.4, hệ số tốc độ phi hành +0.4, tuổi thọ +30, nhiệt độ giới hạn tối thiểu -15, nhiệt độ giới hạn tối đa +30.</Desc>
+    </Text>
+    <Text Name="LunHui_40">
+      <DisplayName>Rối Loạn Ám Ảnh Cưỡng Chế</DisplayName>
+      <Desc>Người này có rối loạn ám ảnh cưỡng chế, làm việc rất chậm, nhưng làm rất tốt. Hệ số tốc độ làm việc toàn cục -0.2, hệ số hiệu quả điều trị dự kiến +0.3, hệ số tỷ lệ thành công điều trị +0.3, hệ số tỷ lệ thành công nấu ăn +0.3, hệ số tỷ lệ thành công xây dựng +0.3, hệ số giá trị gia tăng chất lượng chế tạo +0.3, hệ số chất lượng sản phẩm dự kiến +0.3, hệ số tỷ lệ thành công cứu trợ +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_41">
+      <DisplayName>Hiệp Nghĩa Hào Sảng</DisplayName>
+      <Desc>Người này có tấm lòng hiệp nghĩa, tính cách hào sảng, khiến người khác vừa gặp đã có cảm tình.</Desc>
+    </Text>
+    <Text Name="LunHui_42">
+      <DisplayName>Thần Bếp</DisplayName>
+      <Desc>Người này có tài nấu ăn siêu phàm. Nấu ăn +5.</Desc>
+    </Text>
+    <Text Name="LunHui_43">
+      <DisplayName>Chủ Nghĩa Hoàn Hảo</DisplayName>
+      <Desc>Người này có chủ nghĩa hoàn hảo, làm việc rất chậm, nhưng làm rất tốt. Hệ số tốc độ làm việc toàn cục -0.2, hệ số hiệu quả điều trị dự kiến +0.3, hệ số tỷ lệ thành công nấu ăn +0.3, hệ số tỷ lệ thành công xây dựng +0.3, hệ số giá trị gia tăng chất lượng chế tạo +0.3, hệ số chất lượng sản phẩm dự kiến +0.3, hệ số tỷ lệ thành công cứu trợ +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_44">
+      <DisplayName>Ba Trăm Sáu Mươi Nghề</DisplayName>
+      <Desc>Hứng thú với mọi thứ, làm gì cũng thấy vui.</Desc>
+    </Text>
+    <Text Name="LunHui_45">
+      <DisplayName>Thần Hành Bách Biến</DisplayName>
+      <Desc>Người này hành động nhanh nhẹn, ánh mắt như điện. Hệ số tốc độ di chuyển +0.4, hệ số tốc độ phi hành +0.4, hệ số phạm vi cảm nhận +1, hệ số chính xác chiến đấu +0.3, hệ số tốc độ làm việc toàn cục +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_46">
+      <DisplayName>Thuật Nói Tiếng Bụng</DisplayName>
+      <Desc>Người này không thích mở miệng, giao tiếp với người khác bằng thuật nói tiếng bụng. Giá trị gia tăng cấp độ giao tiếp -1.</Desc>
+    </Text>
+    <Text Name="LunHui_47">
+      <DisplayName>Người Giang Hồ</DisplayName>
+      <Desc>Người này bẩm sinh là người giang hồ. Hệ số tốc độ di chuyển +0.4, hệ số tốc độ hấp thu linh khí +2.</Desc>
+    </Text>
+    <Text Name="LunHui_48">
+      <DisplayName>Được Yêu Quý</DisplayName>
+      <Desc>Người này bẩm sinh được tất cả mọi người yêu quý!</Desc>
+    </Text>
+    <Text Name="LunHui_49">
+      <DisplayName>Mất Trí Nhớ</DisplayName>
+      <Desc>Người này đã quên đi quá khứ, chỉ tận hưởng cuộc sống hiện tại!</Desc>
+    </Text>
+    <Text Name="LunHui_50">
+      <DisplayName>Gù Gù Gù</DisplayName>
+      <Desc>Gù gù gù. Hệ số tốc độ di chuyển +0.5, hệ số tốc độ phi hành +0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_51">
+      <DisplayName>Thiên Phú Khác Thường</DisplayName>
+      <Desc>Người này có thiên phú khác thường, bẩm sinh chịu lạnh chịu nóng, có tư chất tu luyện cao. Nhiệt độ giới hạn tối thiểu -25, nhiệt độ giới hạn tối đa +25, hệ số tốc độ tu luyện +0.4, hệ số tốc độ học tập +0.4.</Desc>
+    </Text>
+    <Text Name="LunHui_52">
+      <DisplayName>Lời Nguyền Bệnh Trĩ</DisplayName>
+      <Desc>Người này bị số phận nguyền rủa, mãi mãi bị bệnh trĩ hành hạ.</Desc>
+    </Text>
+    <Text Name="LunHui_53">
+      <DisplayName>Người Lười</DisplayName>
+      <Desc>Không thể làm việc nặng, cả đời cũng không thể làm việc nặng!
+Công việc bị cấm: Dọn dẹp, Vận chuyển</Desc>
+    </Text>
+    <Text Name="LunHui_54">
+      <DisplayName>Chiều Dài Kinh Ngạc</DisplayName>
+      <Desc>Người này có chiều dài kinh ngạc, khiến người khác phải kinh ngạc.</Desc>
+    </Text>
+    <Text Name="LunHui_55">
+      <DisplayName>Chiêm Tinh Đêm</DisplayName>
+      <Desc>Người này quanh năm chiêm tinh ban đêm, luyện được tuyệt kỹ gần như không cần ngủ. Giá trị gia tăng tiêu hao thể lực -0.75.</Desc>
+    </Text>
+    <Text Name="LunHui_56">
+      <DisplayName>Hùng Biện</DisplayName>
+      <Desc>Người này có tài hùng biện, rất giỏi thuyết phục người khác. Hệ số tỷ lệ thành công cơ bản khi thuyết phục khách ghé thăm +0.5</Desc>
+    </Text>
+    <Text Name="LunHui_57">
+      <DisplayName>Hạt Giống Tu Luyện</DisplayName>
+      <Desc>Người này có thiên phú khác thường, có tư chất tu luyện cao. Hệ số tốc độ tu luyện +0.4, hệ số tốc độ học tập +0.4.</Desc>
+    </Text>
+    <Text Name="LunHui_58">
+      <DisplayName>Chân Thực</DisplayName>
+      <Desc>Kinh nghiệm chân thực của người này khiến người khác phải nhìn với con mắt khác.</Desc>
+    </Text>
+    <Text Name="LunHui_59">
+      <DisplayName>Khoa Học</DisplayName>
+      <Desc>Kinh nghiệm khoa học của người này khiến tâm trí anh ta tràn đầy niềm tin.</Desc>
+    </Text>
+    <Text Name="LunHui_60">
+      <DisplayName>Thiên Phú Khác Thường</DisplayName>
+      <Desc>Người này có thiên phú khác thường, thông minh hơn người, học rất nhanh. Hệ số tốc độ học tập +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_61">
+      <DisplayName>Lòng Nhân Ái Của Thầy Thuốc</DisplayName>
+      <Desc>Người này có y thuật cao minh, lấy việc cứu người giúp đời làm trách nhiệm. Kỳ hoàng +5.</Desc>
+    </Text>
+    <Text Name="LunHui_62">
+      <DisplayName>Cuồng Ma Tu Tiên</DisplayName>
+      <Desc>Người này một lòng tu tiên, mỗi ngày tu tiên hơn 15 giờ, như điên như dại.</Desc>
+    </Text>
+    <Text Name="LunHui_63">
+      <DisplayName>Thần Thợ Rèn</DisplayName>
+      <Desc>Người này có thiên phú khác thường, chất lượng vật phẩm chế tạo rất cao. Hệ số giá trị gia tăng chất lượng chế tạo +0.3.</Desc>
+    </Text>
+    <Text Name="LunHui_64">
+      <DisplayName>Đan Thanh</DisplayName>
+    </Text>
+    <Text Name="LunHui_65">
+      <DisplayName>Họa Phù Sư</DisplayName>
+      <Desc>Người này tự tay vẽ vô số phù chú, có thể xưng là tông sư vẽ phù.</Desc>
+    </Text>
+    <Text Name="LunHui_66">
+      <DisplayName>Người Đẹp Ngực Lớn</DisplayName>
+      <Desc>Người này đẹp và ngực lớn, sức hút kinh người. Tăng 20% sức hút.</Desc>
+    </Text>
+    <Text Name="LunHui_67">
+      <DisplayName>Y Tá</DisplayName>
+      <Desc>Người này có y thuật kinh người, tay tài hồi sinh. Kỳ hoàng +10.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_1">
+      <DisplayName>Ngạo Kiều</DisplayName>
+      <Desc>Người này có tính cách rất khó chịu, quan tâm người khác nhưng không thể nói ra.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_2">
+      <DisplayName>Miệng Độc</DisplayName>
+      <Desc>Người này có cái miệng rất độc, thường khiến người khác câm nín.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_3">
+      <DisplayName>Chính Trực</DisplayName>
+      <Desc>Người này rất chính trực.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_4">
+      <DisplayName>Xảo Quyệt</DisplayName>
+      <Desc>Người này rất xảo quyệt, không tin bất kỳ ai. Tốc độ thay đổi hảo cảm -0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_5">
+      <DisplayName>Thích Hát</DisplayName>
+      <Desc>Người này tự tin và phóng khoáng, rất thích hát.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_6">
+      <DisplayName>Kiên Trì</DisplayName>
+      <Desc>Người này có ý chí kiên cường, có thể chống lại sự hoang mang trong tu luyện.
+Giảm tâm trạng tiêu cực do kẹt ở nút cổ chai trong thời gian dài.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_7">
+      <DisplayName>Giọng Hát Mê Hồn</DisplayName>
+      <Desc>Người này có giọng hát mê hồn, khiến người nghe không tự chủ được mà thả lỏng thân tâm.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_8">
+      <DisplayName>Không Giỏi Giao Tiếp</DisplayName>
+      <Desc>Người này tự kỷ lâu ngày, không giỏi giao tiếp. Hệ số khuynh hướng xã hội -0.5.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_9">
+      <DisplayName>Hiệu Chỉnh Tuổi Thọ</DisplayName>
+    </Text>
+    <Text Name="LunHui_Kong_10">
+      <DisplayName>Diễn Xuất Xuất Sắc</DisplayName>
+      <Desc>Người này có thiên phú khác thường, diễn xuất xuất sắc!</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_11">
+      <DisplayName>Hóng Hớt</DisplayName>
+      <Desc>Người này rất hóng hớt, thích hỏi han mọi chuyện.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_12">
+      <DisplayName>Hiệu Chỉnh Tuổi Thọ Lớn</DisplayName>
+    </Text>
+    <Text Name="LunHui_Kong_13">
+      <DisplayName>Đánh Cắp Ngày Tháng</DisplayName>
+      <Desc>Người này có mệnh cách hiếm có, đánh cắp ngày tháng, dường như bị trời quên lãng, bẩm sinh có tuổi thọ cực dài. Tuổi thọ +80.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_14">
+      <DisplayName>Chưởng Môn</DisplayName>
+      <Desc>Tên gọi thân mật của bạn bè trong livestream.</Desc>
+    </Text>
+    <Text Name="LunHui_Kong_15">
+      <DisplayName>Bình Luận Viên Nổi Tiếng</DisplayName>
+      <Desc>Người này có sức hút cực lớn, thu hút được rất nhiều người theo dõi và hâm mộ trong quá trình bình luận cho người khác.</Desc>
+    </Text>
+    <Text Name="Inborn_Jin_lost">
+      <DisplayName>Kim Thiếu Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Kim càng khó khăn, và dễ bị sát thương thuộc tính Hỏa hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Kim -0.5, hệ số giảm sát thương thuộc tính Hỏa -0.2.</Desc>
+    </Text>
+    <Text Name="Inborn_Mu_lost">
+      <DisplayName>Mộc Thiếu Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Mộc càng khó khăn, và dễ bị sát thương thuộc tính Kim hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Mộc -0.5, hệ số giảm sát thương thuộc tính Kim -0.2.</Desc>
+    </Text>
+    <Text Name="Inborn_Shui_lost">
+      <DisplayName>Thủy Thiếu Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Thủy càng khó khăn, và dễ bị sát thương thuộc tính Thổ hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Thủy -0.5, hệ số giảm sát thương thuộc tính Thổ -0.2.</Desc>
+    </Text>
+    <Text Name="Inborn_Huo_lost">
+      <DisplayName>Hỏa Thiếu Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Hỏa càng khó khăn, và dễ bị sát thương thuộc tính Thủy hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Hỏa -0.5, hệ số giảm sát thương thuộc tính Thủy -0.2.</Desc>
+    </Text>
+    <Text Name="Inborn_Tu_lost">
+      <DisplayName>Thổ Thiếu Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Thổ càng khó khăn, và dễ bị sát thương thuộc tính Mộc hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Thổ -0.5, hệ số giảm sát thương thuộc tính Mộc -0.2.</Desc>
+    </Text>
+    <Text Name="Inborn_Jin_Add">
+      <DisplayName>Kim Đức Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Kim dễ dàng hơn, và có thể chống lại sát thương thuộc tính Mộc tốt hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Kim +0.5, hệ số giảm sát thương thuộc tính Mộc +0.1.</Desc>
+    </Text>
+    <Text Name="Inborn_Mu_Add">
+      <DisplayName>Mộc Đức Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Mộc dễ dàng hơn, và có thể chống lại sát thương thuộc tính Thổ tốt hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Mộc +0.5, hệ số giảm sát thương thuộc tính Thổ +0.1.</Desc>
+    </Text>
+    <Text Name="Inborn_Shui_Add">
+      <DisplayName>Thủy Đức Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Thủy dễ dàng hơn, và có thể chống lại sát thương thuộc tính Hỏa tốt hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Thủy +0.5, hệ số giảm sát thương thuộc tính Hỏa +0.1.</Desc>
+    </Text>
+    <Text Name="Inborn_Huo_Add">
+      <DisplayName>Hỏa Đức Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Hỏa dễ dàng hơn, và có thể chống lại sát thương thuộc tính Kim tốt hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Hỏa +0.5, hệ số giảm sát thương thuộc tính Kim +0.1.</Desc>
+    </Text>
+    <Text Name="Inborn_Tu_Add">
+      <DisplayName>Thổ Đức Bẩm Sinh</DisplayName>
+      <Desc>Tu luyện công pháp thuộc tính Thổ dễ dàng hơn, và có thể chống lại sát thương thuộc tính Thủy tốt hơn. Giá trị gia tăng độ phù hợp công pháp thuộc tính Thổ +0.5, hệ số giảm sát thương thuộc tính Thủy +0.1.</Desc>
+    </Text>
+    <Text Name="Features_JingGuai_0">
+      <DisplayName>Hồn Tinh Quái</DisplayName>
+      <Desc>Bản chất là vật vô tri giữa trời đất, ngẫu nhiên cảm nhận được sự huyền diệu mà sinh ra ý thức. Tính cách lười nhác, khó tĩnh tâm để ngộ đạo. Nhưng cũng vì tâm tư đơn thuần, khó bị chấp niệm, tạp niệm quấy nhiễu, xét về mặt này thì là một tâm tính tu luyện hạng nhất. Giá trị cơ bản của tâm cảnh +40, hệ số tốc độ tu luyện -0.25, hệ số tốc độ học tập -0.25.</Desc>
+    </Text>
+    <Text Name="Features_JingGuai_1">
+      <DisplayName>Linh Chú Chi Thể</DisplayName>
+      <Desc>Nguyên thân là linh thạch thành tinh, bẩm sinh linh khí cơ bản đã hơn người. Hệ số giá trị cơ bản linh khí tối đa +0.2.</Desc>
+    </Text>
+    <Text Name="Features_JingGuai_2">
+      <DisplayName>Ẩm Khí Chi Thể</DisplayName>
+      <Desc>Nguyên thân là vật để ăn, bẩm sinh đã có năng lực ẩm khí rất cao, không biết đói. Hiệu suất ẩm khí +5.</Desc>
+    </Text>
+    <Text Name="Features_JingGuai_3">
+      <DisplayName>Ngự Khí Chi Thể</DisplayName>
+      <Desc>Nguyên thân là pháp bảo thành tinh, bẩm sinh đã giỏi ngự pháp bảo hơn. Hệ số hồi linh pháp bảo +4, cấp độ ngự khí và giới hạn tối đa +5.</Desc>
+    </Text>
+    <Text Name="Sys_YuSheTeXing1">
+      <DisplayName>Cài Đặt Trước 1</DisplayName>
+    </Text>
+    <Text Name="Sys_YuSheTeXing2">
+      <DisplayName>Cài Đặt Trước 2</DisplayName>
+    </Text>
+    <Text Name="Sys_YuSheTeXing3">
+      <DisplayName>Cài Đặt Trước 3</DisplayName>
+    </Text>
+    <Text Name="Sys_YuSheTeXing4">
+      <DisplayName>Cài Đặt Trước 4</DisplayName>
+    </Text>
+  </List>
+</Texts>
