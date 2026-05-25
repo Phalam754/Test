@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LeftoverMaterialBase" sParam="Item">
+      <Desc>Dùng để trải đất tấm hoặc xây mái hiên nhỏ vụn vật liệu.</Desc>
+      <Item.FabaoSuffix>Đinh,Tiêu,Toái</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WoodLeftover" sParam="Item">
+      <ThingName>Mộc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp gỗ vụn kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWoodLeftover" sParam="Item">
+      <ThingName>Kim Ti Mộc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp mảnh vàng vụn tia mộc kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Kim Ti Mộc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWoodLeftover" sParam="Item">
+      <ThingName>Ngô Đồng Mộc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp nát Ngô Đồng Mộc kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Ngô Đồng Mộc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWoodLeftover" sParam="Item">
+      <ThingName>Linh Mộc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp toái linh mộc kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Linh Mộc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BrownRockLeftover" sParam="Item">
+      <ThingName>Tông Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp nát tông thạch kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Tông Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRockLeftover" sParam="Item">
+      <ThingName>Hôi Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp nát đá xám kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Hôi Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MarbleLeftover" sParam="Item">
+      <ThingName>Đại Lý Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp nát đá cẩm thạch kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Đại Lý Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeLeftover" sParam="Item">
+      <ThingName>Ngọc Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp ngọc vỡ kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Ngọc Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStoneLeftover" sParam="Item">
+      <ThingName>Thiên Trụ Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp cột trụ trời mảnh vỡ kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Thiên Trụ Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStoneLeftover" sParam="Item">
+      <ThingName>Linh Thạch Giác Liêu</ThingName>
+      <Desc>Hỗn tạp toái linh thạch kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Linh Thạch</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystalLeftover" sParam="Item">
+      <ThingName>Linh Tinh Giác Liêu</ThingName>
+      <Desc>Hỗn tạp nát Linh Tinh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Linh Tinh</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_IronRockLeftover" sParam="Item">
+      <ThingName>Thiết Khoáng Giác Liêu</ThingName>
+      <Desc>Hỗn tạp toái thiết mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Thiết Chế</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRockLeftover" sParam="Item">
+      <ThingName>Hỏa Đồng Giác Liêu</ThingName>
+      <Desc>Hỗn tạp lửa đồng mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Hỏa Đồng</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRockLeftover" sParam="Item">
+      <ThingName>Hàn Ngọc Giác Liêu</ThingName>
+      <Desc>Hỗn tạp hàn tinh mỏ mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Hàn Ngọc</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRockLeftover" sParam="Item">
+      <ThingName>Huyền Thiết Giác Liêu</ThingName>
+      <Desc>Hỗn tạp huyền thiết mỏ mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Huyền Thiết</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceLeftover" sParam="Item">
+      <ThingName>Tinh Tủy Giác Liêu</ThingName>
+      <Desc>Hỗn tạp tinh tủy mảnh kiến trúc vật liệu thừa, có thể dùng đến trải đất tấm hoặc xây mái hiên.</Desc>
+      <Item.BeMaterial.NamePrefix>Tinh Tủy</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
