@@ -1,0 +1,20 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="RpgTower">
+      <Title>Giới ở giữa chi khe hở · Không bao lâu cũng có hương</Title>
+      <Desc>Thâm tàng tại dị giới trong cái khe thần bí môn hộ, phụ thuộc vào giới này hư thực tương giao chi địa, ngàn vạn năm lịch sử lắng đọng chỗ.</Desc>
+    </Text>
+    <Text Name="RpgQianKun">
+      <Title>Càn khôn giới chi khe hở · Quy tịch chi địa</Title>
+      <Desc>Tiểu Càn Khôn Giới bên trong bị cường đại phong ấn phong tỏa thần bí động thiên, bởi vì 《 Thái Nhất bí điển 》 Mà mở rộng môn hộ, không biết trong đó có giấu cái gì.</Desc>
+    </Text>
+    <Text Name="RpgArena">
+      <Title>Diễn Vũ Tràng</Title>
+      <Desc>Môn phái diễn võ chỗ, cung cấp môn hạ đệ tử phân cao thấp.</Desc>
+    </Text>
+    <Text Name="RpgArena_YingTian">
+      <Title>Ứng Thiên Đài</Title>
+      <Desc>Tâm tướng chi khe hở, liên thông vạn giới.</Desc>
+    </Text>
+  </List>
+</Texts>
