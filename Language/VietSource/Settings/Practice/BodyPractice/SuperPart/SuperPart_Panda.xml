@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Panda_1">
+      <Prefix>Hỗn Nguyên</Prefix>
+      <Suffix>thể</Suffix>
+      <Desc>Bí thể lưu truyền trong huyết mạch của thượng cổ tộc Mạch Yêu, dùng sức mạnh của Âm Dương để tôi luyện thân thể, thống nhất toàn thân chân khí, hợp hình mà va chạm, vạn vật đều vỡ vụn.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản của uy lực bí thể +500
+Tỷ lệ xuyên thấu lá chắn linh khí của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản của uy lực bí thể +1500
+Tỷ lệ xuyên thấu lá chắn linh khí của bí thể +10%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Panda_2">
+      <Prefix>Âm Dương</Prefix>
+      <Suffix>bão</Suffix>
+      <Desc>Bí thể lưu truyền trong huyết mạch của thượng cổ tộc Mạch Yêu, cực kỳ giỏi trấn áp pháp bảo. Dùng sức mạnh của Âm để tôi luyện cánh tay trái, dùng sức mạnh của Dương để tôi luyện cánh tay phải, sức mạnh Âm Dương vận chuyển hai cánh tay như cối xay trời đất cuốn lấy, biến kẻ địch thành tro bụi.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản của uy lực bí thể +800
+Tỷ lệ trấn áp pháp bảo của bí thể +30%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản của uy lực bí thể +1600
+Tỷ lệ trấn áp pháp bảo của bí thể +50%</Levels.1.Desc>
+    </Text>
+  </List>
+</Texts>
