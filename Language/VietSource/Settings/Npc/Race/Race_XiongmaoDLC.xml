@@ -1,0 +1,36 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="YGPanda">
+      <DisplayName>Mạch Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Mạch yêu</Desc>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="Panda">
+      <DisplayName>Mạch</DisplayName>
+      <Desc>Phổ thông động vật: Mạch</Desc>
+      <TalkBefore>Ríu rít,</TalkBefore>
+      <TalkAfter>, anh!</TalkAfter>
+      <MaleName>Công</MaleName>
+      <FemaleName>Mẫu</FemaleName>
+    </Text>
+    <Text Name="JYPanda">
+      <DisplayName>Yêu Mạch</DisplayName>
+      <Desc>Chưa giác tỉnh linh trí mà thu được lực lượng động vật: Yêu mạch</Desc>
+      <MaleName>Công</MaleName>
+      <FemaleName>Mẫu</FemaleName>
+    </Text>
+    <Text Name="LsPandaXian">
+      <DisplayName>Thiên Mạch Tiên Tiên</DisplayName>
+      <Desc>Trời mạch Tiên Tiên chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Ríu rít,</TalkBefore>
+      <TalkAfter>, anh!</TalkAfter>
+    </Text>
+    <Text Name="LsPandaXiu">
+      <DisplayName>Thiên Mạch Tu Tu</DisplayName>
+      <Desc>Trời mạch xây một chút chính là giữa thiên địa tự nhiên uẩn sinh kỳ dị giống loài, là một loại nào đó quy tắc cỗ tượng.</Desc>
+      <TalkBefore>Ríu rít,</TalkBefore>
+      <TalkAfter>, anh!</TalkAfter>
+    </Text>
+  </List>
+</Texts>
