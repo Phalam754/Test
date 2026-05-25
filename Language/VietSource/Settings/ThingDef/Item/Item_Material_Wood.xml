@@ -1,0 +1,39 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="WoodBase" sParam="Item">
+      <Item.FabaoSuffix>gỗ, cành, cột, cọc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Wood" sParam="Item">
+      <ThingName>Gỗ thô</ThingName>
+      <Desc>Một loại gỗ tốt, vật liệu chế tạo phổ biến.
+Tính dễ cháy: 80%
+Hệ số tốc độ làm việc của công cụ: 0.8
+Hệ số thuộc tính ngũ hành của vật liệu: 1</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWood" sParam="Item">
+      <ThingName>Gỗ kim tơ cứng</ThingName>
+      <Desc>Loại gỗ kim tơ trăm tuổi quý hiếm, kết cấu cứng và cực kỳ nặng.
+Tính dễ cháy: 60%
+Hệ số tốc độ làm việc của công cụ: 0.8
+Hệ số thuộc tính ngũ hành của vật liệu: 3</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ kim tơ</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWood" sParam="Item">
+      <ThingName>Ngô đồng thần mộc</ThingName>
+      <Desc>Thần mộc nơi phượng hoàng cư ngụ, bề mặt nhẵn bóng như được rửa sạch, kết cấu cực kỳ cứng, giàu linh khí, cực kỳ hiếm có trên thế gian.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 3
+Hệ số thuộc tính ngũ hành của vật liệu: 8</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ ngô đồng</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWood" sParam="Item">
+      <ThingName>Linh mộc</ThingName>
+      <Desc>Loại gỗ được linh khí gột rửa, rất cứng và không dễ cháy.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 2
+Hệ số thuộc tính ngũ hành của vật liệu: 6</Desc>
+      <Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
