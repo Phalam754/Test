@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="Item_BambooShoot" sParam="Item">
+      <ThingName>Trúc Duẩn</ThingName>
+      <Desc>Mấy cây măng, là cây trúc gốc rễ, có thể dùng tới làm đồ ăn, thanh thúy sướng miệng.</Desc>
+      <Item.FabaoSuffix>Tác,Ti</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Bamboo" sParam="Item">
+      <ThingName>Trúc Can</ThingName>
+      <Desc>Một bó cây trúc, có thể dùng đến chế tác cần câu cùng một chút kiến trúc. Chỉ có mạch có thể ăn.</Desc>
+      <Item.FabaoSuffix>Can</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FishStick" sParam="Item">
+      <ThingName>Ngư Can</ThingName>
+      <Desc>Một cây cần câu. Hi hữu loài cá lại càng dễ bị phẩm cấp cao cần câu hấp dẫn. Có chút loài cá sẽ chỉ bị đặc biệt Ngũ Hành cần câu hấp dẫn, đồng thời cũng chỉ tại đặc biệt mùa cùng thời gian ẩn hiện.</Desc>
+      <Item.FabaoSuffix>Can,Ti,Tác</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PandaJade" sParam="Item">
+      <ThingName>Thiên Mạch Ngọc Bội</ThingName>
+      <StoryBnts.0.Name>Tra Khán</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Xem xét trời mạch ngọc bội.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_HorseFromJY_Panda" sParam="Item">
+      <ThingName>Linh Khế: Mạch</ThingName>
+    </Text>
+  </List>
+</Texts>
