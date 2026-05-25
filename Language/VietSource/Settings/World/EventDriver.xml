@@ -1,0 +1,32 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Template">
+      <DisplayName>Mô Bản</DisplayName>
+      <Types.0.DisplayName>Kỳ Ngộ Sự Kiện</Types.0.DisplayName>
+      <Types.0.Desc>Kỳ ngộ sự kiện bao hàm thượng cổ chi thú tung tích, thượng cổ người tu hành hành tung chờ nội dung.</Types.0.Desc>
+      <Types.1.DisplayName>Cường Địch Sự Kiện</Types.1.DisplayName>
+      <Types.1.Desc>Cường địch sự kiện bao hàm cường độ cao người tu hành xâm lấn, yêu thú xâm lấn chờ nội dung.</Types.1.Desc>
+      <Types.2.DisplayName>Hi Hữu Sự Kiện</Types.2.DisplayName>
+      <Types.2.Desc>Hi hữu sự kiện bao hàm cường độ cao thời tiết tiến đến, Linh thú tiến đến, cao cấp bảo vật đào được chờ nội dung.</Types.2.Desc>
+      <Types.3.DisplayName>Bí Văn Sự Kiện</Types.3.DisplayName>
+      <Types.3.Desc>Bí văn sự kiện bao quát động phủ hiện thế, đạo thống hiện thế chờ lịch luyện bí văn.</Types.3.Desc>
+      <Types.4.DisplayName>Phóng Khách Sự Kiện</Types.4.DisplayName>
+      <Types.4.Desc>Khách tới thăm sự kiện bao quát nạn dân gia nhập, người qua đường xin giúp đỡ, tiên hữu đến thăm chờ nội dung.</Types.4.Desc>
+      <Types.5.DisplayName>Địch Nhân Sự Kiện</Types.5.DisplayName>
+      <Types.5.Desc>Địch nhân sự kiện bao hàm người tu hành xâm lấn, dã thú xâm lấn chờ nội dung.</Types.5.Desc>
+      <Types.6.DisplayName>Phổ Thông Sự Kiện</Types.6.DisplayName>
+      <Types.6.Desc>Phổ thông sự kiện bao hàm phổ thông thời tiết tiến đến, môn phái tập tục biến hóa chờ nội dung.</Types.6.Desc>
+      <Types.7.DisplayName>Cao Cấp Sự Kiện</Types.7.DisplayName>
+      <Types.7.Desc>Cao cấp sự kiện bao hàm đặc thù thời tiết tiến đến, bảo vật đào được, linh khí triều tịch chờ nội dung.</Types.7.Desc>
+    </Text>
+    <Text Name="EasyFate">
+      <DisplayName>Ba Lan Bất Kinh</DisplayName>
+    </Text>
+    <Text Name="NormalFate">
+      <DisplayName>Vân Vân Chúng Sinh</DisplayName>
+    </Text>
+    <Text Name="HardFate">
+      <DisplayName>Đại Khởi Đại Lạc</DisplayName>
+    </Text>
+  </List>
+</Texts>
