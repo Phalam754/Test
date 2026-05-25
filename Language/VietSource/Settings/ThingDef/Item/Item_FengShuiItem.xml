@@ -1,0 +1,94 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="FengShuiItem_YinZhang1" sParam="Item">
+      <ThingName>Đạo Đức Ấn</ThingName>
+      <Desc>Truyền lại từ tam thập tam thiên chí bảo, Tam Thanh ấn một trong, có trấn áp phong thuỷ chi diệu dùng.</Desc>
+      <Item.FabaoSuffix>Ấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_YinZhang2" sParam="Item">
+      <ThingName>Nguyên Thủy Ấn</ThingName>
+      <Desc>Truyền lại từ tam thập tam thiên chí bảo, Tam Thanh ấn một trong, có trấn áp phong thuỷ chi diệu dùng.</Desc>
+      <Item.FabaoSuffix>Ấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_YinZhang3" sParam="Item">
+      <ThingName>Linh Bảo Ấn</ThingName>
+      <Desc>Truyền lại từ tam thập tam thiên chí bảo, Tam Thanh ấn một trong, có trấn áp phong thuỷ chi diệu dùng.</Desc>
+      <Item.FabaoSuffix>Ấn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ta1" sParam="Item">
+      <ThingName>Thiên Công Tháp</ThingName>
+      <Desc>Truyền lại từ thượng cổ khai vật tông bảo vật, thần quang oánh nhiên, có trấn áp phong thuỷ chi dụng.</Desc>
+      <Item.FabaoSuffix>Tháp</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ta2" sParam="Item">
+      <ThingName>Vạn Linh Tháp</ThingName>
+      <Desc>Lấy vạn năm Linh Tinh tạo hình kim tháp, linh khí bức người, có thể trấn áp phong thuỷ.</Desc>
+      <Item.FabaoSuffix>Tháp</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ping1" sParam="Item">
+      <ThingName>Hối Âm Bình</ThingName>
+      <Desc>Không biết từ đâu đào được tà vật, có thể tụ tập phong thuỷ sát khí cũng đem nghịch chuyển, mười phần linh dị.</Desc>
+      <Item.FabaoSuffix>Bình</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ding1" sParam="Item">
+      <ThingName>Thập Châu Đỉnh</ThingName>
+      <Desc>Cổ đại tiên nhân tế thiên bảo đỉnh, truyền thuyết có câu Thông Thiên Đạo tác dụng.</Desc>
+      <Item.FabaoSuffix>Đỉnh</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Bei1" sParam="Item">
+      <ThingName>Vô Tự Linh Bi</ThingName>
+      <Desc>Ma Đế giao tích không tạo thành linh bia, trên đó không có chữ, lại có thể phản chiếu chân linh, để cho người ta linh trí mở rộng.</Desc>
+      <Item.FabaoSuffix>Bi</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShiZi1" sParam="Item">
+      <ThingName>Tịch Tà Ngọc Sư Tử</ThingName>
+      <Desc>Lấy lôi đình rèn luyện bảo ngọc điêu khắc thành ngọc thạch sư tử, có thể trừ tà thanh loạn, khiến người tâm thần thư giãn.</Desc>
+      <Item.FabaoSuffix>Sư</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShiTou1" sParam="Item">
+      <ThingName>Bất Chu Nguyên Thạch</ThingName>
+      <Desc>Bất Chu Sơn trung tâm có mang thần lực nham thạch, giàu có sinh sôi chi tức, tưới nhuần sinh linh.</Desc>
+      <Item.FabaoSuffix>Thạch</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_TuHua1" sParam="Item">
+      <ThingName>Tam Tài Âm Dương Bảng</ThingName>
+      <Desc>Ẩn chứa Thiên Địa Nhân tam tài Âm Dương biến đổi chữ quyển, có giấu tinh khí chuyển hóa chi diệu đế.</Desc>
+      <Item.FabaoSuffix>Đồ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShuJi1" sParam="Item">
+      <ThingName>Quần Tiên Lục</ThingName>
+      <Desc>Trên đó vẽ có thật nhiều không cách nào phân biệt đồ hình, nghe nói là đến từ Thiên Đình thực đơn, có thể trấn áp phong thuỷ.</Desc>
+      <Item.FabaoSuffix>Thư,Sách</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_QiJu1" sParam="Item">
+      <ThingName>Tiên Cơ Phổ</ThingName>
+      <Desc>Một trương truyền lại từ thượng cổ thế cuộc, truyền thuyết trong đó hàm ẩn tu hành chi đạo diễn hóa chi huyền cơ. Quan chi khiến người đối tiên đạo gian khổ tràn ngập kính sợ mà vong ngã đầu nhập.</Desc>
+      <Item.FabaoSuffix>Phổ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_FuZhou1" sParam="Item">
+      <ThingName>Tỏa Âm Phù</ThingName>
+      <Desc>Đến từ Thượng Cổ ngự Thi Tông Linh phù, tích lũy nặng nề thi khí đã vô pháp đeo. Nhưng nếu như bố trí thỏa đáng lại có thể trấn áp phong thuỷ.</Desc>
+      <Item.FabaoSuffix>Phù</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Jian1" sParam="Item">
+      <ThingName>Linh Bảo Kiếm</ThingName>
+      <Desc>Ẩn chứa tạo vật chi đạo bảo kiếm, không thể dùng đến giết địch, nhưng lại có thể trấn áp phong thuỷ.</Desc>
+      <Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_HuLu1" sParam="Item">
+      <ThingName>Đâu Suất Hồ Lô</ThingName>
+      <Desc>Truyền thuyết Đâu Suất Cung bên trong dùng để chứa thuốc hồ lô, không biết sao lưu lạc nhân gian, có thể trấn áp phong thuỷ.</Desc>
+      <Item.FabaoSuffix>Hồ</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_BaoBei1" sParam="Item">
+      <ThingName>Xích Long Chi Căn</ThingName>
+      <Desc>Thượng cổ Xích Long chi căn, truyền thuyết Xích Long chính là thiên địa chân dương thai nghén, vật này mặc dù tính liệt, nhưng trong đó ẩn chứa chi chân dương chi tức lại nhưng gấp rút người tu hành.</Desc>
+      <Item.FabaoSuffix>Căn</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_SheLi1" sParam="Item">
+      <ThingName>Tuệ Quang</ThingName>
+      <Desc>Thượng cổ thần tu tới bảo, có thể trấn áp phong thuỷ. Thần tu lưu truyền từ Thượng Cổ, cận đại truyền nhân bảo vật gần như tuyệt tích, vật này đào được tựa hồ tỏ rõ lấy cái gì.</Desc>
+      <Item.FabaoSuffix>Xá Lợi</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>
