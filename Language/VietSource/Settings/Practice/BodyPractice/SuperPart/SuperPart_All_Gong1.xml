@@ -1,0 +1,182 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Gong_1_1">
+      <Prefix>Hỗn Nguyên</Prefix>
+      <Suffix>Tay trái</Suffix>
+      <Desc>Đây là bí thể nhập môn phổ biến trong giới luyện thể, rất dễ luyện thành, các mặt tương đối cân bằng và có tiềm năng phát triển lớn.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +150
+Giá trị cơ bản độ dẻo dai bí thể +100
+Tỉ lệ tấn công trúng mục tiêu của bí thể +30%
+Tỉ lệ phòng thủ thành công của bí thể +10%
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +1%
+Tỉ lệ trấn áp pháp bảo của bí thể +1%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản sức mạnh bí thể +200</Levels.2.Desc>
+      <Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+      <Levels.3.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +4%</Levels.3.Desc>
+      <Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+      <Levels.4.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.4.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_1_1">
+      <Prefix>Hỗn Nguyên</Prefix>
+      <Suffix>Tay phải</Suffix>
+      <Desc>Đây là bí thể nhập môn phổ biến trong giới luyện thể, rất dễ luyện thành, các mặt tương đối cân bằng và có tiềm năng phát triển lớn.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +150
+Giá trị cơ bản độ dẻo dai bí thể +100
+Tỉ lệ tấn công trúng mục tiêu của bí thể +30%
+Tỉ lệ phòng thủ thành công của bí thể +10%
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +1%
+Tỉ lệ trấn áp pháp bảo của bí thể +1%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản sức mạnh bí thể +200</Levels.2.Desc>
+      <Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+      <Levels.3.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +4%</Levels.3.Desc>
+      <Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+      <Levels.4.Desc>Giá trị cơ bản sức mạnh bí thể +500</Levels.4.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_2">
+      <Prefix>Lục Hợp Huyền Thông</Prefix>
+      <Suffix>Thước</Suffix>
+      <Desc>Lấy hai cẳng tay làm trọng tâm, tay trái hòa hợp ba âm là Kim, Thủy, Nguyệt; tay phải hòa hợp ba dương là Mộc, Hỏa, Nhật. Lấy thắt lưng làm trục, Huyền Thông hóa một, rất giỏi trấn áp pháp bảo của kẻ địch.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +20%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_3">
+      <Prefix>Ngũ Hành</Prefix>
+      <Suffix>Quyền</Suffix>
+      <Desc>Dùng sức mạnh của ngũ tạng ngũ hành để thúc đẩy hai nắm đấm, thi triển tấn công bằng ngũ pháp là Phách, Băng, Toàn, Pháo, Hoành. Rất giỏi tấn công vào điểm yếu của lá chắn linh khí.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +15%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_4">
+      <Prefix>Ưng Hùng</Prefix>
+      <Suffix>Hợp Hình</Suffix>
+      <Desc>Bí pháp tối cao được truyền lại từ Thái Cổ Hình Ý Lục Hợp Chân Thể. Luyện cơ lưng đến mức cực hạn, như cánh đại bàng. Luyện hai vai đến mức cực hạn, như thân gấu. Dùng sức mạnh của eo và bụng, vận xương sống như rồng, hợp vai lại mà va chạm, kẻ cản đường đều bị đánh tan.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +1000
+Tỉ lệ tấn công trúng mục tiêu của bí thể +20%
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +20%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_5">
+      <Prefix>Chân Dương Linh Lung</Prefix>
+      <Suffix>Tâm</Suffix>
+      <Desc>Dùng sức mạnh chí dương để luyện trái tim, tăng cường sức bộc phát của người luyện thể một cách đáng kể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tốc độ tôi luyện +20%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Hệ số hiệu quả của cơn thịnh nộ kịch liệt +50%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_6">
+      <Prefix>Huyền Âm Lưu Ly</Prefix>
+      <Suffix>Tâm</Suffix>
+      <Desc>Dùng sức mạnh chí âm để luyện trái tim, tăng cường linh tính của người luyện thể một cách đáng kể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ né tránh trong chiến đấu +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tiêu hao Chân Khí trấn áp pháp bảo -100%</Levels.1.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_7">
+      <Prefix>Thiên Long</Prefix>
+      <Suffix>Tích</Suffix>
+      <Desc>Mô phỏng thân rồng, lấy đầu, cột sống và xương chậu làm trọng tâm, thông suốt toàn bộ xương cốt trong cơ thể. Khi cột sống chuyển động sẽ điều khiển toàn thân, giúp nâng cao hiệu quả tấn công của cơ thể.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Gia tăng sức mạnh bí thể tổng thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Gia tăng sức mạnh bí thể tổng thể +5%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Gia tăng sức mạnh bí thể tổng thể +5%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_8">
+      <Prefix>Thiên Địa</Prefix>
+      <Suffix>Hồng Lô</Suffix>
+      <Desc>Bí pháp tu luyện bí thể được tạo ra dựa trên nguyên lý Giao Long Hổ Kết Đan của người tu luyện Kim Đan. Dùng pháp dẫn sức mạnh hỏa của ngũ tạng và sức mạnh thủy của thận tụ vào dạ dày, biến dạ dày thành lò luyện, tăng cường đáng kể tốc độ tiêu hóa thức ăn và sản sinh tinh nguyên. Luyện đến cực hạn có thể lĩnh ngộ phép Thôn Nạp Kình Tức, nhanh chóng luyện hóa tinh hoa từ hư không.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Gia tăng tiêu hao thức ăn +50%
+Gia tăng bổ sung tinh nguyên +50%
+Giá trị tối đa độ no +25</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tăng tỉ lệ nhận được tinh hoa sau khi nuốt +50%
+Tỉ lệ tăng số lượng tinh hoa nhận được sau khi nuốt +25%
+Giá trị tối đa độ no +50</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Gia tăng tiêu hao thức ăn +100%
+Gia tăng bổ sung tinh nguyên +100%
+Giá trị tối đa độ no +75</Levels.2.Desc>
+      <Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+      <Levels.3.Desc>Tỉ lệ tăng tỉ lệ nhận được tinh hoa sau khi nuốt +100%
+Tỉ lệ tăng số lượng tinh hoa nhận được sau khi nuốt +50%
+Giá trị tối đa độ no +100</Levels.3.Desc>
+      <Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+      <Levels.4.Desc>Mở khóa thần thông: Thôn Nạp Kình Tức Pháp</Levels.4.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_9">
+      <Prefix>Huyền Mộc Bàn Căn</Prefix>
+      <Suffix>Thối</Suffix>
+      <Desc>Bí thể nhập môn của người luyện thể, rất dễ luyện thành. Dùng sức mạnh mộc linh để tôi luyện hai chân, mượn ý mộc khắc thổ để cắm rễ vào đất, khi thi triển bí thể này sẽ vững như cây cổ thụ bám rễ sâu, bất động trước mọi phong ba.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản sức mạnh bí thể +100
+Giá trị cơ bản độ dẻo dai bí thể +150
+Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +10%
+Tỉ lệ xuyên giáp lá chắn linh khí của bí thể +1%
+Tỉ lệ trấn áp pháp bảo của bí thể +1%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ phòng thủ thành công của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản độ dẻo dai bí thể +200</Levels.2.Desc>
+      <Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+      <Levels.3.Desc>Tỉ lệ trấn áp pháp bảo của bí thể +4%</Levels.3.Desc>
+      <Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+      <Levels.4.Desc>Giá trị cơ bản độ dẻo dai bí thể +500</Levels.4.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_10">
+      <Prefix>Huyền Quy</Prefix>
+      <Suffix>Giáp</Suffix>
+      <Desc>Mô phỏng mai rùa đen, lấy xương sườn làm trọng tâm, tôi luyện cơ bắp ở eo, lưng, ngực và bụng thành một khối thống nhất, giống như mai rùa đen, có thể hóa giải mọi ngoại lực.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản độ dẻo dai bí thể +50</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ phòng thủ thành công của bí thể +15%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Giá trị cơ bản độ dẻo dai bí thể +100</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_11">
+      <Prefix>Lục Ngự Trích Lôi</Prefix>
+      <Suffix>Thủ trái</Suffix>
+      <Desc>Dùng bí pháp luyện xương hai tay đến mức rỗng ruột, khi được Chân Khí thúc đẩy sẽ trở nên cực kỳ linh hoạt, thậm chí có thể hái sấm sét trong hư không.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.2.Desc>
+    </Text>
+    <Text Name="SuperPart_Gong_1_11_1">
+      <Prefix>Lục Ngự Trích Lôi</Prefix>
+      <Suffix>Thủ phải</Suffix>
+      <Desc>Dùng bí pháp luyện xương hai tay đến mức rỗng ruột, khi được Chân Khí thúc đẩy sẽ trở nên cực kỳ linh hoạt, thậm chí có thể hái sấm sét trong hư không.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỉ lệ tấn công trúng mục tiêu của bí thể +5%
+Tỉ lệ phòng thủ thành công của bí thể +5%</Levels.2.Desc>
+    </Text>
+  </List>
+</Texts>
