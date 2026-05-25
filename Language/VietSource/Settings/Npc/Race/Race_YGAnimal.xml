@@ -1,0 +1,88 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="YGRabbit">
+      <DisplayName>Thỏ Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Thỏ yêu</Desc>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGChicken">
+      <DisplayName>Kê Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Kê Yêu</Desc>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+      <TalkBefore>Kít,</TalkBefore>
+      <TalkAfter>Kít!</TalkAfter>
+    </Text>
+    <Text Name="YGWolf">
+      <DisplayName>Lang Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Lang yêu</Desc>
+      <TalkBefore>Ngao,</TalkBefore>
+      <TalkAfter>Ô!</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGSnake">
+      <DisplayName>Xà Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Xà yêu</Desc>
+      <TalkBefore>Tê,</TalkBefore>
+      <TalkAfter>Tê</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGBoar">
+      <DisplayName>Trư Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Trư yêu</Desc>
+      <TalkBefore>Hừ,</TalkBefore>
+      <TalkAfter>Hừ</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGBear">
+      <DisplayName>Hùng Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Gấu yêu</Desc>
+      <TalkBefore>Ngao,</TalkBefore>
+      <TalkAfter>Ngao</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGTurtle">
+      <DisplayName>Quy Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Quy yêu</Desc>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGFrog">
+      <DisplayName>Oa Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Con ếch yêu</Desc>
+      <TalkBefore>Oa,</TalkBefore>
+      <TalkAfter>Oa</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGCat">
+      <DisplayName>Miêu Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Miêu yêu</Desc>
+      <TalkBefore>Meo,</TalkBefore>
+      <TalkAfter>Meo</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGCattle">
+      <DisplayName>Ngưu Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Ngưu yêu</Desc>
+      <TalkBefore>Bò....ò...,</TalkBefore>
+      <TalkAfter>Bò....ò...!</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+    <Text Name="YGTiger">
+      <DisplayName>Hổ Yêu</DisplayName>
+      <Desc>Thức tỉnh linh trí mà biến hóa là yêu: Hổ yêu</Desc>
+      <TalkBefore>Ngao ~</TalkBefore>
+      <TalkAfter>Ngao!</TalkAfter>
+      <MaleName>Nam</MaleName>
+      <FemaleName>Nữ</FemaleName>
+    </Text>
+  </List>
+</Texts>
