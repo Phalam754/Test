@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse_1">
+			<DisplayName>Phong Linh Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phong Linh Thuật\nDùng lên yêu thú đang hôn mê hoặc nằm gục có cảnh giới thấp hơn mình, phong ấn chúng thành khế ước linh thú.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing1">
+			<DisplayName>Huyền Hồn Tạo Mệnh</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Huyền Hồn Tạo Mệnh\nTiêu hao 7 U Phách và 3 Linh Phách, thử thông linh cho vật phẩm mục tiêu. Kết quả thông linh cần một khoảng thời gian mới xuất hiện. Vật phẩm đang trong quá trình thông linh không thể được thông linh lại. Đạo hạnh của người thi pháp càng cao, vật phẩm được thông linh càng nhiều lần, càng dễ thành công.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing2">
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Mệnh Hỏa Trúc Linh\nTiêu hao 10 năm tuổi thọ và 1 Nguyên Linh Chi Phách, thử thông linh cho kiến trúc mục tiêu. Kết quả thông linh cần một khoảng thời gian mới xuất hiện. Kiến trúc đang trong quá trình thông linh không thể được thông linh lại. Đạo hạnh của người thi pháp càng cao, kiến trúc được thông linh càng nhiều lần, càng dễ thành công.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ZaoHuaSuTi">
+			<DisplayName>Tạo Hóa Tố Thể</DisplayName>
+			<Desc>Chỉ có thể tiến giai ở Nguyên Thần kỳ.</Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tạo Hóa Tố Thể\nTiêu hao một Tạo Hóa Ngọc Tử, tái tạo lại tuổi của mục tiêu về 14 tuổi, và khôi phục tất cả các bộ phận cơ thể đã mất.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Nguyên Linh Bổ Thiên Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Nguyên Linh Bổ Thiên Quyết\nDùng lên phôi bí bảo, tiêu hao 1 Nguyên Linh Chi Phách, khiến điều kiện kích hoạt của nó được thỏa mãn ngay lập tức.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
