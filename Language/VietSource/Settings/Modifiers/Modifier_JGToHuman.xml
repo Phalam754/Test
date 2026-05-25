@@ -1,0 +1,28 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FoodToHuman">
+      <DisplayName>Thực Vật Tinh Quái</DisplayName>
+      <Desc>Trời sinh có được cao chịu phục năng lực.</Desc>
+    </Text>
+    <Text Name="LingStoneToHuman">
+      <DisplayName>Linh Thạch Tinh Quái</DisplayName>
+      <Desc>Căn bản linh khí trời sinh rất cao.</Desc>
+    </Text>
+    <Text Name="FabaoToHuman">
+      <DisplayName>Pháp Bảo Tinh Quái</DisplayName>
+      <Desc>Pháp bảo linh khí tốc độ khôi phục cùng chuyển đổi tỉ suất trời sinh siêu cường.</Desc>
+    </Text>
+    <Text Name="DanToHuman">
+      <DisplayName>Đan Dược Thành Linh</DisplayName>
+      <Desc>Lần tiếp theo phục dụng linh đan dược vật không có tính kháng dược.</Desc>
+    </Text>
+    <Text Name="PlantToHuman">
+      <DisplayName>Tự Ngã Thành Trường</DisplayName>
+      <Desc>Mỗi ngày đều sẽ chậm chạp trưởng thành.</Desc>
+    </Text>
+    <Text Name="BuildToHuman">
+      <DisplayName>Tự Ngã Tu Phục</DisplayName>
+      <Desc>Trước mắt chữa trị độ: {0}\n Đương chữa trị độ đầy 100 Sau, liền sẽ chữa trị tất cả mất đi tứ chi, cùng làm tích lũy chữa trị độ về không.</Desc>
+    </Text>
+  </List>
+</Texts>
