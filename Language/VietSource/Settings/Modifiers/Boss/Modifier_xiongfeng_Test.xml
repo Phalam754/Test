@@ -1,0 +1,23 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Xiongfeng_Test">
+      <DisplayName>Hung Phượng</DisplayName>
+    </Text>
+    <Text Name="Boss_Xiongfeng_Huofeng_Test">
+      <DisplayName>Chân Diễm Hình Thái</DisplayName>
+      <Desc>Thật diễm hình thái sẽ kéo dài tiêu hao hỏa linh, kết thúc lúc lại thu về y nguyên tồn tại Hỏa Vũ cũng khôi phục linh khí.</Desc>
+    </Text>
+    <Text Name="Boss_TestJueSe1">
+      <DisplayName>Giác Sắc Trắc Thí</DisplayName>
+    </Text>
+    <Text Name="Boss_JinGong1">
+      <DisplayName>Giác Sắc Trắc Thí Tiến Công</DisplayName>
+    </Text>
+    <Text Name="Boss_JinGong2">
+      <DisplayName>Giác Sắc Trắc Thí Tiến Công Hồi Cổn</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong1">
+      <DisplayName>Giác Sắc Tiêu Chuẩn Hậu Kỳ Số Trị</DisplayName>
+    </Text>
+  </List>
+</Texts>
