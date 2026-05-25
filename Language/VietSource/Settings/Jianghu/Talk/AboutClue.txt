@@ -1,0 +1,10 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数	文本参数
+AboutClue_KnowClue	0	[NAME] Nói bóng nói gió hỏi thăm liên quan tới [TXT] Manh mối.	Ân, ngươi đã nói qua.	Ngươi thế mà cũng biết chuyện này? Việc này nói rất dài dòng......	Ta không biết ngươi đang nói cái gì.		
+AboutClue_KnowSecrect	0	[NAME] Nói bóng nói gió hỏi thăm liên quan tới [TXT] Manh mối.	Ân, ngươi đã nói qua.	Ta... Ta cái gì cũng không biết!	Ta không biết ngươi đang nói cái gì		
+AboutClue_KnowOther	0	[NAME] Nói bóng nói gió hỏi thăm liên quan tới [TXT] Manh mối.	Ân, ngươi đã nói qua.	A? Ta còn thực sự chưa từng nghe qua, bất quá ai còn không có điểm bí mật chứ?	A? Cái này nghe còn rất mơ hồ, ngươi cao hứng liền tốt.		
+AboutClue_KnowNothing	0	[NAME] Nói bóng nói gió hỏi thăm liên quan tới [TXT] Manh mối.	A a, ta đã biết a.	Còn có loại sự tình này! Hôm nay nhờ hồng phúc của ngươi xem như thêm kiến thức.	Làm sao có thể có loại sự tình này? Ta là thật không tin, ngươi khẳng định suy nghĩ nhiều.		
+							
+AboutSecret_KnowClue	0	Đối với [TXT] Ngươi biết chút gì?	Ân, ngươi đã nói qua.	Ta... Ta cái gì cũng không biết!	Ta không biết ngươi đang nói cái gì		
+AboutSecret_KnowOther	0	[TXT] Ngươi biết a?	Ân, ngươi đã nói qua.	A? Ta còn thực sự chưa từng nghe qua, bất quá ai còn không có điểm bí mật chứ?	A? Cái này nghe còn rất mơ hồ, ngươi cao hứng liền tốt.		
+AboutSecret_KnowNothing	0	Liên quan tới [TXT] Có cái đại bí mật!	A a, ta đã biết a.	Còn có loại sự tình này! Hôm nay nhờ hồng phúc của ngươi xem như thêm kiến thức.	Làm sao có thể có loại sự tình này? Ta là thật không tin, ngươi khẳng định suy nghĩ nhiều.		
