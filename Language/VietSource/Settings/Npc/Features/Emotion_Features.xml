@@ -1,0 +1,93 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Pessimism">
+      <DisplayName>Bi Quan</DisplayName>
+      <Desc>Người này rất bi quan, luôn nghĩ đến những điều không tốt.</Desc>
+    </Text>
+    <Text Name="Optimistic">
+      <DisplayName>Lạc Quan</DisplayName>
+      <Desc>Người này rất lạc quan, có thể tự mình làm mình vui.</Desc>
+    </Text>
+    <Text Name="Numbness">
+      <DisplayName>Mất Cảm Giác</DisplayName>
+      <Desc>Cuộc sống vất vả khiến tinh thần người này trở nên chai sạn, [IT] không suy nghĩ, cũng không vì cảm xúc quá thấp mà ngừng việc. Giảm 50% ngộ tính, hệ số khuếch đại cảm xúc -0.3.</Desc>
+    </Text>
+    <Text Name="Sensitive">
+      <DisplayName>Nhạy Cảm</DisplayName>
+      <Desc>[IT] đầy tò mò về thế giới, đặc biệt không thể chịu đựng cuộc sống tẻ nhạt. Hệ số khuếch đại cảm xúc +0.3.</Desc>
+    </Text>
+    <Text Name="Enthusiasm">
+      <DisplayName>Nhiệt Tình</DisplayName>
+      <Desc>[IT] rất nhiệt tình với mọi người. Tốc độ thay đổi hảo cảm +0.5.</Desc>
+    </Text>
+    <Text Name="Distrust">
+      <DisplayName>Lạnh Lùng</DisplayName>
+      <Desc>[IT] không tin có tình cảm thật sự giữa người với người, không tin tưởng bất kỳ ai. Tốc độ thay đổi hảo cảm -0.5.</Desc>
+    </Text>
+    <Text Name="Strong">
+      <DisplayName>Kiên Cường</DisplayName>
+      <Desc>[IT] có ý chí kiên định, chịu đựng được đau khổ. Ngưỡng chịu đau +0.5.</Desc>
+    </Text>
+    <Text Name="Weak">
+      <DisplayName>Yếu Đuối</DisplayName>
+      <Desc>[IT] chưa từng nếm trải khổ đau, đau đớn nhẹ cũng khiến [IT] không chịu nổi. Ngưỡng chịu đau -0.5.</Desc>
+    </Text>
+    <Text Name="BadMentality">
+      <DisplayName>Nôn Nóng</DisplayName>
+      <Desc>[IT] luôn nóng nảy, không thể tĩnh tâm làm việc. Hệ số khuếch đại cảm xúc +0.3, giá trị cơ bản của tâm cảnh -5.</Desc>
+    </Text>
+    <Text Name="GoodMentality">
+      <DisplayName>Tâm Như Nước Lặng</DisplayName>
+      <Desc>[IT] có tâm thái rất tốt, không vui vì vật ngoài thân, không buồn vì bản thân. Hệ số khuếch đại cảm xúc -0.3, giá trị cơ bản của tâm cảnh +5.</Desc>
+    </Text>
+    <Text Name="Rugged">
+      <DisplayName>Cẩu Thả</DisplayName>
+      <Desc>[IT] làm việc qua loa, luôn làm xong rất nhanh, không chú trọng chi tiết. Hệ số tốc độ làm việc toàn cục +0.2, hệ số hiệu quả điều trị dự kiến -0.3, hệ số tỷ lệ thành công điều trị -0.3, hệ số tỷ lệ thành công nấu ăn -0.3, hệ số tỷ lệ thành công xây dựng -0.3, hệ số giá trị gia tăng chất lượng chế tạo -0.3, hệ số chất lượng sản phẩm dự kiến -0.3, hệ số tỷ lệ thành công cứu trợ -0.3.</Desc>
+    </Text>
+    <Text Name="Careful">
+      <DisplayName>Cẩn Thận</DisplayName>
+      <Desc>[IT] làm việc rất cẩn thận và thận trọng, làm chậm nhưng làm tốt. Hệ số tốc độ làm việc toàn cục -0.2, hệ số hiệu quả điều trị dự kiến +0.3, hệ số tỷ lệ thành công điều trị +0.3, hệ số tỷ lệ thành công nấu ăn +0.3, hệ số tỷ lệ thành công xây dựng +0.3, hệ số giá trị gia tăng chất lượng chế tạo +0.3, hệ số chất lượng sản phẩm dự kiến +0.3, hệ số tỷ lệ thành công cứu trợ +0.3.</Desc>
+    </Text>
+    <Text Name="Lazy">
+      <DisplayName>Lười Biếng</DisplayName>
+      <Desc>[IT] rất lười, không muốn làm việc. Hệ số tốc độ làm việc toàn cục -0.2.</Desc>
+    </Text>
+    <Text Name="Industrious">
+      <DisplayName>Chăm Chỉ</DisplayName>
+      <Desc>[IT] rất chăm chỉ, làm việc rất hiệu quả. Hệ số tốc độ làm việc toàn cục +0.2.</Desc>
+    </Text>
+    <Text Name="Feminization">
+      <DisplayName>Tính Nữ</DisplayName>
+      <Desc>Tuy [IT] là đàn ông, nhưng cử chỉ và lời nói lại rất nữ tính.</Desc>
+    </Text>
+    <Text Name="Masculinity">
+      <DisplayName>Tính Nam</DisplayName>
+      <Desc>Tuy [IT] là phụ nữ, nhưng tính cách và phong thái lại rất nam tính.</Desc>
+    </Text>
+    <Text Name="Affinity">
+      <DisplayName>Gần Gũi</DisplayName>
+      <Desc>Người này có một sức hút khiến người ta muốn lại gần.</Desc>
+    </Text>
+    <Text Name="Cruel">
+      <DisplayName>Khắc Nghiệt</DisplayName>
+      <Desc>Người này có tính cách khắc nghiệt, khiến người khác rất khó chịu.</Desc>
+    </Text>
+    <Text Name="HeartKnot">
+      <DisplayName>Tâm Kết</DisplayName>
+      <Desc>Người này có tâm kết rất nặng, cả ngày ủ rũ, ngủ không ngon, bị ác mộng hành hạ. Hệ số phục hồi thể lực -0.4, hệ số tỷ lệ xảy ra ác mộng +30.</Desc>
+    </Text>
+    <Text Name="Depressed">
+      <DisplayName>Trầm Uất</DisplayName>
+      <Desc>Sau cú sốc tình cảm lớn, người này sống trong trầm uất suốt nhiều năm, không thể thoát ra.</Desc>
+    </Text>
+    <Text Name="Anatman">
+      <DisplayName>Thiên Nhân Hợp Nhất</DisplayName>
+      <Desc>Tu vi tâm cảnh của người này đã đạt đến cảnh giới vô ngã. Giá trị cơ bản của tâm cảnh +10.</Desc>
+    </Text>
+    <Text Name="FearFlame">
+      <DisplayName>Sợ Lửa</DisplayName>
+      <Desc>Người này đặc biệt sợ lửa, không thể làm công việc liên quan đến lửa.
+Công việc bị cấm: Nấu ăn, Thợ rèn, Dập lửa</Desc>
+    </Text>
+  </List>
+</Texts>
