@@ -1,0 +1,189 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FanRenEvent">
+      <DisplayName>Phàm Gian Du Lịch</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, tại gặp được cần cùng phàm nhân liên hệ tình huống lúc khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Ôn Hòa Đối Đãi</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại bọn hắn gặp được khó khăn lúc làm viện thủ, tại làm sự tình lúc tận lực không muốn đối tạo thành ảnh hướng trái chiều.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ngã Hành Ngã Tố</Selection.1.DisplayName>
+      <Selection.1.Desc>Tùy ý mà vì đó, cũng không thèm để ý đến cùng sẽ đối phàm nhân sinh ra như thế nào ảnh hưởng.</Selection.1.Desc>
+      <Selection.2.DisplayName>Vô Thị</Selection.2.DisplayName>
+      <Selection.2.Desc>Những này thế gian việc vặt cũng không đáng giá tốn hao thời gian.</Selection.2.Desc>
+    </Text>
+    <Text Name="JiangHuFenZheng">
+      <DisplayName>Giang Hồ Phân Tranh</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, tại gặp được cần cùng người tu hành liên hệ tình huống lúc khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Chính Phái Trung Nhân</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại gặp được loại sự kiện này lúc, ưu tiên nếm thử lấy chính phái thân phận đi xử lý.</Selection.0.Desc>
+      <Selection.1.DisplayName>Tà Phái Trung Nhân</Selection.1.DisplayName>
+      <Selection.1.Desc>Tại gặp được loại sự kiện này lúc, ưu tiên nếm thử lấy tà phái thân phận đi xử lý.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được loại sự tình này chủ động né tránh, không nên gây chuyện.</Selection.2.Desc>
+    </Text>
+    <Text Name="FindTreasure">
+      <DisplayName>Tiên Gia Cơ Duyên</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, gặp được Tiên gia cơ duyên lúc chỗ khai thác hành vi.</Desc>
+      <Selection.0.DisplayName>Tham Tầm Cơ Duyên</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại gặp được loại sự kiện này lúc, ưu tiên chủ động thăm dò cơ duyên.</Selection.0.Desc>
+      <Selection.1.DisplayName>Tránh Né</Selection.1.DisplayName>
+      <Selection.1.Desc>Gặp được loại sự tình này chủ động né tránh, không nên gây chuyện.</Selection.1.Desc>
+    </Text>
+    <Text Name="FindProduce">
+      <DisplayName>Thu Tập Vật Tư</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, gặp được nơi đó đặc sản vật tư lúc khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thu Tập Vật Tư</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại gặp được loại sự kiện này lúc, chủ động thu thập những vật tư này.</Selection.0.Desc>
+      <Selection.1.DisplayName>Vô Thị</Selection.1.DisplayName>
+      <Selection.1.Desc>Gặp được loại sự tình này không cần lãng phí thời gian.</Selection.1.Desc>
+    </Text>
+    <Text Name="FindHighProduce">
+      <DisplayName>Thu Tập Bảo Vật</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, gặp được nơi đó đặc sản hi hữu bảo vật lúc khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thường Thí Sưu Tầm</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại gặp được loại sự kiện này lúc, nếm thử đi tìm kiếm bảo vật.</Selection.0.Desc>
+      <Selection.1.DisplayName>Vô Thị</Selection.1.DisplayName>
+      <Selection.1.Desc>Gặp được loại sự tình này không cần lãng phí thời gian.</Selection.1.Desc>
+    </Text>
+    <Text Name="FindSecret">
+      <DisplayName>Kỳ Văn Dật Sự</DisplayName>
+      <Desc>Du lịch thiên hạ lúc, gặp được một chút tin đồn kỳ văn dị sự lúc thái độ.</Desc>
+      <Selection.0.DisplayName>Đả Thính Tham Tác</Selection.0.DisplayName>
+      <Selection.0.Desc>Tại gặp được loại sự kiện này lúc, nếm thử đi thăm dò hỏi thăm một chút tình huống cặn kẽ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Vô Thị</Selection.1.DisplayName>
+      <Selection.1.Desc>Gặp được loại sự tình này không cần lãng phí thời gian.</Selection.1.Desc>
+    </Text>
+    <Text Name="School_All">
+      <DisplayName>Môn Phái Ngoại Giao</DisplayName>
+      <Desc>Logic bản thể</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_1">
+      <DisplayName>Môn Phái Ngoại Giao - Đan Hà Động Thiên</DisplayName>
+      <Desc>Tại cùng đan hà động thiên liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_2">
+      <DisplayName>Môn Phái Ngoại Giao - Côn Lôn Cung</DisplayName>
+      <Desc>Tại cùng Côn Luân cung liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_3">
+      <DisplayName>Môn Phái Ngoại Giao - Cực Thiên Cung</DisplayName>
+      <Desc>Tại cùng cực Thiên Cung liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_4">
+      <DisplayName>Môn Phái Ngoại Giao - Tử Tiêu Tông</DisplayName>
+      <Desc>Tại cùng Tử Tiêu tông liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_5">
+      <DisplayName>Môn Phái Ngoại Giao - Huyền Nhất Đạo</DisplayName>
+      <Desc>Tại cùng Huyền Nhất đạo liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_6">
+      <DisplayName>Môn Phái Ngoại Giao - Thanh Liên Kiếm Tông</DisplayName>
+      <Desc>Tại cùng Thanh Liên Kiếm Tông liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_7">
+      <DisplayName>Môn Phái Ngoại Giao - Tê Hà Động Thiên</DisplayName>
+      <Desc>Tại cùng Tê Hà động thiên liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_8">
+      <DisplayName>Môn Phái Ngoại Giao - Bách Man Sơn</DisplayName>
+      <Desc>Tại cùng Bách Man Sơn liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_9">
+      <DisplayName>Môn Phái Ngoại Giao - Thất Thiên Ổ</DisplayName>
+      <Desc>Tại cùng bảy thiên ổ liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_10">
+      <DisplayName>Môn Phái Ngoại Giao - Thất Sát Ma Cung</DisplayName>
+      <Desc>Tại cùng Thất Sát Ma Cung liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_11">
+      <DisplayName>Môn Phái Ngoại Giao - Hợp Hoan Tông</DisplayName>
+      <Desc>Tại cùng Hợp Hoan Tông liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="School_12">
+      <DisplayName>Môn Phái Ngoại Giao - Vạn Yêu Điện</DisplayName>
+      <Desc>Tại cùng vạn Yêu Điện liên hệ lúc, ta phái đệ tử khai thác thái độ.</Desc>
+      <Selection.0.DisplayName>Thiện Ý</Selection.0.DisplayName>
+      <Selection.0.Desc>Dùng thân mật thái độ cùng bọn hắn liên hệ.</Selection.0.Desc>
+      <Selection.1.DisplayName>Ác Ý</Selection.1.DisplayName>
+      <Selection.1.Desc>Dùng cừu thị thái độ cùng bọn hắn liên hệ.</Selection.1.Desc>
+      <Selection.2.DisplayName>Tránh Né</Selection.2.DisplayName>
+      <Selection.2.Desc>Gặp được bọn hắn người chủ động tránh lui, tận lực né tránh.</Selection.2.Desc>
+    </Text>
+    <Text Name="lingguangyishan">
+      <DisplayName>Linh Quang Nhất Thiểm</DisplayName>
+    </Text>
+  </List>
+</Texts>
