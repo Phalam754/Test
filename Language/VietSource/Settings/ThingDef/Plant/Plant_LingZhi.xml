@@ -1,0 +1,54 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="LingZhi_Huo" sParam="Plant">
+      <ThingName>Hỏa linh căn - Cây Chu Quả</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Chu Quả. Cây cần được trồng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ. Do đặc tính đặc biệt, cây chỉ có thể sinh trưởng trong môi trường có nhiệt độ trên [temperature]200[/temperature].\nNhiệt độ trung tâm 200, phạm vi 5, nhiệt độ phòng 600.\nLần đầu tiên linh tính hoặc sát tính đạt 100%, nếu có nhân vật tu luyện công pháp thuộc tính Hỏa ở gần đó, có thể lĩnh ngộ được bản nguyên chân pháp hoặc nghịch nguyên chân pháp. Cơ duyên và ngộ tính càng cao thì càng dễ lĩnh ngộ.\nKhi linh căn trưởng thành sẽ chiêu dụ kẻ địch tấn công.\nSau khi linh thảo trưởng thành, nếu không thu hoạch, mỗi năm vào mùa xuân đều có cơ hội sinh ra rễ phụ ở những vị trí thích hợp không có sàn nhà gần đó.</Desc>
+    </Text>
+    <Text Name="LingZhi_Jin" sParam="Plant">
+      <ThingName>Kim linh căn - Lang Nha thần mộc</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Lang Nha Quả. Cây cần được trồng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ. Cây rất mẫn cảm với nhiệt độ cao nhưng khá chịu lạnh, chỉ có thể sinh trưởng trong môi trường có nhiệt độ dưới [temperature]20[/temperature].\nLần đầu tiên linh tính hoặc sát tính đạt 100%, nếu có nhân vật tu luyện công pháp thuộc tính Kim ở gần đó, có thể lĩnh ngộ được bản nguyên chân pháp hoặc nghịch nguyên chân pháp. Cơ duyên và ngộ tính càng cao thì càng dễ lĩnh ngộ.\nKhi linh căn trưởng thành sẽ chiêu dụ kẻ địch tấn công.\nSau khi linh thảo trưởng thành, nếu không thu hoạch, mỗi năm vào mùa xuân đều có cơ hội sinh ra rễ phụ ở những vị trí thích hợp không có sàn nhà gần đó.</Desc>
+    </Text>
+    <Text Name="LingZhi_Mu" sParam="Plant">
+      <ThingName>Mộc linh căn - Mộc Khô đằng</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Mộc Khô đằng. Cây cần được trồng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ. Yêu cầu về nhiệt độ sinh trưởng của cây rất khắt khe, chỉ có thể sinh trưởng trong phạm vi nhiệt độ từ [temperature]15[/temperature] đến [temperature]35[/temperature].\nLần đầu tiên linh tính hoặc sát tính đạt 100%, nếu có nhân vật tu luyện công pháp thuộc tính Mộc ở gần đó, có thể lĩnh ngộ được bản nguyên chân pháp hoặc nghịch nguyên chân pháp. Cơ duyên và ngộ tính càng cao thì càng dễ lĩnh ngộ.\nKhi linh căn trưởng thành sẽ chiêu dụ kẻ địch tấn công.\nSau khi linh thảo trưởng thành, nếu không thu hoạch, mỗi năm vào mùa xuân đều có cơ hội sinh ra rễ phụ ở những vị trí thích hợp không có sàn nhà gần đó.</Desc>
+    </Text>
+    <Text Name="LingZhi_Shui" sParam="Plant">
+      <ThingName>Thủy linh căn - Ngũ Sắc Kim Liên</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Ngũ Sắc Kim Liên. Cây cần được trồng trong nước ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ. Cây ưa nhiệt độ thấp, chỉ có thể sinh trưởng trong môi trường có nhiệt độ dưới [temperature]-120[/temperature].\nLần đầu tiên linh tính hoặc sát tính đạt 100%, nếu có nhân vật tu luyện công pháp thuộc tính Thủy ở gần đó, có thể lĩnh ngộ được bản nguyên chân pháp hoặc nghịch nguyên chân pháp. Cơ duyên và ngộ tính càng cao thì càng dễ lĩnh ngộ.\nKhi linh căn trưởng thành sẽ chiêu dụ kẻ địch tấn công.\nSau khi linh thảo trưởng thành, nếu không thu hoạch, mỗi năm vào mùa xuân đều có cơ hội sinh ra rễ phụ ở những vị trí thích hợp không có sàn nhà gần đó.</Desc>
+    </Text>
+    <Text Name="LingZhi_Tu" sParam="Plant">
+      <ThingName>Thổ linh căn - Chiết Hoàng Tinh</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Chiết Hoàng Tinh. Cây cần được trồng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ. Cây rất kỵ nhiệt độ thấp, chỉ có thể sinh trưởng trong môi trường có nhiệt độ trên [temperature]30[/temperature].\nLần đầu tiên linh tính hoặc sát tính đạt 100%, nếu có nhân vật tu luyện công pháp thuộc tính Thổ ở gần đó, có thể lĩnh ngộ được bản nguyên chân pháp hoặc nghịch nguyên chân pháp. Cơ duyên và ngộ tính càng cao thì càng dễ lĩnh ngộ.\nKhi linh căn trưởng thành sẽ chiêu dụ kẻ địch tấn công.\nSau khi linh thảo trưởng thành, nếu không thu hoạch, mỗi năm vào mùa xuân đều có cơ hội sinh ra rễ phụ ở những vị trí thích hợp không có sàn nhà gần đó.</Desc>
+    </Text>
+    <Text Name="LingZhi_Huo_ZF" sParam="Plant">
+      <ThingName>Hỏa linh căn - Cây Chu Quả</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Chu Quả, tương truyền chỉ có thể sinh trưởng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ.</Desc>
+      <StoryBnts.0.Name>Thăm dò kỹ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng thần thức quan sát kỹ lưỡng.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="LingZhi_Jin_ZF" sParam="Plant">
+      <ThingName>Kim linh căn - Lang Nha thần mộc</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Lang Nha Quả, tương truyền chỉ có thể sinh trưởng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ.</Desc>
+      <StoryBnts.0.Name>Thăm dò kỹ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng thần thức quan sát kỹ lưỡng.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="LingZhi_Mu_ZF" sParam="Plant">
+      <ThingName>Mộc linh căn - Mộc Khô đằng</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Mộc Khô đằng, tương truyền chỉ có thể sinh trưởng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ.</Desc>
+      <StoryBnts.0.Name>Thăm dò kỹ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng thần thức quan sát kỹ lưỡng.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="LingZhi_Shui_ZF" sParam="Plant">
+      <ThingName>Thủy linh căn - Ngũ Sắc Kim Liên</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Ngũ Sắc Kim Liên, tương truyền chỉ có thể sinh trưởng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ.</Desc>
+      <StoryBnts.0.Name>Thăm dò kỹ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng thần thức quan sát kỹ lưỡng.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="LingZhi_Tu_ZF" sParam="Plant">
+      <ThingName>Thổ linh căn - Chiết Hoàng Tinh</ThingName>
+      <Desc>Đây là cây của thần dược ngũ hành Chiết Hoàng Tinh, tương truyền chỉ có thể sinh trưởng ở nơi có linh khí nồng đậm, ngũ hành tương ứng và đất đai màu mỡ.</Desc>
+      <StoryBnts.0.Name>Thăm dò kỹ</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Cố gắng dùng thần thức quan sát kỹ lưỡng.</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>
