@@ -1,0 +1,72 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Camp">
+      <DisplayName>Trận Doanh Sở Thuộc</DisplayName>
+      <ValuesDesc.0>Thân mật</ValuesDesc.0>
+      <ValuesDesc.1>Trung lập</ValuesDesc.1>
+      <ValuesDesc.2>Đối địch</ValuesDesc.2>
+    </Text>
+    <Text Name="MoveAI">
+      <DisplayName>Di Động Mô Thức</DisplayName>
+      <ValuesDesc.0>Đứng thẳng</ValuesDesc.0>
+      <ValuesDesc.1>Tự do</ValuesDesc.1>
+      <ValuesDesc.2>Phụ cận du đãng</ValuesDesc.2>
+      <ValuesDesc.3>Cố định lộ tuyến</ValuesDesc.3>
+    </Text>
+    <Text Name="MoveRoute">
+      <DisplayName>Cố Định Lộ Tuyến Đích Key</DisplayName>
+    </Text>
+    <Text Name="GuradRange">
+      <DisplayName>Cảnh Giới Phạm Vi</DisplayName>
+    </Text>
+    <Text Name="IsStepRuning">
+      <DisplayName>Tránh Hồi Điều Sự Kiện</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="IsFrameStep">
+      <DisplayName>Mỗi Tránh Hồi Điều</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="IsRenderRuning">
+      <DisplayName>Tuyển Nhiễm Hồi Điều Sự Kiện</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="IsGod">
+      <DisplayName>Thị Phủ Vô Địch</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="ChouHenLianDong">
+      <DisplayName>Đồng Tổ Cừu Hận Liên Động</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="AutoNext">
+      <DisplayName>Kích Bại Sở Hữu Địch Nhân</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="PickAndRemove">
+      <DisplayName>Bất Khả Tái Sinh Tư Nguyên</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="LightFog">
+      <DisplayName>Điểm Lượng Mê Vụ</DisplayName>
+      <ValuesDesc.0>Phủ</ValuesDesc.0>
+      <ValuesDesc.1>Là</ValuesDesc.1>
+    </Text>
+    <Text Name="LightFogDis">
+      <DisplayName>Điểm Lượng Mê Vụ Phạm Vi</DisplayName>
+    </Text>
+    <Text Name="Param1">
+      <DisplayName>Tham Số 1(Rpgparam1)</DisplayName>
+    </Text>
+    <Text Name="Param2">
+      <DisplayName>Tham Số 2(Rpgparam2)</DisplayName>
+    </Text>
+  </List>
+</Texts>
