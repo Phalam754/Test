@@ -1,0 +1,43 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="WoodBlockBase" sParam="Item">
+      <Item.FabaoSuffix>gỗ, cột, cọc</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_RoughWoodBlock" sParam="Item">
+      <ThingName>Gỗ thô</ThingName>
+      <Desc>Gỗ được làm từ cây thô, có thể dùng để chế tác hiệu quả hơn.
+Tính dễ cháy: 80%
+Hệ số tốc độ làm việc của công cụ: 0.8
+Hệ số tốc độ tấn công của vũ khí: +0.45
+Hệ số thuộc tính ngũ hành của vật liệu: 1</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWoodBlock" sParam="Item">
+      <ThingName>Gỗ kim tơ</ThingName>
+      <Desc>Gỗ được làm từ cây kim tơ cứng, có thể dùng để chế tác hiệu quả hơn.
+Tính dễ cháy: 40%
+Hệ số tốc độ làm việc của công cụ: 1.8
+Hệ số tốc độ tấn công của vũ khí: +0.45
+Hệ số thuộc tính ngũ hành của vật liệu: 3</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ kim tơ</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWoodBlock" sParam="Item">
+      <ThingName>Gỗ ngô đồng</ThingName>
+      <Desc>Gỗ được làm từ cây ngô đồng, có thể dùng để chế tác hiệu quả hơn.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 3
+Hệ số tốc độ tấn công của vũ khí: +0.45
+Hệ số thuộc tính ngũ hành của vật liệu: 8</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ ngô đồng</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWoodBlock" sParam="Item">
+      <ThingName>Gỗ linh</ThingName>
+      <Desc>Gỗ được làm từ cây linh, có thể dùng để chế tác hiệu quả hơn.
+Tính dễ cháy: 0%
+Hệ số tốc độ làm việc của công cụ: 2
+Hệ số tốc độ tấn công của vũ khí: +0.45
+Hệ số thuộc tính ngũ hành của vật liệu: 6</Desc>
+      <Item.BeMaterial.NamePrefix>Gỗ linh</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
