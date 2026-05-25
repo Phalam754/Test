@@ -1,0 +1,122 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc	UnlockNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数(SECRET为事件ID)	文本参数		
+									
+Chat_Place_Snowfield1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh đầm, có một loại chỉ có mùa đông mới ẩn hiện cá lớn.						
+Chat_Place_Snowfield2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh đầm, có một loại chỉ có mùa đông mới ẩn hiện cá lớn.						
+Chat_Place_Snowfield3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh đầm, có một loại chỉ có mùa đông mới ẩn hiện cá lớn.						
+Chat_Place_Snowfield1	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại đỏ vây cá cá, chỉ ở mùa đông ẩn hiện.						
+Chat_Place_Snowfield2	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại đỏ vây cá cá, chỉ ở mùa đông ẩn hiện.						
+Chat_Place_Snowfield3	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại đỏ vây cá cá, chỉ ở mùa đông ẩn hiện.						
+Chat_Place_BirthPlace11	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace12	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace13	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace14	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace15	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace16	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói Vĩnh Dạ thời điểm sẽ có một loại lại đỏ lại lam cá ẩn hiện.						
+Chat_Place_BirthPlace11	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_BirthPlace12	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_BirthPlace13	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_BirthPlace14	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_BirthPlace15	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_BirthPlace16	0	Nơi đây có cái gì kì lạ loài cá?	Có một loại thiện cá chỉ ở mùa hè linh thủy bên trong ẩn hiện.						
+Chat_Place_SouthForest1	0	Nơi đây có cái gì kì lạ loài cá?	Mùa xuân kề bên này có loại toàn thân mọc đầy tà văn thiện cá ẩn hiện.						
+Chat_Place_SouthForest2	0	Nơi đây có cái gì kì lạ loài cá?	Mùa xuân kề bên này có loại toàn thân mọc đầy tà văn thiện cá ẩn hiện.						
+Chat_Place_SouthForest3	0	Nơi đây có cái gì kì lạ loài cá?	Mùa xuân kề bên này có loại toàn thân mọc đầy tà văn thiện cá ẩn hiện.						
+Chat_Place_BirthPlace11	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_BirthPlace12	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_BirthPlace13	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_BirthPlace14	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_BirthPlace15	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_BirthPlace16	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này có loại màu hồng cá, chỉ ở mùa thu mới xuất hiện.						
+Chat_Place_Hei	0	Nơi đây có cái gì kì lạ loài cá?	Cái này Hắc Sơn chung quanh có một loại đặc thù điệp cá, sẽ chỉ ăn Kim thuộc tính đồ ăn.						
+Chat_Place_Hei1	0	Nơi đây có cái gì kì lạ loài cá?	Cái này Hắc Sơn chung quanh có một loại đặc thù điệp cá, sẽ chỉ ăn Kim thuộc tính đồ ăn.						
+Chat_Place_Shu	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_Shu1	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_Shu2	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_Shu3	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_Shu4	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_Shu5	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_WuLian1	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_WuLian2	0	Nơi đây có cái gì kì lạ loài cá?	Chung quanh nơi này có loại cá, chỉ ăn mã não, có lẽ là bị Thổ thuộc tính hấp dẫn.						
+Chat_Place_FertileField1	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận đại giang bên trong có loại cá chép, toàn thân màu lam, yêu thích Thủy thuộc tính đồ ăn.						
+Chat_Place_FertileField2	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận đại giang bên trong có loại cá chép, toàn thân màu lam, yêu thích Thủy thuộc tính đồ ăn.						
+Chat_Place_FertileField3	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận đại giang bên trong có loại cá chép, toàn thân màu lam, yêu thích Thủy thuộc tính đồ ăn.						
+Chat_Place_FertileField4	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận đại giang bên trong có loại cá chép, toàn thân màu lam, yêu thích Thủy thuộc tính đồ ăn.						
+Chat_Place_FertileField5	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận đại giang bên trong có loại cá chép, toàn thân màu lam, yêu thích Thủy thuộc tính đồ ăn.						
+Chat_Place_Desert2	0	Nơi đây có cái gì kì lạ loài cá?	Cái này đại mạc phụ cận có một loại nhịn hạn cá, chỉ ăn Mộc thuộc tính đồ ăn.						
+Chat_Place_Desert3	0	Nơi đây có cái gì kì lạ loài cá?	Cái này đại mạc phụ cận có một loại nhịn hạn cá, chỉ ăn Mộc thuộc tính đồ ăn.						
+Chat_Place_Desert4	0	Nơi đây có cái gì kì lạ loài cá?	Cái này đại mạc phụ cận có một loại nhịn hạn cá, chỉ ăn Mộc thuộc tính đồ ăn.						
+Chat_Place_XianKong1	0	Nơi đây có cái gì kì lạ loài cá?	Cái này đại mạc phụ cận có một loại nhịn hạn cá, chỉ ăn Mộc thuộc tính đồ ăn.						
+Chat_Place_XianKong	0	Nơi đây có cái gì kì lạ loài cá?	Cái này đại mạc phụ cận có một loại nhịn hạn cá, chỉ ăn Mộc thuộc tính đồ ăn.						
+Chat_Place_HeHuan1	0	Nơi đây có cái gì kì lạ loài cá?	Nơi đây có loại toàn thân điểm lấm tấm con lươn, nghe nói nó đặc biệt thích Hỏa thuộc tính đồ ăn, đặc biệt là đáy biển bụi núi lửa						
+Chat_Place_HeHuan2	0	Nơi đây có cái gì kì lạ loài cá?	Nơi đây có loại toàn thân điểm lấm tấm con lươn, nghe nói nó đặc biệt thích Hỏa thuộc tính đồ ăn, đặc biệt là đáy biển bụi núi lửa						
+Chat_Place_HeHuan	0	Nơi đây có cái gì kì lạ loài cá?	Nơi đây có loại toàn thân điểm lấm tấm con lươn, nghe nói nó đặc biệt thích Hỏa thuộc tính đồ ăn, đặc biệt là đáy biển bụi núi lửa						
+									
+Chat_Place_WuLian	0	Nơi đây có cái gì kì lạ loài cá?	Ta nghe nói thiên trì có một loại mỹ lệ cá, chỉ ở ngày mùa thu đêm khuya mới có thể xuất hiện.						
+Chat_Place_WuLian1	0	Nơi đây có cái gì kì lạ loài cá?	Ta nghe nói thiên trì có một loại mỹ lệ cá, chỉ ở ngày mùa thu đêm khuya mới có thể xuất hiện.						
+Chat_Place_FertileField1	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này đại giang bên trong có một cá gọi cầu vồng tỗn, chỉ có mùa đông mới có thể ẩn hiện.						
+Chat_Place_FertileField2	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này đại giang bên trong có một cá gọi cầu vồng tỗn, chỉ có mùa đông mới có thể ẩn hiện.						
+Chat_Place_FertileField3	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này đại giang bên trong có một cá gọi cầu vồng tỗn, chỉ có mùa đông mới có thể ẩn hiện.						
+Chat_Place_FertileField4	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này đại giang bên trong có một cá gọi cầu vồng tỗn, chỉ có mùa đông mới có thể ẩn hiện.						
+Chat_Place_FertileField5	0	Nơi đây có cái gì kì lạ loài cá?	Kề bên này đại giang bên trong có một cá gọi cầu vồng tỗn, chỉ có mùa đông mới có thể ẩn hiện.						
+Chat_Place_WuLian	0	Nơi đây có cái gì kì lạ loài cá?	Bản môn phái ở đây nuôi dưỡng một chút ngọc cua, ban ngày bọn chúng xác rất là đẹp mắt.						
+Chat_Place_BaiMan1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngàn thi trong động mỗi đến mùa xuân liền có một cỗ hôi thối, tựa hồ là một loại thân cá bên trên						
+Chat_Place_BaiMan	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngàn thi trong động mỗi đến mùa xuân liền có một cỗ hôi thối, tựa hồ là một loại thân cá bên trên						
+Chat_Place_BaiMan2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngàn thi trong động mỗi đến mùa xuân liền có một cỗ hôi thối, tựa hồ là một loại thân cá bên trên						
+Chat_Place_BaiMan3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngàn thi trong động mỗi đến mùa xuân liền có một cỗ hôi thối, tựa hồ là một loại thân cá bên trên						
+Chat_Place_HeHuan	0	Nơi đây có cái gì kì lạ loài cá?	Tại Độc Long Đàm a, có một loại màu đỏ vằn cá, chỉ có mùa hạ mới có thể xuất hiện						
+Chat_Place_HeHuan1	0	Nơi đây có cái gì kì lạ loài cá?	Tại Độc Long Đàm a, có một loại màu đỏ vằn cá, chỉ có mùa hạ mới có thể xuất hiện						
+Chat_Place_HeHuan2	0	Nơi đây có cái gì kì lạ loài cá?	Tại Độc Long Đàm a, có một loại màu đỏ vằn cá, chỉ có mùa hạ mới có thể xuất hiện						
+									
+Chat_Place_WuLian	0	Nơi đây có cái gì kì lạ loài cá?	Ta nghe nói thiên trì có loại đêm khuya ẩn hiện cá, sẽ chỉ bị Kim thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_WuLian1	0	Nơi đây có cái gì kì lạ loài cá?	Ta nghe nói thiên trì có loại đêm khuya ẩn hiện cá, sẽ chỉ bị Kim thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_FertileField1	0	Nơi đây có cái gì kì lạ loài cá?	Hàn Sơn trấn đại giang bên trong cầu vồng tỗn, thế mà chỉ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_FertileField2	0	Nơi đây có cái gì kì lạ loài cá?	Hàn Sơn trấn đại giang bên trong cầu vồng tỗn, thế mà chỉ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_FertileField3	0	Nơi đây có cái gì kì lạ loài cá?	Hàn Sơn trấn đại giang bên trong cầu vồng tỗn, thế mà chỉ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_FertileField4	0	Nơi đây có cái gì kì lạ loài cá?	Hàn Sơn trấn đại giang bên trong cầu vồng tỗn, thế mà chỉ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_FertileField5	0	Nơi đây có cái gì kì lạ loài cá?	Hàn Sơn trấn đại giang bên trong cầu vồng tỗn, thế mà chỉ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BaiMan1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói huyết thủy bên trong có một loại cá, Thổ thuộc tính cần câu mới có thể câu đi lên, thật sự là hiếm lạ.						
+Chat_Place_BaiMan	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói huyết thủy bên trong có một loại cá, Thổ thuộc tính cần câu mới có thể câu đi lên, thật sự là hiếm lạ.						
+Chat_Place_BaiMan2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói huyết thủy bên trong có một loại cá, Thổ thuộc tính cần câu mới có thể câu đi lên, thật sự là hiếm lạ.						
+Chat_Place_BaiMan3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói huyết thủy bên trong có một loại cá, Thổ thuộc tính cần câu mới có thể câu đi lên, thật sự là hiếm lạ.						
+Chat_Place_HeHuan	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận có một loại màu đỏ vằn cá, cũng chỉ sẽ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_HeHuan1	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận có một loại màu đỏ vằn cá, cũng chỉ sẽ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_HeHuan2	0	Nơi đây có cái gì kì lạ loài cá?	Phụ cận có một loại màu đỏ vằn cá, cũng chỉ sẽ bị Hỏa thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_Snowfield1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh trong đầm có loại hoàng cá, chỉ có thể dùng Thủy thuộc tính cần câu câu đi lên.						
+Chat_Place_Snowfield2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh trong đầm có loại hoàng cá, chỉ có thể dùng Thủy thuộc tính cần câu câu đi lên.						
+Chat_Place_Snowfield3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói tại ngọc tinh trong đầm có loại hoàng cá, chỉ có thể dùng Thủy thuộc tính cần câu câu đi lên.						
+Chat_Place_BirthPlace11	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BirthPlace12	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BirthPlace13	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BirthPlace14	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BirthPlace15	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+Chat_Place_BirthPlace16	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại lại đỏ lại lam cá, sẽ chỉ bị Thủy thuộc tính vật phẩm hấp dẫn.						
+									
+Chat_Place_KunLun	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_KunLun1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_KunLun2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_KunLun2_1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_TianJi	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_TianJi1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_TianJi2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_XianKong1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_XianKong	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_BaiMan	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_BaiMan1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_BaiMan2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_BaiMan3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói nơi đây có một loại nửa đỏ không đỏ tôm, chỉ ăn Hỏa thuộc tính vật phẩm.						
+Chat_Place_DanXia	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngũ long ao sẽ có loại phát sáng tôm, chỉ ở ban đêm xuất hiện.						
+Chat_Place_DanXia	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ có mùa hạ mới có.						
+Chat_Place_DanXia	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ dùng ăn Kim thuộc tính vật phẩm.						
+Chat_Place_DanXia1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngũ long ao sẽ có loại phát sáng tôm, chỉ ở ban đêm xuất hiện.						
+Chat_Place_DanXia1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ có mùa hạ mới có.						
+Chat_Place_DanXia1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ dùng ăn Kim thuộc tính vật phẩm.						
+Chat_Place_DanXia2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngũ long ao sẽ có loại phát sáng tôm, chỉ ở ban đêm xuất hiện.						
+Chat_Place_DanXia2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ có mùa hạ mới có.						
+Chat_Place_DanXia2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ dùng ăn Kim thuộc tính vật phẩm.						
+Chat_Place_DanXia3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói ngũ long ao sẽ có loại phát sáng tôm, chỉ ở ban đêm xuất hiện.						
+Chat_Place_DanXia3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ có mùa hạ mới có.						
+Chat_Place_DanXia3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại phát sáng tôm, chỉ dùng ăn Kim thuộc tính vật phẩm.						
+Chat_Place_SouthForest1	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại màu hồng phấn tôm, chỉ có mùa xuân mới ẩn hiện.						
+Chat_Place_SouthForest2	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại màu hồng phấn tôm, chỉ có mùa xuân mới ẩn hiện.						
+Chat_Place_SouthForest3	0	Nơi đây có cái gì kì lạ loài cá?	Nghe nói phụ cận có loại màu hồng phấn tôm, chỉ có mùa xuân mới ẩn hiện.						
