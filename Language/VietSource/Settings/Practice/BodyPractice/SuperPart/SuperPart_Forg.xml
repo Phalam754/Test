@@ -1,0 +1,22 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Forg_1">
+      <Prefix>Vô Lậu</Prefix>
+      <Suffix>xạ ảnh</Suffix>
+      <Desc>Bí thể thiên phú của tộc Oa Yêu, một khi luyện thành thì rất giỏi trấn áp pháp bảo, cực hiếm khi thất thủ.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỷ lệ trấn áp pháp bảo của bí thể +50%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Forg_2">
+      <Prefix>Yêu Lôi</Prefix>
+      <Suffix>khiếu</Suffix>
+      <Desc>Bí thể thiên phú của tộc Oa Yêu, sau khi luyện thành có thể vận chuyển toàn thân sức lực phát ra sóng âm chứa chân khí đặc thù, rất giỏi phá vỡ linh khí bên trong pháp bảo để trấn áp pháp bảo.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Tỷ lệ trấn áp pháp bảo của bí thể +5%</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Tỷ lệ trấn áp pháp bảo của bí thể +10%</Levels.1.Desc>
+      <Levels.2.Title>Tầng thứ ba</Levels.2.Title>
+      <Levels.2.Desc>Tỷ lệ trấn áp pháp bảo của bí thể +20%</Levels.2.Desc>
+    </Text>
+  </List>
+</Texts>
