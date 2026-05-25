@@ -1,0 +1,26 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Gong_7_Huo">
+      <DisplayName>Thái Thượng Vong Tình Đạo</DisplayName>
+      <Desc>Cực Thiên Cung truyền lại bí pháp, tu hành phương pháp này nhất định phải dung mạo tuấn mỹ, mị lực kinh người hạng người mới có thể vào môn. Người tu hành nhập môn về sau cần nhập hồng trần lịch luyện, trước hữu tình, lại vong tình, trong bể khổ hiểu bản tâm chân ngã, phi thăng thành tiên. Bởi vậy pháp tu hành phương thức đặc thù, thường thường trêu đến duyên phận gút mắc, tình nghiệt quấn thân.</Desc>
+      <SelectDesc>Công pháp này am hiểu kiếm thuật cùng điều khiển lòng người chi thuật, chỉ là đột phá cần tấp nập lịch luyện. Phải chăng muốn lựa chọn tu tập công pháp này?</SelectDesc>
+      <Stages.0.DisplayName>Dưỡng Ngô</Stages.0.DisplayName>
+      <Stages.0.Necks.0.DisplayName>Linh Tê</Stages.0.Necks.0.DisplayName>
+      <Stages.1.DisplayName>Phá Vọng</Stages.1.DisplayName>
+      <Stages.1.Necks.0.DisplayName>Thủy Hỏa</Stages.1.Necks.0.DisplayName>
+      <Stages.1.Necks.1.DisplayName>Chân Đan</Stages.1.Necks.1.DisplayName>
+      <Stages.2.DisplayName>Cực Tình</Stages.2.DisplayName>
+      <Stages.2.Necks.0.DisplayName>Đại Dục</Stages.2.Necks.0.DisplayName>
+      <Stages.2.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ mị lực càng thấp, càng khó đột phá.[/color]</Stages.2.Necks.0.Desc>
+      <Stages.2.Necks.1.DisplayName>Tân Sinh</Stages.2.Necks.1.DisplayName>
+      <Stages.3.DisplayName>Đắc Chân</Stages.3.DisplayName>
+      <Stages.3.Necks.0.DisplayName>Ngũ Uẩn</Stages.3.Necks.0.DisplayName>
+      <Stages.3.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ cần lặp đi lặp lại nếm thử, mới có thể từng bước đột phá.\n Bình này cái cổ mị lực càng thấp, càng khó đột phá.[/color]</Stages.3.Necks.0.Desc>
+      <Stages.3.Necks.1.DisplayName>Kiếp Không</Stages.3.Necks.1.DisplayName>
+      <Stages.4.DisplayName>Thái Thượng</Stages.4.DisplayName>
+      <Stages.4.Necks.0.DisplayName>Trảm Niệm</Stages.4.Necks.0.DisplayName>
+      <Stages.4.Necks.0.Desc>[color=#D06508]\n Bình này cái cổ rất khó đột phá, lại không kinh nghiệm tăng thêm.[/color]</Stages.4.Necks.0.Desc>
+      <Stages.4.Necks.1.DisplayName>Vong Tình</Stages.4.Necks.1.DisplayName>
+    </Text>
+  </List>
+</Texts>
