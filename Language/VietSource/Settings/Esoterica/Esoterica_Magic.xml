@@ -1,0 +1,237 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_FenShenZhiShu">
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phân Thần Chi Thuật\n  Vận chuyển bản mệnh nguyên thần, cưỡng ép tách ra để có thêm một phân thần. Trong quá trình này sẽ mất một lượng lớn giới hạn linh khí tối đa, đồng thời nhanh chóng lão hóa. Số lần sử dụng Phân Thần Chi Thuật càng nhiều, cái giá phải trả càng lớn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FengshuiItemOpen">
+			<DisplayName>Phong Thủy Giám Định</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phong Thủy Giám Định\n  Tiêu hao linh thạch, kích hoạt trấn vật phong thủy để nhận biết đặc tính của nó.\nĐặt trấn vật phong thủy đã giám định vào phòng có kiến trúc phong thủy mới có thể phát huy tác dụng.\nNếu thỏa mãn điều kiện của trấn vật phong thủy, trấn vật sẽ phát huy tác dụng giống như mô tả, đồng thời giúp phong thủy căn phòng đại cát. Nghe nói còn có thể trấn áp hang động của một loại cổ thú nào đó; nếu không đạt được điều kiện của trấn vật, trấn vật sẽ phát huy tác dụng ngược lại với mô tả, đồng thời khiến phong thủy căn phòng đại hung.\nKhông phải tất cả các trấn vật phong thủy đều có cơ hội đạt được điều kiện, một số điều kiện của trấn vật phong thủy vốn dĩ đã mâu thuẫn với nhau.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_GanLingShu">
+			<DisplayName>Cam Lâm Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Cam Lâm Thuật\n  Triệu hồi một trận cam lâm trong một khu vực, có thể dập tắt lửa và tăng nhẹ tốc độ sinh trưởng của thực vật.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi1">
+			<DisplayName>Linh Tê Chú</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Linh Tê Chú\n  Dùng thần niệm giao cảm với thần niệm của đối phương, thử thuyết phục đối phương gia nhập phe ta. Đạo hạnh của bản thân càng cao, chênh lệch cảnh giới và cảm nhận giữa hai bên càng lớn thì càng dễ thành công. Nếu chênh lệch quá lớn, có thể bị khống chế ngược lại. Nếu mục tiêu có tu vi, mục tiêu phải ở trạng thái hôn mê. Chỉ có thể sử dụng một lần đối với cùng một mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi2">
+			<DisplayName>Tâm Ấn Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tâm Ấn Quyết\n  Dùng tâm tương ấn, tạo ra cộng hưởng để thuyết phục đối phương gia nhập phe ta. Đạo hạnh của bản thân càng cao, chênh lệch cảnh giới giữa hai bên càng lớn thì càng dễ thành công. Nếu chênh lệch quá lớn, có thể bị khống chế ngược lại. Nếu hai bên có đặc tính sinh ra hoặc quan hệ họ hàng tương tự, tỷ lệ thành công sẽ tăng lên đáng kể. Nếu mục tiêu có tu vi, mục tiêu phải ở trạng thái hôn mê. Pháp này rất nguy hiểm, một khi thất bại, mục tiêu chết, bản thân cũng bị thương.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi3">
+			<DisplayName>Thiên Ma Vũ</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thiên Ma Vũ\n  Thi triển Thiên Ma Vũ, chuyển hóa mục tiêu sang phe ta. Nếu chênh lệch quá lớn, có thể bị khống chế ngược lại. Theo thời gian trôi qua, khả năng mục tiêu tỉnh lại dần tăng lên. Chênh lệch cảnh giới và mị lực giữa hai bên càng lớn, khả năng tỉnh lại càng thấp. Nếu mục tiêu có tu vi, mục tiêu phải ở trạng thái hôn mê. Mỗi lần thi triển pháp này đều làm tổn thương thần trí của mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi4">
+			<DisplayName>Ngũ Ấn Khắc Thần</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Ngũ Ấn Khắc Thần\n  Dùng pháp thuật bá đạo cưỡng ép tẩy não, chuyển hóa mục tiêu sang phe ta trong một khoảng thời gian. Nếu chênh lệch quá lớn, có thể bị khống chế ngược lại. Chênh lệch cảnh giới và ngộ tính giữa hai bên càng lớn, thời gian duy trì càng dài. Nếu mục tiêu có tu vi, mục tiêu phải ở trạng thái hôn mê. Mỗi lần thi triển pháp này đều kéo dài thời gian duy trì rất nhiều, nhưng sẽ gây ra tổn thương không thể đảo ngược cho thần thức của mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine">
+			<DisplayName>Nguyên Khôn Diệu Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tạo Sơn Thuật\n  Tiêu hao một lượng lớn linh lực, nhổ khoáng sản chôn sâu dưới đất lên mặt đất.\nHọc được thần thông: Khai Hồ Thuật\n  Thi triển thần thông, cải tạo một khu vực thành vùng nước nông.\nHọc được thần thông: Tạo Lục Thuật\n  Thi triển thần thông, cải tạo một khu vực thành đất đai.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_KaiHu">
+			<DisplayName>Khai Hồ Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khai Hồ Thuật\n  Thi triển thần thông, cải tạo một khu vực thành vùng nước nông.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_ZaoLu">
+			<DisplayName>Tạo Lục Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tạo Lục Thuật\n  Thi triển thần thông, cải tạo một khu vực thành đất đai.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RebornSelf">
+			<DisplayName>Huyền Bĩ Trọng Sinh Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được Đan phương:\nHuyền Bĩ Trọng Sinh Đan\nHọc được thần thông: Huyền Bĩ Trọng Sinh Pháp\nBí pháp độc quyền của Thái Nhất Môn, lấy Huyền Bĩ Châu làm dẫn, tự hủy tu vi, đốt hết kim đan, nghịch chuyển tạo hóa, trở lại phàm thai.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_JieHuiDaoPowerUp">
+			<DisplayName>Đạo Thối Chi Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Đạo Thối Chi Pháp\nSử dụng lên một vật phẩm, tiêu hao một Kiếp Hôi, có khả năng nâng cao phẩm giai của vật phẩm thêm 1 cấp. Không có tác dụng đối với vật phẩm đã đạt phẩm giai 12.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalYouPowerUp">
+			<DisplayName>U Thối Chi Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: U Thối Chi Pháp\nSử dụng lên một vật phẩm, tiêu hao một U Phách, có khả năng nâng cao phẩm giai của vật phẩm thêm 1 cấp. Không có tác dụng đối với vật phẩm đã đạt phẩm giai 12.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalLingPowerUp">
+			<DisplayName>Linh Thối Chi Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Linh Thối Chi Pháp\nSử dụng lên một vật phẩm, tiêu hao một Linh Phách, có khả năng nâng cao tỷ lệ hấp thụ linh khí của vật phẩm (nếu là pháp bảo thì sẽ tăng dung lượng linh khí).[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakeSoulCrystal">
+			<DisplayName>Ngưng Phách Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Ngưng Phách Quyết\nÁc pháp nghịch thiên. Sử dụng lên nhân vật không có tu vi, nhân vật hấp hối hoặc yêu quái để thu lấy phách của họ. Sử dụng lên nhân vật có cảm xúc cực kỳ tệ sẽ nhận được U Phách, sử dụng lên nhân vật có cảm xúc bình thường sẽ nhận được Ninh Phách, sử dụng lên nhân vật có cảm xúc cực kỳ hưng phấn sẽ nhận được Linh Phách, sử dụng lên yêu quái sẽ nhận được Nguyên Linh Chi Phách. Chỉ có thể sử dụng một lần đối với cùng một đơn vị. Tăng 1 giá trị thiên khiển, tăng 20 độ ác danh môn phái, tăng 20 giới hạn dưới thanh danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakePuppet">
+			<DisplayName>Khiên Thi Ngự Linh Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khiên Thi Ngự Linh Thuật\nÁc pháp nghịch thiên, nhưng không thuộc về tà pháp. Giải phóng lên một thi thể để thức tỉnh nó. Thi thể được thức tỉnh có thể đảm nhận một số công việc lao động nặng nhọc đơn giản, tố chất của nó liên quan đến cảnh giới của thi thể khi còn sống. Con rối sẽ bị hao mòn chậm rãi và không thể đảo ngược. Tăng 1 giá trị thiên khiển.\nMỗi người tu hành chỉ có thể điều khiển một con rối.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuidPuppet">
+			<DisplayName>Khôi Lỗi Phú Linh Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khôi Lỗi Phú Linh Thuật\nGiải phóng lên một con rối để ban cho nó linh tính. Con rối được ban linh tính có thể đảm nhận một số công việc lao động nặng nhọc đơn giản, tố chất của nó liên quan đến phẩm giai chế tạo của con rối. Con rối có thể được chế tạo bởi đệ tử ngoại môn tại bàn thủ công. Con rối sẽ bị hao mòn chậm rãi và không thể đảo ngược.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Sưu Hồn Đại Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Sưu Hồn Đại Pháp\nÁc pháp nghịch thiên. Sử dụng lên nhân vật hấp hối, có một xác suất nhất định để nhận được công pháp bí tịch hoặc kiến thức khác của họ. Thi triển tại vùng đất hung sát sẽ tăng tỷ lệ nhận được thông tin. Tăng 1 giá trị thiên khiển, tăng 20 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ClosedDoor_1">
+			<DisplayName>Nhập Định Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Nhập Định\nĐi vào định cảnh để tu luyện, sẽ tiêu hao nhanh chóng tuổi thọ và tinh nguyên. Có thể nhanh chóng có được tu vi và tăng giá trị linh khí tối đa.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Aoe_1">
+			<DisplayName>Linh Tức Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Linh Tức Quyết\nĐi đến một địa điểm chỉ định để hấp thụ linh khí trong môi trường.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Live_1">
+			<DisplayName>Minh Linh Chân Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Minh Linh Chân Pháp\nÁc pháp nghịch thiên. Giải phóng lên sinh vật sống không có tu vi, tiêu hao tuổi thọ của mục tiêu để bổ sung linh khí cho bản thân. Tăng 0.1 giá trị thiên khiển/giây, tăng 100 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Body_1">
+			<DisplayName>Thiên Yêu Hóa Huyết Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thiên Yêu Hóa Huyết Thuật\nÁc pháp nghịch thiên. Tăng độ ác danh môn phái, tăng giới hạn dưới thanh danh môn phái, luyện hóa máu thịt của mục tiêu để bổ sung linh khí cho bản thân. Tăng 2 giá trị thiên khiển, tăng 10 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Thing_1">
+			<DisplayName>Thác Thể Đồng Sơn Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thác Thể Đồng Sơn Quyết\nGiải phóng lên kiến trúc, thực vật, khoáng vật trong cảnh, có thể hấp thụ linh khí bên trong. Linh khí của mục tiêu càng nhiều, giới hạn linh khí của bản thân càng nhiều, tốc độ hấp thụ càng nhanh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Item_1">
+			<DisplayName>Hấp Tinh Chưởng</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Hấp Tinh Chưởng\nCó thể hấp thụ linh khí ẩn chứa trong vật phẩm.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Damage_1">
+			<DisplayName>Hóa Thương Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Hóa Thương Thuật\nVận công trị liệu cho một mục tiêu các vết thương nội môn, cũng có tác dụng cải thiện cảm xúc. Hiệu quả trị liệu liên quan đến lượng linh khí của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildBody_1">
+			<DisplayName>Tái Tạo Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tái Tạo Thuật\nThực hiện tái sinh cơ thể cho một mục tiêu, tái tạo lại tất cả các bộ phận đã mất của họ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyLow_1">
+			<DisplayName>Âm Thần Đoạt Xá</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Âm Thần Đoạt Xá\nÁc pháp nghịch thiên. Phương thức đoạt xá cấp thấp, đoạt lấy cơ thể của một sinh vật sống không có tu vi. Nhưng sẽ mất đi nhiều tu vi đã khổ luyện, đồng thời hồn phách không hòa hợp. Tăng 5 giá trị thiên khiển, tăng 300 độ ác danh môn phái, tăng 300 thanh danh môn phái, tăng 300 giới hạn dưới thanh danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyHigh_1">
+			<DisplayName>Dương Thần Đoạt Xá</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Dương Thần Đoạt Xá\nÁc pháp nghịch thiên. Phương thức đoạt xá cao cấp, hoàn toàn đoạt lấy cơ thể của một sinh vật sống không có tu vi, nhưng sẽ mất đi nhiều tu vi đã khổ luyện. Tăng 5 giá trị thiên khiển, tăng 300 độ ác danh môn phái, tăng 300 thanh danh môn phái, tăng 300 giới hạn dưới thanh danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_1_1">
+			<DisplayName>Đỉnh Lô Hấp Chân Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Đỉnh Lô Hấp Chân Thuật\nÁc pháp nghịch thiên. Pháp quyết lợi dụng lực lượng luân hồi để thúc đẩy Đỉnh Lô Hấp Chân, có thể hấp thụ tuổi thọ của một sinh vật sống không có tu vi hiệu quả hơn, đồng thời tăng tu vi và nhận được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 giá trị thiên khiển/giây, tăng 50 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_2_1">
+			<DisplayName>Phong Nguyệt Huyễn Cảnh</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phong Nguyệt Huyễn Cảnh\nÁc pháp nghịch thiên, nhưng không thuộc về tà pháp. Dùng huyễn cảnh mê hoặc một người dị tính không có tu vi, đoạt lấy tuổi thọ của họ trong huyễn cảnh, tăng tu vi và nhận được tham ngộ. Mị lực của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 0.1 giá trị thiên khiển/giây.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_3_1">
+			<DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Nhiếp Thần Ngự Quỷ Đại Pháp\nÁc pháp nghịch thiên. Đoạt lấy hồn phách của một sinh vật sống không có tu vi, luyện hóa để tăng tu vi và nhận được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh. Tăng 2 giá trị thiên khiển, tăng 50 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_4_1">
+			<DisplayName>Thiên Ma Hóa Thân Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Ma Hóa\nGiao tiếp ý thức của bản thân với Ma giới, có được tốc độ tu luyện vượt xa người thường. Nhưng đồng thời, hồn phách bị ma hỏa thiêu đốt cả ngày, không bao giờ yên ổn, chỉ có thể thông qua việc tra tấn sinh vật sống để làm hài lòng ma niệm, từ đó có được cơ hội thở dốc.\nHọc được thần thông: Luyện Hồn\nÁc pháp nghịch thiên. Thi triển hình phạt Luyện Hồn tàn khốc lên một sinh vật sống hình người không có tu vi, khiến họ cảm nhận nỗi đau khổ tột cùng. Đồng thời nhận được niềm vui từ đó. Tăng 2 giá trị thiên khiển, tăng 10 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_5_1">
+			<DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tha Hóa Tự Tại Đại Pháp\nCông dụng kỳ lạ, nhưng không thuộc về ác pháp nghịch thiên, cũng không thuộc về tà pháp. Thi triển pháp thuật lên một sinh vật sống hình người không có tu vi, khi mục tiêu ở trạng thái cảm xúc cực đoan (trên 160 hoặc dưới 40), có thể từ đó nhận được tham ngộ và tu vi. Thần thông một khi giải phóng sẽ tác dụng liên tục, cảm xúc của mục tiêu càng cực đoan, hiệu quả của thần thông càng mạnh.\nMỗi lần thi triển lên một mục tiêu, giá trị cơ bản của tâm trạng và tâm cảnh của bản thân sẽ giảm đi một chút, mục tiêu sẽ trở nên dễ kích động và cáu gắt hơn. Thi triển lại lên mục tiêu đã bị tác động, có thể thu hồi thần thông. Sau khi thu hồi thần thông, tất cả các ảnh hưởng tiêu cực sẽ biến mất trong thời gian ngắn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_6_1">
+			<DisplayName>Hồn Thể Ký Sinh</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Hồn Thể Ký Sinh\nCông dụng kỳ lạ, nhưng không thuộc về ác pháp nghịch thiên, cũng không thuộc về tà pháp. Thi triển pháp thuật lên một sinh vật sống hình người không có tu vi, gửi một sợi nguyên thần của bản thân lên đó để ký sinh, mỗi 0 giờ sẽ chuyển hóa toàn bộ giá trị Trúc Cơ của đối tượng ký sinh thành tu vi và tham ngộ tương ứng của bản thân.\nMỗi khi ký sinh một đơn vị, bản thân sẽ bị tổn thương thần trí do phân hồn, mục tiêu sẽ suy yếu do bị ký sinh. Thi triển lại lên mục tiêu đã bị tác động, có thể thu hồi thần thông. Sau khi thu hồi thần thông, tất cả các ảnh hưởng tiêu cực sẽ biến mất trong thời gian ngắn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_7_1">
+			<DisplayName>Hiến Tế</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Hiến Tế\nÁc pháp nghịch thiên. Hiến tế một sinh vật sống hình người không có tu vi cho ma hồn, ma hồn sẽ ngẫu nhiên đoạt lấy một vài cơ quan của vật hiến tế, và phản hồi lại cho người thi pháp một lượng lớn tu vi và tham ngộ. Thuộc tính Ngũ Duy của mục tiêu càng mạnh, hiệu quả hiến tế càng mạnh. Tăng 2 giá trị thiên khiển, tăng 50 độ ác danh môn phái.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_8_1">
+			<DisplayName>Thanh Tâm Chú</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thanh Tâm Chú\nThi triển pháp thuật, mang lại tâm trạng tốt cho một đồng loại không có tu vi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PlantGrowUp_1">
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Ngự Mộc Quyết\nNgưng tụ nguyên khí của bản thân, truyền vào thực vật mục tiêu, tăng đáng kể tốc độ sinh trưởng của nó, duy trì 1 ngày. Phẩm giai của thực vật mục tiêu càng cao, hiệu quả càng kém. Pháp này cực kỳ tổn thương nguyên khí, cẩn thận khi sử dụng.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_1">
+			<DisplayName>Thiên Tâm Chính Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thiên Tâm Chính Pháp\nTiêu hao tuổi thọ, trong thời gian ngắn tăng cường năng lực bản thân và hồi phục giá trị linh khí.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_2">
+			<DisplayName>Thiên Ma Giải Thể Đại Pháp</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Thiên Ma Giải Thể Đại Pháp\nTiêu hao tuổi thọ, trong thời gian ngắn tăng cường năng lực bản thân và hồi phục giá trị linh khí.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_10_1">
+			<DisplayName>Tuệ Kiếm Trảm Niệm</DisplayName>
+			<Desc>Dùng tâm vô tình chém sạch tạp niệm, tu luyện pháp này có thể học được thần thông Tuệ Kiếm Trảm Niệm, và có thể lấy tạp niệm làm dẫn, phân hóa một sợi nguyên thần phân thần.[/Desc>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tuệ Kiếm Trảm Niệm\nThi triển pháp thuật lên một sinh vật không có tu vi, loại bỏ toàn bộ cảm xúc ngắn hạn của mục tiêu.\n\nThêm một sợi nguyên thần phân thần.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingStoneMake_1">
+			<DisplayName>Luyện Chế Linh Thạch Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Luyện Chế Linh Thạch\nNgưng kết linh khí thành linh thạch.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingCrystalMake_1">
+			<DisplayName>Luyện Chế Linh Tinh Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Luyện Chế Linh Tinh\nNgưng kết linh khí thành linh tinh, quá trình chậm chạp.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_1">
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Chu Thiên Thần Toán\nTiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng có được năng lực tiên tri trong vòng một tháng tới, biết trước các sự kiện sắp xảy ra tại địa điểm môn phái. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_MapStory_1">
+			<DisplayName>Đại Diễn Thần Toán</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Đại Diễn Thần Toán\nTiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng nhận được một bí văn, thậm chí có thể tính ra vị trí của Đạo Thông hiện thế. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LiuRenShensuan">
+			<DisplayName>Lục Nhâm Thần Toán</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Lục Nhâm Thần Toán\nChọn một nhân vật, cố gắng nhận được hành tung của họ. Đạo hạnh càng cao, thông tin hiểu biết càng nhiều, tỷ lệ nhận được hành tung càng cao.\nThi triển pháp này có hiệu quả tương đương với việc trực tiếp hỏi thăm hành tung của đối phương, do đó có thể dùng để ám sát.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRain_1">
+			<DisplayName>Cầu Vũ Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Cầu Vũ Thuật\nDùng thần thông cầu một trận mưa, tăng thuộc tính thủy trong cảnh, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForSun_1">
+			<DisplayName>Khu Vân Quyết</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khu Vân Quyết\nDùng thần thông làm trời quang mây tạnh, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRainstorm">
+			<DisplayName>Bạo Vũ Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Chỉ có hiệu quả khi sử dụng vào mùa đông hoặc mùa hè. Dùng thần thông cầu một trận bão lớn, tăng nhiều thuộc tính thủy trong cảnh, thậm chí có thể ảnh hưởng đến phẩm chất đan dược của người kết đan tại đây, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForFohn">
+			<DisplayName>Phần Phong Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Chỉ có hiệu quả khi sử dụng vào mùa hè hoặc mùa thu. Dùng thần thông triệu hồi gió nóng, tăng thuộc tính hỏa trong cảnh, thậm chí có thể ảnh hưởng đến phẩm chất đan dược của người kết đan tại đây, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForDustStorm">
+			<DisplayName>Trần Bạo Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Trần Bạo Thuật\nChỉ có hiệu quả khi sử dụng vào mùa đông hoặc mùa xuân. Dùng thần thông cầu một trận bão cát, tăng thuộc tính thổ trong cảnh, thậm chí có thể ảnh hưởng đến phẩm chất đan dược của người kết đan tại đây, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForMiasma">
+			<DisplayName>Độc Chướng Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Độc Chướng Thuật\nChỉ có hiệu quả khi sử dụng vào mùa xuân hoặc mùa hè. Dùng thần thông cầu một vùng chướng khí, tăng thuộc tính mộc trong cảnh, thậm chí có thể ảnh hưởng đến phẩm chất đan dược của người kết đan tại đây, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForLightningStorm">
+			<DisplayName>Lôi Bạo Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Lôi Bạo Thuật\nChỉ có hiệu quả khi sử dụng vào mùa hè hoặc mùa thu. Dùng thần thông cầu một trận bão sét, tăng thuộc tính kim trong cảnh, thậm chí có thể ảnh hưởng đến phẩm chất đan dược của người kết đan tại đây, nhưng việc này can thiệp vào thiên số, sẽ làm tổn thọ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForWeather">
+			<DisplayName>Khi Thiên Kinh</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khu Vân Quyết\nHọc được thần thông: Bạo Vũ Thuật\nHọc được thần thông: Phần Phong Thuật\nHọc được thần thông: Trần Bạo Thuật\nHọc được thần thông: Độc Chướng Thuật\nHọc được thần thông: Lôi Bạo Thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Physique_1">
+			<DisplayName>Phạt Mao Tẩy Tủy Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phạt Mao Tẩy Tủy\nTiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, phạt mao tẩy tủy cho một sinh vật không có tu vi, làm tăng căn cốt của họ. Giá trị ban đầu càng thấp, hiệu quả càng tốt, ít nhất sẽ tăng 20% căn cốt, nếu may mắn thậm chí có thể biến thối nát thành kỳ diệu. Một mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Intelligence_1">
+			<DisplayName>Đề Hồ Quán Đỉnh Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Đề Hồ Quán Đỉnh\nTiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, đề hồ quán đỉnh cho một sinh vật không có tu vi, làm tăng ngộ tính của họ. Giá trị ban đầu càng thấp, hiệu quả càng tốt, ít nhất sẽ tăng 20% ngộ tính, nếu may mắn thậm chí có thể biến thối nát thành kỳ diệu. Một mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Charisma_1">
+			<DisplayName>Tái Tạo Hình Thần Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Tái Tạo Hình Thần\nTiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, tái tạo hình thần cho một sinh vật không có tu vi, làm tăng mị lực của họ. Giá trị ban đầu càng thấp, hiệu quả càng tốt, ít nhất sẽ tăng 20% mị lực, nếu may mắn thậm chí có thể biến thối nát thành kỳ diệu. Một mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Perception_1">
+			<DisplayName>Khai Thiên Nhãn Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Khai Thiên Nhãn\nTiêu hao một giáp tử tuổi thọ và một lượng lớn linh khí, khai thiên nhãn cho một sinh vật không có tu vi, làm tăng thần thức của họ. Giá trị ban đầu càng thấp, hiệu quả càng tốt, ít nhất sẽ tăng 20% thần thức, nếu may mắn thậm chí có thể biến thối nát thành kỳ diệu. Một mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FenShenZhiShu_1">
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<EffectDesc>[size=18][color=#D06508]Học được thần thông: Phân Thần Chi Thuật\nCó thể có được phân thần.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
