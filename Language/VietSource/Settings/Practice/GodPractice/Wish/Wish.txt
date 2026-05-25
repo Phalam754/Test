@@ -1,0 +1,56 @@
+﻿ID	Txt
+ID	内容
+1	[TITLE] tại thượng, ta liền thử nhìn một chút ngươi có thể nghe được hay không...... Hì hì
+2	[TITLE] tại thượng, hi vọng ta già thấp khớp có thể khỏi hẳn.
+3	[TITLE] tại thượng, thần tiên phù hộ, hi vọng có thể đuổi tới ngưỡng mộ trong lòng cô nương.
+4	[TITLE] tại thượng, hi vọng ngày mai có thể ăn bữa ngon......
+5	[TITLE] tại thượng, hi vọng có thể nhặt được tiền.
+6	[TITLE] tại thượng, hi vọng ngày mai Di Hồng viện Lục Châu cô nương không ai điểm.
+7	[TITLE] tại thượng, hi vọng chưởng quỹ ngày mai kết tiền không muốn khất nợ.
+8	[TITLE] tại thượng, hi vọng năm nay có người có thể cùng ta khánh sinh.
+9	[TITLE] tại thượng, hi vọng có thể khoa khảo trúng bảng.
+10	[TITLE] tại thượng, hi vọng lần này trong nhà có thể sinh cái nam hài nhi.
+11	[TITLE] tại thượng, hi vọng cả nhà thân thể khỏe mạnh.
+12	[TITLE] tại thượng, hi vọng năm nay có thể có thu hoạch tốt.
+13	[TITLE] tại thượng, hi vọng năm nay có thể ở trong thành mua một bộ gia nghiệp.
+14	[TITLE] tại thượng, hi vọng bổn thôn thu hoạch tốt đẹp......
+15	[TITLE] tại thượng, hi vọng năm nay làng đừng có cái gì tai nạn.
+16	[TITLE] tại thượng, hi vọng làng có thể nhanh chóng trùng kiến.
+17	[TITLE] tại thượng, hi vọng làng phụ cận an ổn vô sự.
+18	[TITLE] tại thượng, hi vọng năm nay trên núi không nên nháo thú tai.
+19	[TITLE] tại thượng, hi vọng năm nay quê quán mưa thuận gió hoà.
+20	[TITLE] tại thượng, hi vọng năm nay trời đông giá rét chớ có có luồng không khí lạnh.
+21	[TITLE] tại thượng, hi vọng năm nay nước mưa ít chút, đừng lại phát hồng thuỷ.
+22	[TITLE] tại thượng, hi vọng năm nay nước mưa nhiều chút, đừng lại phát nạn hạn hán.
+23	[TITLE] tại thượng, hi vọng bản thành năm nay đừng lại bị yêu thú tập kích.
+24	[TITLE] tại thượng, hi vọng ta nước quốc vận hưng thịnh, thiên thu vạn đại.
+25	[TITLE] tại thượng, hi vọng năm nay có thể thiên hạ thái bình.
+26	[TITLE] tại thượng, hi vọng thế đạo có thể ít chút lệ khí!
+27	[TITLE] tại thượng, nguyện thế gian này người người như rồng, không ngừng vươn lên!
+28	[TITLE] tại thượng, nguyện nhân gian như Tịnh Thổ, phổ thế đại đồng!
+29	[TITLE] tại thượng, hi vọng chưởng quỹ đi ra ngoài dẫm lên cứt chó......
+30	[TITLE] tại thượng, hi vọng sát vách hôm nay làm ăn không may.
+31	[TITLE] tại thượng, hi vọng ta hôm nay đối thủ có thể thất thủ.
+32	[TITLE] tại thượng, hi vọng hôm qua trộm nhà ta tặc chết không yên lành.
+33	[TITLE] tại thượng, hi vọng mắng ta cái kia ngu ngơ kéo không ra phân.
+34	[TITLE] tại thượng, thần tiên phù hộ, hi vọng sát vách một nhà ác nhân không may.
+35	[TITLE] tại thượng, hi vọng sát vách đám kia quỷ xui xẻo chết không yên lành.
+36	[TITLE] tại thượng, hi vọng cấp trên xảy ra ngoài ý muốn, để cho ta thượng vị.
+37	[TITLE] tại thượng, hi vọng hàng xóm ruộng bị lợn rừng hủy đi.
+38	[TITLE] tại thượng, hi vọng trộm ta tiền hỗn đản bị sét đánh.
+39	[TITLE] tại thượng, hi vọng sát vách cái kia hỗn đản làng bị yêu thú hủy đi.
+40	[TITLE] tại thượng, hi vọng chúng ta làng có thể diệt đi hết thảy chung quanh uy hiếp.
+41	[TITLE] tại thượng, hi vọng chúng ta có thể đem thôn bên cạnh diệt đi chiếm đoạt.
+42	[TITLE] tại thượng, hi vọng thôn bên cạnh rơi bị Thiên Khiển.
+43	[TITLE] tại thượng, hi vọng năm nay hồng thủy có thể thuận tiện đem thôn bên cạnh cuốn đi.
+44	[TITLE] tại thượng, hi vọng này quận sơn phỉ đều chết bất đắc kỳ tử.
+45	[TITLE] tại thượng, hi vọng thành này ác nhân chết không yên lành.
+46	[TITLE] tại thượng, hi vọng đả thương người dã thú đều chết hết.
+47	[TITLE] tại thượng, hi vọng phương viên trăm dặm đều vì ta nô bộc thuộc hạ.
+48	[TITLE] tại thượng, hi vọng năm nay trên núi con mồi có thể đều bị ta đánh tới!
+49	[TITLE] tại thượng, hi vọng thượng thiên có mắt, diệt trừ man di chi tộc.
+50	[TITLE] tại thượng, hi vọng địch quốc sớm ngày diệt quốc...... Không muốn đang đánh đi xuống.
+51	[TITLE] tại thượng, hi vọng những cái kia so ta qua người tốt đều không được kết thúc yên lành.
+52	[TITLE] tại thượng, hi vọng trên đời ác nhân đều bị Thiên Khiển.
+53	[TITLE] tại thượng, hi vọng cùng ta đối nghịch người đều không được chết tử tế.
+54	Nguyện tâm ta vĩnh trú thần quốc, không lo không khó, được hưởng thanh minh cảnh giới......
