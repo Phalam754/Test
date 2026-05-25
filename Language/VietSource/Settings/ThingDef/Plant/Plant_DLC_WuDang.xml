@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="DLC_Plant_HuangJing" sParam="Plant">
+      <ThingName>Hoàng Tinh</ThingName>
+      <Desc>Một loại linh dược mọc trên núi Võ Đang. Loại cây này ưa bóng râm và yêu cầu độ màu mỡ của đất trồng khá cao. Nhiệt độ: 10℃~40℃, Độ màu mỡ: 1+.</Desc>
+    </Text>
+  </List>
+</Texts>
