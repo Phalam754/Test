@@ -1,0 +1,29 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="AreaRoom">
+      <Notes>Liên quan tới gian phòng bình luận bảng</Notes>
+      <Title>Gian phòng</Title>
+      <Desc>Từ vách tường cùng nham thạch làm thành bịt kín không gian.</Desc>
+    </Text>
+    <Text Name="AreaWarehouse">
+      <Notes>Liên quan tới nhà kho bình luận bảng</Notes>
+      <Title>Nhà kho</Title>
+      <Desc>Một cái dùng để cất giữ vật phẩm khu vực.</Desc>
+    </Text>
+    <Text Name="AreaFarmland">
+      <Notes>Liên quan tới đồng ruộng bình luận bảng</Notes>
+      <Title>Nông Điền</Title>
+      <Desc>Một cái dùng để trồng thực thu hoạch khu vực.</Desc>
+    </Text>
+    <Text Name="AreaHerbsField">
+      <Notes>Liên quan tới dược điền bình luận bảng</Notes>
+      <Title>Dược điền</Title>
+      <Desc>Một cái dùng để trồng thực dược vật khu vực.</Desc>
+    </Text>
+    <Text Name="AreaTransaction">
+      <Notes>Liên quan tới khu giao dịch bình luận bảng</Notes>
+      <Title>Giao Dịch Khu</Title>
+      <Desc>Một cái dùng để tiến hành giao dịch khu vực.</Desc>
+    </Text>
+  </List>
+</Texts>
