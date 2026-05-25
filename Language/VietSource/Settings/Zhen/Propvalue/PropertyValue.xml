@@ -1,0 +1,59 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Stability">
+      <Descript>Ổn định độ {1}{0:N1}%</Descript>
+      <ToolTips>Ổn định độ sẽ theo trận pháp bị công kích mà giảm xuống, nếu như ổn định độ hạ thấp 0. Như vậy trận pháp liền tuyên cáo bị phá.</ToolTips>
+    </Text>
+    <Text Name="FabaoAtkPower">
+      <Descript>Ngự khí năng lực {1}{0:N1}</Descript>
+      <ToolTips>Bố thành trận pháp sau, trận trụ cột khống chế pháp bảo lúc lại đạt được tăng cường.\n Ngự khí năng lực ảnh hưởng bày trận hậu trận trụ cột khống chế pháp bảo lúc tăng cường trình độ.</ToolTips>
+      <LuaToolTips>string.format("布成阵法后，阵枢驾驭法宝时会得到增强。\
+御器能力影响布阵后阵枢驾驭法宝时的加强程度。\
+当前可提高御器能力：%.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+    </Text>
+    <Text Name="MagicPower">
+      <Descript>Thuật pháp năng lực {1}{0:N1}</Descript>
+      <ToolTips>Bố thành trận pháp sau, trận trụ cột thi triển thuật pháp lúc lại đạt được tăng cường.\n Thuật pháp năng lực ảnh hưởng bày trận hậu trận trụ cột thi triển thuật pháp lúc tăng cường trình độ.</ToolTips>
+      <LuaToolTips>string.format("布成阵法后，阵枢施展术法时会得到增强。\
+术法能力影响布阵后阵枢施展术法时的加强程度。\
+当前可提高术法能力：%.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+    </Text>
+    <Text Name="Sheild">
+      <Descript>Hộ ngự năng lực {1}{0:N1}</Descript>
+      <ToolTips>Trận pháp gặp công kích sau, công kích tổn thương sẽ bị trận pháp giảm miễn một bộ phận, sau đó từ trong trận pháp tất cả thành viên đồng đều bày.\n Hộ ngự năng lực ảnh hưởng trận pháp gặp lúc công kích giảm miễn tỉ suất.</ToolTips>
+      <LuaToolTips>string.format("阵法遭受攻击后，攻击的伤害会被阵法减免一部分，然后由阵法中所有成员均摊。\
+护御能力影响阵法遭受攻击时的减免比率。\
+当前可提供减伤比率：%.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+    </Text>
+    <Text Name="SkillCooldown">
+      <Descript>Vận chuyển năng lực {1}{0:N1}</Descript>
+      <ToolTips>Theo trận pháp vận chuyển, trận pháp sẽ dần dần tích lũy linh cơ, trận pháp linh cơ có thể dùng đến phóng thích một chút trận pháp đặc biệt năng lực. Trừ cái đó ra, trận pháp nhân vật linh khí cũng sẽ theo trận pháp vận chuyển mà chờ tỉ lệ cân đối.\n Vận chuyển năng lực ảnh hưởng trận pháp tích lũy linh cơ tốc độ cùng linh khí cân đối chu kỳ.</ToolTips>
+      <LuaToolTips>string.format("随着阵法运转，阵法会逐渐积累灵机，阵法灵机可以用来释放一些特殊的阵法能力。除此之外，阵法角色的灵气也会随着阵法运转而等比例均衡。\
+运转能力影响阵法积累灵机的速度和灵气均衡的周期。\
+当前减少运转周期比率：%.0f%%\
+当前灵机积累周期为：%.0f秒\
+当前灵气均衡周期为：%.0f秒", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+    </Text>
+    <Text Name="ReduceCost">
+      <Descript>Trận pháp hiệu suất {1}{0:N1}</Descript>
+      <ToolTips>Kết thành trận pháp sau, duy trì trận pháp, thi triển trận pháp kỹ năng đều sẽ tiêu hao trong trận pháp mỗi cái nhân vật linh khí. Duy trì trận pháp tiêu hao linh khí cùng trận trụ cột nhân vật linh khí hạn mức cao nhất có quan hệ. Trận pháp kỹ năng tiêu hao linh khí cùng kỹ năng mạnh yếu có quan hệ.\n Trận pháp hiệu suất ảnh hưởng trận pháp hành vi tiêu hao linh khí nhiều ít.</ToolTips>
+      <LuaToolTips>string.format("Kết thành trận pháp sau, duy trì trận pháp, thi triển trận pháp kỹ năng đều sẽ tiêu hao trong trận pháp mỗi cái nhân vật linh khí. Duy trì trận pháp tiêu hao linh khí cùng trận trụ cột nhân vật linh khí hạn mức cao nhất có quan hệ. Trận pháp kỹ năng tiêu hao linh khí cùng kỹ năng mạnh yếu có quan hệ.\n Trận pháp hiệu suất ảnh hưởng trận pháp hành vi tiêu hao linh khí nhiều ít.\n Trước mắt nhưng giảm bớt tiêu hao: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
+    </Text>
+    <Text Name="NpcNodeCountNumPowerup">
+      <Descript>Trận pháp quy mô {1}{0:N1}</Descript>
+      <ToolTips>阵法规模指的是阵法中节点的数量，阵法中节点数量越多，阵法规模就越大。
+阵枢角色在阵法上的造诣高低，决定了阵法规模的上限。如果其主持的阵法规模超过其能力，阵法稳定性会大幅度降低。反之则会提高。</ToolTips>
+      <LuaToolTips>string.format("Trận pháp quy mô chỉ chính là trong trận pháp tiết điểm số lượng, trong trận pháp tiết điểm số lượng càng nhiều, trận pháp quy mô lại càng lớn.\n Trận trụ cột nhân vật tại trên trận pháp tạo nghệ cao thấp, quyết định trận pháp quy mô hạn mức cao nhất. Nếu như chủ trì trận pháp quy mô vượt qua năng lực, trận pháp tính ổn định sẽ trên phạm vi lớn giảm xuống. Trái lại thì sẽ đề cao.\n Trước mắt trận pháp ổn định độ điều chỉnh giá trị: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+    </Text>
+    <Text Name="NpcZhenPressurePowerup">
+      <Descript>Trận pháp phụ tải {1}{0:N1}</Descript>
+      <ToolTips>阵法负荷指的是阵法结构的复杂程度，阵眼的复杂程度越高，阵眼与阵枢的距离越远，阵法负荷越大。
+阵枢角色在阵法上的造诣高低，决定了阵法负荷的上限。如果其主持的阵法负荷超过其能力，阵法消耗会大幅度提高。反之则会降低。</ToolTips>
+      <LuaToolTips>string.format("Trận pháp phụ tải chỉ chính là trận pháp kết cấu trình độ phức tạp, trận nhãn trình độ phức tạp càng cao, trận nhãn cùng trận trụ cột khoảng cách càng xa, trận pháp phụ tải càng lớn.\n Trận trụ cột nhân vật tại trên trận pháp tạo nghệ cao thấp, quyết định trận pháp phụ tải hạn mức cao nhất. Nếu như chủ trì trận pháp phụ tải vượt qua năng lực, trận pháp tiêu hao sẽ đề cao mạnh. Trái lại thì sẽ giảm xuống.\n Trước mắt mỗi giây tiêu hao linh khí: %.0f", z.CostLingPerSec)</LuaToolTips>
+    </Text>
+    <Text Name="NpcZhenPoint">
+      <Descript>Trận pháp linh cơ {1}{0:N0}</Descript>
+      <ToolTips>Theo trận pháp vận chuyển, trận pháp sẽ dần dần tích lũy linh cơ. Trận pháp linh cơ có thể dùng đến phóng thích một chút trận pháp đặc biệt năng lực. Nhưng mà trận pháp chứa đựng linh cơ số lượng là có hạn mức cao nhất. Linh cơ tồn đầy liền sẽ không tiếp tục gia tăng.</ToolTips>
+    </Text>
+  </List>
+</Texts>
