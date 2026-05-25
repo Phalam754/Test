@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="SimpleFoodBase" sParam="Item">
+      <Item.FabaoSuffix>Linh bảo</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Cake" sParam="Item">
+      <ThingName>Bánh nướng</ThingName>
+      <Desc>Thức ăn khô đơn giản, có thể lấp đầy bụng đói. Sau khi dùng trong ba trăm giây sẽ không dễ bị đói (bội số tiêu thụ thức ăn -0.35).</Desc>
+      <Item.FabaoSuffix>bánh</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Jerky" sParam="Item">
+      <ThingName>Thịt khô</ThingName>
+      <Desc>Thức ăn khô đơn giản, có thể lấp đầy bụng đói. Sau khi dùng trong ba trăm giây sẽ không dễ bị đói (bội số tiêu thụ thức số -0.35).</Desc>
+      <Item.FabaoSuffix>khô</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PreservedFruit" sParam="Item">
+      <ThingName>Ô mai Long Tiên Quả họ Lý</ThingName>
+      <Desc>[color=#FFA500]Ngày xưa có quả, vị ngọt như mật.\nPhơi trên mái hiên, chờ đợi ngày lành.\nNgày nay có người, mắt đẹp như mật.\nVì sao trông ngóng, ngày lành đã qua?\n[/color]Long Tiên Quả khó bảo quản, chỉ có bí quyết riêng của gia tộc họ Lý ở Kim Lăng mới có thể chế biến thành ô mai mà dược tính không mất đi. Sau khi dùng có thể trong nửa ngày không đói, không cảm thấy mệt mỏi (bội số tiêu thụ thức ăn -1, bội số tiêu thụ tinh lực -1).</Desc>
+      <Item.FabaoSuffix>quả</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yao_BoarMeat" sParam="Item">
+      <ThingName>Thịt tinh của yêu lợn</ThingName>
+      <Desc>Thịt tinh hoa của yêu lợn, không thể nấu bằng lửa thường. Dùng trực tiếp có thể đại bổ tinh nguyên.</Desc>
+      <Item.FabaoSuffix>khô</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>
