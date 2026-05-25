@@ -1,0 +1,360 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
+			<DisplayName>Thực Vật Sinh Tiền</DisplayName>
+			<Desc>Mọi loại thức ăn đều có tỉ lệ nhỏ tìm thấy tiền vàng khi tiêu thụ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
+			<DisplayName>Thực Vật Sinh Tiền</DisplayName>
+			<Desc>Mọi loại thức ăn đều có tỉ lệ nhỏ tìm thấy tiền vàng sau khi ăn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
+			<DisplayName>Thực Vật Sinh Tiền</DisplayName>
+			<Desc>Mọi loại thức ăn đều có tỉ lệ cao tìm thấy tiền vàng.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
+			<DisplayName>Pháp Bảo Đặc Biệt</DisplayName>
+			<Desc>Nhận ngẫu nhiên hiệu ứng pháp bảo hiếm sau khi luyện chế thành công.</Desc>
+			<Effects.0.SpecialAbilities.0.Desc>Tăng 80% sát thương lên mục tiêu thuộc tính Thổ.</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>Mỗi lần tấn công thứ 15 sẽ phản phệ vào cơ thể người dùng, xuyên giáp và gây thêm sát thương.</Effects.0.SpecialAbilities.1.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>Cứ sau 3 lần tấn công sẽ tạo ra 9 cái bóng gai tồn tại trong 3 giây.</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>Lực tấn công cơ bản của pháp bảo tăng 1% mỗi giây khi đang bay trên không. Khi pháp bảo quay về, hiệu ứng sẽ bị đặt lại.</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>Mỗi 12 lần tấn công trên cùng một pháp bảo sẽ khiến mục tiêu rơi vào trạng thái mất năng lực tạm thời dựa trên cấp độ của nó.</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>Với mỗi 1% máu bị mất đi, sức mạnh của pháp bảo tăng thêm 5%.</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Mỗi khi tiêu diệt một sinh vật sẽ tăng 10% sức mạnh pháp bảo, tối đa 36 lần. Nếu không được uống máu trong vòng 1 ngày, hiệu ứng sẽ bị đặt lại.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>Mỗi lần tấn công thứ 9 sẽ thi triển một thuật pháp lên mục tiêu kẻ thù.</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>Kỹ năng phòng thủ tăng thêm 10 cấp.</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>Khi người dùng tử trận, pháp bảo sẽ vỡ tan để nghịch chuyển thiên mệnh, hồi sinh và chữa lành mọi vết thương.</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>Người dùng càng gần giới hạn tuổi thọ, pháp bảo càng trở nên hùng mạnh.</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% sát thương gây ra sẽ được chuyển hóa thành linh khí hồi phục cho pháp bảo.</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>Mỗi 7 lần tấn công sẽ tạo ra một kiếm ảnh tồn tại trong 7 giây.</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>Kỹ năng thuật pháp tăng thêm 10 cấp.</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>Tăng 100% sát thương lên mục tiêu thuộc tính Mộc.</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>Tăng 100% sát thương lên mục tiêu thuộc tính Thổ.</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>Tăng 100% sát thương lên mục tiêu thuộc tính Hỏa.</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>Tăng 100% sát thương lên mục tiêu thuộc tính Kim.</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>Tăng 100% sát thương lên mục tiêu thuộc tính Thủy.</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>Bao phủ xung quanh chủ nhân, tập trung hoàn toàn vào phòng thủ và sẽ không tấn công.</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>Mỗi 10,000 linh khí tiêu tốn, sát thương tăng 10%, tối đa 1000%. Hiệu ứng đặt lại khi pháp bảo được nạp lại linh khí.</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>Với mỗi loại đan dược đã từng sử dụng, sức mạnh pháp bảo tăng thêm 5%.</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>Cứ sau 2 lần tấn công sẽ giảm 1 giây thời gian hồi chiêu của kỹ năng.</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>Kỹ năng ngự kiếm tăng thêm 10 cấp.</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>Gây 1.5 lần sát thương khi đối đầu với các pháp bảo khác.</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>Khi gây sát thương, có 10% cơ hội gây ra gấp 5 lần sát thương.</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>Gây 1.5 lần sát thương khi tấn công trực tiếp vào cơ thể kẻ địch.</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>Khi tấn công trực tiếp vào cơ thể kẻ địch, có 1% cơ hội gây thêm sát thương bằng 30% linh khí hiện tại của mục tiêu.</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>Tăng 30% sức mạnh cơ bản của pháp bảo.</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>Tăng 30% trữ lượng linh khí cơ bản của pháp bảo.</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>Tăng 30% khả năng kháng đẩy lùi cơ bản của pháp bảo.</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>Tăng 30% tốc độ xoay chuyển cơ bản của pháp bảo.</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>Tăng 30% tốc độ hồi phục linh khí cơ bản của pháp bảo.</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>Tăng 30% lực đẩy lùi cơ bản của pháp bảo.</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>Tăng 30% tốc độ bay cơ bản của pháp bảo.</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>Sức mạnh của đòn ngự kiếm đầu tiên tăng 500%. Hiệu ứng đặt lại khi nạp đầy linh khí cho pháp bảo.</Effects.0.SpecialAbilities.35.Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
+			<DisplayName>Linh Thực Nghịch Nhiệt</DisplayName>
+			<Desc>Cây cối trong môn phái không còn bị ảnh hưởng bởi điều kiện nhiệt độ khi sinh trưởng.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion">
+			<Desc>Tăng nhẹ tỉ lệ thuyết phục thành công của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion2">
+			<Desc>Tăng tỉ lệ thuyết phục thành công của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion3">
+			<Desc>Tăng mạnh tỉ lệ thuyết phục thành công của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
+			<Desc>Khôi lỗi ngừng suy giảm độ bền.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_1">
+			<Desc>Tăng nhẹ tốc độ hồi phục linh khí của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_2">
+			<Desc>Tăng tốc độ hồi phục linh khí của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_3">
+			<Desc>Tăng mạnh tốc độ hồi phục linh khí của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_4">
+			<Desc>Gia tốc tốc độ tu luyện của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_5">
+			<Desc>Gia tốc mạnh mẽ tốc độ tu luyện của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_6">
+			<Desc>Đệ tử môn phái ít cảm thấy đói hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_7">
+			<Desc>Đệ tử môn phái ít cảm thấy mệt mỏi hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_8">
+			<Desc>Đệ tử môn phái ít cảm thấy khát hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_9">
+			<Desc>Tăng nhẹ sức mạnh hộ thể cương khí của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_10">
+			<Desc>Tăng sức mạnh hộ thể cương khí của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_11">
+			<Desc>Tăng nhẹ tỉ lệ đột phá cảnh giới của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_12">
+			<Desc>Tăng tỉ lệ đột phá cảnh giới của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_13">
+			<Desc>Tăng mạnh tỉ lệ đột phá cảnh giới của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_14">
+			<Desc>Tăng nhẹ khả năng tịch cốc (nhịn ăn) của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_15">
+			<Desc>Nâng cao khả năng nhịn ăn uống của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_16">
+			<Desc>Nâng cao mạnh mẽ khả năng nhịn ăn uống của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_17">
+			<Desc>Giảm nhẹ điểm Thiên Khiển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_18">
+			<Desc>Giảm điểm Thiên Khiển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_19">
+			<Desc>Giảm mạnh điểm Thiên Khiển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_20">
+			<Desc>Tăng nhẹ giới hạn tuổi thọ của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_21">
+			<Desc>Tăng giới hạn tuổi thọ của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_22">
+			<Desc>Tăng mạnh giới hạn tuổi thọ của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_23">
+			<Desc>Tăng nhẹ tốc độ di chuyển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_24">
+			<Desc>Tăng tốc độ di chuyển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_25">
+			<Desc>Tăng mạnh tốc độ di chuyển của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_26">
+			<Desc>Tăng tốc độ Trúc Cơ của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_27">
+			<Desc>Tăng mạnh tốc độ Trúc Cơ của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_28">
+			<Desc>Tăng tốc độ học tập của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_29">
+			<Desc>Tăng mạnh tốc độ học tập của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_30">
+			<Desc>Tăng nhẹ tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_31">
+			<Desc>Tăng tốc độ làm việc của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_32">
+			<Desc>Tăng mạnh tốc độ làm việc của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_33">
+			<Desc>Tăng nhẹ tâm cảnh cơ bản của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_34">
+			<Desc>Tăng tâm cảnh cơ bản của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_35">
+			<Desc>Tăng mạnh tâm cảnh cơ bản của đệ tử môn phái.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_36">
+			<Desc>Khả năng chịu tải trận pháp của đệ tử môn phái tăng mạnh.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_37">
+			<Desc>Khả năng chịu tải trận pháp của đệ tử môn phái tăng mạnh.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_40">
+			<Desc>Cấp kỹ năng chiến đấu của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_41">
+			<Desc>Cấp kỹ năng chiến đấu của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_42">
+			<Desc>Cấp kỹ năng chiến đấu của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_43">
+			<Desc>Cấp kỹ năng xã giao của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_44">
+			<Desc>Cấp kỹ năng xã giao của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_45">
+			<Desc>Cấp kỹ năng xã giao của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_46">
+			<Desc>Cấp kỹ năng thủ công của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_47">
+			<Desc>Cấp kỹ năng thủ công của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_48">
+			<Desc>Cấp kỹ năng nghệ thuật của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_49">
+			<Desc>Cấp kỹ năng cảm nhận linh khí của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_50">
+			<Desc>Cấp kỹ năng cảm nhận linh khí của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_51">
+			<Desc>Cấp kỹ năng cảm nhận linh khí của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_52">
+			<Desc>Cấp kỹ năng luyện khí của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_53">
+			<Desc>Cấp kỹ năng luyện khí của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_54">
+			<Desc>Cấp kỹ năng luyện khí của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_55">
+			<Desc>Cấp kỹ năng y thuật/luyện đan của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_56">
+			<Desc>Cấp kỹ năng y thuật/luyện đan của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_57">
+			<Desc>Cấp kỹ năng y thuật/luyện đan của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_58">
+			<Desc>Cấp kỹ năng ngự kiếm của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_59">
+			<Desc>Cấp kỹ năng ngự kiếm của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_60">
+			<Desc>Cấp kỹ năng ngự kiếm của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_61">
+			<Desc>Cấp kỹ năng thuật pháp của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_62">
+			<Desc>Cấp kỹ năng thuật pháp của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_63">
+			<Desc>Cấp kỹ năng thuật pháp của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_64">
+			<Desc>Cấp kỹ năng phòng thủ của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_65">
+			<Desc>Cấp kỹ năng phòng thủ của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_66">
+			<Desc>Cấp kỹ năng phòng thủ của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_67">
+			<Desc>Cấp kỹ năng trận pháp của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_68">
+			<Desc>Cấp kỹ năng trận pháp của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_69">
+			<Desc>Cấp kỹ năng trận pháp của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_70">
+			<Desc>Cấp kỹ năng khai khoáng của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_71">
+			<Desc>Cấp kỹ năng khai khoáng của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_72">
+			<Desc>Cấp kỹ năng khai khoáng của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_73">
+			<Desc>Cấp kỹ năng nông nghiệp của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_74">
+			<Desc>Cấp kỹ năng nông nghiệp của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_75">
+			<Desc>Cấp kỹ năng nông nghiệp của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_76">
+			<Desc>Cấp kỹ năng xây dựng của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_77">
+			<Desc>Cấp kỹ năng xây dựng của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_78">
+			<Desc>Cấp kỹ năng xây dựng của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_79">
+			<Desc>Cấp kỹ năng trù nghệ của đệ tử +1 (tăng giới hạn).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_80">
+			<Desc>Cấp kỹ năng trù nghệ của đệ tử +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_81">
+			<Desc>Cấp kỹ năng trù nghệ của đệ tử +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_82">
+			<Desc>Mị lực của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_83">
+			<Desc>Mị lực của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_84">
+			<Desc>Mị lực của đệ tử tăng thêm 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_85">
+			<Desc>Ngộ tính của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_86">
+			<Desc>Ngộ tính của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_87">
+			<Desc>Ngộ tính của đệ tử tăng thêm 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_88">
+			<Desc>Cơ duyên của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_89">
+			<Desc>Cơ duyên của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_90">
+			<Desc>Cơ duyên của đệ tử tăng thêm 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_91">
+			<Desc>Thần thức của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_92">
+			<Desc>Thần thức của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_93">
+			<Desc>Thần thức của đệ tử tăng thêm 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_94">
+			<Desc>Căn cốt của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_95">
+			<Desc>Căn cốt của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_96">
+			<Desc>Căn cốt của đệ tử tăng thêm 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_97">
+			<Desc>Ngũ duy (năm thuộc tính) của đệ tử tăng thêm 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_38">
+			<Desc>Ngũ duy (năm thuộc tính) của đệ tử tăng thêm 30%.</Desc>
+		</Text>
+	</List>
+</Texts>
