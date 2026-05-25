@@ -1,0 +1,49 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="ClothBase" sParam="Item">
+      <Desc>Bông dệt thành vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.FabaoSuffix>Bạch,Sa,La</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CottonCloth" sParam="Item">
+      <ThingName>Hoa Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu sắc 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Hoa Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DeepBlueCloth" sParam="Item">
+      <ThingName>Điện Lam Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu chàm sắc 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Điện Lam Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_PurpleCloth" sParam="Item">
+      <ThingName>Tử Bố</ThingName>
+      <Desc>Bông dệt thành 【 Tử sắc 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Tử Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YellowCloth" sParam="Item">
+      <ThingName>Hoàng Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu vàng 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Hoàng Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlueCloth" sParam="Item">
+      <ThingName>Lam Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu lam 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Lam Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RedCloth" sParam="Item">
+      <ThingName>Hồng Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu đỏ 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Hồng Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WhiteCloth" sParam="Item">
+      <ThingName>Bạch Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu trắng 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Bạch Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlackCloth" sParam="Item">
+      <ThingName>Hắc Bố</ThingName>
+      <Desc>Bông dệt thành 【 Màu đen 】 Vải vóc, có thể dùng đến chế tác quần áo chờ.</Desc>
+      <Item.BeMaterial.NamePrefix>Hắc Bố</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>
