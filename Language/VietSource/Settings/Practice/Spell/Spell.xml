@@ -1,0 +1,240 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Spell_SYSLOST">
+      <DisplayName>Mô Tổ Đâu Thất</DisplayName>
+      <Desc>Thất lạc chi vật, không có người nhận biết cái này.\n( Mô tổ mất đi ).</Desc>
+    </Text>
+    <Text Name="Spell_MoveSpeed1">
+      <DisplayName>Khinh Thân Phù</DisplayName>
+      <Desc>Có thể đề cao tốc độ di chuyển phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_TempLow1">
+      <DisplayName>Tị Hàn Phù</DisplayName>
+      <Desc>Có thể đề cao rét lạnh chống cự phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_TempHigh1">
+      <DisplayName>Tị Thử Phù</DisplayName>
+      <Desc>Có thể đề cao nóng bức chống cự phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_ReadNovel">
+      <DisplayName>Dị Văn Phù</DisplayName>
+      <Desc>Không biết nơi nào truyền xuống kì lạ phù chú, họa pháp mười phần đơn giản, nhưng công hiệu mười phần thần kỳ, tại tu hành giới lưu truyền rộng rãi. Chỉ cần người đeo tâm thần tụ tập tại phù chú bên trên, liền có thể thu hoạch được rất nhiều kỳ diệu cố sự kiến thức, buông lỏng tâm tình, điều trị tâm cảnh. Chỉ là sẽ nhịn không được trầm mê trong đó, mười phần ảnh hưởng công việc hiệu suất, tu hành tốc độ.</Desc>
+    </Text>
+    <Text Name="Spell_MoveSpeed2">
+      <DisplayName>Thần Hành Phù</DisplayName>
+      <Desc>Có thể đề cao tốc độ di chuyển phù chú, cũng có thể thích hợp đề cao lịch luyện lúc tốc độ.</Desc>
+    </Text>
+    <Text Name="Spell_RecoveryPower">
+      <DisplayName>Dược Sư Khư Bệnh Phù</DisplayName>
+      <Desc>Có thể đề cao thân thể tự nhiên sức khôi phục phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_VisionRadius">
+      <DisplayName>Thiên Lý Thần Thị Phù</DisplayName>
+      <Desc>Có thể đề cao tầm mắt, cũng đề cao lịch luyện lúc phát hiện vùng đất mới điểm tốc độ.</Desc>
+    </Text>
+    <Text Name="Spell_Fatigue">
+      <DisplayName>Chu Công Địch Thần Phù</DisplayName>
+      <Desc>Có thể đề cao giấc ngủ chất lượng, cũng để cho người ta không dễ mệt nhọc.</Desc>
+    </Text>
+    <Text Name="Spell_Nutrition">
+      <DisplayName>Ẩm Khí Phù</DisplayName>
+      <Desc>Đề cao uống khí Tích Cốc hiệu suất.</Desc>
+    </Text>
+    <Text Name="Spell_Nutrition1">
+      <DisplayName>Tịch Cốc Phù</DisplayName>
+      <Desc>Giảm bớt ẩm thực tiêu hao tốc độ.</Desc>
+    </Text>
+    <Text Name="Spell_Hide">
+      <DisplayName>Nặc Tung Phù</DisplayName>
+      <Desc>Có thể trình độ nhất định ẩn nấp khí tức của mình, làm mình đi ra ngoài lịch luyện lúc chẳng phải dễ dàng bị nhận ra thân phận, dĩ hàng thấp giọng nhìn thu hoạch.</Desc>
+    </Text>
+    <Text Name="Spell_Happy">
+      <DisplayName>Trường Nhạc Phù</DisplayName>
+      <Desc>Để cho lòng người rất nhỏ biến tốt, lại giảm xuống giải trí giá trị suy giảm tốc độ.</Desc>
+    </Text>
+    <Text Name="Spell_LunHui_ShenShen">
+      <DisplayName>Thân Thân Phù</DisplayName>
+      <Desc>Dung hợp cầu nguyện chi lực phù chú, có thể để cho lòng người biến tốt, tâm cảnh yên ổn.</Desc>
+    </Text>
+    <Text Name="Spell_TempLow2">
+      <DisplayName>Thái Dương Phù</DisplayName>
+      <Desc>Có thể trên diện rộng đề cao rét lạnh chống cự phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_TempHigh2">
+      <DisplayName>Thái Âm Phù</DisplayName>
+      <Desc>Có thể trên diện rộng đề cao nóng bức chống cự phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_Intelligence">
+      <DisplayName>Văn Xương Phù</DisplayName>
+      <Desc>Làm đầu não thanh minh, đề cao năng lực học tập.</Desc>
+    </Text>
+    <Text Name="Spell_Fight">
+      <DisplayName>Vũ Xương Phù</DisplayName>
+      <Desc>Đề cao năng lực chiến đấu, đề cao đau đớn nhẫn nại.</Desc>
+    </Text>
+    <Text Name="Spell_GlobalEfficiency">
+      <DisplayName>Thần Cần Phù</DisplayName>
+      <Desc>Làm động tác lanh lẹ, công việc hiệu suất đề cao.</Desc>
+    </Text>
+    <Text Name="Spell_MadeQualityAddValue">
+      <DisplayName>Thiên Công Phù</DisplayName>
+      <Desc>Đề cao chế tác vật phẩm chất.</Desc>
+    </Text>
+    <Text Name="Spell_Yield">
+      <DisplayName>Phong Nhiêu Phù</DisplayName>
+      <Desc>Đề cao đi săn, trồng thu hoạch lúc sản lượng.</Desc>
+    </Text>
+    <Text Name="Spell_Treatment">
+      <DisplayName>Dược Vương Phù</DisplayName>
+      <Desc>Đề cao trị liệu xác suất thành công cùng hiệu quả trị liệu.</Desc>
+    </Text>
+    <Text Name="Spell_MindState1">
+      <DisplayName>Ninh Tâm Phù</DisplayName>
+      <Desc>Có thể làm tâm cảnh hơi đề cao phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+      <DisplayName>Thiên Tâm Phù</DisplayName>
+      <Desc>Có thể hơi đề cao tốc độ tu luyện.</Desc>
+    </Text>
+    <Text Name="Spell_MindState2">
+      <DisplayName>Động Thần Phù</DisplayName>
+      <Desc>Có thể làm tâm cảnh đề cao phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_MindState2_LunHui">
+      <DisplayName>Thiên Thông Động Thần Phù</DisplayName>
+      <Desc>Ngàn năm trước cổ tiên Viên như tuyết cải tiến đạo môn ba động thần phù lưu lại không xuất bản nữa phù chú.\n[color=#D06508] Dùng cái này kỷ niệm bản trò chơi vị thứ nhất vẽ ra 100 Phẩm chất phù chú người chơi: Kỳ thật không phải ta [/color]</Desc>
+    </Text>
+    <Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+      <DisplayName>Động Chân Phù</DisplayName>
+      <Desc>Có thể đề cao đột phá bình cảnh xác suất.</Desc>
+    </Text>
+    <Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+      <DisplayName>Động Huyền Phù</DisplayName>
+      <Desc>Có thể đề cao tốc độ tu luyện.</Desc>
+    </Text>
+    <Text Name="Spell_WorldMapFlySpeed">
+      <DisplayName>Phân Ảnh Độn Không Phù</DisplayName>
+      <Desc>Có thể đề cao đường dài ngự kiếm tốc độ phi hành.</Desc>
+    </Text>
+    <Text Name="Spell_FabaoMake_SuccessRateAddV">
+      <DisplayName>Thái Thượng Thông Bảo Phù</DisplayName>
+      <Desc>Có thể đề cao luyện chế pháp bảo xác suất thành công phù chú.</Desc>
+    </Text>
+    <Text Name="Spell_FabaoMake_LingInheritRateAddV">
+      <DisplayName>Ngũ Phương Linh Bảo Phù</DisplayName>
+      <Desc>Có thể rất nhỏ đề cao luyện chế pháp bảo phẩm giai.</Desc>
+    </Text>
+    <Text Name="Spell_DanMake_SuccessRateAddV">
+      <DisplayName>Đâu Suất Thần Phù</DisplayName>
+      <Desc>Có thể đề cao luyện chế đan dược xác suất thành công.</Desc>
+    </Text>
+    <Text Name="Spell_DanMake_YieldAddP">
+      <DisplayName>Vạn Hóa Thừa Đan Phù</DisplayName>
+      <Desc>Có thể rất nhỏ đề cao luyện chế đan dược sản lượng.</Desc>
+    </Text>
+    <Text Name="Spell_Fu">
+      <DisplayName>Vạn Phúc Đồ</DisplayName>
+      <Desc>Người đeo có thể đề cao tâm tình cùng tâm cảnh, vạn sự như ý. Cung chúc các vị tân xuân vui vẻ, vạn sự như ý!</Desc>
+    </Text>
+    <Text Name="Spell_Lu">
+      <DisplayName>Vạn Lộc Đồ</DisplayName>
+      <Desc>Người đeo có thể thân nhẹ thể kiện, thu hoạch tăng gấp bội. Cung chúc các vị tân xuân vui vẻ, vạn sự như ý!</Desc>
+    </Text>
+    <Text Name="Spell_Shou">
+      <DisplayName>Vạn Thọ Đồ</DisplayName>
+      <Desc>Người đeo có thể đề cao thọ nguyên, rời xa tật chướng. Cung chúc các vị tân xuân vui vẻ, vạn sự như ý!</Desc>
+    </Text>
+    <Text Name="Spell_Shield1">
+      <DisplayName>Huyền Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao hộ thể chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_Shield2">
+      <DisplayName>Thiên Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao hộ thể kỹ năng đẳng cấp.</Desc>
+    </Text>
+    <Text Name="Spell_Shield_Jin">
+      <DisplayName>Kim Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao chống cự Kim thuộc tính tổn thương chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_Shield_Mu">
+      <DisplayName>Mộc Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao chống cự Mộc thuộc tính tổn thương chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_Shield_Shui">
+      <DisplayName>Thủy Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao chống cự Thủy thuộc tính tổn thương chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_Shield_Huo">
+      <DisplayName>Hỏa Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao chống cự Hỏa thuộc tính tổn thương chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_Shield_Tu">
+      <DisplayName>Thổ Giáp Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao chống cự Thổ thuộc tính tổn thương chi lực.</Desc>
+    </Text>
+    <Text Name="Spell_FaBao1">
+      <DisplayName>Lợi Kiếm Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao pháp bảo uy lực.</Desc>
+    </Text>
+    <Text Name="Spell_FaBao2">
+      <DisplayName>Thần Kiếm Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao ngự khí kỹ năng đẳng cấp.</Desc>
+    </Text>
+    <Text Name="Spell_FaBao3">
+      <DisplayName>Linh Kiếm Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao pháp bảo hồi linh bội suất.</Desc>
+    </Text>
+    <Text Name="Spell_FaBao4">
+      <DisplayName>Thánh Kiếm Phù</DisplayName>
+      <Desc>Người đeo có thể từ trên căn bản đề cao pháp bảo uy lực, cũng toàn diện đề cao pháp bảo năng lực.</Desc>
+    </Text>
+    <Text Name="Spell_FightSkill1">
+      <DisplayName>Lệ Chú Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao uy lực pháp thuật.</Desc>
+    </Text>
+    <Text Name="Spell_FightSkill2">
+      <DisplayName>Thần Chú Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao thuật pháp kỹ năng đẳng cấp.</Desc>
+    </Text>
+    <Text Name="Spell_FightSkill3">
+      <DisplayName>Linh Chú Phù</DisplayName>
+      <Desc>Người đeo có thể từ trên căn bản giảm xuống thuật pháp kỹ năng linh khí tiêu hao.</Desc>
+    </Text>
+    <Text Name="Spell_FightSkill4">
+      <DisplayName>Thánh Chú Phù</DisplayName>
+      <Desc>Người đeo có thể từ trên căn bản đề cao uy lực pháp thuật, pháp thuật linh khí tiêu hao.</Desc>
+    </Text>
+    <Text Name="Spell_TongTian1">
+      <DisplayName>Thông Thiên Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao năm chiều.</Desc>
+    </Text>
+    <Text Name="Spell_TongTian2">
+      <DisplayName>Già Thiên Phù</DisplayName>
+      <Desc>Người đeo có thể giảm xuống đạo hạnh.</Desc>
+    </Text>
+    <Text Name="Spell_TongTian3">
+      <DisplayName>Chân Tiềm Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao tiềm lực.</Desc>
+    </Text>
+    <Text Name="Spell_JieTian1">
+      <DisplayName>Tá Thiên Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao đạo hạnh.</Desc>
+    </Text>
+    <Text Name="Spell_GodPractice1">
+      <DisplayName>Thần Cư Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao thần dân hạn mức cao nhất.</Desc>
+    </Text>
+    <Text Name="Spell_GodPractice2">
+      <DisplayName>Thần Cảm Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao thần quốc tín ngưỡng thu hoạch tăng thêm.</Desc>
+    </Text>
+    <Text Name="Spell_GodPractice3">
+      <DisplayName>Thần Uy Phù</DisplayName>
+      <Desc>Người đeo có thể đề cao thần tính.</Desc>
+    </Text>
+    <Text Name="Spell_GodPractice4">
+      <DisplayName>Thần Ẩn Phù</DisplayName>
+      <Desc>Người đeo có thể giảm xuống thần tính.</Desc>
+    </Text>
+  </List>
+</Texts>
