@@ -1,0 +1,152 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="War1">
+      <DisplayName>Trừ gian diệt ác</DisplayName>
+      <Desc>{0} có một đệ tử khi ra ngoài lịch luyện đã bị kẻ ác sát hại, nhưng vì cân nhắc đến môn phái nên họ không thể tự mình xử lý, hy vọng có người có thể giúp họ báo thù.</Desc>
+    </Text>
+    <Text Name="War2">
+      <DisplayName>Thanh trừng gián điệp</DisplayName>
+      <Desc>{0} phát hiện ra có một đệ tử dưới trướng họ thực chất là gián điệp, nhưng do công việc của môn phái nên không thể tự mình xử lý. Họ hy vọng có người có thể đến và thanh trừng.</Desc>
+    </Text>
+    <Text Name="War3">
+      <DisplayName>Loại bỏ kẻ phản bội</DisplayName>
+      <Desc>{0} có một đệ tử vi phạm giới luật, đang lẩn trốn bên ngoài. Họ hy vọng có người hữu duyên có thể giúp họ giải quyết vấn đề này.</Desc>
+    </Text>
+    <Text Name="Rest1">
+      <DisplayName>Chữa trị đệ tử</DisplayName>
+      <Desc>{0} một đệ tử cấp cao bị trọng thương loại "Thổ", môn phái không tìm được đan dược có thể chữa trị, rất cần sự giúp đỡ từ người có lòng nhân nghĩa.</Desc>
+    </Text>
+    <Text Name="Rest2">
+      <DisplayName>Chữa trị đệ tử</DisplayName>
+      <Desc>{0} một đệ tử cấp cao bị trọng thương loại "Mộc", môn phái không tìm được đan dược có thể chữa trị, rất cần sự giúp đỡ từ người có lòng nhân nghĩa.</Desc>
+    </Text>
+    <Text Name="Rest3">
+      <DisplayName>Chữa trị đệ tử</DisplayName>
+      <Desc>{0} một đệ tử cấp cao bị trọng thương loại "Hỏa", môn phái không tìm được đan dược có thể chữa trị, rất cần sự giúp đỡ từ người có lòng nhân nghĩa.</Desc>
+    </Text>
+    <Text Name="Rest4">
+      <DisplayName>Chữa trị đệ tử</DisplayName>
+      <Desc>{0} một đệ tử cấp cao bị trọng thương loại "Kim", môn phái không tìm được đan dược có thể chữa trị, rất cần sự giúp đỡ từ người có lòng nhân nghĩa.</Desc>
+    </Text>
+    <Text Name="Rest5">
+      <DisplayName>Chữa trị đệ tử</DisplayName>
+      <Desc>{0} một đệ tử cấp cao bị trọng thương loại "Thủy", môn phái không tìm được đan dược có thể chữa trị, rất cần sự giúp đỡ từ người có lòng nhân nghĩa.</Desc>
+    </Text>
+    <Text Name="Rest6">
+      <DisplayName>Chữa trị Trưởng lão</DisplayName>
+      <Desc>{0} một Trưởng lão bị trọng thương, đan dược thông thường không thể chữa trị, cần phải vận công liên tục dưới sự hỗ trợ của lượng lớn linh khí thuộc tính Thủy mới có thể hồi phục. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest7">
+      <DisplayName>Chữa trị Trưởng lão</DisplayName>
+      <Desc>{0} một Trưởng lão bị trọng thương, đan dược thông thường không thể chữa trị, cần phải vận công liên tục dưới sự hỗ trợ của lượng lớn linh khí thuộc tính Hỏa mới có thể hồi phục. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest8">
+      <DisplayName>Chữa trị Trưởng lão</DisplayName>
+      <Desc>{0} một Trưởng lão bị trọng thương, đan dược thông thường không thể chữa trị, cần phải vận công liên tục dưới sự hỗ trợ của lượng lớn linh khí thuộc tính Kim mới có thể hồi phục. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest9">
+      <DisplayName>Chữa trị Trưởng lão</DisplayName>
+      <Desc>{0} một Trưởng lão đột nhiên bị trọng thương, đan dược thông thường không thể chữa trị, cần phải vận công liên tục dưới sự hỗ trợ của lượng lớn linh khí thuộc tính Mộc mới có thể hồi phục. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest10">
+      <DisplayName>Chữa trị Trưởng lão</DisplayName>
+      <Desc>{0} một Trưởng lão đột nhiên bị trọng thương, đan dược thông thường không thể chữa trị, cần phải vận công liên tục dưới sự hỗ trợ của lượng lớn linh khí thuộc tính Thổ mới có thể hồi phục. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest11">
+      <DisplayName>Trì hoãn Thiên kiếp</DisplayName>
+      <Desc>{0} một Trưởng lão có việc quan trọng cần làm, nhưng Thiên kiếp sắp đến, muốn xin từ môn phái khác lại ngại giữ thể diện. Nếu có người hữu duyên ra tay giúp đỡ, sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Rest12">
+      <DisplayName>Trì hoãn Thiên kiếp</DisplayName>
+      <Desc>{0} một Trưởng lão tu vi vẫn cần tinh tiến, nhưng Thiên kiếp sắp đến, rất cần đan dược kéo dài tuổi thọ để tránh kiếp nạn.</Desc>
+    </Text>
+    <Text Name="Rest13">
+      <DisplayName>Đại hạn sắp đến</DisplayName>
+      <Desc>{0} một đệ tử cấp cao đã tiêu hao không ít thọ nguyên vì việc phàm trần, đại hạn sắp đến. Rất cần một viên đan dược kéo dài tuổi thọ, nhưng trong môn phái lại không còn viên nào.</Desc>
+    </Text>
+    <Text Name="Rest14">
+      <DisplayName>Đại hạn sắp đến</DisplayName>
+      <Desc>{0} một Trưởng lão đã tiêu hao không ít thọ nguyên vì việc phàm trần, đại hạn sắp đến, không cam lòng cứ thế nhập luân hồi, cầu cứu các vị Tiên gia rộng lớn.</Desc>
+    </Text>
+    <Text Name="Rest15">
+      <DisplayName>Đột phá bình cảnh</DisplayName>
+      <Desc>{0} trong quá trình đột phá bình cảnh của một Trưởng lão, linh khí thuộc tính Thủy đột nhiên tiêu tan, trong môn phái lại không có Thiên Địa Linh Căn để dùng. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest16">
+      <DisplayName>Đột phá bình cảnh</DisplayName>
+      <Desc>{0} trong quá trình đột phá bình cảnh của một Trưởng lão, linh khí thuộc tính Hỏa đột nhiên tiêu tan, trong môn phái lại không có Thiên Địa Linh Căn để dùng. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest17">
+      <DisplayName>Đột phá bình cảnh</DisplayName>
+      <Desc>{0} trong quá trình đột phá bình cảnh của một Trưởng lão, linh khí thuộc tính Kim đột nhiên tiêu tan, trong môn phái lại không có Thiên Địa Linh Căn để dùng. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest18">
+      <DisplayName>Đột phá bình cảnh</DisplayName>
+      <Desc>{0} trong quá trình đột phá bình cảnh của một Trưởng lão, linh khí thuộc tính Mộc đột nhiên tiêu tan, trong môn phái lại không có Thiên Địa Linh Căn để dùng. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Rest19">
+      <DisplayName>Đột phá bình cảnh</DisplayName>
+      <Desc>{0} trong quá trình đột phá bình cảnh của một Trưởng lão, linh khí thuộc tính Thổ đột nhiên tiêu tan, trong môn phái lại không có Thiên Địa Linh Căn để dùng. Nếu được tặng, nhất định sẽ vô cùng cảm kích.</Desc>
+    </Text>
+    <Text Name="Build1">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} trong quá trình xây dựng kỳ quan, do sơ suất trong tính toán nên thiếu vật liệu quan trọng là Thiên Trụ Thạch, sắp thất bại. Nếu có người tặng, nhất định sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build2">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} trong quá trình xây dựng kỳ quan, do sơ suất trong tính toán nên thiếu vật liệu quan trọng là Tinh Tủy, sắp thất bại. Nếu có người tặng, nhất định sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build3">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} muốn xây dựng cổng môn mới, nhưng Thạch Tủy không đủ dùng. Nếu có người đưa than trong lúc tuyết rơi (giúp đỡ kịp thời), sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build4">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} chuẩn bị xây dựng phòng tắm mới, nhưng Ngọc Tủy có hạn. Hy vọng các môn phái lớn có thể ra tay giúp đỡ.</Desc>
+    </Text>
+    <Text Name="Build5">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} cần một lượng lớn Hỏa Đồng Khoáng để xây dựng lò luyện đan, nhưng nhất thời, môn phái không thể đáp ứng đủ nhu cầu.</Desc>
+    </Text>
+    <Text Name="Build6">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} cần một lượng lớn Hàn Tinh Khoáng để xây dựng lò luyện đan, nhưng nhất thời, môn phái không thể đáp ứng đủ nhu cầu.</Desc>
+    </Text>
+    <Text Name="Build7">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} đang sửa chữa đại điện, kho chứa đột nhiên cháy lớn, toàn bộ Kim Ti Kiên Mộc trong kho đều hóa thành tro tàn, nhưng đại điện lại không thể ngừng sửa chữa. Mong người hữu duyên tặng.</Desc>
+    </Text>
+    <Text Name="Build8">
+      <DisplayName>Xây dựng môn phái</DisplayName>
+      <Desc>{0} cần mở rộng phòng ăn, nhưng gỗ trong môn phái do xử lý không đúng cách nên bị côn trùng phá hoại. Mong người hữu duyên tặng.</Desc>
+    </Text>
+    <Text Name="Build9">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} sơn môn đột nhiên đổ sập, rất cần Thiên Trụ Thạch để sửa chữa, nếu không sẽ mất hết thể diện. Nếu có người tặng, nhất định sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build10">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} trong quá trình rèn luyện pháp bảo, do sơ suất nhất thời, pháp bảo bị hư hỏng, rất cần Tinh Tủy mới có thể phục hồi. Nếu có người tặng, nhất định sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build11">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} nền móng bị hư hại, cần một lượng lớn Thạch Tủy để lấp đầy các vết nứt. Nếu có người đưa than trong lúc tuyết rơi (giúp đỡ kịp thời), sẽ được trọng tạ.</Desc>
+    </Text>
+    <Text Name="Build12">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} cần một lượng lớn Ngọc Tủy để chế tạo tượng điêu khắc, nhưng môn phái không có trữ lượng. Hy vọng các môn phái lớn có thể ra tay giúp đỡ.</Desc>
+    </Text>
+    <Text Name="Build13">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} cần xây dựng phòng nhiệt độ cao để tu luyện vượt kiếp, nhưng trong môn phái chỉ có rất ít Hỏa Đồng Khoáng có thể sử dụng. Mong người hữu duyên giúp đỡ.</Desc>
+    </Text>
+    <Text Name="Build14">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} cần xây dựng phòng cực lạnh để tu luyện vượt kiếp, nhưng trong môn phái chỉ có rất ít Hàn Tinh Khoáng có thể sử dụng. Mong người hữu duyên giúp đỡ.</Desc>
+    </Text>
+    <Text Name="Build15">
+      <DisplayName>Thiếu hụt tài nguyên</DisplayName>
+      <Desc>{0} muốn nghiên cứu sâu về Phù tu, cần một lượng lớn Chu Sa để vẽ các loại thần phù, nhưng môn phái không tích trữ vật này. Nếu có người tặng, sẽ vô cùng cảm kích.</Desc>
+    </Text>
+  </List>
+</Texts>
