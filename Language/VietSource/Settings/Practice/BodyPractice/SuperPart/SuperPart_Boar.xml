@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Boar_1">
+      <Prefix>Lông cứng</Prefix>
+      <Suffix>Huyết Thần</Suffix>
+      <Desc>Bí thể do Trư yêu truyền lại. Luyện hóa lớp lông cứng trên cổ bằng bí pháp. Một khi luyện thành, có thể gắn vào bất kỳ đòn tấn công nào, giúp tăng tỷ lệ xuyên giáp tất cả bí thể linh khí.</Desc>
+      <Levels.0.Title>Cấp độ một</Levels.0.Title>
+      <Levels.0.Desc>Tất cả bí thể linh khí xuyên giáp toàn cục tăng thêm +1%</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Boar_2">
+      <Prefix>Nanh</Prefix>
+      <Suffix>Động Diệt</Suffix>
+      <Desc>Bí thể do Trư yêu truyền lại. Gắn sức mạnh hủy diệt vào chiếc nanh sắc bén, một đòn có thể xuyên thủng mọi thứ.</Desc>
+      <Levels.0.Title>Cấp độ một</Levels.0.Title>
+      <Levels.0.Desc>Tỷ lệ bí thể linh khí xuyên giáp +75%</Levels.0.Desc>
+    </Text>
+  </List>
+</Texts>
