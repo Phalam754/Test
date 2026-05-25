@@ -1,0 +1,25 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SuperPart_Cattle_1">
+      <Prefix>Tứ Tượng Huyền Hóa</Prefix>
+      <Suffix>bụng</Suffix>
+      <Desc>Bí thể của tộc Ngưu Yêu, dùng sức mạnh của bốn nguyên tố Kim, Mộc, Thủy, Hỏa để tôi luyện dạ dày, khiến khả năng tiêu hóa tăng mạnh.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Phẩm chất cao nhất của vật phẩm có thể nuốt chửng +4
+Tỷ lệ nhận được tinh hoa sau khi nuốt chửng +2
+Tỷ lệ nhận được số lượng tinh hoa sau khi nuốt chửng +1
+Gia tăng tiêu hao thức ăn +1
+Tỷ lệ nhận được tinh nguyên +0.1
+Giá trị tối đa của độ no +200</Levels.0.Desc>
+    </Text>
+    <Text Name="SuperPart_Cattle_2">
+      <Prefix>Quán Tinh</Prefix>
+      <Suffix>sừng</Suffix>
+      <Desc>Bí thể của tộc Ngưu Yêu, bí thể tuyệt sát, tu luyện đến cực hạn có thể dẫn động sức mạnh của tinh tú, không gì không phá được.</Desc>
+      <Levels.0.Title>Tầng thứ nhất</Levels.0.Title>
+      <Levels.0.Desc>Giá trị cơ bản của uy lực bí thể +500</Levels.0.Desc>
+      <Levels.1.Title>Tầng thứ hai</Levels.1.Title>
+      <Levels.1.Desc>Giá trị cơ bản của uy lực bí thể +1500</Levels.1.Desc>
+    </Text>
+  </List>
+</Texts>
