@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="RockBrown" sParam="Plant">
+      <ThingName>Tông Nham</ThingName>
+      <Desc>Màu nâu nham thạch ngọn núi, tính chất lỏng lẻo, so sánh khó khai thác ra có thể lợi dụng vật liệu đá.</Desc>
+    </Text>
+    <Text Name="RockGray" sParam="Plant">
+      <ThingName>Hôi Nham</ThingName>
+      <Desc>Màu xám nham thạch ngọn núi, tính chất chặt chẽ, có thể khai thác dùng cho kiến thiết.</Desc>
+    </Text>
+    <Text Name="RockMarble" sParam="Plant">
+      <ThingName>Đại Lý Nham</ThingName>
+      <Desc>Giàu có đá cẩm thạch ngọn núi, có thể khai thác ra đá cẩm thạch.</Desc>
+    </Text>
+    <Text Name="RockJade" sParam="Plant">
+      <ThingName>Ngọc Nham</ThingName>
+      <Desc>Chứa ngọc thạch ngọn núi, có thể khai thác ra ngọc thạch.</Desc>
+    </Text>
+    <Text Name="RockCinnabar" sParam="Plant">
+      <ThingName>Chu Sa Nham</ThingName>
+      <Desc>Chứa chu sa quặng mỏ thể, có thể khai thác ra chu sa.</Desc>
+    </Text>
+  </List>
+</Texts>
