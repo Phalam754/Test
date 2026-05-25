@@ -1,0 +1,137 @@
+ItemName	Descript
+Item_Dan_IncreaseLife3	Bình Trang,Diên Thọ,Đạm Hoàng Sắc
+Item_Dan_IncreaseLife4	Hồ Lô Trang,Diên Thọ,Lam Sắc
+Item_Dan_Ling2	Tử Sắc,Cầu Hình,Căn Cơ
+Item_Dan_IncreaseLife5	Lam Sắc,Cầu Hình,Thiên Kiếp
+Item_Dan_IncreaseNeckCountdown1	Hồ Lô,Hồng Sắc,Thiên Kiếp
+Item_ParasolWood	Mộc,Kiên Ngạnh,Linh Vật
+Item_Dan_PracticeSpeed	Hỏa,Tốc Độ,Bình Trang
+Item_Dan_Defense	Hộ Thể,Cầu Hình,Chanh Sắc
+Item_CopperBlock1	Phương,Hỏa,Linh Vật
+Item_Dan_CureHuoDamage	Cầu Hình,Liệu Thương,Tử Sắc
+Item_Dan_CureTuDamage	Cầu Hình,Liệu Thương,Chanh Sắc
+Item_Dan_CureShuiDamage	Phấn Mạt,Thủy,Lam Sắc
+Item_Dan_CureMuDamage	Cầu Hình,Thanh Sắc,Liệu Thương
+Item_Dan_CureFiveElementDamage	Bình Trang,Liệu Thương,Chanh Sắc
+Item_EarthEssence_1	Hồ Lô Trang,Lam Sắc,Liệu Thương
+Item_Dan_FiveBaseFromLife	Cầu Hình,Tử Sắc,Chiết Thọ
+Item_Dan_DredgeQi	Bình Trang,Liệu Thương,Thổ
+Item_RedGinseng	Căn Hành,Hồng Sắc,Căn Cơ
+Item_LingWood	Mộc Đầu,Lam Sắc,Linh Vật
+Item_HardWood	Mộc Đầu,Hoàng Sắc
+Item_Dan_PracticeRate	Tiểu Khỏa Lạp,Kim,Bình Cảnh
+Item_Dan_IncreaseLife1	Diên Thọ,Hồ Lô Trang,Mộc
+Item_Dan_IncreaseLife2	Diên Thọ,Phấn Mạt,Thủy
+Item_BasePracticeDrug	Ngũ Duy,Bình Trang,Thủy
+Item_LingMuXueJie	Tinh Nguyên,Phấn Mạt,Lam Sắc
+Item_Dan_CalmDown	Tâm Cảnh,Tiểu Khỏa Lạp,Lam Sắc
+Item_Dan_Happiness	Hạt Sắc,Tâm Cảnh,Tiểu Khỏa Lạp
+Item_Dan_FiveBase2	Ngũ Duy,Thổ,Bình Trang
+Item_Dan_FiveBase1	Ngũ Duy,Bình Trang,Kim Sắc
+Item_Dan_FiveBase3	Hỏa,Ngũ Duy,Bình Trang
+Item_Dan_FiveBase4	Mộc,Ngũ Duy,Bình Trang
+Item_Dan_FiveBase5	Thủy,Ngũ Duy,Bình Trang
+Item_Dan_IncreaseNeckCountdown2	Phấn Mạt,Thiên Kiếp,Kim
+Item_Dan_CureJinDamage	Hạp Tử,Bạch Sắc,Liệu Thương
+Item_ShuiEssence	Bạch Sắc,Viên Hình,Linh Vật
+Item_HuoEssence	Hỏa,Cầu Hình,Linh Vật
+Item_JinEssence	Hạt Sắc,Cầu Hình,Linh Vật
+Item_MuEssence	Hạt Sắc,Linh Vật,Mộc
+Item_TuEssence	Hạt Sắc,Thổ,Linh Vật
+Item_LifeStream	Dịch Thể,Diên Thọ,Vô Sắc
+Item_EarthEssence	Dịch Thể,Vô Sắc,Căn Cơ
+Item_SkyStone	Thạch Đầu,Linh Vật,Thổ
+Item_StarEssence	Linh Vật,Thạch Đầu,Kim
+Item_SoulPearl	Linh Vật,Thủy,Cầu Hình
+Item_EarthEssence1	Căn Cơ,Dịch Thể,Hồng Sắc
+Item_Dan_LongDan1	Lam Sắc,Cầu Hình,Thủy
+Item_Dan_FengDan1	Hồng Sắc,Cầu Hình,Hỏa
+Item_YanDaoGuo	Đạo Hành,Mộc,Tử Sắc
+Item_QieDaoGuo	Thiên Khiển,Mộc,Lam Sắc
+Item_Dan_TreeEXP	Cầu Hình,Vô Sắc,Tham Ngộ
+Item_Dan_ExtremeLofty	Hồ Lô Trang,Kim Sắc,Liệu Thương
+Item_ExtremeJade	Kiên Ngạnh,Lam Sắc,Linh Vật
+Item_XianDaoShenNian	Cầu Hình,Tiềm Lực,Lục Sắc
+Item_XianDaoXieNian	Cầu Hình,Tiềm Lực,Tử Sắc
+Item_Dan_HundredRefine	Kim Sắc,Cầu Hình,Tu Vi
+Item_Dan_ZhuLongDan1	Phân Thần,Thải Sắc,Cầu Hình
+Item_ThunderAir	Cầu Hình,Vô Pháp Thực Dụng,Thiên Kiếp
+Item_XianBone	Cốt Đầu,Đạo Hành,Vô Ngũ Duy
+Item_ZaoHuaYuZi	Thanh Sắc,Vô Ngũ Duy,Tinh Hoa
+Item_Dan_LingYuanZhong	Thanh Sắc,Linh Vật,Vô Ngũ Duy
+Item_Dan_ReBorn_4	Cầu Hình,Hồng Sắc,Diên Thọ
+Item_BenYuan_None	Vô Ngũ Duy,Đạo Hành,Tinh Hoa
+Item_BenYuan_Jin	Kim Sắc,Đạo Hành,Tinh Hoa
+Item_BenYuan_Mu	Lục Sắc,Đạo Hành,Tinh Hoa
+Item_BenYuan_Shui	Lam Sắc,Đạo Hành,Tinh Hoa
+Item_BenYuan_Huo	Hồng Sắc,Đạo Hành,Tinh Hoa
+Item_BenYuan_Tu	Hạt Sắc,Đạo Hành,Tinh Hoa
+Item_Yao_RabbitLuck	Thủy,Mao Nhung Nhung
+Item_Yao_WolfAtk	Kim,Kiên Ngạnh
+Item_Yao_SnakeHanLin	Thủy,Kiên Ngạnh
+Item_Yao_BearPiMao	Hỏa,Mao Nhung Nhung
+Item_Yao_TurtleKe	Kiên Ngạnh,Thổ
+Item_BoarMeat	Thổ,Tông Sắc,Thực Vật
+Item_StrangeMush	Mộc,Tông Sắc,Thực Vật
+Item_MillVell	Mộc,Mao Nhung Nhung
+Item_SewingDefender	Mộc,Kiên Ngạnh
+Item_PerfumeBag	Mộc,Tâm Cảnh
+Item_StoneCutter	Kim,Tốc Độ
+Item_Handkerchief	Mao Nhung Nhung,Vô Ngũ Duy
+Item_Bracelet	Kiên Ngạnh,Vô Ngũ Duy
+Item_SmallBell	Kiên Ngạnh,Vô Ngũ Duy
+Item_SysAxe	Kiên Ngạnh,Vô Ngũ Duy
+Item_SysPickaxe	Kiên Ngạnh,Vô Ngũ Duy
+Item_SysSickle	Kiên Ngạnh,Vô Ngũ Duy
+[ANIMAL]	Hạp Tử,Phương Hình
+Item_BossFeng_TouYu	Hỏa,Mao Nhung Nhung,Hung Thú
+Item_BossFeng_WeiYu	Mao Nhung Nhung,Hung Thú,Linh Vật
+Item_BossFeng_HongYu	Tham Ngộ,Hung Thú,Hồng Sắc
+Item_BossLong_Jiao	Hung Thú,Kiên Ngạnh,Ngự Kiếm
+Item_BossLong_NiLin	Tham Ngộ,Thủy,Hung Thú
+Item_BossLong_Jing	Kiên Ngạnh,Linh Vật,Hung Thú
+Item_BossZhuLong_Eye	Hung Thú,Cầu Hình
+Item_BossZhuLong_LongYu	Hỗn Độn,Kháng Tính,Hung Thú
+Item_BossZhuLong_TianLin	Hộ Thể,Hung Thú
+Item_Dan_FenShen1	Bàn Cổ,Hồng Sắc,Phân Thần
+Item_Dan_FenShen2	Tạo Hóa,Hồng Sắc,Phân Thần
+Item_Dan_FenShen3	Tâm Cảnh,Hồng Sắc,Phân Thần
+Item_Yao_CatSoul	Cầu Hình,Lam Sắc,Phân Thần
+Item_WhiteHair	Thư,Lam Sắc,Bạch Sắc
+Item_BossFeng_HuoYu	Linh Vật,Hồng Sắc,Hung Thú
+Item_BossFeng_GangYu	Hỏa,Hung Thú
+Item_BossFeng_Gu	Cốt Đầu,Kiên Ngạnh,Hung Thú
+Item_DragonScale	Lam Sắc,Linh Vật,Hung Thú
+Item_BossLong_Zhua	Tiêm Nhuệ Vật,Hung Thú
+Item_BossLong_Lin	Lam Sắc,Phòng Ngự,Hung Thú
+Item_BossZhuLong_BaiLin	Bạch Sắc,Hung Thú
+Item_BossZhuLong_HeiLin	Hắc Sắc,Hung Thú
+Item_BossFeng_Meat	Thực Vật,Hung Thú,Hồng Sắc
+Item_BossLong_Meat	Thực Vật,Tạp Sắc,Hung Thú
+Item_BossZhuLong_Meat	Đạo Hành,Thực Vật,Hung Thú
+Item_Dan_Restore	Liệu Thương,Hoàng Sắc,Phấn Mạt
+Item_Dan_SwordBall	Cầu Hình,Lam Sắc
+Item_Dan_Ling3	Phấn Mạt,Hoàng Sắc
+Item_Dan_Thin	Khỏa Lạp,Lam Sắc,Dung Mạo
+Item_Dan_FaceLock	Khỏa Lạp,Hồng Sắc,Dung Mạo
+Item_Dan_FaceUnLock	Khỏa Lạp,Thổ,Dung Mạo
+Item_Dan_Soul1	Khỏa Lạp,Tham Ngộ,Thọ Nguyên
+Item_Dan_Soul2	Khỏa Lạp,Hỏa,Tham Ngộ
+Item_Dan_Soul3	Khỏa Lạp,Thổ,Tham Ngộ
+Item_Dan_Soul4	Khỏa Lạp,Ngộ Tính,Tham Ngộ
+Item_QiZhi	Khai Trí,Bình Trang,Thủy
+Item_Fall_LingZhi	Khai Trí,Bình Trang,Kim
+Item_Winter_LingZhi	Khai Trí,Bình Trang,Đông
+Item_Spring_LingZhi	Khai Trí,Bình Trang,Mộc
+Item_Summer_LingZhi	Khai Trí,Bình Trang,Hỏa
+Item_Earth_LingZhi	Khai Trí,Bình Trang,Thổ
+Item_SoulCrystalYou	Phách,Vô Ngũ Duy,Thống Khổ
+Item_SoulCrystalNing	Phách,Vô Ngũ Duy,Ninh Tĩnh
+Item_SoulCrystalLing	Phách,Vô Ngũ Duy,Hạnh Phúc
+Item_GodPractice_MiJuan	Thư,Vô Ngũ Duy
+Item_PurpleGanodermaLucidum	Tử Sắc,Linh Vật,Thực Vật
+Item_HorseFromFei	Mao Nhung Nhung,Vô Ngũ Duy,Thủy
+Item_HorseFromLuShu	Mao Nhung Nhung,Vô Ngũ Duy,Hỏa
+Item_WuDang_HuangJingFen	Phấn Mạt,Bạch Sắc,Mộc
+Item_Dan_WuQiNoHunger2	Cầu Hình,Thực Vật,Mộc
+Item_Dan_SanHuaHuangJing	Mộc,Linh Khí,Hoàng Sắc
