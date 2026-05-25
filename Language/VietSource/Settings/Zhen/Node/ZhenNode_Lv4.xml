@@ -1,0 +1,25 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="ZhenMainNode_Lv4_2_1">
+      <DisplayName>Hồng Mông</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_1">
+      <DisplayName>Thiên Địa Khai Tịch</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_2">
+      <DisplayName>Thì Không Diễn Sinh</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_3">
+      <DisplayName>Vạn Linh Sinh Phát</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_4">
+      <DisplayName>Thiên Địa Quy Tịch</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_5">
+      <DisplayName>Thì Không Tận Suy</DisplayName>
+    </Text>
+    <Text Name="ZhenNode_Lv4_5_6">
+      <DisplayName>Vạn Vật Vẫn Diệt</DisplayName>
+    </Text>
+  </List>
+</Texts>
