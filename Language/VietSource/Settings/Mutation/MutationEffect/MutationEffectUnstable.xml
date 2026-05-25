@@ -1,0 +1,635 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger">
+			<Desc>Thu hút Hươu Lộc Thục</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger2">
+			<Desc>Thu hút Phỉ Thúy</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger3">
+			<Desc>Thu hút bầy tiểu yêu quái lạ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger4">
+			<Desc>Pháp bảo xuất thế</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger5">
+			<Desc>Kho báu xuất hiện</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua">
+			<Desc>Lập tức thu hút Thủy Long</Desc>
+			<SpecialDesc>Thủy Long đột nhiên xuất hiện tại [SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua2">
+			<Desc>Lập tức thu hút Hỏa Phượng</Desc>
+			<SpecialDesc>Hỏa Phượng hung hãn đột nhiên xuất hiện tại [SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Lua3">
+			<Desc>Lập tức thu hút Chúc Long</Desc>
+			<SpecialDesc>Thiên Long đột nhiên xuất hiện tại [SCHOOL]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_DaNengChuShi">
+			<Desc>Kích hoạt ngay lập tức ba tin đồn về đại năng cổ đại</Desc>
+			<SpecialDesc>[SCHOOL] đã phát hiện tin đồn về người tu hành cổ đại...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather">
+			<Desc>Tạo ra bầu không khí lãng mạn trong môn phái</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+			<DisplayName>Triệu hồi thời tiết</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather2">
+			<Desc>Triệu hồi thời tiết: Mùa mưa</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather3">
+			<Desc>Triệu hồi thời tiết: Mùa hạn</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather4">
+			<Desc>Triệu hồi thời tiết: Bão mưa</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather5">
+			<Desc>Triệu hồi thời tiết: Gió nóng</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather6">
+			<Desc>Triệu hồi thời tiết: Bão cát</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather7">
+			<Desc>Triệu hồi thời tiết: Đêm vĩnh hằng</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather8">
+			<Desc>Triệu hồi thời tiết: Màn sương độc</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_BeginWeather9">
+			<Desc>Triệu hồi thời tiết: Bão sấm sét</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger19">
+			<Desc>Thu hút người qua đường</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger20">
+			<Desc>Thu hút tiên hữu</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger21">
+			<Desc>Thu hút vong hồn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger22">
+			<Desc>Thu hút yêu thú mới sinh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger23">
+			<Desc>Bị yêu thú xâm lăng</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_EventTrigger24">
+			<Desc>Đối mặt kẻ xâm nhập bí ẩn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured">
+			<Desc>Một sinh vật ngẫu nhiên trên bản đồ bị thương nhẹ</Desc>
+			<SpecialDesc>[TARGET] cảm thấy hơi khó chịu!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured2">
+			<Desc>Một sinh vật ngẫu nhiên trên bản đồ bị thương nặng</Desc>
+			<SpecialDesc>[TARGET] đột nhiên lâm bệnh nặng!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomEnemyDies">
+			<Desc>Kẻ địch ngẫu nhiên trên bản đồ tử vong</Desc>
+			<SpecialDesc>[TARGET] đột nhiên ngã gục không dậy nổi!</SpecialDesc>
+			<Effects.0.sParam1>Hỗn loạn thiên cơ</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce">
+			<Desc>Kích hoạt sự kiện bí mật ngay lập tức</Desc>
+			<SpecialDesc>[SCHOOL] nghe được tin đồn: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce1">
+			<Desc>Kích hoạt sự kiện bí mật ngay lập tức</Desc>
+			<SpecialDesc>[SCHOOL] nghe được tin đồn: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce2">
+			<Desc>Kích hoạt sự kiện bí mật ngay lập tức</Desc>
+			<SpecialDesc>[SCHOOL] nghe được tin đồn: [TARGET]</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation">
+			<Desc>Một môn phái cảm thấy tán thưởng môn phái chúng ta hơn</Desc>
+			<SpecialDesc>[TARGET] có chút tán thưởng [SCHOOL], hảo cảm tăng lên!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation2">
+			<Desc>Một chính đạo môn phái trở nên thân thiết hơn với chúng ta</Desc>
+			<SpecialDesc>[TARGET] giao hảo tốt hơn với [SCHOOL], hảo cảm tăng mạnh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation3">
+			<Desc>Một tà đạo môn phái trở nên thân thiết hơn với chúng ta</Desc>
+			<SpecialDesc>[TARGET] giao hảo tốt hơn với [SCHOOL], hảo cảm tăng mạnh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation4">
+			<Desc>Chính đạo môn phái khắp thiên hạ kính trọng môn phái chúng ta hơn</Desc>
+			<SpecialDesc>[TARGET] đồng loạt bày tỏ sự kính trọng đối với [SCHOOL], hảo cảm tăng mạnh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation5">
+			<Desc>Tà đạo môn phái khắp thiên hạ kính trọng môn phái chúng ta hơn</Desc>
+			<SpecialDesc>[TARGET] đồng loạt bày tỏ sự kính trọng đối với [SCHOOL], hảo cảm tăng mạnh!</SpecialDesc>
+			<DisplayName>Môn phái hảo cảm</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing">
+			<Desc>Nhận ngẫu nhiên khoáng thạch</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing2">
+			<Desc>Nhận ngẫu nhiên lương thực</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing3">
+			<Desc>Nhận ngẫu nhiên vật liệu xây dựng</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing4">
+			<Desc>Nhận ngẫu nhiên đan dược</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing5">
+			<Desc>Nhận ngẫu nhiên linh căn ngũ hành</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing6">
+			<Desc>Nhận ngẫu nhiên thiên tài địa bảo</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing7">
+			<Desc>Nhận ngẫu nhiên số lượng lớn linh thạch</Desc>
+			<SpecialDesc>[SCHOOL] nhận được số lượng lớn linh thạch!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing8">
+			<Desc>Nhận ngẫu nhiên số lượng lớn linh tinh</Desc>
+			<SpecialDesc>[SCHOOL] nhận được số lượng lớn oán niệm linh tinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetItemThing9">
+			<Desc>Nhận ngẫu nhiên vật phẩm quý giá</Desc>
+			<SpecialDesc>[SCHOOL] nhận được [TARGET]!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore">
+			<Desc>Nhận một ít danh tiếng môn phái</Desc>
+			<SpecialDesc>[SCHOOL] nhận được một ít danh tiếng!</SpecialDesc>
+			<DisplayName>Danh tiếng môn phái</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore2">
+			<Desc>Làm danh tiếng môn phái vang xa khắp nơi</Desc>
+			<SpecialDesc>Danh tiếng [SCHOOL] lan rộng, nhận được lượng lớn danh tiếng!</SpecialDesc>
+			<DisplayName>Danh tiếng môn phái</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetSchoolScore3">
+			<Desc>Làm danh tiếng môn phái chấn động vũ trụ</Desc>
+			<SpecialDesc>Danh tiếng [SCHOOL] vang dội khắp vũ trụ, nhận được lượng lớn danh tiếng!</SpecialDesc>
+			<DisplayName>Danh tiếng môn phái</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_SexTransformation">
+			<Desc>Chuyển đổi giới tính</Desc>
+			<SpecialDesc>[NPC] xảy ra một sự biến hóa thần bí...</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_HealthRecoverAtOnce">
+			<Desc>Lập tức chữa lành mọi thương tổn</Desc>
+			<SpecialDesc>[NPC] cảm thấy thoải mái chưa từng có, như thể mọi vết thương và đau đớn đều bị gột rửa</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_RandomDrugToleranceCleared">
+			<Desc>Xóa bỏ kháng thuốc của một loại dược phẩm ngẫu nhiên</Desc>
+			<SpecialDesc>[NPC] cảm thấy cơ thể thay đổi, sự kháng thuốc đối với một số loại thuốc đã biến mất</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_UnlockFabaoSlot">
+			<Desc>Mở khóa thêm một ô trang bị bùa chú</Desc>
+			<SpecialDesc>[NPC] có thể khống chế nhiều pháp bảo hơn</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_1">
+			<Desc>Tăng nhẹ tốc độ hồi phục linh khí</Desc>
+			<SpecialDesc>Tốc độ hồi phục linh khí của [NPC] tăng nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_2">
+			<Desc>Tăng tốc độ hồi phục linh khí bản thân</Desc>
+			<SpecialDesc>Tốc độ hồi phục linh khí của [NPC] tăng vừa phải</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_3">
+			<Desc>Tăng mạnh tốc độ hồi phục linh khí</Desc>
+			<SpecialDesc>Tốc độ hồi phục linh khí của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue">
+			<Desc>Nhận một ít điểm筑基 (Trúc Cơ)</Desc>
+			<SpecialDesc>Điểm Trúc Cơ của [NPC] tăng nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue2">
+			<Desc>Nhận lượng lớn điểm căn cơ</Desc>
+			<SpecialDesc>Điểm Trúc Cơ của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetStageValue">
+			<Desc>Tu vi bản thân tăng nhẹ</Desc>
+			<SpecialDesc>Tu vi của [NPC] tăng lên, nhận được một sự tăng trưởng nhất định</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_GetStageValue2">
+			<Desc>Tu vi bản thân tăng mạnh</Desc>
+			<SpecialDesc>Tu vi của [NPC] đột ngột tăng vọt</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_4">
+			<Desc>Tăng linh khí tối đa bản thân</Desc>
+			<SpecialDesc>Linh khí tối đa của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_5">
+			<Desc>Tăng linh khí căn bản tối đa bản thân</Desc>
+			<SpecialDesc>Linh khí căn bản tối đa của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_6">
+			<Desc>Tăng tốc độ tu luyện bản thân</Desc>
+			<SpecialDesc>Tốc độ luyện khí của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_7">
+			<Desc>Giảm khả năng bị đói của bản thân</Desc>
+			<SpecialDesc>[NPC] tăng khả năng chống chịu cơn đói</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_8">
+			<Desc>Giảm khả năng bị mệt mỏi của bản thân</Desc>
+			<SpecialDesc>[NPC] tăng khả năng chống chịu sự mệt mỏi</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_9">
+			<Desc>Giảm khả năng bị khát nước của bản thân</Desc>
+			<SpecialDesc>[NPC] tăng khả năng chống chịu cơn khát</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_10">
+			<Desc>Tăng sức mạnh hộ thể cương khí bản thân</Desc>
+			<SpecialDesc>Hộ thể cương khí của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_11">
+			<Desc>Tăng tỉ lệ đột phá cảnh giới bản thân</Desc>
+			<SpecialDesc>[NPC] có cơ hội cao hơn để đột phá cảnh giới</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_12">
+			<Desc>Trì hoãn thời gian Thiên Kiếp giáng xuống</Desc>
+			<SpecialDesc>[NPC] che giấu thiên cơ, khiến Thiên Kiếp bị trì hoãn</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_13">
+			<Desc>Giảm Đạo Chủng bản thân</Desc>
+			<SpecialDesc>Đạo Chủng của [NPC] giảm nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_14">
+			<Desc>Giảm mạnh Đạo Chủng bản thân</Desc>
+			<SpecialDesc>Đạo Chủng của [NPC] giảm mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_15">
+			<Desc>Tăng Đạo Chủng bản thân</Desc>
+			<SpecialDesc>Đạo Chủng của [NPC] tăng nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_16">
+			<Desc>Tăng mạnh Đạo Chủng bản thân</Desc>
+			<SpecialDesc>Đạo Chủng của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_17">
+			<Desc>Cải thiện nhẹ hiệu suất vận chuyển linh khí bản thân</Desc>
+			<SpecialDesc>Khả năng vận chuyển linh khí của [NPC] cải thiện nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_18">
+			<Desc>Tăng mạnh hiệu suất vận chuyển linh khí bản thân</Desc>
+			<SpecialDesc>Khả năng vận chuyển linh khí của [NPC] cải thiện rõ rệt</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_19">
+			<Desc>Cường hóa sức chống chịu vật lý tự nhiên của cơ thể</Desc>
+			<SpecialDesc>Kháng vật lý tự nhiên của [NPC] trở nên mạnh mẽ hơn</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_20">
+			<Desc>Tăng phạm vi cảm nhận bản thân</Desc>
+			<SpecialDesc>Phạm vi cảm nhận của [NPC] được mở rộng</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_21">
+			<Desc>Tăng mạnh giới hạn tuổi thọ bản thân</Desc>
+			<SpecialDesc>Giới hạn tuổi thọ của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_22">
+			<Desc>Tăng mạnh tốc độ di chuyển bản thân</Desc>
+			<SpecialDesc>Tốc độ di chuyển của [NPC] nhanh hơn đáng kể</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_23">
+			<Desc>Tăng nhẹ tốc độ Trúc Cơ bản thân</Desc>
+			<SpecialDesc>Tốc độ tu luyện căn cơ của [NPC] tăng nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_24">
+			<Desc>Tăng tốc độ tu luyện Trúc Cơ bản thân</Desc>
+			<SpecialDesc>Tốc độ tu luyện căn cơ của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_25">
+			<Desc>Tăng mạnh tốc độ tu luyện Trúc Cơ bản thân</Desc>
+			<SpecialDesc>Tốc độ tu luyện căn cơ của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_26">
+			<Desc>Tăng nhẹ tốc độ học hỏi bản thân</Desc>
+			<SpecialDesc>Tốc độ học hỏi của [NPC] tăng nhẹ</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_27">
+			<Desc>Tăng tốc độ học hỏi bản thân</Desc>
+			<SpecialDesc>Tốc độ học hỏi của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_28">
+			<Desc>Tăng mạnh tốc độ học hỏi bản thân</Desc>
+			<SpecialDesc>Tốc độ học hỏi của [NPC] tăng mạnh</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_29">
+			<Desc>Tăng tỉ lệ ngộ đạo bản thân</Desc>
+			<SpecialDesc>[NPC] có cơ hội nhận được sự giác ngộ cao hơn</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_30">
+			<Desc>Tăng hiệu suất làm việc tổng thể bản thân</Desc>
+			<SpecialDesc>Khả năng làm việc tổng thể của [NPC] được cải thiện rõ rệt</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_31">
+			<Desc>Tăng điểm tâm trạng cơ bản</Desc>
+			<SpecialDesc>Trạng thái tâm trí cơ bản của [NPC] tốt hơn</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_32">
+			<Desc>Tăng khả năng gánh chịu trận pháp bản thân</Desc>
+			<SpecialDesc>Khả năng sử dụng trận pháp của [NPC] tăng lên</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_40">
+			<Desc>Tăng cấp kỹ năng chiến đấu bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng chiến đấu +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_41">
+			<Desc>Tăng cấp kỹ năng chiến đấu bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng chiến đấu +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_42">
+			<Desc>Tăng giới hạn cấp kỹ năng chiến đấu bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng chiến đấu +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_43">
+			<Desc>Tăng cấp kỹ năng giao tiếp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng xã giao +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_44">
+			<Desc>Tăng cấp kỹ năng giao tiếp bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng xã giao +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_45">
+			<Desc>Tăng giới hạn cấp kỹ năng giao tiếp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng xã giao +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_46">
+			<Desc>Tăng cấp kỹ năng thủ công bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng thủ công +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_47">
+			<Desc>Tăng cấp kỹ năng thủ công bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng thủ công +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_48">
+			<Desc>Tăng giới hạn cấp kỹ năng thủ công bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng thủ công +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_49">
+			<Desc>Tăng cấp kỹ năng cảm nhận linh khí bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng cảm nhận linh khí +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_50">
+			<Desc>Tăng cấp kỹ năng cảm nhận linh khí bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng cảm nhận linh khí +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_51">
+			<Desc>Tăng giới hạn cấp kỹ năng cảm nhận linh khí bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng cảm nhận linh khí +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_52">
+			<Desc>Tăng cấp kỹ năng luyện khí bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng luyện khí +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_53">
+			<Desc>Tăng cấp kỹ năng luyện khí bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng luyện khí +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_54">
+			<Desc>Tăng giới hạn cấp kỹ năng luyện khí bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng luyện khí +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_55">
+			<Desc>Tăng cấp kỹ năng luyện đan bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng y thuật/luyện đan +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_56">
+			<Desc>Tăng cấp kỹ năng luyện đan bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng y thuật/luyện đan +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_57">
+			<Desc>Tăng giới hạn cấp kỹ năng luyện đan bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng y thuật/luyện đan +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_58">
+			<Desc>Tăng cấp kỹ năng pháp bảo bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng pháp bảo +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_59">
+			<Desc>Tăng cấp kỹ năng pháp bảo bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng pháp bảo +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_60">
+			<Desc>Tăng giới hạn cấp kỹ năng pháp bảo bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng pháp bảo +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_61">
+			<Desc>Tăng cấp kỹ năng thuật pháp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng thuật pháp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_62">
+			<Desc>Tăng cấp kỹ năng thuật pháp bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng thuật pháp +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_63">
+			<Desc>Tăng giới hạn cấp kỹ năng thuật pháp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng thuật pháp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_64">
+			<Desc>Tăng cấp kỹ năng hộ thể bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng phòng ngự +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_65">
+			<Desc>Tăng cấp kỹ năng hộ thể bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng phòng ngự +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_66">
+			<Desc>Tăng giới hạn cấp kỹ năng hộ thể bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng phòng ngự +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_67">
+			<Desc>Tăng cấp kỹ năng trận pháp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng trận pháp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_68">
+			<Desc>Tăng cấp kỹ năng trận pháp bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng trận pháp +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_69">
+			<Desc>Tăng giới hạn cấp kỹ năng trận pháp bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng trận pháp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_70">
+			<Desc>Tăng cấp kỹ năng khai thác mỏ bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng khai thác mỏ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_71">
+			<Desc>Tăng cấp kỹ năng khai thác mỏ bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng khai thác mỏ +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_72">
+			<Desc>Tăng giới hạn cấp kỹ năng khai thác mỏ bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng khai thác mỏ +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_73">
+			<Desc>Tăng cấp kỹ năng canh tác bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng nông nghiệp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_74">
+			<Desc>Tăng cấp kỹ năng canh tác bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng nông nghiệp +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_75">
+			<Desc>Tăng giới hạn cấp kỹ năng canh tác bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng nông nghiệp +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_76">
+			<Desc>Tăng cấp kỹ năng xây dựng bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng xây dựng +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_77">
+			<Desc>Tăng cấp kỹ năng xây dựng bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng xây dựng +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_78">
+			<Desc>Tăng giới hạn cấp kỹ năng xây dựng bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng xây dựng +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_79">
+			<Desc>Tăng cấp kỹ năng nấu ăn bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng nấu ăn +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_80">
+			<Desc>Tăng cấp kỹ năng nấu ăn bản thân +2</Desc>
+			<SpecialDesc>[NPC] tăng cấp kỹ năng nấu ăn +2</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_81">
+			<Desc>Tăng giới hạn cấp kỹ năng nấu ăn bản thân +1</Desc>
+			<SpecialDesc>[NPC] tăng giới hạn cấp kỹ năng nấu ăn +1</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_82">
+			<Desc>Tăng mị lực bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng mị lực bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_83">
+			<Desc>Tăng mị lực bản thân 20%</Desc>
+			<SpecialDesc>[NPC] tăng mị lực bản thân +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_84">
+			<Desc>Tăng mị lực bản thân 30%</Desc>
+			<SpecialDesc>[NPC] tăng mị lực bản thân +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_85">
+			<Desc>Tăng ngộ tính bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng ngộ tính bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_86">
+			<Desc>Tăng ngộ tính bản thân 20%</Desc>
+			<SpecialDesc>[NPC] tăng ngộ tính bản thân +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_87">
+			<Desc>Tăng ngộ tính bản thân 30%</Desc>
+			<SpecialDesc>[NPC] tăng ngộ tính bản thân +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_88">
+			<Desc>Tăng vận may bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng vận may bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_89">
+			<Desc>Tăng vận may bản thân 20%</Desc>
+			<SpecialDesc>[NPC] tăng vận may bản thân +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_90">
+			<Desc>Tăng vận may bản thân 30%</Desc>
+			<SpecialDesc>[NPC] tăng vận may bản thân +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_91">
+			<Desc>Tăng cảm quan bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng cảm quan bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_92">
+			<Desc>Tăng cảm quan bản thân 20%</Desc>
+			<SpecialDesc>[NPC] tăng cảm quan bản thân +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_93">
+			<Desc>Tăng cảm quan bản thân 30%</Desc>
+			<SpecialDesc>[NPC] tăng cảm quan bản thân +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_94">
+			<Desc>Tăng căn cốt bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng căn cốt bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_95">
+			<Desc>Tăng căn cốt bản thân 20%</Desc>
+			<SpecialDesc>[NPC] tăng căn cốt bản thân +20%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_96">
+			<Desc>Tăng căn cốt bản thân 30%</Desc>
+			<SpecialDesc>[NPC] tăng căn cốt bản thân +30%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_97">
+			<Desc>Tăng ngũ duy (năm thuộc tính) bản thân 10%</Desc>
+			<SpecialDesc>[NPC] tăng ngũ duy bản thân +10%</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_98">
+			<Desc>Phát triển năng lực chữa bệnh bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện khả năng chữa trị của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_99">
+			<Desc>Tăng kỹ năng đồ tể (lọc thịt)</Desc>
+			<SpecialDesc>[NPC] cải thiện khả năng lọc thịt của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_100">
+			<Desc>Phát triển năng lực nấu ăn bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực nấu ăn của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_101">
+			<Desc>Phát triển năng lực xây dựng bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực xây dựng của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_102">
+			<Desc>Tăng kỹ năng khai thác mỏ bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực đào mỏ của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_103">
+			<Desc>Phát triển năng lực lao động chân tay bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực làm việc tạp vụ của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_104">
+			<Desc>Tăng khả năng chịu đựng nhiệt độ cực cao</Desc>
+			<SpecialDesc>[NPC] tăng kháng nhiệt của bản thân</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_105">
+			<Desc>Tăng khả năng chịu đựng nhiệt độ cực thấp</Desc>
+			<SpecialDesc>[NPC] tăng kháng lạnh của bản thân</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_106">
+			<Desc>Tăng cường năng lực luyện đan tổng thể</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực về dược thảo/đan dược của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_108">
+			<Desc>Tăng cường năng lực luyện khí tổng thể</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực chế tạo pháp bảo của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_110">
+			<Desc>Tăng kỹ năng thủ công bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực làm đồ thủ công của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_111">
+			<Desc>Phát triển năng lực canh tác bản thân</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực nông nghiệp của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_112">
+			<Desc>Tăng cường năng lực phiêu lưu tổng thể</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực thám hiểm của chính mình</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Unstable_Modifier_113">
+			<Desc>Tăng cường năng lực luyện thể tổng thể</Desc>
+			<SpecialDesc>[NPC] cải thiện năng lực đúc nặn nhục thân của chính mình</SpecialDesc>
+		</Text>
+	</List>
+</Texts>
